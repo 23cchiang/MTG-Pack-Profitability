@@ -1,8 +1,0 @@
-set,set_name,card_printings,unique_names,missing_nonfoil_price,missing_foil_price,average_nonfoil_price,median_nonfoil_price
-DFT,Aetherdrift,291,276,0,0,0.6627147766323024,0.23
-ECL,Lorwyn Eclipsed,401,278,21,1,1.374157894736842,0.28
-EOE,Edge of Eternities,276,266,0,0,1.3594565217391306,0.22
-FIN,Final Fantasy,310,300,1,1,1.3227508090614888,0.24
-SPM,Marvel's Spider-Man,198,193,0,0,1.0699999999999998,0.24
-TDM,Tarkir: Dragonstorm,271,271,0,0,1.0848339483394833,0.22
-TLA,Avatar: The Last Airbender,358,286,0,0,2.120530726256983,0.26
