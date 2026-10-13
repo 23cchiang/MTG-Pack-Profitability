@@ -1,0 +1,454 @@
+set,set_name,collector_number,name,rarity,booster,promo_types,frame_effects,border_color,released_at,type_line,finishes,variation,usd,usd_foil,usd_etched,price_collected_date
+MSH,Marvel Super Heroes,1,"Agent 13, Sharon Carter",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,0.10,0.21,,2026-10-12
+MSH,Marvel Super Heroes,2,Agent Maria Hill,uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,0.11,0.28,,2026-10-12
+MSH,Marvel Super Heroes,3,Agent of Atlas,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Spy Hero,"['nonfoil', 'foil']",False,0.10,0.24,,2026-10-12
+MSH,Marvel Super Heroes,4,Agent Phil Coulson,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,0.37,0.38,,2026-10-12
+MSH,Marvel Super Heroes,5,Agents of S.H.I.E.L.D.,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Spy Hero,"['nonfoil', 'foil']",False,0.09,0.17,,2026-10-12
+MSH,Marvel Super Heroes,6,Avengers Assemble!,mythic,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,2.70,2.27,,2026-10-12
+MSH,Marvel Super Heroes,7,Borough Backup,common,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.18,0.21,,2026-10-12
+MSH,Marvel Super Heroes,8,Brave Brawler,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,0.09,0.18,,2026-10-12
+MSH,Marvel Super Heroes,9,"Captain America, Super-Soldier",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Soldier Hero,"['nonfoil', 'foil']",False,2.07,4.11,,2026-10-12
+MSH,Marvel Super Heroes,10,"Captain America, Wings of Freedom",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Soldier Hero,"['nonfoil', 'foil']",False,0.39,0.47,,2026-10-12
+MSH,Marvel Super Heroes,11,"Captain Marvel, Earth's Protector",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Kree Hero,"['nonfoil', 'foil']",False,1.01,1.68,,2026-10-12
+MSH,Marvel Super Heroes,12,"Captain Mar-Vell, Space-Born",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Kree Soldier Hero,"['nonfoil', 'foil']",False,0.15,0.28,,2026-10-12
+MSH,Marvel Super Heroes,13,"Colleen Wing, Street Samurai",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Samurai Hero,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+MSH,Marvel Super Heroes,14,Crowd of True Believers,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Citizen,"['nonfoil', 'foil']",False,0.10,0.18,,2026-10-12
+MSH,Marvel Super Heroes,15,Helicarrier Strike,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.10,0.14,,2026-10-12
+MSH,Marvel Super Heroes,16,Hero in Training,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Hero,"['nonfoil', 'foil']",False,0.12,0.16,,2026-10-12
+MSH,Marvel Super Heroes,17,"Invisible Woman, Sue Storm",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.35,0.29,,2026-10-12
+MSH,Marvel Super Heroes,18,Jennifer Walters // The Sensational She-Hulk,mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Advisor Hero // Legendary Creature — Gamma Hero,"['nonfoil', 'foil']",False,5.77,8.80,,2026-10-12
+MSH,Marvel Super Heroes,19,Kree Commandos,common,False,['universesbeyond'],,black,2026-06-26,Creature — Kree Soldier Villain,"['nonfoil', 'foil']",False,0.08,0.15,,2026-10-12
+MSH,Marvel Super Heroes,20,"Luke Cage, Power Man",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.15,0.20,,2026-10-12
+MSH,Marvel Super Heroes,21,The Mind Stone,mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact — Infinity Stone,"['nonfoil', 'foil']",False,42.77,84.92,,2026-10-12
+MSH,Marvel Super Heroes,22,"Mockingbird, Ace Agent",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,0.15,0.25,,2026-10-12
+MSH,Marvel Super Heroes,23,"Monica Rambeau // Photon, Living Light",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero // Legendary Creature — Elemental Hero,"['nonfoil', 'foil']",False,1.35,2.23,,2026-10-12
+MSH,Marvel Super Heroes,24,Murdock's Crusade,common,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.16,0.25,,2026-10-12
+MSH,Marvel Super Heroes,25,"Nick Fury, Agent of S.H.I.E.L.D.",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,0.30,0.42,,2026-10-12
+MSH,Marvel Super Heroes,26,"Night Nurse, Healer of Heroes",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Doctor Hero,"['nonfoil', 'foil']",False,0.24,0.33,,2026-10-12
+MSH,Marvel Super Heroes,27,"Okoye, Dora Milaje Leader",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,0.22,0.24,,2026-10-12
+MSH,Marvel Super Heroes,28,Origin of the Avengers,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,0.58,0.34,,2026-10-12
+MSH,Marvel Super Heroes,29,Panther Pounce,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.12,0.18,,2026-10-12
+MSH,Marvel Super Heroes,30,"Patriot, Shield Wielder",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.16,0.25,,2026-10-12
+MSH,Marvel Super Heroes,31,Political Triumph,uncommon,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Plan,"['nonfoil', 'foil']",False,0.27,0.42,,2026-10-12
+MSH,Marvel Super Heroes,32,"Quake, Agent of S.H.I.E.L.D.",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Inhuman Spy Hero,"['nonfoil', 'foil']",False,0.16,0.24,,2026-10-12
+MSH,Marvel Super Heroes,33,Raft Security Officer,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.07,0.14,,2026-10-12
+MSH,Marvel Super Heroes,34,"Red Guardian, Super-Soldier",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Soldier Villain,"['nonfoil', 'foil']",False,0.12,0.25,,2026-10-12
+MSH,Marvel Super Heroes,35,"The Sentry, Golden Guardian",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.40,0.60,,2026-10-12
+MSH,Marvel Super Heroes,36,S.H.I.E.L.D. Spy Kit,common,False,['universesbeyond'],,black,2026-06-26,Artifact — Equipment,"['nonfoil', 'foil']",False,0.09,0.27,,2026-10-12
+MSH,Marvel Super Heroes,37,Super Villain Lockup,uncommon,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,0.18,0.23,,2026-10-12
+MSH,Marvel Super Heroes,38,Super-Soldier Serum,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Aura,"['nonfoil', 'foil']",False,0.64,1.23,,2026-10-12
+MSH,Marvel Super Heroes,39,Take Up the Shield,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.21,0.22,,2026-10-12
+MSH,Marvel Super Heroes,40,Wakandan Drone Flock,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.08,0.20,,2026-10-12
+MSH,Marvel Super Heroes,41,Web Up,common,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,0.12,0.15,,2026-10-12
+MSH,Marvel Super Heroes,42,"White Widow, Free Agent",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero Villain,"['nonfoil', 'foil']",False,0.18,0.28,,2026-10-12
+MSH,Marvel Super Heroes,43,Aerial Doombot,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Robot Villain,"['nonfoil', 'foil']",False,0.16,0.26,,2026-10-12
+MSH,Marvel Super Heroes,44,A.I.M. Scientists,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Scientist Villain,"['nonfoil', 'foil']",False,0.12,0.21,,2026-10-12
+MSH,Marvel Super Heroes,45,Atlantean Cavalry,common,False,['universesbeyond'],,black,2026-06-26,Creature — Merfolk Soldier,"['nonfoil', 'foil']",False,0.12,0.21,,2026-10-12
+MSH,Marvel Super Heroes,46,Atlantis Attacks,common,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.14,0.17,,2026-10-12
+MSH,Marvel Super Heroes,47,"Attuma, Atlantean Warlord",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Merfolk Warrior Villain,"['nonfoil', 'foil']",False,0.26,0.63,,2026-10-12
+MSH,Marvel Super Heroes,48,Bold Biochemist,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Scientist,"['nonfoil', 'foil']",False,0.08,0.13,,2026-10-12
+MSH,Marvel Super Heroes,49,Bruce Banner // The Incredible Hulk,mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Scientist Hero // Legendary Creature — Gamma Berserker Hero,"['nonfoil', 'foil']",False,2.79,6.36,,2026-10-12
+MSH,Marvel Super Heroes,50,Depower,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.13,0.18,,2026-10-12
+MSH,Marvel Super Heroes,51,"Echo, Perceptive Prodigy",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.16,0.27,,2026-10-12
+MSH,Marvel Super Heroes,52,"Falcon, Winged Wonder",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.10,0.19,,2026-10-12
+MSH,Marvel Super Heroes,53,Falcon's Wing Harness,uncommon,False,['universesbeyond'],,black,2026-06-26,Artifact — Equipment,"['nonfoil', 'foil']",False,0.18,0.23,,2026-10-12
+MSH,Marvel Super Heroes,54,Frozen in Ice,common,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Aura,"['nonfoil', 'foil']",False,0.16,0.24,,2026-10-12
+MSH,Marvel Super Heroes,55,Futurist Forge,common,False,['universesbeyond'],,black,2026-06-26,Artifact,"['nonfoil', 'foil']",False,0.13,0.20,,2026-10-12
+MSH,Marvel Super Heroes,56,Giant-Sized Flying Ant,common,False,['universesbeyond'],,black,2026-06-26,Creature — Insect,"['nonfoil', 'foil']",False,0.11,0.22,,2026-10-12
+MSH,Marvel Super Heroes,57,Hydraulic Helper,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.10,0.19,,2026-10-12
+MSH,Marvel Super Heroes,58,I Am Iron Man,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.14,0.21,,2026-10-12
+MSH,Marvel Super Heroes,59,"Iron Lad, Diverging Destiny",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Human Hero,"['nonfoil', 'foil']",False,0.19,0.34,,2026-10-12
+MSH,Marvel Super Heroes,60,"Ironheart, Clever Champion",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Human Hero,"['nonfoil', 'foil']",False,0.34,0.55,,2026-10-12
+MSH,Marvel Super Heroes,61,"Justice, Vance Astrovik",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Hero,"['nonfoil', 'foil']",False,0.14,0.30,,2026-10-12
+MSH,Marvel Super Heroes,62,Kang the Conqueror,mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.36,0.89,,2026-10-12
+MSH,Marvel Super Heroes,63,Kid Loki,uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — God Hero Villain,"['nonfoil', 'foil']",False,0.25,0.35,,2026-10-12
+MSH,Marvel Super Heroes,64,"Leader, Super-Genius",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Gamma Scientist Villain,"['nonfoil', 'foil']",False,0.34,0.39,,2026-10-12
+MSH,Marvel Super Heroes,65,"Loki, God of Mischief",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — God Sorcerer Villain,"['nonfoil', 'foil']",False,0.94,2.13,,2026-10-12
+MSH,Marvel Super Heroes,66,"Mister Fantastic, Reed Richards",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Scientist Hero,"['nonfoil', 'foil']",False,0.25,0.37,,2026-10-12
+MSH,Marvel Super Heroes,67,"Ms. Marvel, Kamala Khan",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Inhuman Hero,"['nonfoil', 'foil']",False,0.29,0.41,,2026-10-12
+MSH,Marvel Super Heroes,68,Multiversal Incursion,mythic,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,1.86,3.08,,2026-10-12
+MSH,Marvel Super Heroes,69,Namor the Sub-Mariner,mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Merfolk Villain,"['nonfoil', 'foil']",False,3.06,5.31,,2026-10-12
+MSH,Marvel Super Heroes,70,Pym Particles,uncommon,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.29,0.39,,2026-10-12
+MSH,Marvel Super Heroes,71,Rewrite History,uncommon,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Plan,"['nonfoil', 'foil']",False,0.17,0.22,,2026-10-12
+MSH,Marvel Super Heroes,72,Secret Invasion,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Aura,"['nonfoil', 'foil']",False,0.37,0.32,,2026-10-12
+MSH,Marvel Super Heroes,73,S.H.I.E.L.D. Deployment Drone,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.11,0.18,,2026-10-12
+MSH,Marvel Super Heroes,74,S.H.I.E.L.D. Flying Car,rare,False,['universesbeyond'],,black,2026-06-26,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.24,0.36,,2026-10-12
+MSH,Marvel Super Heroes,75,"Shuri, Wakandan Inventor",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Artificer Hero,"['nonfoil', 'foil']",False,0.33,1.00,,2026-10-12
+MSH,Marvel Super Heroes,76,"Stature, Size Shifter",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.15,0.25,,2026-10-12
+MSH,Marvel Super Heroes,77,Super Intelligence,uncommon,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Aura,"['nonfoil', 'foil']",False,0.27,0.32,,2026-10-12
+MSH,Marvel Super Heroes,78,Super Suit,common,False,['universesbeyond'],,black,2026-06-26,Artifact — Equipment,"['nonfoil', 'foil']",False,0.09,0.18,,2026-10-12
+MSH,Marvel Super Heroes,79,Thirst for Knowledge,uncommon,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.21,0.28,,2026-10-12
+MSH,Marvel Super Heroes,80,Tony Stark // The Invincible Iron Man,mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Artificer Hero // Legendary Artifact Creature — Human Hero,"['nonfoil', 'foil']",False,3.61,6.39,,2026-10-12
+MSH,Marvel Super Heroes,81,Trickster's Stratagem,common,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.16,0.16,,2026-10-12
+MSH,Marvel Super Heroes,82,We Say Thee Nay!,common,False,['universesbeyond'],,black,2026-06-26,Instant — Arcane,"['nonfoil', 'foil']",False,0.22,0.32,,2026-10-12
+MSH,Marvel Super Heroes,83,"Wiccan, Rising Magician",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Warlock Hero,"['nonfoil', 'foil']",False,0.25,0.29,,2026-10-12
+MSH,Marvel Super Heroes,84,The Wondrous Wasp,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.62,2.17,,2026-10-12
+MSH,Marvel Super Heroes,85,Agents of HYDRA,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Spy Villain,"['nonfoil', 'foil']",False,0.13,0.27,,2026-10-12
+MSH,Marvel Super Heroes,86,"Arnim Zola, Bio-Fanatic",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Scientist Villain,"['nonfoil', 'foil']",False,0.15,0.29,,2026-10-12
+MSH,Marvel Super Heroes,87,Baron Helmut Zemo,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Noble Villain,"['nonfoil', 'foil']",False,0.26,0.40,,2026-10-12
+MSH,Marvel Super Heroes,88,"Baron Strucker, HYDRA Overlord",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.21,0.25,,2026-10-12
+MSH,Marvel Super Heroes,89,"Black Widow, Super Spy",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,1.41,2.48,,2026-10-12
+MSH,Marvel Super Heroes,90,Construct a Cosmic Cube,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Plan,"['nonfoil', 'foil']",False,0.22,0.35,,2026-10-12
+MSH,Marvel Super Heroes,91,"Crossbones, Malicious Mercenary",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Mercenary Villain,"['nonfoil', 'foil']",False,0.22,0.34,,2026-10-12
+MSH,Marvel Super Heroes,92,Cruel Alliance,common,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.07,0.18,,2026-10-12
+MSH,Marvel Super Heroes,93,Dark Deed,uncommon,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.21,0.30,,2026-10-12
+MSH,Marvel Super Heroes,94,Decoy Ploy,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.13,0.22,,2026-10-12
+MSH,Marvel Super Heroes,95,Doctor Doom,mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Scientist Villain,"['nonfoil', 'foil']",False,2.20,3.78,,2026-10-12
+MSH,Marvel Super Heroes,96,Doom Reigns Supreme,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Plan,"['nonfoil', 'foil']",False,0.33,0.46,,2026-10-12
+MSH,Marvel Super Heroes,97,"Elektra, Daughter of the Hand",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Ninja Villain,"['nonfoil', 'foil']",False,0.28,0.39,,2026-10-12
+MSH,Marvel Super Heroes,98,"Grim Reaper, Lethal Legionnaire",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.15,0.28,,2026-10-12
+MSH,Marvel Super Heroes,99,Hour of Defeat,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.08,0.22,,2026-10-12
+MSH,Marvel Super Heroes,100,HYDRA Infiltration,common,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,0.07,0.13,,2026-10-12
+MSH,Marvel Super Heroes,101,HYDRA Troopers,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Soldier Villain,"['nonfoil', 'foil']",False,0.12,0.19,,2026-10-12
+MSH,Marvel Super Heroes,102,Kingpin's Enforcers,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Villain,"['nonfoil', 'foil']",False,0.17,0.15,,2026-10-12
+MSH,Marvel Super Heroes,103,"Klaw, Sonic Subjugator",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Rogue Villain,"['nonfoil', 'foil']",False,0.17,0.24,,2026-10-12
+MSH,Marvel Super Heroes,104,Madame Masque,uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.18,0.29,,2026-10-12
+MSH,Marvel Super Heroes,105,The Masters of Evil,uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.20,0.28,,2026-10-12
+MSH,Marvel Super Heroes,106,M.O.D.O.K.,mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Villain,"['nonfoil', 'foil']",False,3.20,5.23,,2026-10-12
+MSH,Marvel Super Heroes,107,"Moonstone, Harsh Mistress",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Doctor Villain,"['nonfoil', 'foil']",False,0.17,0.29,,2026-10-12
+MSH,Marvel Super Heroes,108,Ninja of the Hand,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Ninja Villain,"['nonfoil', 'foil']",False,0.14,0.22,,2026-10-12
+MSH,Marvel Super Heroes,109,Project Deathlok Soldier,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Zombie Soldier,"['nonfoil', 'foil']",False,0.14,0.18,,2026-10-12
+MSH,Marvel Super Heroes,110,Red Room Recruit,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Spy Villain,"['nonfoil', 'foil']",False,0.10,0.20,,2026-10-12
+MSH,Marvel Super Heroes,111,Robot Domination,uncommon,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Plan,"['nonfoil', 'foil']",False,0.14,0.30,,2026-10-12
+MSH,Marvel Super Heroes,112,"Ronin, Shadow Stalker",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Rogue Hero,"['nonfoil', 'foil']",False,0.13,0.24,,2026-10-12
+MSH,Marvel Super Heroes,113,Roxxon Brutes,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Berserker Villain,"['nonfoil', 'foil']",False,0.11,0.17,,2026-10-12
+MSH,Marvel Super Heroes,114,Stolen Stark Tech,common,False,['universesbeyond'],,black,2026-06-26,Artifact — Equipment,"['nonfoil', 'foil']",False,0.13,0.18,,2026-10-12
+MSH,Marvel Super Heroes,115,Super-Skrull,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Skrull Shapeshifter Villain,"['nonfoil', 'foil']",False,0.27,0.39,,2026-10-12
+MSH,Marvel Super Heroes,116,"Swordsman, Sharp Scoundrel",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero Villain,"['nonfoil', 'foil']",False,0.13,0.26,,2026-10-12
+MSH,Marvel Super Heroes,117,Thunderbolts Conspiracy,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,0.19,0.35,,2026-10-12
+MSH,Marvel Super Heroes,118,Too Evil to Stay Dead,uncommon,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.17,0.30,,2026-10-12
+MSH,Marvel Super Heroes,119,Unliving Legionnaire,common,False,['universesbeyond'],,black,2026-06-26,Creature — Vampire Villain,"['nonfoil', 'foil']",False,0.08,0.15,,2026-10-12
+MSH,Marvel Super Heroes,120,Visions of Villainy,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.22,0.27,,2026-10-12
+MSH,Marvel Super Heroes,121,"Whiplash, Vengeful Engineer",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Artificer Villain,"['nonfoil', 'foil']",False,0.16,0.28,,2026-10-12
+MSH,Marvel Super Heroes,122,Widow's Bite,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.09,0.18,,2026-10-12
+MSH,Marvel Super Heroes,123,"Yellowjacket, Heartless Marauder",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Rogue Villain,"['nonfoil', 'foil']",False,0.15,0.27,,2026-10-12
+MSH,Marvel Super Heroes,124,Avengers Disassembled,rare,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.73,1.51,,2026-10-12
+MSH,Marvel Super Heroes,125,Blazing Crescendo,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.24,0.21,,2026-10-12
+MSH,Marvel Super Heroes,126,Crimson Operative,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Human Villain,"['nonfoil', 'foil']",False,0.12,0.16,,2026-10-12
+MSH,Marvel Super Heroes,127,Death to Our Enemies,uncommon,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Plan,"['nonfoil', 'foil']",False,0.23,0.33,,2026-10-12
+MSH,Marvel Super Heroes,128,Evil's Thrall,uncommon,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.11,0.23,,2026-10-12
+MSH,Marvel Super Heroes,129,Fin Fang Foom,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Alien Dragon Villain,"['nonfoil', 'foil']",False,0.25,0.28,,2026-10-12
+MSH,Marvel Super Heroes,130,"Hawkeye, Master Marksman",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Archer Hero,"['nonfoil', 'foil']",False,0.30,0.40,,2026-10-12
+MSH,Marvel Super Heroes,131,"Hawkeye, Young Avenger",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Archer Hero,"['nonfoil', 'foil']",False,0.26,0.41,,2026-10-12
+MSH,Marvel Super Heroes,132,Hawkeye's Bow,common,False,['universesbeyond'],,black,2026-06-26,Artifact — Equipment,"['nonfoil', 'foil']",False,0.18,0.35,,2026-10-12
+MSH,Marvel Super Heroes,133,Hex Magic,uncommon,False,['universesbeyond'],,black,2026-06-26,Sorcery — Arcane,"['nonfoil', 'foil']",False,0.68,1.67,,2026-10-12
+MSH,Marvel Super Heroes,134,Hire a Crew,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.07,0.17,,2026-10-12
+MSH,Marvel Super Heroes,135,HULK SMASH!,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.18,0.21,,2026-10-12
+MSH,Marvel Super Heroes,136,"Human Torch, Johnny Storm",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.22,0.27,,2026-10-12
+MSH,Marvel Super Heroes,137,HYDRA Assault Robot,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Robot Villain,"['nonfoil', 'foil']",False,0.17,0.28,,2026-10-12
+MSH,Marvel Super Heroes,138,"Iron Fist, Living Weapon",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,0.20,0.31,,2026-10-12
+MSH,Marvel Super Heroes,139,"Jessica Jones, Private Eye",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Detective Hero,"['nonfoil', 'foil']",False,0.18,0.28,,2026-10-12
+MSH,Marvel Super Heroes,140,K'un-Lun Warrior,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,0.12,0.18,,2026-10-12
+MSH,Marvel Super Heroes,141,Kree Sentinel,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Kree Robot Villain,"['nonfoil', 'foil']",False,0.10,0.16,,2026-10-12
+MSH,Marvel Super Heroes,142,Lightning Strike,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.20,0.31,,2026-10-12
+MSH,Marvel Super Heroes,143,Loki Laufeyson,uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — God Sorcerer Villain,"['nonfoil', 'foil']",False,0.23,0.32,,2026-10-12
+MSH,Marvel Super Heroes,144,Machinesmith Automaton,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Robot Villain,"['nonfoil', 'foil']",False,0.19,0.24,,2026-10-12
+MSH,Marvel Super Heroes,145,"Misty Knight, Hero for Hire",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Detective Hero,"['nonfoil', 'foil']",False,0.21,0.30,,2026-10-12
+MSH,Marvel Super Heroes,146,"Mjölnir, Hammer of Thor",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,15.99,21.29,,2026-10-12
+MSH,Marvel Super Heroes,147,Photon Blast Barrage,uncommon,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.14,0.31,,2026-10-12
+MSH,Marvel Super Heroes,148,"Quicksilver, Brash Blur",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Hero,"['nonfoil', 'foil']",False,0.27,0.37,,2026-10-12
+MSH,Marvel Super Heroes,149,Red Hulk,uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Gamma Berserker Villain,"['nonfoil', 'foil']",False,0.29,0.31,,2026-10-12
+MSH,Marvel Super Heroes,150,Repulsor Blast,common,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.17,0.17,,2026-10-12
+MSH,Marvel Super Heroes,151,The Scarlet Witch,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Warlock Hero,"['nonfoil', 'foil']",False,0.40,0.90,,2026-10-12
+MSH,Marvel Super Heroes,152,"Speed, Young Avenger",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Hero,"['nonfoil', 'foil']",False,0.14,0.22,,2026-10-12
+MSH,Marvel Super Heroes,153,Stark Industries Executive,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Advisor,"['nonfoil', 'foil']",False,0.17,0.25,,2026-10-12
+MSH,Marvel Super Heroes,154,Super Speed,common,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Aura,"['nonfoil', 'foil']",False,0.12,0.15,,2026-10-12
+MSH,Marvel Super Heroes,155,Team Tactics,uncommon,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.21,0.25,,2026-10-12
+MSH,Marvel Super Heroes,156,"Thor, God of Thunder",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — God Warrior Hero,"['nonfoil', 'foil']",False,6.41,13.04,,2026-10-12
+MSH,Marvel Super Heroes,157,Truck Toss,uncommon,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.11,0.24,,2026-10-12
+MSH,Marvel Super Heroes,158,Vision of Love,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.27,0.38,,2026-10-12
+MSH,Marvel Super Heroes,159,Volcanic Villain,common,False,['universesbeyond'],,black,2026-06-26,Creature — Elemental Villain,"['nonfoil', 'foil']",False,0.08,0.15,,2026-10-12
+MSH,Marvel Super Heroes,160,"Wonder Man, Hollywood Hero",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Performer Hero,"['nonfoil', 'foil']",False,0.14,0.23,,2026-10-12
+MSH,Marvel Super Heroes,161,Ant-Man's Army,common,False,['universesbeyond'],,black,2026-06-26,Creature — Insect,"['nonfoil', 'foil']",False,0.12,0.20,,2026-10-12
+MSH,Marvel Super Heroes,162,Call Damage Control,common,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.22,0.28,,2026-10-12
+MSH,Marvel Super Heroes,163,Claim the Kingdom,uncommon,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Plan,"['nonfoil', 'foil']",False,0.26,0.34,,2026-10-12
+MSH,Marvel Super Heroes,164,"Doc Samson, Super Psychiatrist",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Gamma Doctor Hero,"['nonfoil', 'foil']",False,0.25,0.33,,2026-10-12
+MSH,Marvel Super Heroes,165,Earth's Mightiest Heroes,mythic,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.55,1.33,,2026-10-12
+MSH,Marvel Super Heroes,166,Epic Fight,rare,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.41,0.49,,2026-10-12
+MSH,Marvel Super Heroes,167,Giant Growth,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.20,0.21,,2026-10-12
+MSH,Marvel Super Heroes,168,Go Nuts!,common,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.19,0.28,,2026-10-12
+MSH,Marvel Super Heroes,169,Guerrilla Gorilla,common,False,['universesbeyond'],,black,2026-06-26,Creature — Ape Soldier Hero,"['nonfoil', 'foil']",False,0.23,0.23,,2026-10-12
+MSH,Marvel Super Heroes,170,"Hellcat, Undying Vigilante",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.14,0.20,,2026-10-12
+MSH,Marvel Super Heroes,171,"Hercules, Prince of Power",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Demigod Warrior Hero,"['nonfoil', 'foil']",False,0.15,0.27,,2026-10-12
+MSH,Marvel Super Heroes,172,Heroic Feast,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,0.25,0.43,,2026-10-12
+MSH,Marvel Super Heroes,173,"Hulkling, Burgeoning Bruiser",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Kree Skrull Hero,"['nonfoil', 'foil']",False,0.14,0.36,,2026-10-12
+MSH,Marvel Super Heroes,174,Ka-Zar of the Savage Land,uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Barbarian Hero,"['nonfoil', 'foil']",False,0.25,0.26,,2026-10-12
+MSH,Marvel Super Heroes,175,Knight of Wundagore,common,False,['universesbeyond'],,black,2026-06-26,Creature — Cat Knight Villain,"['nonfoil', 'foil']",False,0.10,0.24,,2026-10-12
+MSH,Marvel Super Heroes,176,"Mister Hyde, Monster Within",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.20,0.28,,2026-10-12
+MSH,Marvel Super Heroes,177,"Mole Man, Moloid Master",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,1.26,1.92,,2026-10-12
+MSH,Marvel Super Heroes,178,Pet Avengers,common,False,['universesbeyond'],,black,2026-06-26,Creature — Dragon Cat Dog Bird Frog Hero,"['nonfoil', 'foil']",False,0.18,0.20,,2026-10-12
+MSH,Marvel Super Heroes,179,Powerful Broker,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Villain,"['nonfoil', 'foil']",False,0.11,0.14,,2026-10-12
+MSH,Marvel Super Heroes,180,Punishing Punch,uncommon,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.14,0.28,,2026-10-12
+MSH,Marvel Super Heroes,181,Rapid Rescue,common,False,['universesbeyond'],,black,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.17,0.25,,2026-10-12
+MSH,Marvel Super Heroes,182,"Reptil, Dinomorpher",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.16,0.23,,2026-10-12
+MSH,Marvel Super Heroes,183,Restorative Technique,common,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.18,0.27,,2026-10-12
+MSH,Marvel Super Heroes,184,"Rick Jones, Destined Sidekick",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Advisor,"['nonfoil', 'foil']",False,0.10,0.23,,2026-10-12
+MSH,Marvel Super Heroes,185,Savage Land Dinosaur,common,False,['universesbeyond'],,black,2026-06-26,Creature — Dinosaur,"['nonfoil', 'foil']",False,0.14,0.21,,2026-10-12
+MSH,Marvel Super Heroes,186,Serpent Specialist,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Snake Villain,"['nonfoil', 'foil']",False,0.20,0.28,,2026-10-12
+MSH,Marvel Super Heroes,187,"Shang-Chi, Master of Kung Fu",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,10.07,13.93,,2026-10-12
+MSH,Marvel Super Heroes,188,"She-Hulk, Jade Defender",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Gamma Hero,"['nonfoil', 'foil']",False,0.21,0.28,,2026-10-12
+MSH,Marvel Super Heroes,189,Super Strength,common,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Aura,"['nonfoil', 'foil']",False,0.10,0.20,,2026-10-12
+MSH,Marvel Super Heroes,190,"The Thing, Ben Grimm",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.15,0.30,,2026-10-12
+MSH,Marvel Super Heroes,191,"Tigra, Feline Fury",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Cat Human Hero,"['nonfoil', 'foil']",False,0.25,0.29,,2026-10-12
+MSH,Marvel Super Heroes,192,Training Regimen,uncommon,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+MSH,Marvel Super Heroes,193,The Unbeatable Squirrel Girl,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Squirrel Human Hero,"['nonfoil', 'foil']",False,2.27,3.36,,2026-10-12
+MSH,Marvel Super Heroes,194,Undercover Skrull,common,False,['universesbeyond'],,black,2026-06-26,Creature — Skrull Shapeshifter Villain,"['nonfoil', 'foil']",False,0.13,0.18,,2026-10-12
+MSH,Marvel Super Heroes,195,Wakandan Royal Guard,common,False,['universesbeyond'],,black,2026-06-26,Creature — Human Soldier Hero,"['nonfoil', 'foil']",False,0.13,0.20,,2026-10-12
+MSH,Marvel Super Heroes,196,"White Tiger, Ava Ayala",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.14,0.25,,2026-10-12
+MSH,Marvel Super Heroes,197,World War Hulk,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,0.77,1.42,,2026-10-12
+MSH,Marvel Super Heroes,198,"Abomination, Terrifying Titan",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Gamma Villain,"['nonfoil', 'foil']",False,0.15,0.24,,2026-10-12
+MSH,Marvel Super Heroes,199,Absorbing Man,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.20,0.33,,2026-10-12
+MSH,Marvel Super Heroes,200,Alien Invasion,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,0.22,0.36,,2026-10-12
+MSH,Marvel Super Heroes,201,"Ant-Man, Colony Commander",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Rogue Hero,"['nonfoil', 'foil']",False,0.18,0.26,,2026-10-12
+MSH,Marvel Super Heroes,202,"Ares, God of War",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — God Warrior Villain,"['nonfoil', 'foil']",False,0.29,0.41,,2026-10-12
+MSH,Marvel Super Heroes,203,Armor Wars,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,0.27,0.33,,2026-10-12
+MSH,Marvel Super Heroes,204,The Astonishing Ant-Man,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Scientist Hero,"['nonfoil', 'foil']",False,0.31,0.65,,2026-10-12
+MSH,Marvel Super Heroes,205,Avengers: Under Siege,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,0.23,0.37,,2026-10-12
+MSH,Marvel Super Heroes,206,"Beast, Erudite Aerialist",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Scientist Hero,"['nonfoil', 'foil']",False,0.17,0.32,,2026-10-12
+MSH,Marvel Super Heroes,207,"Black Panther, Vanguard",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,0.13,0.20,,2026-10-12
+MSH,Marvel Super Heroes,208,"Black Widow, Double Agent",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero Villain,"['nonfoil', 'foil']",False,0.14,0.29,,2026-10-12
+MSH,Marvel Super Heroes,209,"Bullseye, Death Dealer",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Assassin Villain,"['nonfoil', 'foil']",False,0.20,0.28,,2026-10-12
+MSH,Marvel Super Heroes,210,"Captain America, Living Legend",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Soldier Hero,"['nonfoil', 'foil']",False,0.29,0.44,,2026-10-12
+MSH,Marvel Super Heroes,211,"Cloak and Dagger, Entwined",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.29,0.37,,2026-10-12
+MSH,Marvel Super Heroes,212,The Coming of Galactus,mythic,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,1.48,3.01,,2026-10-12
+MSH,Marvel Super Heroes,213,"Daredevil, Man Without Fear",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.32,0.48,,2026-10-12
+MSH,Marvel Super Heroes,214,"Ghost, Spectral Saboteur",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Rogue Villain,"['nonfoil', 'foil']",False,0.24,0.26,,2026-10-12
+MSH,Marvel Super Heroes,215,"Hulk, Gamma Goliath",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Gamma Berserker Hero,"['nonfoil', 'foil']",False,0.18,0.29,,2026-10-12
+MSH,Marvel Super Heroes,216,"Iron Man, Master of Machines",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Human Hero,"['nonfoil', 'foil']",False,0.23,0.38,,2026-10-12
+MSH,Marvel Super Heroes,217,"Kang, Temporal Tyrant",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.18,0.27,,2026-10-12
+MSH,Marvel Super Heroes,218,"Killmonger, Scourge of Wakanda",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Mercenary Villain,"['nonfoil', 'foil']",False,0.17,0.23,,2026-10-12
+MSH,Marvel Super Heroes,219,"King T'Challa // Black Panther, Hope Enduring",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Noble Hero // Legendary Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,6.33,10.56,,2026-10-12
+MSH,Marvel Super Heroes,220,The Kingpin of Crime,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.28,0.32,,2026-10-12
+MSH,Marvel Super Heroes,221,Madame Hydra,uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.18,0.25,,2026-10-12
+MSH,Marvel Super Heroes,222,"The Mighty Thor, Jane Foster",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human God Hero,"['nonfoil', 'foil']",False,0.31,0.52,,2026-10-12
+MSH,Marvel Super Heroes,223,Moon Girl and Devil Dinosaur,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Dinosaur Hero,"['nonfoil', 'foil']",False,0.18,0.32,,2026-10-12
+MSH,Marvel Super Heroes,224,The Ruinous Wrecking Crew,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.17,0.30,,2026-10-12
+MSH,Marvel Super Heroes,225,Scientist Supreme of A.I.M.,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Scientist Villain,"['nonfoil', 'foil']",False,0.18,0.33,,2026-10-12
+MSH,Marvel Super Heroes,226,The Serpent Society,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Snake Villain,"['nonfoil', 'foil']",False,0.45,0.85,,2026-10-12
+MSH,Marvel Super Heroes,227,"Speedball, New Warrior",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.13,0.21,,2026-10-12
+MSH,Marvel Super Heroes,228,"Spider-Man, To the Rescue",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Spider Human Hero,"['nonfoil', 'foil']",False,0.19,0.31,,2026-10-12
+MSH,Marvel Super Heroes,229,"Spider-Woman, Secret Agent",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Spider Human Spy Hero,"['nonfoil', 'foil']",False,0.22,0.24,,2026-10-12
+MSH,Marvel Super Heroes,230,"Storm, Windrider",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Hero,"['nonfoil', 'foil']",False,0.30,0.80,,2026-10-12
+MSH,Marvel Super Heroes,231,The Super Hero Civil War,rare,False,['universesbeyond'],['enchantment'],black,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,0.28,0.32,,2026-10-12
+MSH,Marvel Super Heroes,232,"Taskmaster, Mercenary Mimic",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Mercenary Villain,"['nonfoil', 'foil']",False,0.42,0.87,,2026-10-12
+MSH,Marvel Super Heroes,233,"Thanos, the Mad Titan",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Eternal Villain,"['nonfoil', 'foil']",False,1.24,3.19,,2026-10-12
+MSH,Marvel Super Heroes,234,Thor Odinson,uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — God Warrior Hero,"['nonfoil', 'foil']",False,0.25,0.36,,2026-10-12
+MSH,Marvel Super Heroes,235,"Titania, Rugged Rumbler",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.12,0.27,,2026-10-12
+MSH,Marvel Super Heroes,236,"U.S.Agent, John Walker",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Soldier Hero,"['nonfoil', 'foil']",False,0.13,0.27,,2026-10-12
+MSH,Marvel Super Heroes,237,Vision Quest,rare,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.27,0.64,,2026-10-12
+MSH,Marvel Super Heroes,238,"War Machine, Legacy of Iron",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Human Hero,"['nonfoil', 'foil']",False,0.14,0.26,,2026-10-12
+MSH,Marvel Super Heroes,239,"Winter Soldier, Icy Assassin",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Human Assassin Villain,"['nonfoil', 'foil']",False,0.22,0.32,,2026-10-12
+MSH,Marvel Super Heroes,240,"Wolverine, Fierce Fighter",rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Creature — Mutant Berserker Hero,"['nonfoil', 'foil']",False,0.32,0.40,,2026-10-12
+MSH,Marvel Super Heroes,241,Worlds Within Worlds,rare,False,['universesbeyond'],,black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.17,0.24,,2026-10-12
+MSH,Marvel Super Heroes,242,A.I.M. Synthoids,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Robot Villain,"['nonfoil', 'foil']",False,0.12,0.23,,2026-10-12
+MSH,Marvel Super Heroes,243,Arc Reactor,rare,False,['universesbeyond'],,black,2026-06-26,Artifact,"['nonfoil', 'foil']",False,1.01,1.57,,2026-10-12
+MSH,Marvel Super Heroes,244,Captain America's Shield,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,1.83,2.02,,2026-10-12
+MSH,Marvel Super Heroes,245,Cosmic Cube,mythic,False,['universesbeyond'],,black,2026-06-26,Artifact,"['nonfoil', 'foil']",False,6.88,11.68,,2026-10-12
+MSH,Marvel Super Heroes,246,Dependable Quinjet,common,False,['universesbeyond'],,black,2026-06-26,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.14,0.20,,2026-10-12
+MSH,Marvel Super Heroes,247,H.E.R.B.I.E. Scout Unit,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Robot Scout,"['nonfoil', 'foil']",False,0.24,0.28,,2026-10-12
+MSH,Marvel Super Heroes,248,Iron Man Armor,mythic,False,['universesbeyond'],,black,2026-06-26,Artifact — Equipment,"['nonfoil', 'foil']",False,2.14,3.76,,2026-10-12
+MSH,Marvel Super Heroes,249,S.H.I.E.L.D. Helicarrier,uncommon,False,['universesbeyond'],,black,2026-06-26,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.12,0.27,,2026-10-12
+MSH,Marvel Super Heroes,250,Super-Adaptoid,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Robot Villain,"['nonfoil', 'foil']",False,0.27,0.38,,2026-10-12
+MSH,Marvel Super Heroes,251,The Ten Rings,mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact,"['nonfoil', 'foil']",False,10.09,16.60,,2026-10-12
+MSH,Marvel Super Heroes,252,"Ultron, Artificial Malevolence",mythic,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Robot Villain,"['nonfoil', 'foil']",False,7.50,10.21,,2026-10-12
+MSH,Marvel Super Heroes,253,Ultron Drone,common,False,['universesbeyond'],,black,2026-06-26,Artifact Creature — Robot Villain,"['nonfoil', 'foil']",False,0.17,0.24,,2026-10-12
+MSH,Marvel Super Heroes,254,Vibranium Energy Daggers,common,False,['universesbeyond'],,black,2026-06-26,Artifact — Equipment,"['nonfoil', 'foil']",False,0.16,0.25,,2026-10-12
+MSH,Marvel Super Heroes,255,The Vision,rare,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Robot Hero,"['nonfoil', 'foil']",False,0.62,1.74,,2026-10-12
+MSH,Marvel Super Heroes,256,"Viv Vision, Teen Synthezoid",uncommon,False,['universesbeyond'],['legendary'],black,2026-06-26,Legendary Artifact Creature — Robot Hero,"['nonfoil', 'foil']",False,0.20,0.31,,2026-10-12
+MSH,Marvel Super Heroes,257,A.I.M. Labs,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.17,0.28,,2026-10-12
+MSH,Marvel Super Heroes,258,Asgardian Citadel,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.23,0.29,,2026-10-12
+MSH,Marvel Super Heroes,259,Avengers Hangar,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.14,0.26,,2026-10-12
+MSH,Marvel Super Heroes,260,Avengers Tower,uncommon,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.21,0.22,,2026-10-12
+MSH,Marvel Super Heroes,261,Baxter Building,uncommon,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.34,0.34,,2026-10-12
+MSH,Marvel Super Heroes,262,Birnin Zana Plaza,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.22,0.28,,2026-10-12
+MSH,Marvel Super Heroes,263,Castle Doom,rare,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.42,1.19,,2026-10-12
+MSH,Marvel Super Heroes,264,Dark Fortress,rare,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,1.67,3.01,,2026-10-12
+MSH,Marvel Super Heroes,265,Fisk Tower,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.23,0.31,,2026-10-12
+MSH,Marvel Super Heroes,266,Gathering Place,rare,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,1.15,2.01,,2026-10-12
+MSH,Marvel Super Heroes,267,Gleaming Bastion,rare,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,1.29,2.62,,2026-10-12
+MSH,Marvel Super Heroes,268,Hell's Kitchen,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.15,0.23,,2026-10-12
+MSH,Marvel Super Heroes,269,Hidden Lair,rare,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,1.90,3.24,,2026-10-12
+MSH,Marvel Super Heroes,270,Los Diablos Missile Base,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.19,0.22,,2026-10-12
+MSH,Marvel Super Heroes,271,Pym Technologies,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.18,0.20,,2026-10-12
+MSH,Marvel Super Heroes,272,Stark Industries,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.21,0.28,,2026-10-12
+MSH,Marvel Super Heroes,273,Subterranean Cavern,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.25,1.03,,2026-10-12
+MSH,Marvel Super Heroes,274,Surveillance Room,common,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.24,0.31,,2026-10-12
+MSH,Marvel Super Heroes,275,Training Compound,rare,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,1.03,1.53,,2026-10-12
+MSH,Marvel Super Heroes,276,Villainous Hideout,uncommon,False,['universesbeyond'],,black,2026-06-26,Land,"['nonfoil', 'foil']",False,0.21,0.34,,2026-10-12
+MSH,Marvel Super Heroes,277,Plains,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Plains,"['nonfoil', 'foil']",False,0.19,0.31,,2026-10-12
+MSH,Marvel Super Heroes,278,Plains,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Plains,"['nonfoil', 'foil']",False,0.18,0.29,,2026-10-12
+MSH,Marvel Super Heroes,279,Island,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Island,"['nonfoil', 'foil']",False,0.21,0.27,,2026-10-12
+MSH,Marvel Super Heroes,280,Island,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Island,"['nonfoil', 'foil']",False,0.26,0.32,,2026-10-12
+MSH,Marvel Super Heroes,281,Swamp,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.24,0.29,,2026-10-12
+MSH,Marvel Super Heroes,282,Swamp,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.24,0.30,,2026-10-12
+MSH,Marvel Super Heroes,283,Mountain,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.27,0.31,,2026-10-12
+MSH,Marvel Super Heroes,284,Mountain,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.19,0.27,,2026-10-12
+MSH,Marvel Super Heroes,285,Forest,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Forest,"['nonfoil', 'foil']",False,0.19,0.27,,2026-10-12
+MSH,Marvel Super Heroes,286,Forest,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Forest,"['nonfoil', 'foil']",False,0.24,0.27,,2026-10-12
+MSH,Marvel Super Heroes,287,Plains,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Plains,"['nonfoil', 'foil']",False,0.14,0.11,,2026-10-12
+MSH,Marvel Super Heroes,288,Plains,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Plains,"['nonfoil', 'foil']",False,0.15,0.09,,2026-10-12
+MSH,Marvel Super Heroes,289,Island,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Island,"['nonfoil', 'foil']",False,0.15,0.14,,2026-10-12
+MSH,Marvel Super Heroes,290,Island,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Island,"['nonfoil', 'foil']",False,0.15,0.12,,2026-10-12
+MSH,Marvel Super Heroes,291,Swamp,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.14,0.10,,2026-10-12
+MSH,Marvel Super Heroes,292,Swamp,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.17,0.14,,2026-10-12
+MSH,Marvel Super Heroes,293,Mountain,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.15,0.14,,2026-10-12
+MSH,Marvel Super Heroes,294,Mountain,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.12,0.14,,2026-10-12
+MSH,Marvel Super Heroes,295,Forest,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Forest,"['nonfoil', 'foil']",False,0.13,0.13,,2026-10-12
+MSH,Marvel Super Heroes,296,Forest,common,False,['universesbeyond'],,black,2026-06-26,Basic Land — Forest,"['nonfoil', 'foil']",False,0.19,0.16,,2026-10-12
+MSH,Marvel Super Heroes,297,Avengers Assemble!,mythic,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,6.20,7.23,,2026-10-12
+MSH,Marvel Super Heroes,298,Origin of the Avengers,rare,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,0.95,0.64,,2026-10-12
+MSH,Marvel Super Heroes,299,Super-Soldier Serum,rare,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-06-26,Enchantment — Aura,"['nonfoil', 'foil']",False,1.01,1.86,,2026-10-12
+MSH,Marvel Super Heroes,300,Multiversal Incursion,mythic,False,['universesbeyond'],['showcase'],borderless,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,2.84,3.56,,2026-10-12
+MSH,Marvel Super Heroes,301,Secret Invasion,rare,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-06-26,Enchantment — Aura,"['nonfoil', 'foil']",False,0.37,0.47,,2026-10-12
+MSH,Marvel Super Heroes,302,Avengers Disassembled,rare,False,['universesbeyond'],['showcase'],borderless,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,1.34,1.60,,2026-10-12
+MSH,Marvel Super Heroes,303,"Mjölnir, Hammer of Thor",mythic,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-06-26,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,24.76,34.22,,2026-10-12
+MSH,Marvel Super Heroes,304,World War Hulk,rare,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,2.74,3.66,,2026-10-12
+MSH,Marvel Super Heroes,305,Armor Wars,rare,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,0.46,0.62,,2026-10-12
+MSH,Marvel Super Heroes,306,Avengers: Under Siege,rare,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,0.80,0.73,,2026-10-12
+MSH,Marvel Super Heroes,307,The Coming of Galactus,mythic,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,3.63,3.93,,2026-10-12
+MSH,Marvel Super Heroes,308,The Super Hero Civil War,rare,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-06-26,Enchantment — Saga,"['nonfoil', 'foil']",False,0.45,0.59,,2026-10-12
+MSH,Marvel Super Heroes,309,Vision Quest,rare,False,['universesbeyond'],['showcase'],borderless,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.74,0.89,,2026-10-12
+MSH,Marvel Super Heroes,310,Arc Reactor,rare,False,['universesbeyond'],['showcase'],borderless,2026-06-26,Artifact,"['nonfoil', 'foil']",False,1.75,2.19,,2026-10-12
+MSH,Marvel Super Heroes,311,Captain America's Shield,rare,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-06-26,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,3.99,4.19,,2026-10-12
+MSH,Marvel Super Heroes,312,Cosmic Cube,mythic,False,['universesbeyond'],['showcase'],borderless,2026-06-26,Artifact,"['nonfoil', 'foil']",False,19.45,21.98,,2026-10-12
+MSH,Marvel Super Heroes,313,The Ten Rings,mythic,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-06-26,Legendary Artifact,"['nonfoil', 'foil']",False,12.25,17.28,,2026-10-12
+MSH,Marvel Super Heroes,314,"Nick Fury, Agent of S.H.I.E.L.D.",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,2.14,2.53,,2026-10-12
+MSH,Marvel Super Heroes,315,"Baron Strucker, HYDRA Overlord",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.32,0.28,,2026-10-12
+MSH,Marvel Super Heroes,316,"Captain America, Super-Soldier",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Soldier Hero,"['nonfoil', 'foil']",False,9.15,10.79,,2026-10-12
+MSH,Marvel Super Heroes,317,Captain America's Shield,rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,4.17,6.56,,2026-10-12
+MSH,Marvel Super Heroes,318,Madame Hydra,uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+MSH,Marvel Super Heroes,319,"Arnim Zola, Bio-Fanatic",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Artifact Creature — Scientist Villain,"['nonfoil', 'foil']",False,0.18,0.17,,2026-10-12
+MSH,Marvel Super Heroes,320,"Mister Fantastic, Reed Richards",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Scientist Hero,"['nonfoil', 'foil']",False,0.34,0.62,,2026-10-12
+MSH,Marvel Super Heroes,321,"Human Torch, Johnny Storm",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.35,0.35,,2026-10-12
+MSH,Marvel Super Heroes,322,"The Thing, Ben Grimm",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.29,0.36,,2026-10-12
+MSH,Marvel Super Heroes,323,"Invisible Woman, Sue Storm",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.31,0.36,,2026-10-12
+MSH,Marvel Super Heroes,324,"Daredevil, Man Without Fear",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,2.07,3.23,,2026-10-12
+MSH,Marvel Super Heroes,325,"Bullseye, Death Dealer",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Assassin Villain,"['nonfoil', 'foil']",False,0.26,0.20,,2026-10-12
+MSH,Marvel Super Heroes,326,"Elektra, Daughter of the Hand",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Ninja Villain,"['nonfoil', 'foil']",False,1.23,1.97,,2026-10-12
+MSH,Marvel Super Heroes,327,The Kingpin of Crime,rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,1.17,2.24,,2026-10-12
+MSH,Marvel Super Heroes,328,Jennifer Walters // The Sensational She-Hulk,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Advisor Hero // Legendary Creature — Gamma Hero,"['nonfoil', 'foil']",False,24.38,41.31,,2026-10-12
+MSH,Marvel Super Heroes,329,Red Hulk,uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Gamma Berserker Villain,"['nonfoil', 'foil']",False,0.34,0.32,,2026-10-12
+MSH,Marvel Super Heroes,330,"Leader, Super-Genius",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Gamma Scientist Villain,"['nonfoil', 'foil']",False,1.68,2.26,,2026-10-12
+MSH,Marvel Super Heroes,331,Bruce Banner // The Incredible Hulk,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Scientist Hero // Legendary Creature — Gamma Berserker Hero,"['nonfoil', 'foil']",False,14.72,20.21,,2026-10-12
+MSH,Marvel Super Heroes,332,HULK SMASH!,common,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Instant,"['nonfoil', 'foil']",False,1.07,0.26,,2026-10-12
+MSH,Marvel Super Heroes,333,"Abomination, Terrifying Titan",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Gamma Villain,"['nonfoil', 'foil']",False,0.18,0.30,,2026-10-12
+MSH,Marvel Super Heroes,334,Avengers Tower,uncommon,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Land,"['nonfoil', 'foil']",False,0.30,0.38,,2026-10-12
+MSH,Marvel Super Heroes,335,"Spider-Man, To the Rescue",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Spider Human Hero,"['nonfoil', 'foil']",False,0.31,0.31,,2026-10-12
+MSH,Marvel Super Heroes,336,Doctor Doom,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Scientist Villain,"['nonfoil', 'foil']",False,13.41,19.04,,2026-10-12
+MSH,Marvel Super Heroes,337,Cosmic Cube,mythic,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Artifact,"['nonfoil', 'foil']",False,15.76,26.24,,2026-10-12
+MSH,Marvel Super Heroes,338,"Thor, God of Thunder",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — God Warrior Hero,"['nonfoil', 'foil']",False,18.94,25.13,,2026-10-12
+MSH,Marvel Super Heroes,339,"Mjölnir, Hammer of Thor",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,34.37,48.77,,2026-10-12
+MSH,Marvel Super Heroes,340,Blazing Crescendo,common,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.21,0.23,,2026-10-12
+MSH,Marvel Super Heroes,341,Avengers Assemble!,mythic,False,['universesbeyond'],"['enchantment', 'inverted']",borderless,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,6.41,9.37,,2026-10-12
+MSH,Marvel Super Heroes,342,"Captain Marvel, Earth's Protector",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Kree Hero,"['nonfoil', 'foil']",False,6.07,6.83,,2026-10-12
+MSH,Marvel Super Heroes,343,"Loki, God of Mischief",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — God Sorcerer Villain,"['nonfoil', 'foil']",False,2.82,4.01,,2026-10-12
+MSH,Marvel Super Heroes,344,"Ultron, Artificial Malevolence",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Artifact Creature — Robot Villain,"['nonfoil', 'foil']",False,15.21,19.77,,2026-10-12
+MSH,Marvel Super Heroes,345,"Monica Rambeau // Photon, Living Light",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Hero // Legendary Creature — Elemental Hero,"['nonfoil', 'foil']",False,7.19,10.95,,2026-10-12
+MSH,Marvel Super Heroes,346,"King T'Challa // Black Panther, Hope Enduring",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Noble Hero // Legendary Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,17.10,25.02,,2026-10-12
+MSH,Marvel Super Heroes,347,"Black Widow, Super Spy",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,5.66,8.11,,2026-10-12
+MSH,Marvel Super Heroes,348,Take Up the Shield,common,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Instant,"['nonfoil', 'foil']",False,0.25,0.28,,2026-10-12
+MSH,Marvel Super Heroes,349,Earth's Mightiest Heroes,mythic,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,2.28,2.58,,2026-10-12
+MSH,Marvel Super Heroes,350,Tony Stark // The Invincible Iron Man,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Artificer Hero // Legendary Artifact Creature — Human Hero,"['nonfoil', 'foil']",False,17.93,24.16,,2026-10-12
+MSH,Marvel Super Heroes,351,Epic Fight,rare,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.72,1.56,,2026-10-12
+MSH,Marvel Super Heroes,352,"Captain America, Super-Soldier",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Soldier Hero,"['nonfoil', 'foil']",False,10.90,19.54,,2026-10-12
+MSH,Marvel Super Heroes,353,"Captain America, Wings of Freedom",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Soldier Hero,"['nonfoil', 'foil']",False,1.45,1.94,,2026-10-12
+MSH,Marvel Super Heroes,354,"Captain Marvel, Earth's Protector",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Kree Hero,"['nonfoil', 'foil']",False,9.25,14.38,,2026-10-12
+MSH,Marvel Super Heroes,355,Jennifer Walters // The Sensational She-Hulk,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Advisor Hero // Legendary Creature — Gamma Hero,"['nonfoil', 'foil']",False,14.15,25.18,,2026-10-12
+MSH,Marvel Super Heroes,356,"Monica Rambeau // Photon, Living Light",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Hero // Legendary Creature — Elemental Hero,"['nonfoil', 'foil']",False,6.34,14.30,,2026-10-12
+MSH,Marvel Super Heroes,357,"Nick Fury, Agent of S.H.I.E.L.D.",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,2.26,3.26,,2026-10-12
+MSH,Marvel Super Heroes,358,"The Sentry, Golden Guardian",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,1.35,1.76,,2026-10-12
+MSH,Marvel Super Heroes,359,Bruce Banner // The Incredible Hulk,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Scientist Hero // Legendary Creature — Gamma Berserker Hero,"['nonfoil', 'foil']",False,17.80,31.66,,2026-10-12
+MSH,Marvel Super Heroes,360,"Ironheart, Clever Champion",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Artifact Creature — Human Hero,"['nonfoil', 'foil']",False,1.53,2.16,,2026-10-12
+MSH,Marvel Super Heroes,361,"Ms. Marvel, Kamala Khan",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Mutant Inhuman Hero,"['nonfoil', 'foil']",False,0.81,0.83,,2026-10-12
+MSH,Marvel Super Heroes,362,Namor the Sub-Mariner,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Mutant Merfolk Villain,"['nonfoil', 'foil']",False,5.95,9.17,,2026-10-12
+MSH,Marvel Super Heroes,363,Tony Stark // The Invincible Iron Man,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Artificer Hero // Legendary Artifact Creature — Human Hero,"['nonfoil', 'foil']",False,22.88,37.57,,2026-10-12
+MSH,Marvel Super Heroes,364,"Black Widow, Super Spy",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,5.93,10.43,,2026-10-12
+MSH,Marvel Super Heroes,365,Doctor Doom,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Scientist Villain,"['nonfoil', 'foil']",False,24.90,38.61,,2026-10-12
+MSH,Marvel Super Heroes,366,"Elektra, Daughter of the Hand",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Ninja Villain,"['nonfoil', 'foil']",False,1.88,2.24,,2026-10-12
+MSH,Marvel Super Heroes,367,"Hawkeye, Master Marksman",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Archer Hero,"['nonfoil', 'foil']",False,0.92,1.40,,2026-10-12
+MSH,Marvel Super Heroes,368,The Scarlet Witch,rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Mutant Warlock Hero,"['nonfoil', 'foil']",False,2.48,3.95,,2026-10-12
+MSH,Marvel Super Heroes,369,"Thor, God of Thunder",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — God Warrior Hero,"['nonfoil', 'foil']",False,24.13,40.51,,2026-10-12
+MSH,Marvel Super Heroes,370,"Shang-Chi, Master of Kung Fu",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,14.27,22.14,,2026-10-12
+MSH,Marvel Super Heroes,371,The Unbeatable Squirrel Girl,rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Squirrel Human Hero,"['nonfoil', 'foil']",False,6.72,11.16,,2026-10-12
+MSH,Marvel Super Heroes,372,"Daredevil, Man Without Fear",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,3.92,4.48,,2026-10-12
+MSH,Marvel Super Heroes,373,"King T'Challa // Black Panther, Hope Enduring",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Noble Hero // Legendary Creature — Human Warrior Hero,"['nonfoil', 'foil']",False,20.40,35.82,,2026-10-12
+MSH,Marvel Super Heroes,374,The Kingpin of Crime,rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,1.39,2.02,,2026-10-12
+MSH,Marvel Super Heroes,375,"Storm, Windrider",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Mutant Hero,"['nonfoil', 'foil']",False,1.55,3.20,,2026-10-12
+MSH,Marvel Super Heroes,376,"Thanos, the Mad Titan",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Eternal Villain,"['nonfoil', 'foil']",False,5.20,9.32,,2026-10-12
+MSH,Marvel Super Heroes,377,"Winter Soldier, Icy Assassin",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Assassin Villain,"['nonfoil', 'foil']",False,0.86,1.31,,2026-10-12
+MSH,Marvel Super Heroes,378,"Wolverine, Fierce Fighter",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Mutant Berserker Hero,"['nonfoil', 'foil']",False,3.24,3.74,,2026-10-12
+MSH,Marvel Super Heroes,379,The Vision,rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Artifact Creature — Robot Hero,"['nonfoil', 'foil']",False,2.65,3.68,,2026-10-12
+MSH,Marvel Super Heroes,380,Dark Fortress,rare,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Land,"['nonfoil', 'foil']",False,2.24,3.65,,2026-10-12
+MSH,Marvel Super Heroes,381,Gathering Place,rare,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Land,"['nonfoil', 'foil']",False,2.22,2.58,,2026-10-12
+MSH,Marvel Super Heroes,382,Gleaming Bastion,rare,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Land,"['nonfoil', 'foil']",False,2.03,2.95,,2026-10-12
+MSH,Marvel Super Heroes,383,Hidden Lair,rare,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Land,"['nonfoil', 'foil']",False,3.40,5.63,,2026-10-12
+MSH,Marvel Super Heroes,384,Training Compound,rare,False,['universesbeyond'],['inverted'],borderless,2026-06-26,Land,"['nonfoil', 'foil']",False,1.55,2.15,,2026-10-12
+MSH,Marvel Super Heroes,385,The Mind Stone,mythic,False,"['headliner', 'universesbeyond', 'cosmicfoil']",['legendary'],borderless,2026-06-26,Legendary Artifact — Infinity Stone,['foil'],False,,,,2026-10-12
+MSH,Marvel Super Heroes,386,The Mind Stone,mythic,False,['universesbeyond'],"['inverted', 'legendary']",borderless,2026-06-26,Legendary Artifact — Infinity Stone,['foil'],False,,1649.57,,2026-10-12
+MSH,Marvel Super Heroes,387,"Captain America, Super-Soldier",mythic,False,"['poster', 'universesbeyond']",['legendary'],borderless,2026-06-26,Legendary Creature — Human Soldier Hero,['foil'],False,,57.26,,2026-10-12
+MSH,Marvel Super Heroes,388,Jennifer Walters // The Sensational She-Hulk,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Advisor Hero // Legendary Creature — Gamma Hero,['foil'],False,,42.77,,2026-10-12
+MSH,Marvel Super Heroes,389,"Nick Fury, Agent of S.H.I.E.L.D.",rare,False,['universesbeyond'],['legendary'],borderless,2026-06-26,Legendary Creature — Human Spy Hero,['foil'],False,,27.75,,2026-10-12
+MSH,Marvel Super Heroes,390,Bruce Banner // The Incredible Hulk,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Scientist Hero // Legendary Creature — Gamma Berserker Hero,['foil'],False,,50.78,,2026-10-12
+MSH,Marvel Super Heroes,391,Namor the Sub-Mariner,mythic,False,"['poster', 'universesbeyond']",['legendary'],borderless,2026-06-26,Legendary Creature — Mutant Merfolk Villain,['foil'],False,,39.12,,2026-10-12
+MSH,Marvel Super Heroes,392,Tony Stark // The Invincible Iron Man,mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Artificer Hero // Legendary Artifact Creature — Human Hero,['foil'],False,,58.71,,2026-10-12
+MSH,Marvel Super Heroes,393,"Black Widow, Super Spy",mythic,False,['universesbeyond'],['legendary'],borderless,2026-06-26,Legendary Creature — Human Spy Hero,['foil'],False,,23.32,,2026-10-12
+MSH,Marvel Super Heroes,394,Doctor Doom,mythic,False,"['poster', 'universesbeyond']",['legendary'],borderless,2026-06-26,Legendary Creature — Human Scientist Villain,['foil'],False,,134.65,,2026-10-12
+MSH,Marvel Super Heroes,395,"Elektra, Daughter of the Hand",rare,False,['universesbeyond'],['legendary'],borderless,2026-06-26,Legendary Creature — Human Ninja Villain,['foil'],False,,22.34,,2026-10-12
+MSH,Marvel Super Heroes,396,"Shang-Chi, Master of Kung Fu",mythic,False,['universesbeyond'],['legendary'],borderless,2026-06-26,Legendary Creature — Human Warrior Hero,['foil'],False,,77.93,,2026-10-12
+MSH,Marvel Super Heroes,397,The Astonishing Ant-Man,rare,False,['universesbeyond'],['legendary'],borderless,2026-06-26,Legendary Creature — Human Scientist Hero,['foil'],False,,41.11,,2026-10-12
+MSH,Marvel Super Heroes,398,"Daredevil, Man Without Fear",rare,False,['universesbeyond'],['legendary'],borderless,2026-06-26,Legendary Creature — Human Hero,['foil'],False,,33.85,,2026-10-12
+MSH,Marvel Super Heroes,399,"King T'Challa // Black Panther, Hope Enduring",mythic,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-06-26,Legendary Creature — Human Noble Hero // Legendary Creature — Human Warrior Hero,['foil'],False,,47.08,,2026-10-12
+MSH,Marvel Super Heroes,400,"Thanos, the Mad Titan",mythic,False,['universesbeyond'],['legendary'],borderless,2026-06-26,Legendary Creature — Eternal Villain,['foil'],False,,157.04,,2026-10-12
+MSH,Marvel Super Heroes,401,"Ultron, Artificial Malevolence",mythic,False,['universesbeyond'],['legendary'],borderless,2026-06-26,Legendary Artifact Creature — Robot Villain,['foil'],False,,75.36,,2026-10-12
+MSH,Marvel Super Heroes,402,Agent Phil Coulson,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Spy Hero,"['nonfoil', 'foil']",False,0.94,1.02,,2026-10-12
+MSH,Marvel Super Heroes,403,Kang the Conqueror,mythic,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,1.77,1.79,,2026-10-12
+MSH,Marvel Super Heroes,404,S.H.I.E.L.D. Flying Car,rare,False,['universesbeyond'],['extendedart'],black,2026-06-26,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.35,0.32,,2026-10-12
+MSH,Marvel Super Heroes,405,Baron Helmut Zemo,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Noble Villain,"['nonfoil', 'foil']",False,1.16,0.88,,2026-10-12
+MSH,Marvel Super Heroes,406,Construct a Cosmic Cube,rare,False,['universesbeyond'],"['enchantment', 'extendedart']",black,2026-06-26,Enchantment — Plan,"['nonfoil', 'foil']",False,0.73,0.84,,2026-10-12
+MSH,Marvel Super Heroes,407,Doom Reigns Supreme,rare,False,['universesbeyond'],"['enchantment', 'extendedart']",black,2026-06-26,Enchantment — Plan,"['nonfoil', 'foil']",False,1.19,1.76,,2026-10-12
+MSH,Marvel Super Heroes,408,M.O.D.O.K.,mythic,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Artifact Creature — Villain,"['nonfoil', 'foil']",False,7.10,6.93,,2026-10-12
+MSH,Marvel Super Heroes,409,Super-Skrull,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Skrull Shapeshifter Villain,"['nonfoil', 'foil']",False,0.81,1.05,,2026-10-12
+MSH,Marvel Super Heroes,410,Thunderbolts Conspiracy,rare,False,['universesbeyond'],"['enchantment', 'extendedart']",black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,0.33,0.38,,2026-10-12
+MSH,Marvel Super Heroes,411,Fin Fang Foom,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Alien Dragon Villain,"['nonfoil', 'foil']",False,0.73,0.63,,2026-10-12
+MSH,Marvel Super Heroes,412,"Quicksilver, Brash Blur",rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Mutant Hero,"['nonfoil', 'foil']",False,0.85,0.62,,2026-10-12
+MSH,Marvel Super Heroes,413,Earth's Mightiest Heroes,mythic,False,['universesbeyond'],['extendedart'],black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,1.26,1.29,,2026-10-12
+MSH,Marvel Super Heroes,414,Heroic Feast,rare,False,['universesbeyond'],"['enchantment', 'extendedart']",black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,1.11,1.05,,2026-10-12
+MSH,Marvel Super Heroes,415,"Mole Man, Moloid Master",rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,3.42,3.98,,2026-10-12
+MSH,Marvel Super Heroes,416,Absorbing Man,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.38,0.46,,2026-10-12
+MSH,Marvel Super Heroes,417,Alien Invasion,rare,False,['universesbeyond'],"['enchantment', 'extendedart']",black,2026-06-26,Enchantment,"['nonfoil', 'foil']",False,0.40,0.37,,2026-10-12
+MSH,Marvel Super Heroes,418,"Ares, God of War",rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — God Warrior Villain,"['nonfoil', 'foil']",False,1.21,1.24,,2026-10-12
+MSH,Marvel Super Heroes,419,"Cloak and Dagger, Entwined",rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Hero,"['nonfoil', 'foil']",False,0.81,0.83,,2026-10-12
+MSH,Marvel Super Heroes,420,"The Mighty Thor, Jane Foster",rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human God Hero,"['nonfoil', 'foil']",False,1.43,1.49,,2026-10-12
+MSH,Marvel Super Heroes,421,Moon Girl and Devil Dinosaur,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Dinosaur Hero,"['nonfoil', 'foil']",False,0.36,0.40,,2026-10-12
+MSH,Marvel Super Heroes,422,The Ruinous Wrecking Crew,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Villain,"['nonfoil', 'foil']",False,0.32,0.33,,2026-10-12
+MSH,Marvel Super Heroes,423,Scientist Supreme of A.I.M.,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Scientist Villain,"['nonfoil', 'foil']",False,0.42,0.86,,2026-10-12
+MSH,Marvel Super Heroes,424,The Serpent Society,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Snake Villain,"['nonfoil', 'foil']",False,1.46,1.65,,2026-10-12
+MSH,Marvel Super Heroes,425,"Taskmaster, Mercenary Mimic",rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Mercenary Villain,"['nonfoil', 'foil']",False,1.86,2.67,,2026-10-12
+MSH,Marvel Super Heroes,426,Worlds Within Worlds,rare,False,['universesbeyond'],['extendedart'],black,2026-06-26,Sorcery,"['nonfoil', 'foil']",False,0.30,0.33,,2026-10-12
+MSH,Marvel Super Heroes,427,Iron Man Armor,mythic,False,['universesbeyond'],['extendedart'],black,2026-06-26,Artifact — Equipment,"['nonfoil', 'foil']",False,5.29,6.07,,2026-10-12
+MSH,Marvel Super Heroes,428,Super-Adaptoid,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-06-26,Legendary Artifact Creature — Robot Villain,"['nonfoil', 'foil']",False,0.64,0.70,,2026-10-12
+MSH,Marvel Super Heroes,429,Castle Doom,rare,False,['universesbeyond'],['extendedart'],black,2026-06-26,Land,"['nonfoil', 'foil']",False,2.01,2.05,,2026-10-12
+MSH,Marvel Super Heroes,431,The Scarlet Witch,rare,False,"['universesbeyond', 'bundle']",['legendary'],black,2026-06-26,Legendary Creature — Mutant Warlock Hero,['foil'],False,,0.46,,2026-10-12
+MSH,Marvel Super Heroes,432,"Daredevil, Man Without Fear",rare,False,"['universesbeyond', 'bundle']","['legendary', 'extendedart']",black,2026-06-26,Legendary Creature — Human Hero,['foil'],False,,0.34,,2026-10-12
+MSH,Marvel Super Heroes,433,Plains,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Plains,['foil'],False,,0.27,,2026-10-12
+MSH,Marvel Super Heroes,434,Plains,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Plains,['foil'],False,,0.35,,2026-10-12
+MSH,Marvel Super Heroes,435,Island,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Island,['foil'],False,,0.51,,2026-10-12
+MSH,Marvel Super Heroes,436,Island,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Island,['foil'],False,,0.87,,2026-10-12
+MSH,Marvel Super Heroes,437,Swamp,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Swamp,['foil'],False,,0.77,,2026-10-12
+MSH,Marvel Super Heroes,438,Swamp,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Swamp,['foil'],False,,1.24,,2026-10-12
+MSH,Marvel Super Heroes,439,Mountain,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Mountain,['foil'],False,,0.63,,2026-10-12
+MSH,Marvel Super Heroes,440,Mountain,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Mountain,['foil'],False,,0.77,,2026-10-12
+MSH,Marvel Super Heroes,441,Forest,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Forest,['foil'],False,,0.39,,2026-10-12
+MSH,Marvel Super Heroes,442,Forest,common,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Basic Land — Forest,['foil'],False,,0.52,,2026-10-12
+MSH,Marvel Super Heroes,443,"Captain Mar-Vell, Space-Born",uncommon,False,"['surgefoil', 'universesbeyond']",['legendary'],black,2026-06-26,Legendary Creature — Kree Soldier Hero,['foil'],False,,0.74,,2026-10-12
+MSH,Marvel Super Heroes,444,"Patriot, Shield Wielder",uncommon,False,"['surgefoil', 'universesbeyond']",['legendary'],black,2026-06-26,Legendary Creature — Human Hero,['foil'],False,,0.59,,2026-10-12
+MSH,Marvel Super Heroes,445,"Mister Fantastic, Reed Richards",uncommon,False,"['surgefoil', 'universesbeyond']",['legendary'],black,2026-06-26,Legendary Creature — Human Scientist Hero,['foil'],False,,2.03,,2026-10-12
+MSH,Marvel Super Heroes,446,"Baron Strucker, HYDRA Overlord",uncommon,False,"['surgefoil', 'universesbeyond']",['legendary'],black,2026-06-26,Legendary Creature — Human Villain,['foil'],False,,0.46,,2026-10-12
+MSH,Marvel Super Heroes,447,"Moonstone, Harsh Mistress",uncommon,False,"['surgefoil', 'universesbeyond']",['legendary'],black,2026-06-26,Legendary Creature — Human Doctor Villain,['foil'],False,,2.08,,2026-10-12
+MSH,Marvel Super Heroes,448,"Speed, Young Avenger",uncommon,False,"['surgefoil', 'universesbeyond']",['legendary'],black,2026-06-26,Legendary Creature — Mutant Hero,['foil'],False,,1.01,,2026-10-12
+MSH,Marvel Super Heroes,449,"Captain America, Living Legend",uncommon,False,"['surgefoil', 'universesbeyond']",['legendary'],black,2026-06-26,Legendary Creature — Human Soldier Hero,['foil'],False,,7.58,,2026-10-12
+MSH,Marvel Super Heroes,450,"Kang, Temporal Tyrant",uncommon,False,"['surgefoil', 'universesbeyond']",['legendary'],black,2026-06-26,Legendary Creature — Human Villain,['foil'],False,,1.09,,2026-10-12
+MSH,Marvel Super Heroes,451,Madame Hydra,uncommon,False,"['surgefoil', 'universesbeyond']",['legendary'],black,2026-06-26,Legendary Creature — Human Villain,['foil'],False,,0.61,,2026-10-12
+MSH,Marvel Super Heroes,452,Avengers Tower,uncommon,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Land,['foil'],False,,0.60,,2026-10-12
+MSH,Marvel Super Heroes,453,Baxter Building,uncommon,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Land,['foil'],False,,3.03,,2026-10-12
+MSH,Marvel Super Heroes,454,Villainous Hideout,uncommon,False,"['surgefoil', 'universesbeyond']",,black,2026-06-26,Land,['foil'],False,,1.92,,2026-10-12

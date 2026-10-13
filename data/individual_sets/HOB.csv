@@ -1,0 +1,322 @@
+set,set_name,collector_number,name,rarity,booster,promo_types,frame_effects,border_color,released_at,type_line,finishes,variation,usd,usd_foil,usd_etched,price_collected_date
+HOB,The Hobbit,1,Long-Bodied Grey Dog,common,False,['universesbeyond'],,black,2026-08-14,Creature — Dog,"['nonfoil', 'foil']",False,0.23,0.29,,2026-10-12
+HOB,The Hobbit,2,Old Thrush,common,False,['universesbeyond'],,black,2026-08-14,Creature — Bird,"['nonfoil', 'foil']",False,0.11,0.22,,2026-10-12
+HOB,The Hobbit,3,Troop of Ponies,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Horse,"['nonfoil', 'foil']",False,0.38,0.85,,2026-10-12
+HOB,The Hobbit,4,Belladonna Took,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Halfling Citizen,"['nonfoil', 'foil']",False,2.24,2.97,,2026-10-12
+HOB,The Hobbit,5,Bilbo's Gambit,rare,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,1.66,2.66,,2026-10-12
+HOB,The Hobbit,6,"Bofur, Reliable Guardian // Concerted Care",uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Scout // Instant — Adventure,"['nonfoil', 'foil']",False,0.23,0.28,,2026-10-12
+HOB,The Hobbit,7,Celebrate the Mountain-king,uncommon,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,0.18,0.24,,2026-10-12
+HOB,The Hobbit,8,"Dáin, Lord of the Iron Hills",uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Noble,"['nonfoil', 'foil']",False,0.27,0.28,,2026-10-12
+HOB,The Hobbit,9,Dwarven Provisioner,common,False,['universesbeyond'],,black,2026-08-14,Creature — Dwarf Citizen,"['nonfoil', 'foil']",False,0.13,0.21,,2026-10-12
+HOB,The Hobbit,10,Dwarven Shortsword,common,False,['universesbeyond'],,black,2026-08-14,Artifact — Equipment,"['nonfoil', 'foil']",False,0.15,0.27,,2026-10-12
+HOB,The Hobbit,11,Eagle of the Great Shelf,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Bird Soldier,"['nonfoil', 'foil']",False,0.17,0.20,,2026-10-12
+HOB,The Hobbit,12,The Eagles Are Coming!,rare,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.67,0.68,,2026-10-12
+HOB,The Hobbit,13,Esgaroth Garrison,common,False,['universesbeyond'],,black,2026-08-14,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.09,0.23,,2026-10-12
+HOB,The Hobbit,14,Fíli the Pathfinder,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Scout,"['nonfoil', 'foil']",False,0.28,0.47,,2026-10-12
+HOB,The Hobbit,15,Gleaming Splendor,mythic,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,32.61,35.16,,2026-10-12
+HOB,The Hobbit,16,Iron Hills Blacksmith,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Dwarf Artificer,"['nonfoil', 'foil']",False,0.18,0.25,,2026-10-12
+HOB,The Hobbit,17,Kíli the Resourceful,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Scout,"['nonfoil', 'foil']",False,1.36,1.90,,2026-10-12
+HOB,The Hobbit,18,Lake-town Lookout,common,False,['universesbeyond'],,black,2026-08-14,Creature — Human Scout,"['nonfoil', 'foil']",False,0.13,0.25,,2026-10-12
+HOB,The Hobbit,19,Lake-town Toymaker,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Human Artificer,"['nonfoil', 'foil']",False,0.12,0.25,,2026-10-12
+HOB,The Hobbit,20,Magnificent End,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.09,0.20,,2026-10-12
+HOB,The Hobbit,21,Moment of Glory,common,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,0.10,0.19,,2026-10-12
+HOB,The Hobbit,22,The Mountain-king's Return,uncommon,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Saga,"['nonfoil', 'foil']",False,0.20,0.31,,2026-10-12
+HOB,The Hobbit,23,"Ori, Keeper of Songs",common,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Bard,"['nonfoil', 'foil']",False,0.09,0.22,,2026-10-12
+HOB,The Hobbit,24,The Queen of Dale,mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,17.71,18.56,,2026-10-12
+HOB,The Hobbit,25,"Roads Go Ever, Ever On",rare,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Saga,"['nonfoil', 'foil']",False,0.34,0.34,,2026-10-12
+HOB,The Hobbit,26,Settle the Wreckage,rare,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.48,0.53,,2026-10-12
+HOB,The Hobbit,27,Stone by Sunlight,uncommon,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.20,0.29,,2026-10-12
+HOB,The Hobbit,28,Thorin's Last Stand,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.09,0.17,,2026-10-12
+HOB,The Hobbit,29,An Unexpected Party // At the Door,rare,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.35,0.40,,2026-10-12
+HOB,The Hobbit,30,Velvetwing Butterflies // Gaze in Wonder,common,False,['universesbeyond'],,black,2026-08-14,Creature — Insect // Instant — Adventure,"['nonfoil', 'foil']",False,0.09,0.23,,2026-10-12
+HOB,The Hobbit,31,Vow to Erebor,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.08,0.28,,2026-10-12
+HOB,The Hobbit,32,"Bilbo, Luckwearer // Burglar's Plot",uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Halfling Rogue // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.21,0.18,,2026-10-12
+HOB,The Hobbit,33,"Bilbo, Thief in the Night",mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Halfling Rogue,"['nonfoil', 'foil']",False,6.37,7.14,,2026-10-12
+HOB,The Hobbit,34,"Bilbo Baggins, Burglar // Take a Glance",common,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Halfling Rogue // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.15,0.25,,2026-10-12
+HOB,The Hobbit,35,Confusticate and Bebother,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.18,0.32,,2026-10-12
+HOB,The Hobbit,36,"Elrond, Moon-Reader",mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Elf Noble,"['nonfoil', 'foil']",False,1.59,2.35,,2026-10-12
+HOB,The Hobbit,37,Elven Raft-Steerer,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Pilot,"['nonfoil', 'foil']",False,0.28,0.31,,2026-10-12
+HOB,The Hobbit,38,Elvenking's Harper,common,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Bard,"['nonfoil', 'foil']",False,0.09,0.20,,2026-10-12
+HOB,The Hobbit,39,Enchanted River's Grasp,common,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Aura,"['nonfoil', 'foil']",False,0.17,0.20,,2026-10-12
+HOB,The Hobbit,40,Fateful Discovery,mythic,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,3.35,4.02,,2026-10-12
+HOB,The Hobbit,41,"Gandalf, Wandering Wizard",common,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Avatar Wizard,"['nonfoil', 'foil']",False,0.14,0.21,,2026-10-12
+HOB,The Hobbit,42,Great Gilded Boat,rare,False,['universesbeyond'],,black,2026-08-14,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.22,0.30,,2026-10-12
+HOB,The Hobbit,43,Lakeshore Apothecary,common,False,['universesbeyond'],,black,2026-08-14,Creature — Human Cleric,"['nonfoil', 'foil']",False,0.05,0.21,,2026-10-12
+HOB,The Hobbit,44,Lake-town Mariners // Gone Fishing,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Human Citizen // Instant — Adventure,"['nonfoil', 'foil']",False,0.11,0.17,,2026-10-12
+HOB,The Hobbit,45,Long Lake Nuisance,common,False,['universesbeyond'],,black,2026-08-14,Creature — Bird,"['nonfoil', 'foil']",False,0.06,0.17,,2026-10-12
+HOB,The Hobbit,46,The Lord of the Eagles,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Bird Noble,"['nonfoil', 'foil']",False,0.38,0.41,,2026-10-12
+HOB,The Hobbit,47,Master's Councillors,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Human Advisor,"['nonfoil', 'foil']",False,0.15,1.10,,2026-10-12
+HOB,The Hobbit,48,Mirkwood Meditator,common,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Druid,"['nonfoil', 'foil']",False,0.12,0.15,,2026-10-12
+HOB,The Hobbit,49,Most Decrepit Old Bird // Speak Secrets,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Bird // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.31,0.34,,2026-10-12
+HOB,The Hobbit,50,Old Fat Spider Can't See Me,uncommon,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Saga,"['nonfoil', 'foil']",False,0.19,0.30,,2026-10-12
+HOB,The Hobbit,51,Plunder the Trollshaws,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.18,0.32,,2026-10-12
+HOB,The Hobbit,52,Ravenhill Flock,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Bird,"['nonfoil', 'foil']",False,0.20,0.27,,2026-10-12
+HOB,The Hobbit,53,Riddles in the Dark,rare,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.24,0.29,,2026-10-12
+HOB,The Hobbit,54,Roll-Roll-Roll-Roll,rare,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Saga,"['nonfoil', 'foil']",False,0.31,0.45,,2026-10-12
+HOB,The Hobbit,55,Sound the Trumpets,uncommon,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.12,0.26,,2026-10-12
+HOB,The Hobbit,56,Thranduil's Decree,uncommon,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.19,0.27,,2026-10-12
+HOB,The Hobbit,57,Uncover the Moon-Letters,rare,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,0.34,0.35,,2026-10-12
+HOB,The Hobbit,58,Uneasy Partings,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.08,0.18,,2026-10-12
+HOB,The Hobbit,59,Wizard's Staff,rare,False,['universesbeyond'],,black,2026-08-14,Artifact — Equipment,"['nonfoil', 'foil']",False,3.82,3.81,,2026-10-12
+HOB,The Hobbit,60,Along the Crooked Way,rare,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,0.26,0.28,,2026-10-12
+HOB,The Hobbit,61,"Azog, Moria's Ruin",rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Goblin Soldier,"['nonfoil', 'foil']",False,0.33,0.41,,2026-10-12
+HOB,The Hobbit,62,Bilbo's Deadly Slice,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.14,0.25,,2026-10-12
+HOB,The Hobbit,63,Crude Bent Blade,common,False,['universesbeyond'],,black,2026-08-14,Artifact — Equipment,"['nonfoil', 'foil']",False,0.16,0.27,,2026-10-12
+HOB,The Hobbit,64,Desolation Prowler,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.22,0.27,,2026-10-12
+HOB,The Hobbit,65,"Down, Down to Goblin-town",uncommon,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Saga,"['nonfoil', 'foil']",False,0.17,0.29,,2026-10-12
+HOB,The Hobbit,66,Dreaded Bat-Cloud,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Bat,"['nonfoil', 'foil']",False,0.18,0.20,,2026-10-12
+HOB,The Hobbit,67,Front Porch Sentries,common,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Soldier,"['nonfoil', 'foil']",False,0.08,0.22,,2026-10-12
+HOB,The Hobbit,68,Gathering of Darkness,uncommon,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,0.20,0.29,,2026-10-12
+HOB,The Hobbit,69,Gnashing of Teeth,uncommon,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,0.16,0.22,,2026-10-12
+HOB,The Hobbit,70,"Gollum, Riddle Master",mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Halfling Horror,"['nonfoil', 'foil']",False,1.82,2.14,,2026-10-12
+HOB,The Hobbit,71,"Gollum, Silent Slinker // Meager Meal",common,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Halfling Horror // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.10,0.16,,2026-10-12
+HOB,The Hobbit,72,Gollum the Abandoned,uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Halfling Horror,"['nonfoil', 'foil']",False,0.19,0.25,,2026-10-12
+HOB,The Hobbit,73,Great Fierce Bee,common,False,['universesbeyond'],,black,2026-08-14,Creature — Insect,"['nonfoil', 'foil']",False,0.15,0.28,,2026-10-12
+HOB,The Hobbit,74,Great Ugly-Looking Goblin // Clap! Snap!,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Soldier // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.18,0.23,,2026-10-12
+HOB,The Hobbit,75,Head of the Hunt,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.39,0.45,,2026-10-12
+HOB,The Hobbit,76,Inside Information,mythic,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,1.73,2.11,,2026-10-12
+HOB,The Hobbit,77,The Master of Lake-town,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Human Advisor,"['nonfoil', 'foil']",False,0.67,0.70,,2026-10-12
+HOB,The Hobbit,78,Nighthowl Pursuer,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.19,0.32,,2026-10-12
+HOB,The Hobbit,79,Rage into the Valley,common,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,0.13,0.27,,2026-10-12
+HOB,The Hobbit,80,Ravening Warg,common,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.23,0.23,,2026-10-12
+HOB,The Hobbit,81,Reverent Howl,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.20,0.23,,2026-10-12
+HOB,The Hobbit,82,Rhovanion Rampager,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.23,0.33,,2026-10-12
+HOB,The Hobbit,83,The Sackville-Bagginses,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Halfling Citizen,"['nonfoil', 'foil']",False,1.43,1.19,,2026-10-12
+HOB,The Hobbit,84,Stir Up Trouble,common,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,0.13,0.20,,2026-10-12
+HOB,The Hobbit,85,Stony-Voiced Goblins,common,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Bard,"['nonfoil', 'foil']",False,0.18,0.26,,2026-10-12
+HOB,The Hobbit,86,Supper for Spiders,rare,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.85,0.33,,2026-10-12
+HOB,The Hobbit,87,"Balin, Loremaster",rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Bard,"['nonfoil', 'foil']",False,0.29,0.46,,2026-10-12
+HOB,The Hobbit,88,"Bombur, Gentle Dreamer",uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Bard,"['nonfoil', 'foil']",False,0.16,0.29,,2026-10-12
+HOB,The Hobbit,89,Bothersome Noisemaker,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Bard,"['nonfoil', 'foil']",False,0.23,0.28,,2026-10-12
+HOB,The Hobbit,90,"Burn, Burn, Tree and Fern",uncommon,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Saga,"['nonfoil', 'foil']",False,0.20,0.31,,2026-10-12
+HOB,The Hobbit,91,Dáin Ironfoot,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,0.27,0.37,,2026-10-12
+HOB,The Hobbit,92,Desert Were-Worm,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Dragon Wurm,"['nonfoil', 'foil']",False,0.41,0.37,,2026-10-12
+HOB,The Hobbit,93,Desolation of Smaug,rare,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,0.35,0.50,,2026-10-12
+HOB,The Hobbit,94,"Dori, Bearer of Friends",common,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,0.17,0.21,,2026-10-12
+HOB,The Hobbit,95,Dwarven Mauler,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,0.24,0.31,,2026-10-12
+HOB,The Hobbit,96,"Gandalf, Goblins' Bane // Flameshape",mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Avatar Wizard // Sorcery — Adventure,"['nonfoil', 'foil']",False,4.84,5.04,,2026-10-12
+HOB,The Hobbit,97,"Gandalf, Spark Starter",uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Avatar Wizard,"['nonfoil', 'foil']",False,0.12,0.19,,2026-10-12
+HOB,The Hobbit,98,Getaway Barrel,rare,False,['universesbeyond'],,black,2026-08-14,Artifact,"['nonfoil', 'foil']",False,0.18,0.32,,2026-10-12
+HOB,The Hobbit,99,Glóin the Mighty // Easy Pickings,uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Warrior // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.18,0.28,,2026-10-12
+HOB,The Hobbit,100,Goblin-town Flunkies,common,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Soldier,"['nonfoil', 'foil']",False,0.14,0.27,,2026-10-12
+HOB,The Hobbit,101,Gundabad Opportunist,common,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Rogue,"['nonfoil', 'foil']",False,0.10,0.17,,2026-10-12
+HOB,The Hobbit,102,Iron Hills Stalwart,common,False,['universesbeyond'],,black,2026-08-14,Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,0.14,0.17,,2026-10-12
+HOB,The Hobbit,103,Last Light of Durin's Day,rare,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,0.32,0.37,,2026-10-12
+HOB,The Hobbit,104,The Misty Mountains Cold,rare,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Saga,"['nonfoil', 'foil']",False,0.44,0.38,,2026-10-12
+HOB,The Hobbit,105,Misty Mountains Raider,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Soldier,"['nonfoil', 'foil']",False,0.22,0.32,,2026-10-12
+HOB,The Hobbit,106,Óin the Brave,common,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,0.18,0.25,,2026-10-12
+HOB,The Hobbit,107,Pinecone Strike,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.15,0.23,,2026-10-12
+HOB,The Hobbit,108,Ragged Short Spear,common,False,['universesbeyond'],,black,2026-08-14,Artifact — Equipment,"['nonfoil', 'foil']",False,0.15,0.23,,2026-10-12
+HOB,The Hobbit,109,"Smaug, the Great Calamity // Spew Flame",common,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dragon // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.19,0.27,,2026-10-12
+HOB,The Hobbit,110,Smaug the Magnificent,mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dragon,"['nonfoil', 'foil']",False,18.75,20.17,,2026-10-12
+HOB,The Hobbit,111,Smaug's Fury,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.12,0.18,,2026-10-12
+HOB,The Hobbit,112,Snowslope Hunter,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Ranger,"['nonfoil', 'foil']",False,0.15,0.25,,2026-10-12
+HOB,The Hobbit,113,Stone-Giant of High Pass,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Giant,"['nonfoil', 'foil']",False,0.20,0.30,,2026-10-12
+HOB,The Hobbit,114,"Thorin, Mountain-king",mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Noble,"['nonfoil', 'foil']",False,2.93,3.76,,2026-10-12
+HOB,The Hobbit,115,Tidings of War,common,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,0.22,0.27,,2026-10-12
+HOB,The Hobbit,116,Attercop,common,False,['universesbeyond'],,black,2026-08-14,Creature — Spider,"['nonfoil', 'foil']",False,0.16,0.31,,2026-10-12
+HOB,The Hobbit,117,Bejeweled Warg,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.45,0.40,,2026-10-12
+HOB,The Hobbit,118,"Beorn, Reluctant Host // Till and Tend",common,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Human Bear Shapeshifter // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.17,0.30,,2026-10-12
+HOB,The Hobbit,119,Beorn the Fierce,mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Bear Shapeshifter Warrior,"['nonfoil', 'foil']",False,4.56,4.84,,2026-10-12
+HOB,The Hobbit,120,Beorn's Hospitality,uncommon,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,0.32,0.35,,2026-10-12
+HOB,The Hobbit,121,Boughside Wanderers,common,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Scout,"['nonfoil', 'foil']",False,0.12,0.24,,2026-10-12
+HOB,The Hobbit,122,Cantankerous Keepers,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Soldier,"['nonfoil', 'foil']",False,0.27,0.32,,2026-10-12
+HOB,The Hobbit,123,Dancing from Dark to Dawn,mythic,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,6.44,6.79,,2026-10-12
+HOB,The Hobbit,124,Down in the Valley,rare,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Saga,"['nonfoil', 'foil']",False,0.30,0.33,,2026-10-12
+HOB,The Hobbit,125,"Galion, Elvenking's Butler",uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Elf Advisor,"['nonfoil', 'foil']",False,0.12,0.25,,2026-10-12
+HOB,The Hobbit,126,Gigantic Big Bear,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Bear,"['nonfoil', 'foil']",False,0.51,0.52,,2026-10-12
+HOB,The Hobbit,127,Guardian of the Halls,common,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Soldier,"['nonfoil', 'foil']",False,0.10,0.24,,2026-10-12
+HOB,The Hobbit,128,Little Bear,common,False,['universesbeyond'],,black,2026-08-14,Creature — Bear,"['nonfoil', 'foil']",False,0.23,0.25,,2026-10-12
+HOB,The Hobbit,129,Mirkwood Pathmaker,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Ranger,"['nonfoil', 'foil']",False,0.17,0.31,,2026-10-12
+HOB,The Hobbit,130,Nasty Little Rabbit,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Rabbit,"['nonfoil', 'foil']",False,0.27,0.35,,2026-10-12
+HOB,The Hobbit,131,The Notary Hobbits,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Halfling Advisor,"['nonfoil', 'foil']",False,0.57,0.71,,2026-10-12
+HOB,The Hobbit,132,Old Fat Spider,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Spider,"['nonfoil', 'foil']",False,0.19,0.24,,2026-10-12
+HOB,The Hobbit,133,Ordinary Bear,common,False,['universesbeyond'],,black,2026-08-14,Creature — Bear,"['nonfoil', 'foil']",False,0.12,0.34,,2026-10-12
+HOB,The Hobbit,134,Part in Friendship,rare,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,0.21,0.29,,2026-10-12
+HOB,The Hobbit,135,Quarrel,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.14,0.26,,2026-10-12
+HOB,The Hobbit,136,Radagast of Rhosgobel,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Avatar Wizard,"['nonfoil', 'foil']",False,2.51,2.87,,2026-10-12
+HOB,The Hobbit,137,Through the Forest Gate,rare,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,1.99,1.40,,2026-10-12
+HOB,The Hobbit,138,Troll Negotiations,uncommon,False,['universesbeyond'],,black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,0.12,0.14,,2026-10-12
+HOB,The Hobbit,139,Warg Tactics,common,False,['universesbeyond'],,black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.22,0.33,,2026-10-12
+HOB,The Hobbit,140,Wargling,common,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.17,0.27,,2026-10-12
+HOB,The Hobbit,141,Wilderland Scrounger,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.20,0.28,,2026-10-12
+HOB,The Hobbit,142,Wood Elves,common,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Scout,"['nonfoil', 'foil']",False,0.29,0.30,,2026-10-12
+HOB,The Hobbit,143,Woodland Weavemaster,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Druid,"['nonfoil', 'foil']",False,0.20,0.31,,2026-10-12
+HOB,The Hobbit,144,"Bard, King of Dale",mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Human Noble Archer,"['nonfoil', 'foil']",False,3.35,3.62,,2026-10-12
+HOB,The Hobbit,145,Bard the Bowman,uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Human Archer,"['nonfoil', 'foil']",False,0.20,0.26,,2026-10-12
+HOB,The Hobbit,146,Bard's Company,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Human Citizen,"['nonfoil', 'foil']",False,0.21,0.33,,2026-10-12
+HOB,The Hobbit,147,"Bifur, Melodic Rider",uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Bard,"['nonfoil', 'foil']",False,0.18,0.28,,2026-10-12
+HOB,The Hobbit,148,Bolg of the North,uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Goblin Soldier,"['nonfoil', 'foil']",False,0.20,0.26,,2026-10-12
+HOB,The Hobbit,149,Bolg's Company,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Soldier,"['nonfoil', 'foil']",False,0.33,0.33,,2026-10-12
+HOB,The Hobbit,150,The Chief Warg,uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Wolf,"['nonfoil', 'foil']",False,0.22,0.22,,2026-10-12
+HOB,The Hobbit,151,Chief Warg's Company,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.30,0.45,,2026-10-12
+HOB,The Hobbit,152,Dáin's Company,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,0.32,0.40,,2026-10-12
+HOB,The Hobbit,153,Duskwatch Hunter,common,False,['universesbeyond'],,black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.12,0.26,,2026-10-12
+HOB,The Hobbit,154,"Dwalin, Weaponmaster",rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,0.43,0.48,,2026-10-12
+HOB,The Hobbit,155,Eagle's Rescue,uncommon,False,['universesbeyond'],['enchantment'],black,2026-08-14,Enchantment — Aura,"['nonfoil', 'foil']",False,0.10,0.21,,2026-10-12
+HOB,The Hobbit,156,Fearsome Goblin Pair,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Goblin Soldier,"['nonfoil', 'foil']",False,0.21,0.30,,2026-10-12
+HOB,The Hobbit,157,Goblin Plate Mail,common,False,['universesbeyond'],,black,2026-08-14,Artifact — Equipment,"['nonfoil', 'foil']",False,0.14,0.26,,2026-10-12
+HOB,The Hobbit,158,The Great Goblin,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Goblin Noble,"['nonfoil', 'foil']",False,0.72,1.04,,2026-10-12
+HOB,The Hobbit,159,Large Bear,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Bear,"['nonfoil', 'foil']",False,0.23,0.31,,2026-10-12
+HOB,The Hobbit,160,Mirkwood Nurturer,common,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Ranger,"['nonfoil', 'foil']",False,0.15,0.21,,2026-10-12
+HOB,The Hobbit,161,"Nori, Teller of Tales",common,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Bard,"['nonfoil', 'foil']",False,0.10,0.24,,2026-10-12
+HOB,The Hobbit,162,Patient Instructor,common,False,['universesbeyond'],,black,2026-08-14,Creature — Human Citizen,"['nonfoil', 'foil']",False,0.13,0.22,,2026-10-12
+HOB,The Hobbit,163,Silvan Reveler,uncommon,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Citizen,"['nonfoil', 'foil']",False,0.17,0.24,,2026-10-12
+HOB,The Hobbit,164,"Smaug, Wicked Worm",rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dragon,"['nonfoil', 'foil']",False,1.78,1.76,,2026-10-12
+HOB,The Hobbit,165,Thorin Oakenshield,uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Dwarf Noble,"['nonfoil', 'foil']",False,0.22,0.24,,2026-10-12
+HOB,The Hobbit,166,"Thranduil, Sindarin Liege // Silvan Rally",uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Elf Noble // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.24,0.26,,2026-10-12
+HOB,The Hobbit,167,"Thranduil, the Elvenking",rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Elf Noble,"['nonfoil', 'foil']",False,0.54,0.77,,2026-10-12
+HOB,The Hobbit,168,Thranduil's Company,rare,False,['universesbeyond'],,black,2026-08-14,Creature — Elf Soldier,"['nonfoil', 'foil']",False,0.50,0.64,,2026-10-12
+HOB,The Hobbit,169,"Tom, Bert, and William",rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Creature — Troll,"['nonfoil', 'foil']",False,0.31,0.37,,2026-10-12
+HOB,The Hobbit,170,The Arkenstone // Seek the Heart,mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Artifact // Sorcery — Adventure,"['nonfoil', 'foil']",False,7.57,7.52,,2026-10-12
+HOB,The Hobbit,171,The Black Arrow,uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,0.16,0.29,,2026-10-12
+HOB,The Hobbit,172,Dwarven Mattock,uncommon,False,['universesbeyond'],,black,2026-08-14,Artifact — Equipment,"['nonfoil', 'foil']",False,0.21,0.26,,2026-10-12
+HOB,The Hobbit,173,Giant's Boulder,common,False,['universesbeyond'],,black,2026-08-14,Artifact,"['nonfoil', 'foil']",False,0.22,0.57,,2026-10-12
+HOB,The Hobbit,174,"Glamdring, Foe-hammer // Gleam of Death",rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Artifact — Equipment // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.73,1.04,,2026-10-12
+HOB,The Hobbit,175,Key to the Side-Door,uncommon,False,['universesbeyond'],,black,2026-08-14,Artifact,"['nonfoil', 'foil']",False,0.26,0.27,,2026-10-12
+HOB,The Hobbit,176,My Precious // Allure of Power,rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Artifact — Equipment // Instant — Adventure,"['nonfoil', 'foil']",False,1.73,2.43,,2026-10-12
+HOB,The Hobbit,177,"Orcrist, Goblin-cleaver",mythic,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,8.19,8.44,,2026-10-12
+HOB,The Hobbit,178,"Sting, Bilbo's Sword",rare,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,0.49,0.52,,2026-10-12
+HOB,The Hobbit,179,Thrór's Map,uncommon,False,['universesbeyond'],['legendary'],black,2026-08-14,Legendary Artifact,"['nonfoil', 'foil']",False,0.24,0.32,,2026-10-12
+HOB,The Hobbit,180,Well-Worn Spatula,common,False,['universesbeyond'],,black,2026-08-14,Artifact — Equipment,"['nonfoil', 'foil']",False,0.07,0.19,,2026-10-12
+HOB,The Hobbit,181,Elven Passage,rare,False,['universesbeyond'],,black,2026-08-14,Land,"['nonfoil', 'foil']",False,0.94,0.89,,2026-10-12
+HOB,The Hobbit,182,Elvenking's Halls,common,False,['universesbeyond'],,black,2026-08-14,Land,"['nonfoil', 'foil']",False,0.17,0.17,,2026-10-12
+HOB,The Hobbit,183,Goblin-town,common,False,['universesbeyond'],,black,2026-08-14,Land,"['nonfoil', 'foil']",False,0.23,0.25,,2026-10-12
+HOB,The Hobbit,184,Hobbit Hole,common,False,['universesbeyond'],,black,2026-08-14,Land,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+HOB,The Hobbit,185,Iron Hills,common,False,['universesbeyond'],,black,2026-08-14,Land,"['nonfoil', 'foil']",False,0.20,0.23,,2026-10-12
+HOB,The Hobbit,186,Lake-town,common,False,['universesbeyond'],,black,2026-08-14,Land,"['nonfoil', 'foil']",False,0.17,0.22,,2026-10-12
+HOB,The Hobbit,187,The Lonely Mountain,rare,False,['universesbeyond'],,black,2026-08-14,Land — Mountain,"['nonfoil', 'foil']",False,1.07,1.13,,2026-10-12
+HOB,The Hobbit,188,Mirkwood,common,False,['universesbeyond'],,black,2026-08-14,Land,"['nonfoil', 'foil']",False,0.15,0.27,,2026-10-12
+HOB,The Hobbit,189,Plains,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Plains,"['nonfoil', 'foil']",False,0.19,0.30,,2026-10-12
+HOB,The Hobbit,190,Island,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Island,"['nonfoil', 'foil']",False,0.20,0.24,,2026-10-12
+HOB,The Hobbit,191,Swamp,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.14,0.25,,2026-10-12
+HOB,The Hobbit,192,Mountain,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.15,0.28,,2026-10-12
+HOB,The Hobbit,193,Forest,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Forest,"['nonfoil', 'foil']",False,0.18,0.23,,2026-10-12
+HOB,The Hobbit,194,Plains,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Plains,"['nonfoil', 'foil']",False,0.32,0.42,,2026-10-12
+HOB,The Hobbit,195,Island,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Island,"['nonfoil', 'foil']",False,0.28,0.34,,2026-10-12
+HOB,The Hobbit,196,Swamp,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.30,0.36,,2026-10-12
+HOB,The Hobbit,197,Mountain,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.31,0.44,,2026-10-12
+HOB,The Hobbit,198,Forest,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Forest,"['nonfoil', 'foil']",False,0.31,0.38,,2026-10-12
+HOB,The Hobbit,199,Troop of Ponies,uncommon,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Creature — Horse,"['nonfoil', 'foil']",False,0.36,0.40,,2026-10-12
+HOB,The Hobbit,200,Rage into the Valley,common,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,0.21,0.23,,2026-10-12
+HOB,The Hobbit,201,The Great Goblin,rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Goblin Noble,"['nonfoil', 'foil']",False,2.34,3.49,,2026-10-12
+HOB,The Hobbit,202,Thorin Oakenshield,uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Dwarf Noble,"['nonfoil', 'foil']",False,0.29,0.33,,2026-10-12
+HOB,The Hobbit,203,"Gandalf, Spark Starter",uncommon,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Avatar Wizard,"['nonfoil', 'foil']",False,0.19,0.31,,2026-10-12
+HOB,The Hobbit,204,"Glamdring, Foe-hammer // Gleam of Death",rare,False,['universesbeyond'],"['legendary', 'inverted']",borderless,2026-08-14,Legendary Artifact — Equipment // Sorcery — Adventure,"['nonfoil', 'foil']",False,2.34,4.11,,2026-10-12
+HOB,The Hobbit,205,The Eagles Are Coming!,rare,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Instant,"['nonfoil', 'foil']",False,1.93,3.38,,2026-10-12
+HOB,The Hobbit,206,Dreaded Bat-Cloud,uncommon,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Creature — Bat,"['nonfoil', 'foil']",False,0.22,0.26,,2026-10-12
+HOB,The Hobbit,207,The Lonely Mountain,rare,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Land — Mountain,"['nonfoil', 'foil']",False,4.18,7.89,,2026-10-12
+HOB,The Hobbit,208,Chief Warg's Company,rare,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,1.37,2.34,,2026-10-12
+HOB,The Hobbit,209,Thorin's Last Stand,common,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.14,0.28,,2026-10-12
+HOB,The Hobbit,210,Bard's Company,rare,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Creature — Human Citizen,"['nonfoil', 'foil']",False,1.16,1.49,,2026-10-12
+HOB,The Hobbit,211,Bolg's Company,rare,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Creature — Goblin Soldier,"['nonfoil', 'foil']",False,0.99,2.11,,2026-10-12
+HOB,The Hobbit,212,Dáin's Company,rare,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,1.50,2.31,,2026-10-12
+HOB,The Hobbit,213,Thranduil's Company,rare,False,['universesbeyond'],['inverted'],borderless,2026-08-14,Creature — Elf Soldier,"['nonfoil', 'foil']",False,2.09,3.03,,2026-10-12
+HOB,The Hobbit,214,Belladonna Took,rare,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Halfling Citizen,"['nonfoil', 'foil']",False,3.92,5.16,,2026-10-12
+HOB,The Hobbit,215,"Bofur, Reliable Guardian // Concerted Care",uncommon,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Dwarf Scout // Instant — Adventure,"['nonfoil', 'foil']",False,0.22,0.29,,2026-10-12
+HOB,The Hobbit,216,Iron Hills Blacksmith,uncommon,False,['universesbeyond'],['showcase'],borderless,2026-08-14,Creature — Dwarf Artificer,"['nonfoil', 'foil']",False,0.20,0.25,,2026-10-12
+HOB,The Hobbit,217,The Queen of Dale,mythic,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,19.30,33.22,,2026-10-12
+HOB,The Hobbit,218,"Bilbo, Luckwearer // Burglar's Plot",uncommon,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Halfling Rogue // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.29,0.31,,2026-10-12
+HOB,The Hobbit,219,"Bilbo, Thief in the Night",mythic,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Halfling Rogue,"['nonfoil', 'foil']",False,7.00,15.19,,2026-10-12
+HOB,The Hobbit,220,Fateful Discovery,mythic,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,5.97,7.70,,2026-10-12
+HOB,The Hobbit,221,Most Decrepit Old Bird // Speak Secrets,rare,False,['universesbeyond'],['showcase'],borderless,2026-08-14,Creature — Bird // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.42,1.09,,2026-10-12
+HOB,The Hobbit,222,"Azog, Moria's Ruin",rare,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Goblin Soldier,"['nonfoil', 'foil']",False,0.92,1.70,,2026-10-12
+HOB,The Hobbit,223,Great Ugly-Looking Goblin // Clap! Snap!,uncommon,False,['universesbeyond'],['showcase'],borderless,2026-08-14,Creature — Goblin Soldier // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.24,0.26,,2026-10-12
+HOB,The Hobbit,224,Head of the Hunt,rare,False,['universesbeyond'],['showcase'],borderless,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.96,1.34,,2026-10-12
+HOB,The Hobbit,225,Desert Were-Worm,rare,False,['universesbeyond'],['showcase'],borderless,2026-08-14,Creature — Dragon Wurm,"['nonfoil', 'foil']",False,1.18,1.54,,2026-10-12
+HOB,The Hobbit,226,Desolation of Smaug,rare,False,['universesbeyond'],['showcase'],borderless,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,1.28,1.73,,2026-10-12
+HOB,The Hobbit,227,Glóin the Mighty // Easy Pickings,uncommon,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Dwarf Warrior // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.28,0.31,,2026-10-12
+HOB,The Hobbit,228,Last Light of Durin's Day,rare,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,0.66,0.89,,2026-10-12
+HOB,The Hobbit,229,Smaug the Magnificent,mythic,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Dragon,"['nonfoil', 'foil']",False,30.23,63.99,,2026-10-12
+HOB,The Hobbit,230,Beorn the Fierce,mythic,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Bear Shapeshifter Warrior,"['nonfoil', 'foil']",False,9.69,19.91,,2026-10-12
+HOB,The Hobbit,231,Dancing from Dark to Dawn,mythic,False,['universesbeyond'],"['showcase', 'enchantment']",borderless,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,6.77,11.59,,2026-10-12
+HOB,The Hobbit,232,The Notary Hobbits,rare,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Halfling Advisor,"['nonfoil', 'foil']",False,1.50,2.64,,2026-10-12
+HOB,The Hobbit,233,"Thranduil, Sindarin Liege // Silvan Rally",uncommon,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Elf Noble // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.29,0.33,,2026-10-12
+HOB,The Hobbit,234,The Arkenstone // Seek the Heart,mythic,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Artifact // Sorcery — Adventure,"['nonfoil', 'foil']",False,18.81,32.29,,2026-10-12
+HOB,The Hobbit,235,My Precious // Allure of Power,rare,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Artifact — Equipment // Instant — Adventure,"['nonfoil', 'foil']",False,2.92,4.80,,2026-10-12
+HOB,The Hobbit,236,"Orcrist, Goblin-cleaver",mythic,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,10.65,23.04,,2026-10-12
+HOB,The Hobbit,237,"Sting, Bilbo's Sword",rare,False,['universesbeyond'],"['legendary', 'showcase']",borderless,2026-08-14,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,0.98,1.30,,2026-10-12
+HOB,The Hobbit,238,Elven Passage,rare,False,['universesbeyond'],['showcase'],borderless,2026-08-14,Land,"['nonfoil', 'foil']",False,1.24,2.09,,2026-10-12
+HOB,The Hobbit,239,Gleaming Splendor,mythic,False,"['poster', 'universesbeyond']","['enchantment', 'inverted']",borderless,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,57.96,117.75,,2026-10-12
+HOB,The Hobbit,240,The Lord of the Eagles,rare,False,"['poster', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Bird Noble,"['nonfoil', 'foil']",False,2.30,3.91,,2026-10-12
+HOB,The Hobbit,241,"Gollum, Riddle Master",mythic,False,"['poster', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Halfling Horror,"['nonfoil', 'foil']",False,11.00,15.37,,2026-10-12
+HOB,The Hobbit,242,"Gandalf, Goblins' Bane // Flameshape",mythic,False,"['poster', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Avatar Wizard // Sorcery — Adventure,"['nonfoil', 'foil']",False,16.65,33.23,,2026-10-12
+HOB,The Hobbit,243,"Thorin, Mountain-king",mythic,False,"['poster', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Dwarf Noble,"['nonfoil', 'foil']",False,18.03,27.97,,2026-10-12
+HOB,The Hobbit,244,"Bard, King of Dale",mythic,False,"['poster', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Human Noble Archer,"['nonfoil', 'foil']",False,13.71,24.61,,2026-10-12
+HOB,The Hobbit,245,"Smaug, Wicked Worm",rare,False,"['poster', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Dragon,"['nonfoil', 'foil']",False,7.39,12.30,,2026-10-12
+HOB,The Hobbit,246,"Thranduil, the Elvenking",rare,False,"['poster', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Elf Noble,"['nonfoil', 'foil']",False,4.85,8.48,,2026-10-12
+HOB,The Hobbit,247,The Arkenstone // Seek the Heart,mythic,False,"['poster', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Artifact // Sorcery — Adventure,"['nonfoil', 'foil']",False,48.24,71.36,,2026-10-12
+HOB,The Hobbit,248,The Lonely Mountain,rare,False,"['poster', 'universesbeyond']",['inverted'],borderless,2026-08-14,Land — Mountain,"['nonfoil', 'foil']",False,13.13,14.42,,2026-10-12
+HOB,The Hobbit,249,Smaug the Magnificent,mythic,False,"['poster', 'headliner', 'gleaminggold', 'universesbeyond']",['legendary'],black,2026-08-14,Legendary Creature — Dragon,['foil'],False,,24500.00,,2026-10-12
+HOB,The Hobbit,250,Belladonna Took,rare,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Halfling Citizen,['foil'],False,,26.40,,2026-10-12
+HOB,The Hobbit,251,"Bofur, Reliable Guardian // Concerted Care",uncommon,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Dwarf Scout // Instant — Adventure,['foil'],False,,2.42,,2026-10-12
+HOB,The Hobbit,252,Iron Hills Blacksmith,uncommon,False,"['surgefoil', 'universesbeyond']",['showcase'],borderless,2026-08-14,Creature — Dwarf Artificer,['foil'],False,,1.33,,2026-10-12
+HOB,The Hobbit,253,The Queen of Dale,mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Human Noble,['foil'],False,,126.05,,2026-10-12
+HOB,The Hobbit,254,"Bilbo, Luckwearer // Burglar's Plot",uncommon,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Halfling Rogue // Sorcery — Adventure,['foil'],False,,1.96,,2026-10-12
+HOB,The Hobbit,255,"Bilbo, Thief in the Night",mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Halfling Rogue,['foil'],False,,60.12,,2026-10-12
+HOB,The Hobbit,256,Fateful Discovery,mythic,False,"['surgefoil', 'universesbeyond']","['showcase', 'enchantment']",borderless,2026-08-14,Enchantment,['foil'],False,,27.54,,2026-10-12
+HOB,The Hobbit,257,Most Decrepit Old Bird // Speak Secrets,rare,False,"['surgefoil', 'universesbeyond']",['showcase'],borderless,2026-08-14,Creature — Bird // Sorcery — Adventure,['foil'],False,,4.95,,2026-10-12
+HOB,The Hobbit,258,"Azog, Moria's Ruin",rare,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Goblin Soldier,['foil'],False,,5.98,,2026-10-12
+HOB,The Hobbit,259,Great Ugly-Looking Goblin // Clap! Snap!,uncommon,False,"['surgefoil', 'universesbeyond']",['showcase'],borderless,2026-08-14,Creature — Goblin Soldier // Sorcery — Adventure,['foil'],False,,1.25,,2026-10-12
+HOB,The Hobbit,260,Head of the Hunt,rare,False,"['surgefoil', 'universesbeyond']",['showcase'],borderless,2026-08-14,Creature — Wolf,['foil'],False,,8.16,,2026-10-12
+HOB,The Hobbit,261,Desert Were-Worm,rare,False,"['surgefoil', 'universesbeyond']",['showcase'],borderless,2026-08-14,Creature — Dragon Wurm,['foil'],False,,6.97,,2026-10-12
+HOB,The Hobbit,262,Desolation of Smaug,rare,False,"['surgefoil', 'universesbeyond']",['showcase'],borderless,2026-08-14,Sorcery,['foil'],False,,10.66,,2026-10-12
+HOB,The Hobbit,263,Glóin the Mighty // Easy Pickings,uncommon,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Dwarf Warrior // Sorcery — Adventure,['foil'],False,,2.16,,2026-10-12
+HOB,The Hobbit,264,Last Light of Durin's Day,rare,False,"['surgefoil', 'universesbeyond']","['showcase', 'enchantment']",borderless,2026-08-14,Enchantment,['foil'],False,,5.66,,2026-10-12
+HOB,The Hobbit,265,Smaug the Magnificent,mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Dragon,['foil'],False,,204.25,,2026-10-12
+HOB,The Hobbit,266,Beorn the Fierce,mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Bear Shapeshifter Warrior,['foil'],False,,62.51,,2026-10-12
+HOB,The Hobbit,267,Dancing from Dark to Dawn,mythic,False,"['surgefoil', 'universesbeyond']","['showcase', 'enchantment']",borderless,2026-08-14,Enchantment,['foil'],False,,40.21,,2026-10-12
+HOB,The Hobbit,268,The Notary Hobbits,rare,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Halfling Advisor,['foil'],False,,18.81,,2026-10-12
+HOB,The Hobbit,269,"Thranduil, Sindarin Liege // Silvan Rally",uncommon,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Creature — Elf Noble // Sorcery — Adventure,['foil'],False,,3.09,,2026-10-12
+HOB,The Hobbit,270,The Arkenstone // Seek the Heart,mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Artifact // Sorcery — Adventure,['foil'],False,,91.75,,2026-10-12
+HOB,The Hobbit,271,My Precious // Allure of Power,rare,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Artifact — Equipment // Instant — Adventure,['foil'],False,,21.05,,2026-10-12
+HOB,The Hobbit,272,"Orcrist, Goblin-cleaver",mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Artifact — Equipment,['foil'],False,,77.11,,2026-10-12
+HOB,The Hobbit,273,"Sting, Bilbo's Sword",rare,False,"['surgefoil', 'universesbeyond']","['legendary', 'showcase']",borderless,2026-08-14,Legendary Artifact — Equipment,['foil'],False,,8.33,,2026-10-12
+HOB,The Hobbit,274,Elven Passage,rare,False,"['surgefoil', 'universesbeyond']",['showcase'],borderless,2026-08-14,Land,['foil'],False,,12.88,,2026-10-12
+HOB,The Hobbit,275,Gleaming Splendor,mythic,False,"['surgefoil', 'universesbeyond']","['enchantment', 'inverted']",borderless,2026-08-14,Enchantment,['foil'],False,,445.60,,2026-10-12
+HOB,The Hobbit,276,The Lord of the Eagles,rare,False,"['surgefoil', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Bird Noble,['foil'],False,,28.97,,2026-10-12
+HOB,The Hobbit,277,"Gollum, Riddle Master",mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Halfling Horror,['foil'],False,,99.81,,2026-10-12
+HOB,The Hobbit,278,"Gandalf, Goblins' Bane // Flameshape",mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Avatar Wizard // Sorcery — Adventure,['foil'],False,,176.46,,2026-10-12
+HOB,The Hobbit,279,"Thorin, Mountain-king",mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Dwarf Noble,['foil'],False,,117.62,,2026-10-12
+HOB,The Hobbit,280,"Bard, King of Dale",mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Human Noble Archer,['foil'],False,,122.45,,2026-10-12
+HOB,The Hobbit,281,"Smaug, Wicked Worm",rare,False,"['surgefoil', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Dragon,['foil'],False,,61.57,,2026-10-12
+HOB,The Hobbit,282,"Thranduil, the Elvenking",rare,False,"['surgefoil', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Creature — Elf Noble,['foil'],False,,64.02,,2026-10-12
+HOB,The Hobbit,283,The Arkenstone // Seek the Heart,mythic,False,"['surgefoil', 'universesbeyond']","['legendary', 'inverted']",borderless,2026-08-14,Legendary Artifact // Sorcery — Adventure,['foil'],False,,171.65,,2026-10-12
+HOB,The Hobbit,284,The Lonely Mountain,rare,False,"['surgefoil', 'universesbeyond']",['inverted'],borderless,2026-08-14,Land — Mountain,['foil'],False,,42.52,,2026-10-12
+HOB,The Hobbit,285,Bilbo's Gambit,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Instant,"['nonfoil', 'foil']",False,2.96,3.80,,2026-10-12
+HOB,The Hobbit,286,Fíli the Pathfinder,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Dwarf Scout,"['nonfoil', 'foil']",False,1.91,1.32,,2026-10-12
+HOB,The Hobbit,287,Kíli the Resourceful,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Dwarf Scout,"['nonfoil', 'foil']",False,2.05,2.87,,2026-10-12
+HOB,The Hobbit,288,Settle the Wreckage,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Instant,"['nonfoil', 'foil']",False,1.16,1.48,,2026-10-12
+HOB,The Hobbit,289,An Unexpected Party // At the Door,rare,False,['universesbeyond'],"['enchantment', 'extendedart']",black,2026-08-14,Enchantment // Sorcery — Adventure,"['nonfoil', 'foil']",False,0.82,0.88,,2026-10-12
+HOB,The Hobbit,290,"Elrond, Moon-Reader",mythic,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Elf Noble,"['nonfoil', 'foil']",False,3.04,5.76,,2026-10-12
+HOB,The Hobbit,291,Great Gilded Boat,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.42,0.41,,2026-10-12
+HOB,The Hobbit,292,Riddles in the Dark,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.80,1.03,,2026-10-12
+HOB,The Hobbit,293,Uncover the Moon-Letters,rare,False,['universesbeyond'],"['enchantment', 'extendedart']",black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,1.22,1.72,,2026-10-12
+HOB,The Hobbit,294,Wizard's Staff,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Artifact — Equipment,"['nonfoil', 'foil']",False,5.60,10.28,,2026-10-12
+HOB,The Hobbit,295,Along the Crooked Way,rare,False,['universesbeyond'],"['enchantment', 'extendedart']",black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,0.78,0.95,,2026-10-12
+HOB,The Hobbit,296,Inside Information,mythic,False,['universesbeyond'],['extendedart'],black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,3.42,7.19,,2026-10-12
+HOB,The Hobbit,297,The Master of Lake-town,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Human Advisor,"['nonfoil', 'foil']",False,1.29,2.11,,2026-10-12
+HOB,The Hobbit,298,Rhovanion Rampager,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.63,0.78,,2026-10-12
+HOB,The Hobbit,299,The Sackville-Bagginses,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Halfling Citizen,"['nonfoil', 'foil']",False,2.58,2.78,,2026-10-12
+HOB,The Hobbit,300,Supper for Spiders,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Instant,"['nonfoil', 'foil']",False,0.83,1.14,,2026-10-12
+HOB,The Hobbit,301,"Balin, Loremaster",rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Dwarf Bard,"['nonfoil', 'foil']",False,0.81,0.89,,2026-10-12
+HOB,The Hobbit,302,Dáin Ironfoot,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,0.82,0.94,,2026-10-12
+HOB,The Hobbit,303,Getaway Barrel,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Artifact,"['nonfoil', 'foil']",False,0.38,0.48,,2026-10-12
+HOB,The Hobbit,304,Stone-Giant of High Pass,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Creature — Giant,"['nonfoil', 'foil']",False,0.35,0.38,,2026-10-12
+HOB,The Hobbit,305,Bejeweled Warg,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Creature — Wolf,"['nonfoil', 'foil']",False,0.99,1.06,,2026-10-12
+HOB,The Hobbit,306,Cantankerous Keepers,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Creature — Elf Soldier,"['nonfoil', 'foil']",False,0.86,1.21,,2026-10-12
+HOB,The Hobbit,307,Gigantic Big Bear,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Creature — Bear,"['nonfoil', 'foil']",False,1.68,1.70,,2026-10-12
+HOB,The Hobbit,308,Part in Friendship,rare,False,['universesbeyond'],"['enchantment', 'extendedart']",black,2026-08-14,Enchantment,"['nonfoil', 'foil']",False,0.37,0.64,,2026-10-12
+HOB,The Hobbit,309,Radagast of Rhosgobel,rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Avatar Wizard,"['nonfoil', 'foil']",False,4.08,10.45,,2026-10-12
+HOB,The Hobbit,310,Through the Forest Gate,rare,False,['universesbeyond'],['extendedart'],black,2026-08-14,Sorcery,"['nonfoil', 'foil']",False,2.62,3.21,,2026-10-12
+HOB,The Hobbit,311,"Dwalin, Weaponmaster",rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Dwarf Warrior,"['nonfoil', 'foil']",False,1.22,1.99,,2026-10-12
+HOB,The Hobbit,312,"Tom, Bert, and William",rare,False,['universesbeyond'],"['legendary', 'extendedart']",black,2026-08-14,Legendary Creature — Troll,"['nonfoil', 'foil']",False,0.90,1.17,,2026-10-12
+HOB,The Hobbit,313,Plains,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Plains,"['nonfoil', 'foil']",False,0.82,0.74,,2026-10-12
+HOB,The Hobbit,314,Plains,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Plains,"['nonfoil', 'foil']",False,0.88,0.84,,2026-10-12
+HOB,The Hobbit,315,Plains,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Plains,"['nonfoil', 'foil']",False,0.87,0.97,,2026-10-12
+HOB,The Hobbit,316,Plains,common,False,['universesbeyond'],,black,2026-08-14,Basic Land — Plains,"['nonfoil', 'foil']",False,0.91,1.09,,2026-10-12
+HOB,The Hobbit,317,Plains,common,False,"['surgefoil', 'universesbeyond']",,black,2026-08-14,Basic Land — Plains,['foil'],False,,1.34,,2026-10-12
+HOB,The Hobbit,318,Plains,common,False,"['surgefoil', 'universesbeyond']",,black,2026-08-14,Basic Land — Plains,['foil'],False,,1.44,,2026-10-12
+HOB,The Hobbit,319,Plains,common,False,"['surgefoil', 'universesbeyond']",,black,2026-08-14,Basic Land — Plains,['foil'],False,,1.55,,2026-10-12
+HOB,The Hobbit,320,Plains,common,False,"['surgefoil', 'universesbeyond']",,black,2026-08-14,Basic Land — Plains,['foil'],False,,1.23,,2026-10-12
+HOB,The Hobbit,321,The Misty Mountains Cold,rare,False,"['universesbeyond', 'bundle']",['enchantment'],black,2026-08-14,Enchantment — Saga,['foil'],False,,0.23,,2026-10-12

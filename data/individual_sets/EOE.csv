@@ -1,0 +1,400 @@
+set,set_name,collector_number,name,rarity,booster,promo_types,frame_effects,border_color,released_at,type_line,finishes,variation,usd,usd_foil,usd_etched,price_collected_date
+EOE,Edge of Eternities,1,Anticausal Vestige,rare,True,,,black,2025-08-01,Creature — Eldrazi,"['nonfoil', 'foil']",False,2.48,1.91,,2026-10-12
+EOE,Edge of Eternities,2,"Tezzeret, Cruel Captain",mythic,True,,,black,2025-08-01,Legendary Planeswalker — Tezzeret,"['nonfoil', 'foil']",False,21.35,23.67,,2026-10-12
+EOE,Edge of Eternities,3,All-Fates Stalker,uncommon,True,,,black,2025-08-01,Creature — Drix Assassin,"['nonfoil', 'foil']",False,0.15,0.19,,2026-10-12
+EOE,Edge of Eternities,4,Astelli Reclaimer,rare,True,,,black,2025-08-01,Creature — Angel Warrior,"['nonfoil', 'foil']",False,0.30,0.36,,2026-10-12
+EOE,Edge of Eternities,5,Auxiliary Boosters,common,True,,,black,2025-08-01,Artifact — Equipment,"['nonfoil', 'foil']",False,0.15,0.18,,2026-10-12
+EOE,Edge of Eternities,6,Banishing Light,common,True,,['enchantment'],black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,0.14,0.27,,2026-10-12
+EOE,Edge of Eternities,7,Beyond the Quiet,rare,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.31,0.40,,2026-10-12
+EOE,Edge of Eternities,8,Brightspear Zealot,common,True,,,black,2025-08-01,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.11,0.18,,2026-10-12
+EOE,Edge of Eternities,9,Cosmogrand Zenith,mythic,True,,,black,2025-08-01,Creature — Human Soldier,"['nonfoil', 'foil']",False,8.07,7.84,,2026-10-12
+EOE,Edge of Eternities,10,Dawnstrike Vanguard,uncommon,True,,,black,2025-08-01,Creature — Human Knight,"['nonfoil', 'foil']",False,0.20,0.25,,2026-10-12
+EOE,Edge of Eternities,11,Dockworker Drone,common,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.20,0.23,,2026-10-12
+EOE,Edge of Eternities,12,Dual-Sun Adepts,uncommon,True,,,black,2025-08-01,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.12,0.16,,2026-10-12
+EOE,Edge of Eternities,13,Dual-Sun Technique,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+EOE,Edge of Eternities,14,Emergency Eject,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.33,0.32,,2026-10-12
+EOE,Edge of Eternities,15,Exalted Sunborn,mythic,True,,,black,2025-08-01,Creature — Angel Wizard,"['nonfoil', 'foil']",False,20.44,19.09,,2026-10-12
+EOE,Edge of Eternities,16,Exosuit Savior,common,True,,,black,2025-08-01,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.16,0.15,,2026-10-12
+EOE,Edge of Eternities,17,Flight-Deck Coordinator,common,True,,,black,2025-08-01,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.13,0.22,,2026-10-12
+EOE,Edge of Eternities,18,Focus Fire,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.15,0.17,,2026-10-12
+EOE,Edge of Eternities,19,"Haliya, Guided by Light",rare,True,,['legendary'],black,2025-08-01,Legendary Creature — Human Soldier,"['nonfoil', 'foil']",False,4.51,3.97,,2026-10-12
+EOE,Edge of Eternities,20,Hardlight Containment,rare,True,,['enchantment'],black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,0.30,0.34,,2026-10-12
+EOE,Edge of Eternities,21,Honor,uncommon,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.25,0.34,,2026-10-12
+EOE,Edge of Eternities,22,Honored Knight-Captain,uncommon,True,,,black,2025-08-01,Creature — Human Advisor Knight,"['nonfoil', 'foil']",False,0.25,0.28,,2026-10-12
+EOE,Edge of Eternities,23,Knight Luminary,common,True,,,black,2025-08-01,Creature — Human Knight,"['nonfoil', 'foil']",False,0.17,0.16,,2026-10-12
+EOE,Edge of Eternities,24,Lightstall Inquisitor,rare,True,,,black,2025-08-01,Creature — Angel Wizard,"['nonfoil', 'foil']",False,0.40,0.36,,2026-10-12
+EOE,Edge of Eternities,25,Lumen-Class Frigate,rare,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.39,0.43,,2026-10-12
+EOE,Edge of Eternities,26,Luxknight Breacher,common,True,,,black,2025-08-01,Creature — Human Knight,"['nonfoil', 'foil']",False,0.18,0.24,,2026-10-12
+EOE,Edge of Eternities,27,Pinnacle Starcage,rare,True,,,black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.29,0.39,,2026-10-12
+EOE,Edge of Eternities,28,Pulsar Squadron Ace,uncommon,True,,,black,2025-08-01,Creature — Human Pilot,"['nonfoil', 'foil']",False,0.19,0.24,,2026-10-12
+EOE,Edge of Eternities,29,Radiant Strike,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.11,0.20,,2026-10-12
+EOE,Edge of Eternities,30,Rayblade Trooper,uncommon,True,,,black,2025-08-01,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.24,0.23,,2026-10-12
+EOE,Edge of Eternities,31,Reroute Systems,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.21,0.24,,2026-10-12
+EOE,Edge of Eternities,32,Rescue Skiff,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.24,0.30,,2026-10-12
+EOE,Edge of Eternities,33,Scout for Survivors,uncommon,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.26,0.24,,2026-10-12
+EOE,Edge of Eternities,34,Seam Rip,uncommon,True,,['enchantment'],black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,1.21,1.57,,2026-10-12
+EOE,Edge of Eternities,35,The Seriema,rare,True,,['legendary'],black,2025-08-01,Legendary Artifact — Spacecraft,"['nonfoil', 'foil']",False,1.56,2.17,,2026-10-12
+EOE,Edge of Eternities,36,Squire's Lightblade,common,True,,,black,2025-08-01,Artifact — Equipment,"['nonfoil', 'foil']",False,0.16,0.26,,2026-10-12
+EOE,Edge of Eternities,37,Starfield Shepherd,uncommon,True,,,black,2025-08-01,Creature — Angel,"['nonfoil', 'foil']",False,0.32,0.34,,2026-10-12
+EOE,Edge of Eternities,38,Starfighter Pilot,common,True,,,black,2025-08-01,Creature — Human Pilot,"['nonfoil', 'foil']",False,0.20,0.23,,2026-10-12
+EOE,Edge of Eternities,39,Starport Security,common,True,,,black,2025-08-01,Artifact Creature — Robot Soldier,"['nonfoil', 'foil']",False,0.13,0.21,,2026-10-12
+EOE,Edge of Eternities,40,Sunstar Chaplain,rare,True,,,black,2025-08-01,Creature — Human Cleric,"['nonfoil', 'foil']",False,0.27,0.29,,2026-10-12
+EOE,Edge of Eternities,41,Sunstar Expansionist,uncommon,True,,,black,2025-08-01,Creature — Human Knight,"['nonfoil', 'foil']",False,0.22,0.23,,2026-10-12
+EOE,Edge of Eternities,42,Sunstar Lightsmith,uncommon,True,,,black,2025-08-01,Creature — Human Artificer,"['nonfoil', 'foil']",False,0.24,0.26,,2026-10-12
+EOE,Edge of Eternities,43,Wedgelight Rammer,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.28,0.25,,2026-10-12
+EOE,Edge of Eternities,44,Weftblade Enhancer,common,True,,,black,2025-08-01,Creature — Drix Artificer,"['nonfoil', 'foil']",False,0.11,0.24,,2026-10-12
+EOE,Edge of Eternities,45,Zealous Display,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.10,0.23,,2026-10-12
+EOE,Edge of Eternities,46,Annul,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.32,0.31,,2026-10-12
+EOE,Edge of Eternities,47,Atomic Microsizer,uncommon,True,,,black,2025-08-01,Artifact — Equipment,"['nonfoil', 'foil']",False,0.22,0.24,,2026-10-12
+EOE,Edge of Eternities,48,Cerebral Download,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.20,0.30,,2026-10-12
+EOE,Edge of Eternities,49,Cloudsculpt Technician,common,True,,,black,2025-08-01,Creature — Jellyfish Artificer,"['nonfoil', 'foil']",False,0.09,0.13,,2026-10-12
+EOE,Edge of Eternities,50,Codecracker Hound,uncommon,True,,,black,2025-08-01,Creature — Dog,"['nonfoil', 'foil']",False,0.17,0.21,,2026-10-12
+EOE,Edge of Eternities,51,Consult the Star Charts,rare,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,3.79,3.82,,2026-10-12
+EOE,Edge of Eternities,52,Cryogen Relic,common,True,,,black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.26,1.11,,2026-10-12
+EOE,Edge of Eternities,53,Cryoshatter,common,True,,['enchantment'],black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,0.17,0.17,,2026-10-12
+EOE,Edge of Eternities,54,Desculpting Blast,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.30,0.28,,2026-10-12
+EOE,Edge of Eternities,55,Divert Disaster,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.15,0.32,,2026-10-12
+EOE,Edge of Eternities,56,Emissary Escort,rare,True,,,black,2025-08-01,Artifact Creature — Robot Soldier,"['nonfoil', 'foil']",False,0.24,0.36,,2026-10-12
+EOE,Edge of Eternities,57,Gigastorm Titan,uncommon,True,,,black,2025-08-01,Creature — Elemental,"['nonfoil', 'foil']",False,0.18,0.23,,2026-10-12
+EOE,Edge of Eternities,58,Illvoi Galeblade,common,True,,,black,2025-08-01,Creature — Jellyfish Warrior,"['nonfoil', 'foil']",False,0.21,0.33,,2026-10-12
+EOE,Edge of Eternities,59,Illvoi Infiltrator,uncommon,True,,,black,2025-08-01,Creature — Jellyfish Rogue,"['nonfoil', 'foil']",False,0.13,0.27,,2026-10-12
+EOE,Edge of Eternities,60,Illvoi Light Jammer,common,True,,,black,2025-08-01,Artifact — Equipment,"['nonfoil', 'foil']",False,0.13,0.21,,2026-10-12
+EOE,Edge of Eternities,61,Illvoi Operative,common,True,,,black,2025-08-01,Creature — Jellyfish Rogue,"['nonfoil', 'foil']",False,0.11,0.23,,2026-10-12
+EOE,Edge of Eternities,62,Lost in Space,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.10,0.15,,2026-10-12
+EOE,Edge of Eternities,63,Mechan Assembler,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot Artificer,"['nonfoil', 'foil']",False,0.22,0.27,,2026-10-12
+EOE,Edge of Eternities,64,Mechan Navigator,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot Pilot,"['nonfoil', 'foil']",False,0.26,0.20,,2026-10-12
+EOE,Edge of Eternities,65,Mechan Shieldmate,common,True,,,black,2025-08-01,Artifact Creature — Robot Soldier,"['nonfoil', 'foil']",False,0.10,0.19,,2026-10-12
+EOE,Edge of Eternities,66,Mechanozoa,common,True,,,black,2025-08-01,Artifact Creature — Robot Jellyfish,"['nonfoil', 'foil']",False,0.15,0.23,,2026-10-12
+EOE,Edge of Eternities,67,Mental Modulation,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.16,0.31,,2026-10-12
+EOE,Edge of Eternities,68,"Mm'menon, the Right Hand",rare,True,,['legendary'],black,2025-08-01,Legendary Creature — Jellyfish Advisor,"['nonfoil', 'foil']",False,0.34,0.36,,2026-10-12
+EOE,Edge of Eternities,69,Moonlit Meditation,rare,True,,['enchantment'],black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,0.37,0.51,,2026-10-12
+EOE,Edge of Eternities,70,Mouth of the Storm,uncommon,True,,,black,2025-08-01,Creature — Elemental,"['nonfoil', 'foil']",False,0.15,0.21,,2026-10-12
+EOE,Edge of Eternities,71,Nanoform Sentinel,common,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.19,0.22,,2026-10-12
+EOE,Edge of Eternities,72,Quantum Riddler,mythic,True,,,black,2025-08-01,Creature — Sphinx,"['nonfoil', 'foil']",False,34.56,39.79,,2026-10-12
+EOE,Edge of Eternities,73,Scour for Scrap,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.37,1.52,,2026-10-12
+EOE,Edge of Eternities,74,Selfcraft Mechan,common,True,,,black,2025-08-01,Artifact Creature — Robot Artificer,"['nonfoil', 'foil']",False,0.13,0.17,,2026-10-12
+EOE,Edge of Eternities,75,Sinister Cryologist,common,True,,,black,2025-08-01,Creature — Jellyfish Wizard,"['nonfoil', 'foil']",False,0.09,0.17,,2026-10-12
+EOE,Edge of Eternities,76,Specimen Freighter,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.26,0.29,,2026-10-12
+EOE,Edge of Eternities,77,Starbreach Whale,common,True,,,black,2025-08-01,Creature — Whale,"['nonfoil', 'foil']",False,0.17,0.25,,2026-10-12
+EOE,Edge of Eternities,78,Starfield Vocalist,rare,True,,,black,2025-08-01,Creature — Human Bard,"['nonfoil', 'foil']",False,2.07,2.78,,2026-10-12
+EOE,Edge of Eternities,79,Starwinder,rare,True,,,black,2025-08-01,Creature — Leviathan,"['nonfoil', 'foil']",False,1.75,1.81,,2026-10-12
+EOE,Edge of Eternities,80,Steelswarm Operator,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot Soldier,"['nonfoil', 'foil']",False,0.25,0.32,,2026-10-12
+EOE,Edge of Eternities,81,Synthesizer Labship,rare,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.35,0.32,,2026-10-12
+EOE,Edge of Eternities,82,Tractor Beam,uncommon,True,,['enchantment'],black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,0.14,0.30,,2026-10-12
+EOE,Edge of Eternities,83,Unravel,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.17,0.19,,2026-10-12
+EOE,Edge of Eternities,84,Uthros Psionicist,uncommon,True,,,black,2025-08-01,Creature — Jellyfish Scientist,"['nonfoil', 'foil']",False,0.22,0.32,,2026-10-12
+EOE,Edge of Eternities,85,Uthros Scanship,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.24,0.34,,2026-10-12
+EOE,Edge of Eternities,86,Weftwalking,mythic,True,,['enchantment'],black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,0.38,0.35,,2026-10-12
+EOE,Edge of Eternities,87,"Alpharael, Stonechosen",mythic,True,,['legendary'],black,2025-08-01,Legendary Creature — Human Cleric,"['nonfoil', 'foil']",False,0.39,0.53,,2026-10-12
+EOE,Edge of Eternities,88,Archenemy's Charm,rare,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,1.08,1.44,,2026-10-12
+EOE,Edge of Eternities,89,Beamsaw Prospector,common,True,,,black,2025-08-01,Creature — Human Artificer,"['nonfoil', 'foil']",False,0.20,0.21,,2026-10-12
+EOE,Edge of Eternities,90,Blade of the Swarm,uncommon,True,,,black,2025-08-01,Creature — Insect Assassin,"['nonfoil', 'foil']",False,0.14,0.21,,2026-10-12
+EOE,Edge of Eternities,91,Chorale of the Void,rare,True,,['enchantment'],black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,0.20,0.33,,2026-10-12
+EOE,Edge of Eternities,92,Comet Crawler,common,True,,,black,2025-08-01,Creature — Insect Horror,"['nonfoil', 'foil']",False,0.15,0.23,,2026-10-12
+EOE,Edge of Eternities,93,Dark Endurance,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.12,0.19,,2026-10-12
+EOE,Edge of Eternities,94,Decode Transmissions,common,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.21,0.31,,2026-10-12
+EOE,Edge of Eternities,95,Depressurize,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.10,0.19,,2026-10-12
+EOE,Edge of Eternities,96,Dubious Delicacy,uncommon,True,,,black,2025-08-01,Artifact — Food,"['nonfoil', 'foil']",False,0.17,0.30,,2026-10-12
+EOE,Edge of Eternities,97,Elegy Acolyte,rare,True,,,black,2025-08-01,Creature — Human Cleric,"['nonfoil', 'foil']",False,0.42,0.45,,2026-10-12
+EOE,Edge of Eternities,98,Embrace Oblivion,common,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.15,0.23,,2026-10-12
+EOE,Edge of Eternities,99,Entropic Battlecruiser,rare,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.35,0.47,,2026-10-12
+EOE,Edge of Eternities,100,Faller's Faithful,uncommon,True,,,black,2025-08-01,Creature — Human Wizard,"['nonfoil', 'foil']",False,0.19,0.29,,2026-10-12
+EOE,Edge of Eternities,101,Fell Gravship,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.25,0.24,,2026-10-12
+EOE,Edge of Eternities,102,Gravblade Heavy,common,True,,,black,2025-08-01,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.05,0.15,,2026-10-12
+EOE,Edge of Eternities,103,Gravkill,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.21,0.28,,2026-10-12
+EOE,Edge of Eternities,104,Gravpack Monoist,common,True,,,black,2025-08-01,Creature — Human Scout,"['nonfoil', 'foil']",False,0.11,0.22,,2026-10-12
+EOE,Edge of Eternities,105,Hullcarver,common,True,,,black,2025-08-01,Artifact Creature — Robot Assassin,"['nonfoil', 'foil']",False,0.21,0.28,,2026-10-12
+EOE,Edge of Eternities,106,Hylderblade,uncommon,True,,,black,2025-08-01,Artifact — Equipment,"['nonfoil', 'foil']",False,0.21,0.24,,2026-10-12
+EOE,Edge of Eternities,107,Hymn of the Faller,uncommon,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.17,0.31,,2026-10-12
+EOE,Edge of Eternities,108,Insatiable Skittermaw,common,True,,,black,2025-08-01,Creature — Insect Horror,"['nonfoil', 'foil']",False,0.16,0.22,,2026-10-12
+EOE,Edge of Eternities,109,Lightless Evangel,uncommon,True,,,black,2025-08-01,Creature — Vampire Cleric,"['nonfoil', 'foil']",False,0.22,0.30,,2026-10-12
+EOE,Edge of Eternities,110,Monoist Circuit-Feeder,uncommon,True,,,black,2025-08-01,Artifact Creature — Nautilus,"['nonfoil', 'foil']",False,0.14,0.28,,2026-10-12
+EOE,Edge of Eternities,111,Monoist Sentry,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.16,0.27,,2026-10-12
+EOE,Edge of Eternities,112,Perigee Beckoner,common,True,,,black,2025-08-01,Creature — Horror,"['nonfoil', 'foil']",False,0.21,0.27,,2026-10-12
+EOE,Edge of Eternities,113,Requiem Monolith,rare,True,,,black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.32,0.42,,2026-10-12
+EOE,Edge of Eternities,114,Scrounge for Eternity,uncommon,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.22,0.28,,2026-10-12
+EOE,Edge of Eternities,115,"Sothera, the Supervoid",mythic,True,,"['enchantment', 'legendary']",black,2025-08-01,Legendary Enchantment,"['nonfoil', 'foil']",False,2.92,3.76,,2026-10-12
+EOE,Edge of Eternities,116,Sunset Saboteur,rare,True,,,black,2025-08-01,Creature — Human Rogue,"['nonfoil', 'foil']",False,0.22,0.37,,2026-10-12
+EOE,Edge of Eternities,117,Susurian Dirgecraft,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.22,0.29,,2026-10-12
+EOE,Edge of Eternities,118,Susurian Voidborn,uncommon,True,,,black,2025-08-01,Creature — Vampire Soldier,"['nonfoil', 'foil']",False,0.38,0.31,,2026-10-12
+EOE,Edge of Eternities,119,Swarm Culler,common,True,,,black,2025-08-01,Creature — Insect Warrior,"['nonfoil', 'foil']",False,0.12,0.21,,2026-10-12
+EOE,Edge of Eternities,120,Temporal Intervention,common,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.14,0.20,,2026-10-12
+EOE,Edge of Eternities,121,Timeline Culler,uncommon,True,,,black,2025-08-01,Creature — Drix Warlock,"['nonfoil', 'foil']",False,0.33,0.42,,2026-10-12
+EOE,Edge of Eternities,122,Tragic Trajectory,uncommon,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.27,0.28,,2026-10-12
+EOE,Edge of Eternities,123,Umbral Collar Zealot,uncommon,True,,,black,2025-08-01,Creature — Human Cleric,"['nonfoil', 'foil']",False,0.34,1.82,,2026-10-12
+EOE,Edge of Eternities,124,Virus Beetle,common,True,,,black,2025-08-01,Artifact Creature — Insect,"['nonfoil', 'foil']",False,0.26,0.29,,2026-10-12
+EOE,Edge of Eternities,125,Voidforged Titan,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot Warrior,"['nonfoil', 'foil']",False,0.20,0.22,,2026-10-12
+EOE,Edge of Eternities,126,Vote Out,uncommon,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.14,0.28,,2026-10-12
+EOE,Edge of Eternities,127,"Xu-Ifit, Osteoharmonist",rare,True,,['legendary'],black,2025-08-01,Legendary Creature — Human Wizard,"['nonfoil', 'foil']",False,0.35,0.41,,2026-10-12
+EOE,Edge of Eternities,128,Zero Point Ballad,rare,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.29,0.40,,2026-10-12
+EOE,Edge of Eternities,129,Bombard,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.10,0.16,,2026-10-12
+EOE,Edge of Eternities,130,Cut Propulsion,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.25,0.27,,2026-10-12
+EOE,Edge of Eternities,131,Debris Field Crusher,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.19,0.27,,2026-10-12
+EOE,Edge of Eternities,132,Devastating Onslaught,mythic,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,3.35,2.75,,2026-10-12
+EOE,Edge of Eternities,133,Drill Too Deep,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.16,0.23,,2026-10-12
+EOE,Edge of Eternities,134,Frontline War-Rager,common,True,,,black,2025-08-01,Creature — Kavu Soldier,"['nonfoil', 'foil']",False,0.11,0.16,,2026-10-12
+EOE,Edge of Eternities,135,Full Bore,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.28,0.32,,2026-10-12
+EOE,Edge of Eternities,136,Galvanizing Sawship,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.19,0.24,,2026-10-12
+EOE,Edge of Eternities,137,Invasive Maneuvers,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.20,0.27,,2026-10-12
+EOE,Edge of Eternities,138,Kav Landseeker,common,True,,,black,2025-08-01,Creature — Kavu Soldier,"['nonfoil', 'foil']",False,0.14,0.15,,2026-10-12
+EOE,Edge of Eternities,139,Kavaron Harrier,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot Soldier,"['nonfoil', 'foil']",False,0.19,0.28,,2026-10-12
+EOE,Edge of Eternities,140,Kavaron Skywarden,common,True,,,black,2025-08-01,Creature — Kavu Soldier,"['nonfoil', 'foil']",False,0.12,0.19,,2026-10-12
+EOE,Edge of Eternities,141,Kavaron Turbodrone,common,True,,,black,2025-08-01,Artifact Creature — Robot Scout,"['nonfoil', 'foil']",False,0.10,0.17,,2026-10-12
+EOE,Edge of Eternities,142,Lithobraking,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.21,0.27,,2026-10-12
+EOE,Edge of Eternities,143,Melded Moxite,common,True,,,black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.22,0.33,,2026-10-12
+EOE,Edge of Eternities,144,Memorial Team Leader,uncommon,True,,,black,2025-08-01,Creature — Kavu Soldier,"['nonfoil', 'foil']",False,0.14,0.24,,2026-10-12
+EOE,Edge of Eternities,145,Memorial Vault,rare,True,,,black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.21,0.26,,2026-10-12
+EOE,Edge of Eternities,146,Molecular Modifier,uncommon,True,,,black,2025-08-01,Creature — Kavu Artificer,"['nonfoil', 'foil']",False,0.17,0.22,,2026-10-12
+EOE,Edge of Eternities,147,Nebula Dragon,common,True,,,black,2025-08-01,Creature — Dragon,"['nonfoil', 'foil']",False,0.17,0.27,,2026-10-12
+EOE,Edge of Eternities,148,Nova Hellkite,rare,True,,,black,2025-08-01,Creature — Dragon,"['nonfoil', 'foil']",False,0.59,0.69,,2026-10-12
+EOE,Edge of Eternities,149,Orbital Plunge,common,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.13,0.26,,2026-10-12
+EOE,Edge of Eternities,150,Oreplate Pangolin,common,True,,,black,2025-08-01,Artifact Creature — Robot Pangolin,"['nonfoil', 'foil']",False,0.17,0.24,,2026-10-12
+EOE,Edge of Eternities,151,Pain for All,rare,True,,['enchantment'],black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,2.04,1.92,,2026-10-12
+EOE,Edge of Eternities,152,Plasma Bolt,common,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.15,0.22,,2026-10-12
+EOE,Edge of Eternities,153,Possibility Technician,rare,True,,,black,2025-08-01,Creature — Kavu Artificer,"['nonfoil', 'foil']",False,0.22,0.26,,2026-10-12
+EOE,Edge of Eternities,154,Red Tiger Mechan,common,True,,,black,2025-08-01,Artifact Creature — Robot Cat,"['nonfoil', 'foil']",False,0.19,0.17,,2026-10-12
+EOE,Edge of Eternities,155,Remnant Elemental,uncommon,True,,,black,2025-08-01,Creature — Elemental,"['nonfoil', 'foil']",False,0.12,0.29,,2026-10-12
+EOE,Edge of Eternities,156,Rig for War,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.15,0.19,,2026-10-12
+EOE,Edge of Eternities,157,Roving Actuator,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.13,0.17,,2026-10-12
+EOE,Edge of Eternities,158,Ruinous Rampage,uncommon,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.22,0.29,,2026-10-12
+EOE,Edge of Eternities,159,Rust Harvester,rare,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.30,0.30,,2026-10-12
+EOE,Edge of Eternities,160,Slagdrill Scrapper,common,True,,,black,2025-08-01,Artifact Creature — Robot Scout,"['nonfoil', 'foil']",False,0.10,0.22,,2026-10-12
+EOE,Edge of Eternities,161,Systems Override,uncommon,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.17,0.22,,2026-10-12
+EOE,Edge of Eternities,162,"Tannuk, Steadfast Second",mythic,True,,['legendary'],black,2025-08-01,Legendary Creature — Kavu Pilot,"['nonfoil', 'foil']",False,2.40,2.54,,2026-10-12
+EOE,Edge of Eternities,163,Terminal Velocity,rare,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.19,0.32,,2026-10-12
+EOE,Edge of Eternities,164,Terrapact Intimidator,uncommon,True,,,black,2025-08-01,Creature — Kavu Scout,"['nonfoil', 'foil']",False,0.28,0.19,,2026-10-12
+EOE,Edge of Eternities,165,Territorial Bruntar,uncommon,True,,,black,2025-08-01,Creature — Beast,"['nonfoil', 'foil']",False,0.19,0.28,,2026-10-12
+EOE,Edge of Eternities,166,Vaultguard Trooper,uncommon,True,,,black,2025-08-01,Creature — Kavu Soldier,"['nonfoil', 'foil']",False,0.11,0.25,,2026-10-12
+EOE,Edge of Eternities,167,Warmaker Gunship,rare,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.29,0.31,,2026-10-12
+EOE,Edge of Eternities,168,Weapons Manufacturing,rare,True,,['enchantment'],black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,1.86,2.47,,2026-10-12
+EOE,Edge of Eternities,169,Weftstalker Ardent,uncommon,True,,,black,2025-08-01,Creature — Drix Artificer,"['nonfoil', 'foil']",False,2.93,3.38,,2026-10-12
+EOE,Edge of Eternities,170,Zookeeper Mechan,common,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.27,0.31,,2026-10-12
+EOE,Edge of Eternities,171,Atmospheric Greenhouse,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.26,0.26,,2026-10-12
+EOE,Edge of Eternities,172,Bioengineered Future,rare,True,,['enchantment'],black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,0.24,0.44,,2026-10-12
+EOE,Edge of Eternities,173,Biosynthic Burst,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.22,0.33,,2026-10-12
+EOE,Edge of Eternities,174,Blooming Stinger,common,True,,,black,2025-08-01,Creature — Plant Scorpion,"['nonfoil', 'foil']",False,0.14,0.27,,2026-10-12
+EOE,Edge of Eternities,175,Broodguard Elite,uncommon,True,,,black,2025-08-01,Creature — Insect Knight,"['nonfoil', 'foil']",False,0.33,0.34,,2026-10-12
+EOE,Edge of Eternities,176,Close Encounter,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.11,0.23,,2026-10-12
+EOE,Edge of Eternities,177,Diplomatic Relations,common,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.11,0.16,,2026-10-12
+EOE,Edge of Eternities,178,Drix Fatemaker,common,True,,,black,2025-08-01,Creature — Drix Wizard,"['nonfoil', 'foil']",False,0.19,0.29,,2026-10-12
+EOE,Edge of Eternities,179,Edge Rover,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot Scout,"['nonfoil', 'foil']",False,0.17,0.24,,2026-10-12
+EOE,Edge of Eternities,180,Eumidian Terrabotanist,uncommon,True,,,black,2025-08-01,Creature — Insect Druid,"['nonfoil', 'foil']",False,0.35,0.36,,2026-10-12
+EOE,Edge of Eternities,181,Eusocial Engineering,uncommon,True,,['enchantment'],black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,0.26,0.34,,2026-10-12
+EOE,Edge of Eternities,182,Famished Worldsire,mythic,True,,,black,2025-08-01,Creature — Leviathan,"['nonfoil', 'foil']",False,3.25,3.57,,2026-10-12
+EOE,Edge of Eternities,183,Frenzied Baloth,rare,True,,,black,2025-08-01,Creature — Beast,"['nonfoil', 'foil']",False,3.42,3.70,,2026-10-12
+EOE,Edge of Eternities,184,Fungal Colossus,common,True,,,black,2025-08-01,Creature — Fungus Beast,"['nonfoil', 'foil']",False,0.17,0.20,,2026-10-12
+EOE,Edge of Eternities,185,Galactic Wayfarer,common,True,,,black,2025-08-01,Creature — Human Scout,"['nonfoil', 'foil']",False,0.16,0.21,,2026-10-12
+EOE,Edge of Eternities,186,Gene Pollinator,common,True,,,black,2025-08-01,Artifact Creature — Robot Insect,"['nonfoil', 'foil']",False,0.25,0.31,,2026-10-12
+EOE,Edge of Eternities,187,Germinating Wurm,common,True,,,black,2025-08-01,Creature — Plant Wurm,"['nonfoil', 'foil']",False,0.14,0.27,,2026-10-12
+EOE,Edge of Eternities,188,Glacier Godmaw,uncommon,True,,,black,2025-08-01,Creature — Leviathan,"['nonfoil', 'foil']",False,0.27,0.34,,2026-10-12
+EOE,Edge of Eternities,189,Harmonious Grovestrider,uncommon,True,,,black,2025-08-01,Creature — Beast,"['nonfoil', 'foil']",False,0.18,0.27,,2026-10-12
+EOE,Edge of Eternities,190,Hemosymbic Mite,uncommon,True,,,black,2025-08-01,Creature — Mite,"['nonfoil', 'foil']",False,0.21,0.25,,2026-10-12
+EOE,Edge of Eternities,191,Icecave Crasher,common,True,,,black,2025-08-01,Creature — Beast,"['nonfoil', 'foil']",False,0.10,0.22,,2026-10-12
+EOE,Edge of Eternities,192,Icetill Explorer,rare,True,,,black,2025-08-01,Creature — Insect Scout,"['nonfoil', 'foil']",False,21.03,21.37,,2026-10-12
+EOE,Edge of Eternities,193,Intrepid Tenderfoot,common,True,,,black,2025-08-01,Creature — Insect Citizen,"['nonfoil', 'foil']",False,0.09,0.23,,2026-10-12
+EOE,Edge of Eternities,194,Larval Scoutlander,uncommon,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.26,0.28,,2026-10-12
+EOE,Edge of Eternities,195,Lashwhip Predator,uncommon,True,,,black,2025-08-01,Creature — Plant Beast,"['nonfoil', 'foil']",False,0.11,0.21,,2026-10-12
+EOE,Edge of Eternities,196,Loading Zone,rare,True,,['enchantment'],black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,1.80,2.44,,2026-10-12
+EOE,Edge of Eternities,197,Meltstrider Eulogist,uncommon,True,,,black,2025-08-01,Creature — Insect Soldier,"['nonfoil', 'foil']",False,0.31,0.29,,2026-10-12
+EOE,Edge of Eternities,198,Meltstrider's Gear,common,True,,,black,2025-08-01,Artifact — Equipment,"['nonfoil', 'foil']",False,0.20,0.21,,2026-10-12
+EOE,Edge of Eternities,199,Meltstrider's Resolve,uncommon,True,,['enchantment'],black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,0.28,0.33,,2026-10-12
+EOE,Edge of Eternities,200,Mightform Harmonizer,rare,True,,,black,2025-08-01,Creature — Insect Druid,"['nonfoil', 'foil']",False,3.39,3.12,,2026-10-12
+EOE,Edge of Eternities,201,Ouroboroid,mythic,True,,,black,2025-08-01,Creature — Plant Wurm,"['nonfoil', 'foil']",False,35.47,37.59,,2026-10-12
+EOE,Edge of Eternities,202,Pull Through the Weft,uncommon,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.29,0.28,,2026-10-12
+EOE,Edge of Eternities,203,Sami's Curiosity,common,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.15,0.24,,2026-10-12
+EOE,Edge of Eternities,204,Seedship Agrarian,uncommon,True,,,black,2025-08-01,Creature — Insect Scientist,"['nonfoil', 'foil']",False,0.24,0.28,,2026-10-12
+EOE,Edge of Eternities,205,Seedship Impact,uncommon,True,,,black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.26,0.30,,2026-10-12
+EOE,Edge of Eternities,206,Shattered Wings,common,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.11,0.20,,2026-10-12
+EOE,Edge of Eternities,207,Skystinger,common,True,,,black,2025-08-01,Creature — Insect Warrior,"['nonfoil', 'foil']",False,0.07,0.23,,2026-10-12
+EOE,Edge of Eternities,208,Sledge-Class Seedship,rare,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.31,0.33,,2026-10-12
+EOE,Edge of Eternities,209,Tapestry Warden,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot Soldier,"['nonfoil', 'foil']",False,0.23,0.25,,2026-10-12
+EOE,Edge of Eternities,210,Terrasymbiosis,rare,True,,['enchantment'],black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,10.42,10.26,,2026-10-12
+EOE,Edge of Eternities,211,Thawbringer,common,True,,,black,2025-08-01,Creature — Insect Scout,"['nonfoil', 'foil']",False,0.09,0.14,,2026-10-12
+EOE,Edge of Eternities,212,"Alpharael, Dreaming Acolyte",uncommon,True,,['legendary'],black,2025-08-01,Legendary Creature — Human Cleric,"['nonfoil', 'foil']",False,0.17,0.28,,2026-10-12
+EOE,Edge of Eternities,213,Biomechan Engineer,uncommon,True,,,black,2025-08-01,Creature — Insect Artificer,"['nonfoil', 'foil']",False,0.22,0.30,,2026-10-12
+EOE,Edge of Eternities,214,Biotech Specialist,rare,True,,,black,2025-08-01,Creature — Insect Scientist,"['nonfoil', 'foil']",False,0.30,1.38,,2026-10-12
+EOE,Edge of Eternities,215,Cosmogoyf,rare,True,,,black,2025-08-01,Creature — Elemental Lhurgoyf,"['nonfoil', 'foil']",False,0.29,0.39,,2026-10-12
+EOE,Edge of Eternities,216,"Dyadrine, Synthesis Amalgam",rare,True,,['legendary'],black,2025-08-01,Legendary Artifact Creature — Construct,"['nonfoil', 'foil']",False,0.31,0.32,,2026-10-12
+EOE,Edge of Eternities,217,Genemorph Imago,rare,True,,,black,2025-08-01,Creature — Insect Druid,"['nonfoil', 'foil']",False,0.23,0.37,,2026-10-12
+EOE,Edge of Eternities,218,"Haliya, Ascendant Cadet",uncommon,True,,['legendary'],black,2025-08-01,Legendary Creature — Human Soldier,"['nonfoil', 'foil']",False,0.28,0.25,,2026-10-12
+EOE,Edge of Eternities,219,Infinite Guideline Station,rare,True,,['legendary'],black,2025-08-01,Legendary Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.29,0.35,,2026-10-12
+EOE,Edge of Eternities,220,Interceptor Mechan,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.19,0.31,,2026-10-12
+EOE,Edge of Eternities,221,"Mm'menon, Uthros Exile",uncommon,True,,['legendary'],black,2025-08-01,Legendary Creature — Jellyfish Advisor,"['nonfoil', 'foil']",False,0.26,0.27,,2026-10-12
+EOE,Edge of Eternities,222,Mutinous Massacre,rare,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.32,0.38,,2026-10-12
+EOE,Edge of Eternities,223,Pinnacle Emissary,rare,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,1.70,1.92,,2026-10-12
+EOE,Edge of Eternities,224,"Ragost, Deft Gastronaut",rare,True,,['legendary'],black,2025-08-01,Legendary Creature — Lobster Citizen,"['nonfoil', 'foil']",False,0.34,0.46,,2026-10-12
+EOE,Edge of Eternities,225,"Sami, Ship's Engineer",uncommon,True,,['legendary'],black,2025-08-01,Legendary Creature — Human Artificer,"['nonfoil', 'foil']",False,0.17,0.27,,2026-10-12
+EOE,Edge of Eternities,226,"Sami, Wildcat Captain",mythic,True,,['legendary'],black,2025-08-01,Legendary Creature — Human Artificer Rogue,"['nonfoil', 'foil']",False,2.24,1.76,,2026-10-12
+EOE,Edge of Eternities,227,Seedship Broodtender,uncommon,True,,,black,2025-08-01,Creature — Insect Citizen,"['nonfoil', 'foil']",False,0.26,0.31,,2026-10-12
+EOE,Edge of Eternities,228,Singularity Rupture,rare,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,1.66,1.68,,2026-10-12
+EOE,Edge of Eternities,229,Space-Time Anomaly,rare,True,,,black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.37,0.42,,2026-10-12
+EOE,Edge of Eternities,230,Station Monitor,uncommon,True,,,black,2025-08-01,Creature — Lizard Artificer,"['nonfoil', 'foil']",False,0.22,0.25,,2026-10-12
+EOE,Edge of Eternities,231,"Syr Vondam, Sunstar Exemplar",rare,True,,['legendary'],black,2025-08-01,Legendary Creature — Human Knight,"['nonfoil', 'foil']",False,0.40,0.40,,2026-10-12
+EOE,Edge of Eternities,232,"Syr Vondam, the Lucent",uncommon,True,,['legendary'],black,2025-08-01,Legendary Creature — Human Knight,"['nonfoil', 'foil']",False,0.27,0.31,,2026-10-12
+EOE,Edge of Eternities,233,"Tannuk, Memorial Ensign",uncommon,True,,['legendary'],black,2025-08-01,Legendary Creature — Kavu Pilot,"['nonfoil', 'foil']",False,1.23,1.39,,2026-10-12
+EOE,Edge of Eternities,234,All-Fates Scroll,uncommon,True,,,black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.30,0.35,,2026-10-12
+EOE,Edge of Eternities,235,Bygone Colossus,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot Giant,"['nonfoil', 'foil']",False,0.35,0.35,,2026-10-12
+EOE,Edge of Eternities,236,Chrome Companion,common,True,,,black,2025-08-01,Artifact Creature — Dog,"['nonfoil', 'foil']",False,0.23,0.31,,2026-10-12
+EOE,Edge of Eternities,237,Dauntless Scrapbot,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.29,0.38,,2026-10-12
+EOE,Edge of Eternities,238,"Dawnsire, Sunstar Dreadnought",mythic,True,,['legendary'],black,2025-08-01,Legendary Artifact — Spacecraft,"['nonfoil', 'foil']",False,11.96,14.03,,2026-10-12
+EOE,Edge of Eternities,239,The Dominion Bracelet,mythic,True,,['legendary'],black,2025-08-01,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,0.77,0.72,,2026-10-12
+EOE,Edge of Eternities,240,The Endstone,mythic,True,,['legendary'],black,2025-08-01,Legendary Artifact,"['nonfoil', 'foil']",False,2.96,3.13,,2026-10-12
+EOE,Edge of Eternities,241,The Eternity Elevator,rare,True,,['legendary'],black,2025-08-01,Legendary Artifact — Spacecraft,"['nonfoil', 'foil']",False,3.32,3.39,,2026-10-12
+EOE,Edge of Eternities,242,Extinguisher Battleship,rare,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.84,1.05,,2026-10-12
+EOE,Edge of Eternities,243,Nutrient Block,common,True,,,black,2025-08-01,Artifact — Food,"['nonfoil', 'foil']",False,0.25,0.38,,2026-10-12
+EOE,Edge of Eternities,244,Pinnacle Kill-Ship,common,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.21,0.26,,2026-10-12
+EOE,Edge of Eternities,245,Survey Mechan,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.28,0.28,,2026-10-12
+EOE,Edge of Eternities,246,Thaumaton Torpedo,common,True,,,black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.09,0.15,,2026-10-12
+EOE,Edge of Eternities,247,Thrumming Hivepool,rare,True,,,black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,2.04,1.83,,2026-10-12
+EOE,Edge of Eternities,248,Virulent Silencer,uncommon,True,,,black,2025-08-01,Artifact Creature — Robot Assassin,"['nonfoil', 'foil']",False,0.32,0.35,,2026-10-12
+EOE,Edge of Eternities,249,Wurmwall Sweeper,common,True,,,black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.19,0.24,,2026-10-12
+EOE,Edge of Eternities,250,"Adagia, Windswept Bastion",mythic,True,,,black,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,6.24,6.42,,2026-10-12
+EOE,Edge of Eternities,251,Breeding Pool,rare,True,,,black,2025-08-01,Land — Forest Island,"['nonfoil', 'foil']",False,8.94,9.94,,2026-10-12
+EOE,Edge of Eternities,252,Command Bridge,common,True,,,black,2025-08-01,Land,"['nonfoil', 'foil']",False,0.24,0.28,,2026-10-12
+EOE,Edge of Eternities,253,"Evendo, Waking Haven",mythic,True,,,black,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,18.36,20.23,,2026-10-12
+EOE,Edge of Eternities,254,Godless Shrine,rare,True,,,black,2025-08-01,Land — Plains Swamp,"['nonfoil', 'foil']",False,9.68,9.69,,2026-10-12
+EOE,Edge of Eternities,255,"Kavaron, Memorial World",mythic,True,,,black,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,1.45,1.78,,2026-10-12
+EOE,Edge of Eternities,256,Sacred Foundry,rare,True,,,black,2025-08-01,Land — Mountain Plains,"['nonfoil', 'foil']",False,10.88,11.35,,2026-10-12
+EOE,Edge of Eternities,257,Secluded Starforge,rare,True,,,black,2025-08-01,Land,"['nonfoil', 'foil']",False,0.41,0.72,,2026-10-12
+EOE,Edge of Eternities,258,Stomping Ground,rare,True,,,black,2025-08-01,Land — Mountain Forest,"['nonfoil', 'foil']",False,7.46,7.83,,2026-10-12
+EOE,Edge of Eternities,259,"Susur Secundi, Void Altar",mythic,True,,,black,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,5.68,5.83,,2026-10-12
+EOE,Edge of Eternities,260,"Uthros, Titanic Godcore",mythic,True,,,black,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,15.01,15.59,,2026-10-12
+EOE,Edge of Eternities,261,Watery Grave,rare,True,,,black,2025-08-01,Land — Island Swamp,"['nonfoil', 'foil']",False,10.46,10.47,,2026-10-12
+EOE,Edge of Eternities,262,Plains,common,True,,['inverted'],borderless,2025-08-01,Basic Land — Plains,"['nonfoil', 'foil']",False,1.06,1.05,,2026-10-12
+EOE,Edge of Eternities,263,Island,common,True,,['inverted'],borderless,2025-08-01,Basic Land — Island,"['nonfoil', 'foil']",False,1.48,1.50,,2026-10-12
+EOE,Edge of Eternities,264,Swamp,common,True,,['inverted'],borderless,2025-08-01,Basic Land — Swamp,"['nonfoil', 'foil']",False,1.32,1.63,,2026-10-12
+EOE,Edge of Eternities,265,Mountain,common,True,,['inverted'],borderless,2025-08-01,Basic Land — Mountain,"['nonfoil', 'foil']",False,1.67,2.23,,2026-10-12
+EOE,Edge of Eternities,266,Forest,common,True,,['inverted'],borderless,2025-08-01,Basic Land — Forest,"['nonfoil', 'foil']",False,1.31,1.87,,2026-10-12
+EOE,Edge of Eternities,267,Plains,common,True,,,black,2025-08-01,Basic Land — Plains,"['nonfoil', 'foil']",False,0.16,0.27,,2026-10-12
+EOE,Edge of Eternities,268,Plains,common,True,,,black,2025-08-01,Basic Land — Plains,"['nonfoil', 'foil']",False,0.19,0.23,,2026-10-12
+EOE,Edge of Eternities,269,Island,common,True,,,black,2025-08-01,Basic Land — Island,"['nonfoil', 'foil']",False,0.16,0.31,,2026-10-12
+EOE,Edge of Eternities,270,Island,common,True,,,black,2025-08-01,Basic Land — Island,"['nonfoil', 'foil']",False,0.21,0.16,,2026-10-12
+EOE,Edge of Eternities,271,Swamp,common,True,,,black,2025-08-01,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.14,0.15,,2026-10-12
+EOE,Edge of Eternities,272,Swamp,common,True,,,black,2025-08-01,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.21,0.20,,2026-10-12
+EOE,Edge of Eternities,273,Mountain,common,True,,,black,2025-08-01,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.15,0.13,,2026-10-12
+EOE,Edge of Eternities,274,Mountain,common,True,,,black,2025-08-01,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.21,0.17,,2026-10-12
+EOE,Edge of Eternities,275,Forest,common,True,,,black,2025-08-01,Basic Land — Forest,"['nonfoil', 'foil']",False,0.15,0.16,,2026-10-12
+EOE,Edge of Eternities,276,Forest,common,True,,,black,2025-08-01,Basic Land — Forest,"['nonfoil', 'foil']",False,0.16,0.16,,2026-10-12
+EOE,Edge of Eternities,277,"Adagia, Windswept Bastion",mythic,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,7.52,8.86,,2026-10-12
+EOE,Edge of Eternities,278,Breeding Pool,rare,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Forest Island,"['nonfoil', 'foil']",False,11.21,12.36,,2026-10-12
+EOE,Edge of Eternities,279,"Evendo, Waking Haven",mythic,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,24.24,26.44,,2026-10-12
+EOE,Edge of Eternities,280,Godless Shrine,rare,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Plains Swamp,"['nonfoil', 'foil']",False,10.22,11.75,,2026-10-12
+EOE,Edge of Eternities,281,"Kavaron, Memorial World",mythic,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,2.31,2.71,,2026-10-12
+EOE,Edge of Eternities,282,Sacred Foundry,rare,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Mountain Plains,"['nonfoil', 'foil']",False,12.23,13.19,,2026-10-12
+EOE,Edge of Eternities,283,Stomping Ground,rare,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Mountain Forest,"['nonfoil', 'foil']",False,8.65,11.09,,2026-10-12
+EOE,Edge of Eternities,284,"Susur Secundi, Void Altar",mythic,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,7.08,9.38,,2026-10-12
+EOE,Edge of Eternities,285,"Uthros, Titanic Godcore",mythic,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,"['nonfoil', 'foil']",False,15.13,16.57,,2026-10-12
+EOE,Edge of Eternities,286,Watery Grave,rare,False,['boosterfun'],"['showcase', 'inverted']",borderless,2025-08-01,Land — Island Swamp,"['nonfoil', 'foil']",False,13.75,14.78,,2026-10-12
+EOE,Edge of Eternities,287,"Tezzeret, Cruel Captain",mythic,False,['boosterfun'],['inverted'],borderless,2025-08-01,Legendary Planeswalker — Tezzeret,"['nonfoil', 'foil']",False,41.47,89.75,,2026-10-12
+EOE,Edge of Eternities,288,Astelli Reclaimer,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Angel Warrior,"['nonfoil', 'foil']",False,0.86,1.16,,2026-10-12
+EOE,Edge of Eternities,289,"Haliya, Guided by Light",rare,False,['boosterfun'],"['legendary', 'inverted']",borderless,2025-08-01,Legendary Creature — Human Soldier,"['nonfoil', 'foil']",False,6.22,8.99,,2026-10-12
+EOE,Edge of Eternities,290,"Mm'menon, the Right Hand",rare,False,['boosterfun'],"['legendary', 'inverted']",borderless,2025-08-01,Legendary Creature — Jellyfish Advisor,"['nonfoil', 'foil']",False,1.77,3.00,,2026-10-12
+EOE,Edge of Eternities,291,Starwinder,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Leviathan,"['nonfoil', 'foil']",False,6.22,9.62,,2026-10-12
+EOE,Edge of Eternities,292,"Alpharael, Stonechosen",mythic,False,['boosterfun'],"['legendary', 'inverted']",borderless,2025-08-01,Legendary Creature — Human Cleric,"['nonfoil', 'foil']",False,1.70,2.56,,2026-10-12
+EOE,Edge of Eternities,293,Elegy Acolyte,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Human Cleric,"['nonfoil', 'foil']",False,0.69,1.40,,2026-10-12
+EOE,Edge of Eternities,294,"Xu-Ifit, Osteoharmonist",rare,False,['boosterfun'],"['inverted', 'legendary']",borderless,2025-08-01,Legendary Creature — Human Wizard,"['nonfoil', 'foil']",False,1.97,3.11,,2026-10-12
+EOE,Edge of Eternities,295,Possibility Technician,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Kavu Artificer,"['nonfoil', 'foil']",False,0.33,0.36,,2026-10-12
+EOE,Edge of Eternities,296,"Tannuk, Steadfast Second",mythic,False,['boosterfun'],"['legendary', 'inverted']",borderless,2025-08-01,Legendary Creature — Kavu Pilot,"['nonfoil', 'foil']",False,4.68,9.76,,2026-10-12
+EOE,Edge of Eternities,297,Mightform Harmonizer,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Insect Druid,"['nonfoil', 'foil']",False,4.68,5.83,,2026-10-12
+EOE,Edge of Eternities,298,"Dyadrine, Synthesis Amalgam",rare,False,['boosterfun'],"['legendary', 'inverted']",borderless,2025-08-01,Legendary Artifact Creature — Construct,"['nonfoil', 'foil']",False,0.57,1.21,,2026-10-12
+EOE,Edge of Eternities,299,Genemorph Imago,rare,False,['boosterfun'],"['inverted', 'legendary']",borderless,2025-08-01,Creature — Insect Druid,"['nonfoil', 'foil']",False,0.32,0.58,,2026-10-12
+EOE,Edge of Eternities,300,"Ragost, Deft Gastronaut",rare,False,['boosterfun'],"['legendary', 'inverted']",borderless,2025-08-01,Legendary Creature — Lobster Citizen,"['nonfoil', 'foil']",False,2.76,5.28,,2026-10-12
+EOE,Edge of Eternities,301,"Sami, Wildcat Captain",mythic,False,['boosterfun'],"['legendary', 'inverted']",borderless,2025-08-01,Legendary Creature — Human Artificer Rogue,"['nonfoil', 'foil']",False,4.82,10.27,,2026-10-12
+EOE,Edge of Eternities,302,"Syr Vondam, Sunstar Exemplar",rare,False,['boosterfun'],"['inverted', 'legendary']",borderless,2025-08-01,Legendary Creature — Human Knight,"['nonfoil', 'foil']",False,0.55,1.16,,2026-10-12
+EOE,Edge of Eternities,303,Beyond the Quiet,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,1.62,3.55,,2026-10-12
+EOE,Edge of Eternities,304,Cosmogrand Zenith,mythic,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Human Soldier,"['nonfoil', 'foil']",False,10.06,12.34,,2026-10-12
+EOE,Edge of Eternities,305,Quantum Riddler,mythic,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Sphinx,"['nonfoil', 'foil']",False,44.50,55.66,,2026-10-12
+EOE,Edge of Eternities,306,Starwinder,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Leviathan,"['nonfoil', 'foil']",False,6.14,7.52,,2026-10-12
+EOE,Edge of Eternities,307,Archenemy's Charm,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Instant,"['nonfoil', 'foil']",False,2.73,3.80,,2026-10-12
+EOE,Edge of Eternities,308,Devastating Onslaught,mythic,False,['boosterfun'],['inverted'],borderless,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,5.59,8.56,,2026-10-12
+EOE,Edge of Eternities,309,Nova Hellkite,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Dragon,"['nonfoil', 'foil']",False,1.23,1.85,,2026-10-12
+EOE,Edge of Eternities,310,Rust Harvester,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,0.34,0.43,,2026-10-12
+EOE,Edge of Eternities,311,Weapons Manufacturing,rare,False,['boosterfun'],"['enchantment', 'inverted']",borderless,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,3.44,7.41,,2026-10-12
+EOE,Edge of Eternities,312,Terrasymbiosis,rare,False,['boosterfun'],"['enchantment', 'inverted']",borderless,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,14.22,16.55,,2026-10-12
+EOE,Edge of Eternities,313,Cosmogoyf,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Creature — Elemental Lhurgoyf,"['nonfoil', 'foil']",False,0.81,1.86,,2026-10-12
+EOE,Edge of Eternities,314,Mutinous Massacre,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.71,0.82,,2026-10-12
+EOE,Edge of Eternities,315,Space-Time Anomaly,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,1.93,2.46,,2026-10-12
+EOE,Edge of Eternities,316,Secluded Starforge,rare,False,['boosterfun'],['inverted'],borderless,2025-08-01,Land,"['nonfoil', 'foil']",False,1.24,2.28,,2026-10-12
+EOE,Edge of Eternities,317,Anticausal Vestige,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Eldrazi,"['nonfoil', 'foil']",False,2.76,2.90,,2026-10-12
+EOE,Edge of Eternities,318,Exalted Sunborn,mythic,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Angel Wizard,"['nonfoil', 'foil']",False,23.58,25.84,,2026-10-12
+EOE,Edge of Eternities,319,Hardlight Containment,rare,False,['boosterfun'],"['enchantment', 'extendedart']",black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,0.36,0.39,,2026-10-12
+EOE,Edge of Eternities,320,Lightstall Inquisitor,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Angel Wizard,"['nonfoil', 'foil']",False,0.68,1.30,,2026-10-12
+EOE,Edge of Eternities,321,Lumen-Class Frigate,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.55,0.53,,2026-10-12
+EOE,Edge of Eternities,322,Pinnacle Starcage,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.46,0.54,,2026-10-12
+EOE,Edge of Eternities,323,The Seriema,rare,False,['boosterfun'],"['extendedart', 'legendary']",black,2025-08-01,Legendary Artifact — Spacecraft,"['nonfoil', 'foil']",False,2.91,4.58,,2026-10-12
+EOE,Edge of Eternities,324,Sunstar Chaplain,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Human Cleric,"['nonfoil', 'foil']",False,0.32,0.32,,2026-10-12
+EOE,Edge of Eternities,325,Consult the Star Charts,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Instant,"['nonfoil', 'foil']",False,4.34,8.08,,2026-10-12
+EOE,Edge of Eternities,326,Emissary Escort,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact Creature — Robot Soldier,"['nonfoil', 'foil']",False,0.34,0.31,,2026-10-12
+EOE,Edge of Eternities,327,Moonlit Meditation,rare,False,['boosterfun'],"['enchantment', 'extendedart']",black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,1.22,1.51,,2026-10-12
+EOE,Edge of Eternities,328,Starfield Vocalist,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Human Bard,"['nonfoil', 'foil']",False,2.60,3.04,,2026-10-12
+EOE,Edge of Eternities,329,Synthesizer Labship,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.39,0.58,,2026-10-12
+EOE,Edge of Eternities,330,Weftwalking,mythic,False,['boosterfun'],"['enchantment', 'extendedart']",black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,0.57,0.86,,2026-10-12
+EOE,Edge of Eternities,331,Chorale of the Void,rare,False,['boosterfun'],"['enchantment', 'extendedart']",black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,0.42,0.56,,2026-10-12
+EOE,Edge of Eternities,332,Entropic Battlecruiser,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.78,0.96,,2026-10-12
+EOE,Edge of Eternities,333,Requiem Monolith,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.74,0.88,,2026-10-12
+EOE,Edge of Eternities,334,Sunset Saboteur,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Human Rogue,"['nonfoil', 'foil']",False,0.31,0.43,,2026-10-12
+EOE,Edge of Eternities,335,Zero Point Ballad,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.54,1.10,,2026-10-12
+EOE,Edge of Eternities,336,Memorial Vault,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,0.29,0.33,,2026-10-12
+EOE,Edge of Eternities,337,Pain for All,rare,False,['boosterfun'],"['enchantment', 'extendedart']",black,2025-08-01,Enchantment — Aura,"['nonfoil', 'foil']",False,2.36,2.74,,2026-10-12
+EOE,Edge of Eternities,338,Terminal Velocity,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.33,0.40,,2026-10-12
+EOE,Edge of Eternities,339,Warmaker Gunship,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.34,0.45,,2026-10-12
+EOE,Edge of Eternities,340,Bioengineered Future,rare,False,['boosterfun'],"['enchantment', 'extendedart']",black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,0.41,0.45,,2026-10-12
+EOE,Edge of Eternities,341,Famished Worldsire,mythic,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Leviathan,"['nonfoil', 'foil']",False,7.04,8.66,,2026-10-12
+EOE,Edge of Eternities,342,Frenzied Baloth,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Beast,"['nonfoil', 'foil']",False,4.21,5.13,,2026-10-12
+EOE,Edge of Eternities,343,Icetill Explorer,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Insect Scout,"['nonfoil', 'foil']",False,24.20,26.30,,2026-10-12
+EOE,Edge of Eternities,344,Loading Zone,rare,False,['boosterfun'],"['enchantment', 'extendedart']",black,2025-08-01,Enchantment,"['nonfoil', 'foil']",False,3.30,4.25,,2026-10-12
+EOE,Edge of Eternities,345,Ouroboroid,mythic,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Plant Wurm,"['nonfoil', 'foil']",False,44.16,63.62,,2026-10-12
+EOE,Edge of Eternities,346,Sledge-Class Seedship,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.55,0.68,,2026-10-12
+EOE,Edge of Eternities,347,Biotech Specialist,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Creature — Insect Scientist,"['nonfoil', 'foil']",False,0.94,0.97,,2026-10-12
+EOE,Edge of Eternities,348,Infinite Guideline Station,rare,False,['boosterfun'],"['extendedart', 'legendary']",black,2025-08-01,Legendary Artifact — Spacecraft,"['nonfoil', 'foil']",False,0.76,1.40,,2026-10-12
+EOE,Edge of Eternities,349,Pinnacle Emissary,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact Creature — Robot,"['nonfoil', 'foil']",False,2.96,4.90,,2026-10-12
+EOE,Edge of Eternities,350,Singularity Rupture,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,2.03,2.92,,2026-10-12
+EOE,Edge of Eternities,351,"Dawnsire, Sunstar Dreadnought",mythic,False,['boosterfun'],"['extendedart', 'legendary']",black,2025-08-01,Legendary Artifact — Spacecraft,"['nonfoil', 'foil']",False,22.58,23.12,,2026-10-12
+EOE,Edge of Eternities,352,The Dominion Bracelet,mythic,False,['boosterfun'],"['extendedart', 'legendary']",black,2025-08-01,Legendary Artifact — Equipment,"['nonfoil', 'foil']",False,1.23,1.32,,2026-10-12
+EOE,Edge of Eternities,353,The Endstone,mythic,False,['boosterfun'],"['extendedart', 'legendary']",black,2025-08-01,Legendary Artifact,"['nonfoil', 'foil']",False,5.01,6.70,,2026-10-12
+EOE,Edge of Eternities,354,The Eternity Elevator,rare,False,['boosterfun'],"['extendedart', 'legendary']",black,2025-08-01,Legendary Artifact — Spacecraft,"['nonfoil', 'foil']",False,4.98,6.38,,2026-10-12
+EOE,Edge of Eternities,355,Extinguisher Battleship,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact — Spacecraft,"['nonfoil', 'foil']",False,2.18,3.06,,2026-10-12
+EOE,Edge of Eternities,356,Thrumming Hivepool,rare,False,['boosterfun'],['extendedart'],black,2025-08-01,Artifact,"['nonfoil', 'foil']",False,2.66,3.49,,2026-10-12
+EOE,Edge of Eternities,357,Anticausal Vestige,mythic,False,"['japanshowcase', 'boosterfun']","['showcase', 'inverted']",black,2025-08-01,Creature — Eldrazi,['foil'],False,,25.92,,2026-10-12
+EOE,Edge of Eternities,358,Exalted Sunborn,mythic,False,"['japanshowcase', 'boosterfun']","['showcase', 'inverted']",black,2025-08-01,Creature — Angel Wizard,['foil'],False,,96.80,,2026-10-12
+EOE,Edge of Eternities,359,Starfield Vocalist,mythic,False,"['japanshowcase', 'boosterfun']","['showcase', 'inverted']",black,2025-08-01,Creature — Human Bard,['foil'],False,,60.10,,2026-10-12
+EOE,Edge of Eternities,360,"Sothera, the Supervoid",mythic,False,"['japanshowcase', 'boosterfun']","['showcase', 'enchantment', 'legendary', 'inverted']",black,2025-08-01,Legendary Enchantment,['foil'],False,,33.86,,2026-10-12
+EOE,Edge of Eternities,361,Devastating Onslaught,mythic,False,"['japanshowcase', 'boosterfun']","['showcase', 'inverted']",black,2025-08-01,Sorcery,['foil'],False,,7.00,,2026-10-12
+EOE,Edge of Eternities,362,Icetill Explorer,mythic,False,"['japanshowcase', 'boosterfun']","['showcase', 'inverted']",black,2025-08-01,Creature — Insect Scout,['foil'],False,,87.06,,2026-10-12
+EOE,Edge of Eternities,363,Mutinous Massacre,mythic,False,"['japanshowcase', 'boosterfun']","['showcase', 'inverted']",black,2025-08-01,Sorcery,['foil'],False,,4.96,,2026-10-12
+EOE,Edge of Eternities,364,The Dominion Bracelet,mythic,False,"['japanshowcase', 'boosterfun']","['showcase', 'legendary', 'inverted']",black,2025-08-01,Legendary Artifact — Equipment,['foil'],False,,3.32,,2026-10-12
+EOE,Edge of Eternities,365,The Endstone,mythic,False,"['japanshowcase', 'boosterfun']","['showcase', 'legendary', 'inverted']",black,2025-08-01,Legendary Artifact,['foil'],False,,15.51,,2026-10-12
+EOE,Edge of Eternities,366,Secluded Starforge,mythic,False,"['japanshowcase', 'boosterfun']","['inverted', 'showcase']",black,2025-08-01,Land,['foil'],False,,5.18,,2026-10-12
+EOE,Edge of Eternities,367,Plains,common,False,"['galaxyfoil', 'boosterfun']",['inverted'],borderless,2025-08-01,Basic Land — Plains,['foil'],False,,3.89,,2026-10-12
+EOE,Edge of Eternities,368,Island,common,False,"['galaxyfoil', 'boosterfun']",['inverted'],borderless,2025-08-01,Basic Land — Island,['foil'],False,,5.30,,2026-10-12
+EOE,Edge of Eternities,369,Swamp,common,False,"['galaxyfoil', 'boosterfun']",['inverted'],borderless,2025-08-01,Basic Land — Swamp,['foil'],False,,5.72,,2026-10-12
+EOE,Edge of Eternities,370,Mountain,common,False,"['galaxyfoil', 'boosterfun']",['inverted'],borderless,2025-08-01,Basic Land — Mountain,['foil'],False,,5.44,,2026-10-12
+EOE,Edge of Eternities,371,Forest,common,False,"['galaxyfoil', 'boosterfun']",['inverted'],borderless,2025-08-01,Basic Land — Forest,['foil'],False,,5.74,,2026-10-12
+EOE,Edge of Eternities,372,"Adagia, Windswept Bastion",mythic,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,['foil'],False,,29.66,,2026-10-12
+EOE,Edge of Eternities,373,Breeding Pool,rare,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Forest Island,['foil'],False,,30.22,,2026-10-12
+EOE,Edge of Eternities,374,"Evendo, Waking Haven",mythic,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,['foil'],False,,83.94,,2026-10-12
+EOE,Edge of Eternities,375,Godless Shrine,rare,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Plains Swamp,['foil'],False,,27.66,,2026-10-12
+EOE,Edge of Eternities,376,"Kavaron, Memorial World",mythic,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,['foil'],False,,12.59,,2026-10-12
+EOE,Edge of Eternities,377,Sacred Foundry,rare,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Mountain Plains,['foil'],False,,27.68,,2026-10-12
+EOE,Edge of Eternities,378,Stomping Ground,rare,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Mountain Forest,['foil'],False,,23.41,,2026-10-12
+EOE,Edge of Eternities,379,"Susur Secundi, Void Altar",mythic,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,['foil'],False,,32.74,,2026-10-12
+EOE,Edge of Eternities,380,"Uthros, Titanic Godcore",mythic,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Planet,['foil'],False,,59.25,,2026-10-12
+EOE,Edge of Eternities,381,Watery Grave,rare,False,"['galaxyfoil', 'boosterfun']","['showcase', 'inverted']",borderless,2025-08-01,Land — Island Swamp,['foil'],False,,39.66,,2026-10-12
+EOE,Edge of Eternities,382,"Sothera, the Supervoid",mythic,False,"['poster', 'headliner', 'singularityfoil', 'boosterfun']","['enchantment', 'legendary']",borderless,2025-08-01,Legendary Enchantment,['foil'],False,,1375.05,,2026-10-12
+EOE,Edge of Eternities,383,Anticausal Vestige,mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['showcase', 'inverted']",white,2025-08-01,Creature — Eldrazi,['foil'],False,,129.07,,2026-10-12
+EOE,Edge of Eternities,384,Exalted Sunborn,mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['inverted', 'showcase']",white,2025-08-01,Creature — Angel Wizard,['foil'],False,,269.98,,2026-10-12
+EOE,Edge of Eternities,385,Starfield Vocalist,mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['showcase', 'inverted']",white,2025-08-01,Creature — Human Bard,['foil'],False,,216.33,,2026-10-12
+EOE,Edge of Eternities,386,"Sothera, the Supervoid",mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['showcase', 'enchantment', 'legendary', 'inverted']",white,2025-08-01,Legendary Enchantment,['foil'],False,,132.68,,2026-10-12
+EOE,Edge of Eternities,387,Devastating Onslaught,mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['inverted', 'showcase']",white,2025-08-01,Sorcery,['foil'],False,,37.83,,2026-10-12
+EOE,Edge of Eternities,388,Icetill Explorer,mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['inverted', 'showcase']",white,2025-08-01,Creature — Insect Scout,['foil'],False,,372.14,,2026-10-12
+EOE,Edge of Eternities,389,Mutinous Massacre,mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['showcase', 'inverted']",white,2025-08-01,Sorcery,['foil'],False,,28.76,,2026-10-12
+EOE,Edge of Eternities,390,The Dominion Bracelet,mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['showcase', 'legendary', 'inverted']",white,2025-08-01,Legendary Artifact — Equipment,['foil'],False,,28.07,,2026-10-12
+EOE,Edge of Eternities,391,The Endstone,mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['showcase', 'legendary', 'inverted']",white,2025-08-01,Legendary Artifact,['foil'],False,,140.54,,2026-10-12
+EOE,Edge of Eternities,392,Secluded Starforge,mythic,False,"['fracturefoil', 'japanshowcase', 'boosterfun']","['showcase', 'inverted']",white,2025-08-01,Land,['foil'],False,,34.34,,2026-10-12
+EOE,Edge of Eternities,393,Starfield Shepherd,uncommon,False,['promopack'],['inverted'],black,2025-08-01,Creature — Angel,"['nonfoil', 'foil']",False,0.34,0.99,,2026-10-12
+EOE,Edge of Eternities,394,Annul,uncommon,False,['promopack'],['inverted'],black,2025-08-01,Instant,"['nonfoil', 'foil']",False,0.29,0.62,,2026-10-12
+EOE,Edge of Eternities,395,Umbral Collar Zealot,uncommon,False,['promopack'],['inverted'],black,2025-08-01,Creature — Human Cleric,"['nonfoil', 'foil']",False,0.49,1.06,,2026-10-12
+EOE,Edge of Eternities,396,Kavaron Harrier,uncommon,False,['promopack'],['inverted'],black,2025-08-01,Artifact Creature — Robot Soldier,"['nonfoil', 'foil']",False,0.15,0.20,,2026-10-12
+EOE,Edge of Eternities,397,Pull Through the Weft,uncommon,False,['promopack'],['inverted'],black,2025-08-01,Sorcery,"['nonfoil', 'foil']",False,0.16,0.20,,2026-10-12
+EOE,Edge of Eternities,398,Singularity Rupture,rare,False,['buyabox'],['extendedart'],black,2025-08-01,Sorcery,['foil'],False,,0.45,,2026-10-12
+EOE,Edge of Eternities,399,Emissary Escort,rare,False,['bundle'],,black,2025-08-01,Artifact Creature — Robot Soldier,['foil'],False,,0.23,,2026-10-12

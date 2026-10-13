@@ -1,0 +1,395 @@
+set,set_name,collector_number,name,rarity,booster,promo_types,frame_effects,border_color,released_at,type_line,finishes,variation,usd,usd_foil,usd_etched,price_collected_date
+TLA,Avatar: The Last Airbender,1,Aang's Journey,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.25,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,2,Energybending,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.28,0.35,,2026-10-12
+TLA,Avatar: The Last Airbender,3,Zuko's Exile,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.26,0.31,,2026-10-12
+TLA,Avatar: The Last Airbender,4,"Aang, the Last Airbender",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Avatar Ally,"['nonfoil', 'foil']",False,0.27,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,5,Aang's Iceberg,rare,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,0.36,0.61,,2026-10-12
+TLA,Avatar: The Last Airbender,6,Airbender Ascension,rare,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,1.14,1.90,,2026-10-12
+TLA,Avatar: The Last Airbender,7,Airbender's Reversal,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.31,0.40,,2026-10-12
+TLA,Avatar: The Last Airbender,8,Airbending Lesson,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.22,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,9,"Appa, Loyal Sky Bison",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Bison Ally,"['nonfoil', 'foil']",False,0.25,0.33,,2026-10-12
+TLA,Avatar: The Last Airbender,10,"Appa, Steadfast Guardian",mythic,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Bison Ally,"['nonfoil', 'foil']",False,5.94,6.97,,2026-10-12
+TLA,Avatar: The Last Airbender,11,Avatar Enthusiasts,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Peasant Ally,"['nonfoil', 'foil']",False,0.17,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,12,Avatar's Wrath,rare,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,3.73,4.75,,2026-10-12
+TLA,Avatar: The Last Airbender,13,Compassionate Healer,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Cleric Ally,"['nonfoil', 'foil']",False,0.28,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,14,Curious Farm Animals,common,True,['universesbeyond'],,black,2025-11-21,Creature — Boar Elk Bird Ox,"['nonfoil', 'foil']",False,0.27,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,15,Destined Confrontation,uncommon,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,16,Earth Kingdom Jailer,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.13,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,17,Earth Kingdom Protectors,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.24,0.35,,2026-10-12
+TLA,Avatar: The Last Airbender,18,Enter the Avatar State,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.34,0.37,,2026-10-12
+TLA,Avatar: The Last Airbender,19,Fancy Footwork,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.14,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,20,Gather the White Lotus,uncommon,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.19,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,21,Glider Kids,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Pilot Ally,"['nonfoil', 'foil']",False,0.11,0.13,,2026-10-12
+TLA,Avatar: The Last Airbender,22,Glider Staff,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact — Equipment,"['nonfoil', 'foil']",False,0.28,0.33,,2026-10-12
+TLA,Avatar: The Last Airbender,23,"Hakoda, Selfless Commander",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.36,0.39,,2026-10-12
+TLA,Avatar: The Last Airbender,24,Invasion Reinforcements,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.19,0.33,,2026-10-12
+TLA,Avatar: The Last Airbender,25,Jeong Jeong's Deserters,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Rebel Ally,"['nonfoil', 'foil']",False,0.15,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,26,Kyoshi Warriors,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.11,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,27,The Legend of Yangchen // Avatar Yangchen,mythic,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Enchantment — Saga // Legendary Creature — Avatar,"['nonfoil', 'foil']",False,3.10,5.15,,2026-10-12
+TLA,Avatar: The Last Airbender,28,Master Piandao,uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.15,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,29,"Momo, Friendly Flier",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Lemur Bat Ally,"['nonfoil', 'foil']",False,0.63,0.62,,2026-10-12
+TLA,Avatar: The Last Airbender,30,"Momo, Playful Pet",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Lemur Bat Ally,"['nonfoil', 'foil']",False,0.26,0.32,,2026-10-12
+TLA,Avatar: The Last Airbender,31,Path to Redemption,common,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment — Aura,"['nonfoil', 'foil']",False,0.12,0.19,,2026-10-12
+TLA,Avatar: The Last Airbender,32,Rabaroo Troop,common,True,['universesbeyond'],,black,2025-11-21,Creature — Rabbit Kangaroo,"['nonfoil', 'foil']",False,0.15,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,33,Razor Rings,common,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.12,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,34,Sandbenders' Storm,common,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.23,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,35,South Pole Voyager,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Scout Ally,"['nonfoil', 'foil']",False,0.26,0.39,,2026-10-12
+TLA,Avatar: The Last Airbender,36,Southern Air Temple,uncommon,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Legendary Enchantment — Shrine,"['nonfoil', 'foil']",False,0.28,0.33,,2026-10-12
+TLA,Avatar: The Last Airbender,37,"Suki, Courageous Rescuer",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.31,0.37,,2026-10-12
+TLA,Avatar: The Last Airbender,38,Team Avatar,uncommon,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,0.20,0.32,,2026-10-12
+TLA,Avatar: The Last Airbender,39,United Front,mythic,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,1.67,2.63,,2026-10-12
+TLA,Avatar: The Last Airbender,40,Vengeful Villagers,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Citizen,"['nonfoil', 'foil']",False,0.05,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,41,Water Tribe Captain,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.08,0.17,,2026-10-12
+TLA,Avatar: The Last Airbender,42,Water Tribe Rallier,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.14,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,43,Yip Yip!,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.11,0.23,,2026-10-12
+TLA,Avatar: The Last Airbender,44,Accumulate Wisdom,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.25,0.43,,2026-10-12
+TLA,Avatar: The Last Airbender,45,Benevolent River Spirit,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Spirit,"['nonfoil', 'foil']",False,0.19,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,46,Boomerang Basics,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.79,1.54,,2026-10-12
+TLA,Avatar: The Last Airbender,47,Crashing Wave,uncommon,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,48,Ember Island Production,uncommon,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.33,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,49,First-Time Flyer,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Pilot Ally,"['nonfoil', 'foil']",False,0.06,0.16,,2026-10-12
+TLA,Avatar: The Last Airbender,50,Flexible Waterbender,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.13,0.19,,2026-10-12
+TLA,Avatar: The Last Airbender,51,Forecasting Fortune Teller,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Advisor Ally,"['nonfoil', 'foil']",False,0.10,0.22,,2026-10-12
+TLA,Avatar: The Last Airbender,52,Geyser Leaper,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.09,0.20,,2026-10-12
+TLA,Avatar: The Last Airbender,53,Giant Koi,common,True,['universesbeyond'],,black,2025-11-21,Creature — Fish,"['nonfoil', 'foil']",False,0.13,0.22,,2026-10-12
+TLA,Avatar: The Last Airbender,54,Gran-Gran,uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Peasant Ally,"['nonfoil', 'foil']",False,0.26,0.32,,2026-10-12
+TLA,Avatar: The Last Airbender,55,Honest Work,uncommon,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment — Aura,"['nonfoil', 'foil']",False,0.19,0.31,,2026-10-12
+TLA,Avatar: The Last Airbender,56,Iguana Parrot,common,True,['universesbeyond'],,black,2025-11-21,Creature — Lizard Bird Pirate,"['nonfoil', 'foil']",False,0.11,0.20,,2026-10-12
+TLA,Avatar: The Last Airbender,57,Invasion Submersible,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.19,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,58,It'll Quench Ya!,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.25,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,59,"Katara, Bending Prodigy",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,60,Knowledge Seeker,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Fox Spirit,"['nonfoil', 'foil']",False,0.17,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,61,The Legend of Kuruk // Avatar Kuruk,mythic,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Enchantment — Saga // Legendary Creature — Avatar,"['nonfoil', 'foil']",False,2.45,3.05,,2026-10-12
+TLA,Avatar: The Last Airbender,62,Lost Days,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.18,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,63,Master Pakku,uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Advisor Ally,"['nonfoil', 'foil']",False,0.13,0.22,,2026-10-12
+TLA,Avatar: The Last Airbender,64,"The Mechanist, Aerial Artisan",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Artificer Ally,"['nonfoil', 'foil']",False,0.27,0.34,,2026-10-12
+TLA,Avatar: The Last Airbender,65,North Pole Patrol,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.20,0.31,,2026-10-12
+TLA,Avatar: The Last Airbender,66,Octopus Form,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.23,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,67,Otter-Penguin,common,True,['universesbeyond'],,black,2025-11-21,Creature — Otter Bird,"['nonfoil', 'foil']",False,0.16,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,68,Rowdy Snowballers,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Peasant Ally,"['nonfoil', 'foil']",False,0.09,0.20,,2026-10-12
+TLA,Avatar: The Last Airbender,69,Secret of Bloodbending,mythic,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.98,1.49,,2026-10-12
+TLA,Avatar: The Last Airbender,70,Serpent of the Pass,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Serpent,"['nonfoil', 'foil']",False,0.09,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,71,Sokka's Haiku,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.23,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,72,The Spirit Oasis,uncommon,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Legendary Enchantment — Shrine,"['nonfoil', 'foil']",False,0.32,0.35,,2026-10-12
+TLA,Avatar: The Last Airbender,73,Spirit Water Revival,rare,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.47,1.24,,2026-10-12
+TLA,Avatar: The Last Airbender,74,"Teo, Spirited Glider",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Pilot Ally,"['nonfoil', 'foil']",False,0.19,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,75,Tiger-Seal,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Cat Seal,"['nonfoil', 'foil']",False,0.20,0.33,,2026-10-12
+TLA,Avatar: The Last Airbender,76,"Ty Lee, Chi Blocker",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Performer Ally,"['nonfoil', 'foil']",False,0.36,0.53,,2026-10-12
+TLA,Avatar: The Last Airbender,77,The Unagi of Kyoshi Island,rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Serpent,"['nonfoil', 'foil']",False,1.00,1.86,,2026-10-12
+TLA,Avatar: The Last Airbender,78,"Wan Shi Tong, Librarian",mythic,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Bird Spirit,"['nonfoil', 'foil']",False,34.44,37.73,,2026-10-12
+TLA,Avatar: The Last Airbender,79,Waterbender Ascension,rare,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,0.61,0.88,,2026-10-12
+TLA,Avatar: The Last Airbender,80,Waterbending Lesson,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.20,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,81,Waterbending Scroll,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact,"['nonfoil', 'foil']",False,0.22,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,82,Watery Grasp,common,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment — Aura,"['nonfoil', 'foil']",False,0.13,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,83,"Yue, the Moon Spirit",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Spirit Ally,"['nonfoil', 'foil']",False,0.33,0.53,,2026-10-12
+TLA,Avatar: The Last Airbender,84,Azula Always Lies,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.09,0.22,,2026-10-12
+TLA,Avatar: The Last Airbender,85,"Azula, On the Hunt",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,0.18,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,86,Beetle-Headed Merchants,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Citizen,"['nonfoil', 'foil']",False,0.10,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,87,Boiling Rock Rioter,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Rogue Ally,"['nonfoil', 'foil']",False,0.20,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,88,Buzzard-Wasp Colony,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Bird Insect,"['nonfoil', 'foil']",False,0.13,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,89,Callous Inspector,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.20,0.23,,2026-10-12
+TLA,Avatar: The Last Airbender,90,Canyon Crawler,common,True,['universesbeyond'],,black,2025-11-21,Creature — Spider Beast,"['nonfoil', 'foil']",False,0.19,0.31,,2026-10-12
+TLA,Avatar: The Last Airbender,91,Cat-Gator,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Fish Crocodile,"['nonfoil', 'foil']",False,0.15,0.32,,2026-10-12
+TLA,Avatar: The Last Airbender,92,Corrupt Court Official,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Advisor,"['nonfoil', 'foil']",False,0.14,0.15,,2026-10-12
+TLA,Avatar: The Last Airbender,93,Dai Li Indoctrination,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.15,0.20,,2026-10-12
+TLA,Avatar: The Last Airbender,94,Day of Black Sun,rare,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,1.59,1.82,,2026-10-12
+TLA,Avatar: The Last Airbender,95,Deadly Precision,common,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.16,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,96,Epic Downfall,uncommon,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.13,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,97,Fatal Fissure,uncommon,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.13,0.23,,2026-10-12
+TLA,Avatar: The Last Airbender,98,The Fire Nation Drill,rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Artifact — Vehicle,"['nonfoil', 'foil']",False,0.31,0.43,,2026-10-12
+TLA,Avatar: The Last Airbender,99,Fire Nation Engineer,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Artificer,"['nonfoil', 'foil']",False,0.11,0.21,,2026-10-12
+TLA,Avatar: The Last Airbender,100,Fire Navy Trebuchet,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact Creature — Wall,"['nonfoil', 'foil']",False,0.22,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,101,Foggy Swamp Hunters,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Ranger Ally,"['nonfoil', 'foil']",False,0.08,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,102,Foggy Swamp Visions,rare,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.29,0.41,,2026-10-12
+TLA,Avatar: The Last Airbender,103,Heartless Act,uncommon,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.22,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,104,Hog-Monkey,common,True,['universesbeyond'],,black,2025-11-21,Creature — Boar Monkey,"['nonfoil', 'foil']",False,0.12,0.19,,2026-10-12
+TLA,Avatar: The Last Airbender,105,"Joo Dee, One of Many",uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Advisor,"['nonfoil', 'foil']",False,0.17,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,106,"June, Bounty Hunter",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Mercenary,"['nonfoil', 'foil']",False,0.19,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,107,"Koh, the Face Stealer",mythic,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Shapeshifter Spirit,"['nonfoil', 'foil']",False,0.36,1.12,,2026-10-12
+TLA,Avatar: The Last Airbender,108,"Lo and Li, Twin Tutors",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Advisor,"['nonfoil', 'foil']",False,0.21,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,109,"Mai, Scornful Striker",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,0.91,1.27,,2026-10-12
+TLA,Avatar: The Last Airbender,110,Merchant of Many Hats,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Peasant Ally,"['nonfoil', 'foil']",False,0.14,0.14,,2026-10-12
+TLA,Avatar: The Last Airbender,111,Northern Air Temple,uncommon,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Legendary Enchantment — Shrine,"['nonfoil', 'foil']",False,0.34,0.31,,2026-10-12
+TLA,Avatar: The Last Airbender,112,Obsessive Pursuit,rare,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,1.51,0.87,,2026-10-12
+TLA,Avatar: The Last Airbender,113,Ozai's Cruelty,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.19,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,114,Phoenix Fleet Airship,mythic,True,['universesbeyond'],,black,2025-11-21,Artifact — Vehicle,"['nonfoil', 'foil']",False,1.33,1.74,,2026-10-12
+TLA,Avatar: The Last Airbender,115,Pirate Peddlers,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Pirate,"['nonfoil', 'foil']",False,0.19,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,116,Raven Eagle,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Bird Assassin,"['nonfoil', 'foil']",False,0.27,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,117,The Rise of Sozin // Fire Lord Sozin,mythic,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Enchantment — Saga // Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,1.80,2.65,,2026-10-12
+TLA,Avatar: The Last Airbender,118,Ruinous Waterbending,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.18,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,119,Sold Out,common,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.09,0.17,,2026-10-12
+TLA,Avatar: The Last Airbender,120,Swampsnare Trap,common,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment — Aura,"['nonfoil', 'foil']",False,0.13,0.22,,2026-10-12
+TLA,Avatar: The Last Airbender,121,Tundra Tank,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.14,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,122,Wolfbat,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Wolf Bat,"['nonfoil', 'foil']",False,0.15,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,123,Zuko's Conviction,uncommon,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,124,Boar-q-pine,common,True,['universesbeyond'],,black,2025-11-21,Creature — Boar Porcupine,"['nonfoil', 'foil']",False,0.13,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,125,Bumi Bash,common,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.12,0.23,,2026-10-12
+TLA,Avatar: The Last Airbender,126,The Cave of Two Lovers,uncommon,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment — Saga,"['nonfoil', 'foil']",False,0.21,0.31,,2026-10-12
+TLA,Avatar: The Last Airbender,127,Combustion Man,uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Assassin,"['nonfoil', 'foil']",False,0.26,0.34,,2026-10-12
+TLA,Avatar: The Last Airbender,128,Combustion Technique,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.26,0.34,,2026-10-12
+TLA,Avatar: The Last Airbender,129,Crescent Island Temple,uncommon,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Legendary Enchantment — Shrine,"['nonfoil', 'foil']",False,0.26,0.35,,2026-10-12
+TLA,Avatar: The Last Airbender,130,Cunning Maneuver,common,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.13,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,131,Deserter's Disciple,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Rebel Ally,"['nonfoil', 'foil']",False,0.12,0.16,,2026-10-12
+TLA,Avatar: The Last Airbender,132,Fated Firepower,mythic,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,5.34,5.91,,2026-10-12
+TLA,Avatar: The Last Airbender,133,Fire Nation Attacks,uncommon,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.20,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,134,Fire Nation Cadets,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.13,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,135,Fire Nation Raider,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.09,0.20,,2026-10-12
+TLA,Avatar: The Last Airbender,136,Fire Sages,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Cleric,"['nonfoil', 'foil']",False,0.16,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,137,Firebender Ascension,rare,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,0.80,1.14,,2026-10-12
+TLA,Avatar: The Last Airbender,138,Firebending Lesson,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.23,0.32,,2026-10-12
+TLA,Avatar: The Last Airbender,139,Firebending Student,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Monk,"['nonfoil', 'foil']",False,0.49,0.58,,2026-10-12
+TLA,Avatar: The Last Airbender,140,How to Start a Riot,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.17,0.23,,2026-10-12
+TLA,Avatar: The Last Airbender,141,Iroh's Demonstration,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.30,0.36,,2026-10-12
+TLA,Avatar: The Last Airbender,142,"Jeong Jeong, the Deserter",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Rebel Ally,"['nonfoil', 'foil']",False,0.14,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,143,Jet's Brainwashing,uncommon,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.14,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,144,The Last Agni Kai,rare,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,2.51,2.71,,2026-10-12
+TLA,Avatar: The Last Airbender,145,The Legend of Roku // Avatar Roku,mythic,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Enchantment — Saga // Legendary Creature — Avatar,"['nonfoil', 'foil']",False,6.10,9.73,,2026-10-12
+TLA,Avatar: The Last Airbender,146,Lightning Strike,common,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.20,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,147,"Mai, Jaded Edge",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,0.14,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,148,Mongoose Lizard,common,True,['universesbeyond'],,black,2025-11-21,Creature — Mongoose Lizard,"['nonfoil', 'foil']",False,0.10,0.17,,2026-10-12
+TLA,Avatar: The Last Airbender,149,Price of Freedom,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.40,1.01,,2026-10-12
+TLA,Avatar: The Last Airbender,150,Ran and Shaw,rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Dragon,"['nonfoil', 'foil']",False,0.31,0.37,,2026-10-12
+TLA,Avatar: The Last Airbender,151,Redirect Lightning,rare,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,11.86,13.01,,2026-10-12
+TLA,Avatar: The Last Airbender,152,Rough Rhino Cavalry,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Mercenary,"['nonfoil', 'foil']",False,0.12,0.22,,2026-10-12
+TLA,Avatar: The Last Airbender,153,Solstice Revelations,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.21,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,154,Sozin's Comet,mythic,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,3.40,4.05,,2026-10-12
+TLA,Avatar: The Last Airbender,155,Tiger-Dillo,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Cat Armadillo,"['nonfoil', 'foil']",False,0.08,0.21,,2026-10-12
+TLA,Avatar: The Last Airbender,156,Treetop Freedom Fighters,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Rebel Ally,"['nonfoil', 'foil']",False,0.10,0.16,,2026-10-12
+TLA,Avatar: The Last Airbender,157,Twin Blades,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact — Equipment,"['nonfoil', 'foil']",False,0.18,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,158,"Ty Lee, Artful Acrobat",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Performer,"['nonfoil', 'foil']",False,0.19,0.36,,2026-10-12
+TLA,Avatar: The Last Airbender,159,War Balloon,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.11,0.22,,2026-10-12
+TLA,Avatar: The Last Airbender,160,Wartime Protestors,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Rebel Ally,"['nonfoil', 'foil']",False,0.27,0.35,,2026-10-12
+TLA,Avatar: The Last Airbender,161,Yuyan Archers,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Archer,"['nonfoil', 'foil']",False,0.17,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,162,"Zhao, the Moon Slayer",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Soldier,"['nonfoil', 'foil']",False,0.35,0.41,,2026-10-12
+TLA,Avatar: The Last Airbender,163,"Zuko, Exiled Prince",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,0.20,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,164,Allies at Last,uncommon,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.16,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,165,Avatar Destiny,rare,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment — Aura,"['nonfoil', 'foil']",False,0.26,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,166,Badgermole,common,True,['universesbeyond'],,black,2025-11-21,Creature — Badger Mole,"['nonfoil', 'foil']",False,0.26,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,167,Badgermole Cub,mythic,True,['universesbeyond'],,black,2025-11-21,Creature — Badger Mole,"['nonfoil', 'foil']",False,44.40,49.28,,2026-10-12
+TLA,Avatar: The Last Airbender,168,"The Boulder, Ready to Rumble",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Performer,"['nonfoil', 'foil']",False,0.25,0.34,,2026-10-12
+TLA,Avatar: The Last Airbender,169,"Bumi, King of Three Trials",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,0.17,0.33,,2026-10-12
+TLA,Avatar: The Last Airbender,170,Cycle of Renewal,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.28,0.36,,2026-10-12
+TLA,Avatar: The Last Airbender,171,Diligent Zookeeper,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Citizen Ally,"['nonfoil', 'foil']",False,0.24,0.31,,2026-10-12
+TLA,Avatar: The Last Airbender,172,The Earth King,rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,1.96,2.39,,2026-10-12
+TLA,Avatar: The Last Airbender,173,Earth Kingdom General,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.29,0.34,,2026-10-12
+TLA,Avatar: The Last Airbender,174,Earth Rumble,uncommon,True,['universesbeyond'],,black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.19,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,175,Earthbender Ascension,rare,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,2.67,3.15,,2026-10-12
+TLA,Avatar: The Last Airbender,176,Earthbending Lesson,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.21,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,177,Earthen Ally,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.26,0.39,,2026-10-12
+TLA,Avatar: The Last Airbender,178,Elemental Teachings,rare,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.38,0.42,,2026-10-12
+TLA,Avatar: The Last Airbender,179,"Flopsie, Bumi's Buddy",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Ape Goat,"['nonfoil', 'foil']",False,0.20,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,180,Foggy Swamp Vinebender,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Plant Ally,"['nonfoil', 'foil']",False,0.14,0.19,,2026-10-12
+TLA,Avatar: The Last Airbender,181,Great Divide Guide,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Scout Ally,"['nonfoil', 'foil']",False,1.11,1.69,,2026-10-12
+TLA,Avatar: The Last Airbender,182,"Haru, Hidden Talent",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Peasant Ally,"['nonfoil', 'foil']",False,0.28,0.34,,2026-10-12
+TLA,Avatar: The Last Airbender,183,Invasion Tactics,uncommon,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,0.14,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,184,Kyoshi Island Plaza,uncommon,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Legendary Enchantment — Shrine,"['nonfoil', 'foil']",False,0.27,0.35,,2026-10-12
+TLA,Avatar: The Last Airbender,185,Leaves from the Vine,uncommon,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment — Saga,"['nonfoil', 'foil']",False,0.15,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,186,The Legend of Kyoshi // Avatar Kyoshi,mythic,True,['universesbeyond'],"['enchantment', 'legendary']",black,2025-11-21,Enchantment — Saga // Legendary Creature — Avatar,"['nonfoil', 'foil']",False,5.37,7.44,,2026-10-12
+TLA,Avatar: The Last Airbender,187,Origin of Metalbending,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.25,1.09,,2026-10-12
+TLA,Avatar: The Last Airbender,188,Ostrich-Horse,common,True,['universesbeyond'],,black,2025-11-21,Creature — Bird Horse,"['nonfoil', 'foil']",False,0.14,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,189,Pillar Launch,common,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.15,0.23,,2026-10-12
+TLA,Avatar: The Last Airbender,190,Raucous Audience,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Citizen,"['nonfoil', 'foil']",False,0.17,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,191,Rebellious Captives,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Peasant Ally,"['nonfoil', 'foil']",False,0.14,0.17,,2026-10-12
+TLA,Avatar: The Last Airbender,192,Rockalanche,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.29,0.32,,2026-10-12
+TLA,Avatar: The Last Airbender,193,Rocky Rebuke,common,True,['universesbeyond'],,black,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.15,0.21,,2026-10-12
+TLA,Avatar: The Last Airbender,194,Saber-Tooth Moose-Lion,common,True,['universesbeyond'],,black,2025-11-21,Creature — Elk Cat,"['nonfoil', 'foil']",False,0.18,0.22,,2026-10-12
+TLA,Avatar: The Last Airbender,195,Seismic Sense,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.33,0.37,,2026-10-12
+TLA,Avatar: The Last Airbender,196,Shared Roots,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.42,0.71,,2026-10-12
+TLA,Avatar: The Last Airbender,197,Sparring Dummy,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact Creature — Scarecrow,"['nonfoil', 'foil']",False,0.14,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,198,"Toph, the Blind Bandit",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.29,0.35,,2026-10-12
+TLA,Avatar: The Last Airbender,199,True Ancestry,uncommon,True,['universesbeyond'],['lesson'],black,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,0.24,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,200,Turtle-Duck,common,True,['universesbeyond'],,black,2025-11-21,Creature — Turtle Bird,"['nonfoil', 'foil']",False,0.17,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,201,Unlucky Cabbage Merchant,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Citizen,"['nonfoil', 'foil']",False,0.26,0.34,,2026-10-12
+TLA,Avatar: The Last Airbender,202,Walltop Sentries,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.14,0.22,,2026-10-12
+TLA,Avatar: The Last Airbender,203,"Aang, at the Crossroads // Aang, Destined Savior",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,"['nonfoil', 'foil']",False,0.46,0.83,,2026-10-12
+TLA,Avatar: The Last Airbender,204,"Aang, Swift Savior // Aang and La, Ocean's Fury",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,"['nonfoil', 'foil']",False,1.83,2.58,,2026-10-12
+TLA,Avatar: The Last Airbender,205,Abandon Attachments,common,True,['universesbeyond'],['lesson'],black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.32,0.41,,2026-10-12
+TLA,Avatar: The Last Airbender,206,Air Nomad Legacy,uncommon,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,0.19,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,207,"Avatar Aang // Aang, Master of Elements",mythic,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,"['nonfoil', 'foil']",False,3.28,5.16,,2026-10-12
+TLA,Avatar: The Last Airbender,208,"Azula, Cunning Usurper",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble Rogue,"['nonfoil', 'foil']",False,0.34,0.39,,2026-10-12
+TLA,Avatar: The Last Airbender,209,Beifong's Bounty Hunters,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Mercenary,"['nonfoil', 'foil']",False,0.35,0.41,,2026-10-12
+TLA,Avatar: The Last Airbender,210,Bitter Work,uncommon,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,0.30,0.31,,2026-10-12
+TLA,Avatar: The Last Airbender,211,"Bumi, Unleashed",mythic,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,3.53,5.25,,2026-10-12
+TLA,Avatar: The Last Airbender,212,Cat-Owl,common,True,['universesbeyond'],,black,2025-11-21,Creature — Cat Bird,"['nonfoil', 'foil']",False,0.15,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,213,Cruel Administrator,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.18,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,214,Dai Li Agents,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.18,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,215,Dragonfly Swarm,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Dragon Insect,"['nonfoil', 'foil']",False,0.20,0.32,,2026-10-12
+TLA,Avatar: The Last Airbender,216,Earth Kingdom Soldier,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.14,0.19,,2026-10-12
+TLA,Avatar: The Last Airbender,217,Earth King's Lieutenant,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.30,0.35,,2026-10-12
+TLA,Avatar: The Last Airbender,218,Earth Rumble Wrestlers,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Warrior Performer,"['nonfoil', 'foil']",False,0.11,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,219,Earth Village Ruffians,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Rogue,"['nonfoil', 'foil']",False,0.12,0.13,,2026-10-12
+TLA,Avatar: The Last Airbender,220,Fire Lord Azula,rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,0.80,2.85,,2026-10-12
+TLA,Avatar: The Last Airbender,221,Fire Lord Zuko,rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,0.33,0.43,,2026-10-12
+TLA,Avatar: The Last Airbender,222,Foggy Swamp Spirit Keeper,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Druid Ally,"['nonfoil', 'foil']",False,0.15,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,223,Guru Pathik,uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Monk Ally,"['nonfoil', 'foil']",False,0.20,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,224,"Hama, the Bloodbender",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warlock,"['nonfoil', 'foil']",False,0.13,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,225,"Hei Bai, Spirit of Balance",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Bear Spirit,"['nonfoil', 'foil']",False,0.17,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,226,Hermitic Herbalist,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Druid Ally,"['nonfoil', 'foil']",False,0.22,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,227,"Iroh, Grand Lotus",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,0.37,0.65,,2026-10-12
+TLA,Avatar: The Last Airbender,228,"Iroh, Tea Master",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Citizen Ally,"['nonfoil', 'foil']",False,0.34,0.36,,2026-10-12
+TLA,Avatar: The Last Airbender,229,"Jet, Freedom Fighter",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Rebel Ally,"['nonfoil', 'foil']",False,0.13,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,230,"Katara, the Fearless",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.48,1.09,,2026-10-12
+TLA,Avatar: The Last Airbender,231,"Katara, Water Tribe's Hope",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.44,0.75,,2026-10-12
+TLA,Avatar: The Last Airbender,232,The Lion-Turtle,rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Elder Cat Turtle,"['nonfoil', 'foil']",False,0.27,0.40,,2026-10-12
+TLA,Avatar: The Last Airbender,233,"Long Feng, Grand Secretariat",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Advisor,"['nonfoil', 'foil']",False,0.12,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,234,Messenger Hawk,common,True,['universesbeyond'],,black,2025-11-21,Creature — Bird Scout,"['nonfoil', 'foil']",False,0.11,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,235,"Ozai, the Phoenix King",mythic,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,4.53,4.81,,2026-10-12
+TLA,Avatar: The Last Airbender,236,Platypus-Bear,common,True,['universesbeyond'],,black,2025-11-21,Creature — Platypus Bear,"['nonfoil', 'foil']",False,0.09,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,237,Pretending Poxbearers,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Citizen Ally,"['nonfoil', 'foil']",False,0.11,0.16,,2026-10-12
+TLA,Avatar: The Last Airbender,238,"Professor Zei, Anthropologist",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Advisor Ally,"['nonfoil', 'foil']",False,0.17,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,239,Sandbender Scavengers,rare,True,['universesbeyond'],,black,2025-11-21,Creature — Human Rogue,"['nonfoil', 'foil']",False,0.21,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,240,"Sokka, Bold Boomeranger",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.27,0.33,,2026-10-12
+TLA,Avatar: The Last Airbender,241,"Sokka, Lateral Strategist",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.15,0.31,,2026-10-12
+TLA,Avatar: The Last Airbender,242,"Sokka, Tenacious Tactician",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.42,0.82,,2026-10-12
+TLA,Avatar: The Last Airbender,243,"Suki, Kyoshi Warrior",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.21,0.60,,2026-10-12
+TLA,Avatar: The Last Airbender,244,Sun Warriors,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.19,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,245,Tolls of War,uncommon,True,['universesbeyond'],['enchantment'],black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,0.16,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,246,"Toph, Hardheaded Teacher",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.81,1.78,,2026-10-12
+TLA,Avatar: The Last Airbender,247,"Toph, the First Metalbender",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.81,1.98,,2026-10-12
+TLA,Avatar: The Last Airbender,248,Uncle Iroh,uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,0.18,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,249,Vindictive Warden,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.08,0.19,,2026-10-12
+TLA,Avatar: The Last Airbender,250,Wandering Musicians,common,True,['universesbeyond'],,black,2025-11-21,Creature — Human Bard Ally,"['nonfoil', 'foil']",False,0.14,0.20,,2026-10-12
+TLA,Avatar: The Last Airbender,251,White Lotus Reinforcements,uncommon,True,['universesbeyond'],,black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.23,0.32,,2026-10-12
+TLA,Avatar: The Last Airbender,252,"Zhao, Ruthless Admiral",uncommon,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Soldier,"['nonfoil', 'foil']",False,0.12,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,253,"Zuko, Conflicted",rare,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Creature — Human Rogue,"['nonfoil', 'foil']",False,0.28,0.38,,2026-10-12
+TLA,Avatar: The Last Airbender,254,Barrels of Blasting Jelly,common,True,['universesbeyond'],,black,2025-11-21,Artifact,"['nonfoil', 'foil']",False,0.22,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,255,Bender's Waterskin,common,True,['universesbeyond'],,black,2025-11-21,Artifact,"['nonfoil', 'foil']",False,1.10,5.00,,2026-10-12
+TLA,Avatar: The Last Airbender,256,Fire Nation Warship,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact — Vehicle,"['nonfoil', 'foil']",False,0.23,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,257,Kyoshi Battle Fan,common,True,['universesbeyond'],,black,2025-11-21,Artifact — Equipment,"['nonfoil', 'foil']",False,0.12,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,258,Meteor Sword,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact — Equipment,"['nonfoil', 'foil']",False,0.26,0.36,,2026-10-12
+TLA,Avatar: The Last Airbender,259,Planetarium of Wan Shi Tong,mythic,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Artifact,"['nonfoil', 'foil']",False,7.73,7.15,,2026-10-12
+TLA,Avatar: The Last Airbender,260,Trusty Boomerang,uncommon,True,['universesbeyond'],,black,2025-11-21,Artifact — Equipment,"['nonfoil', 'foil']",False,0.11,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,261,The Walls of Ba Sing Se,mythic,True,['universesbeyond'],['legendary'],black,2025-11-21,Legendary Artifact Creature — Wall,"['nonfoil', 'foil']",False,24.03,25.91,,2026-10-12
+TLA,Avatar: The Last Airbender,262,White Lotus Tile,mythic,True,['universesbeyond'],,black,2025-11-21,Artifact,"['nonfoil', 'foil']",False,5.00,5.86,,2026-10-12
+TLA,Avatar: The Last Airbender,263,Abandoned Air Temple,rare,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,6.71,6.48,,2026-10-12
+TLA,Avatar: The Last Airbender,264,Agna Qel'a,rare,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.92,1.91,,2026-10-12
+TLA,Avatar: The Last Airbender,265,Airship Engine Room,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.24,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,266,Ba Sing Se,rare,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,4.60,5.00,,2026-10-12
+TLA,Avatar: The Last Airbender,267,Boiling Rock Prison,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.24,0.23,,2026-10-12
+TLA,Avatar: The Last Airbender,268,Fire Nation Palace,rare,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,1.70,2.53,,2026-10-12
+TLA,Avatar: The Last Airbender,269,Foggy Bottom Swamp,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.20,0.29,,2026-10-12
+TLA,Avatar: The Last Airbender,270,Jasmine Dragon Tea Shop,rare,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.36,0.72,,2026-10-12
+TLA,Avatar: The Last Airbender,271,Kyoshi Village,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.25,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,272,Meditation Pools,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.26,0.26,,2026-10-12
+TLA,Avatar: The Last Airbender,273,Misty Palms Oasis,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.19,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,274,North Pole Gates,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.22,0.28,,2026-10-12
+TLA,Avatar: The Last Airbender,275,Omashu City,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.22,0.24,,2026-10-12
+TLA,Avatar: The Last Airbender,276,Realm of Koh,rare,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.38,0.62,,2026-10-12
+TLA,Avatar: The Last Airbender,277,Rumble Arena,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.26,0.33,,2026-10-12
+TLA,Avatar: The Last Airbender,278,Secret Tunnel,rare,True,['universesbeyond'],,black,2025-11-21,Land — Cave,"['nonfoil', 'foil']",False,2.82,3.76,,2026-10-12
+TLA,Avatar: The Last Airbender,279,Serpent's Pass,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.25,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,280,Sun-Blessed Peak,common,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.26,0.27,,2026-10-12
+TLA,Avatar: The Last Airbender,281,White Lotus Hideout,uncommon,True,['universesbeyond'],,black,2025-11-21,Land,"['nonfoil', 'foil']",False,0.23,0.30,,2026-10-12
+TLA,Avatar: The Last Airbender,282,Plains,common,True,['universesbeyond'],,black,2025-11-21,Basic Land — Plains,"['nonfoil', 'foil']",False,0.19,0.20,,2026-10-12
+TLA,Avatar: The Last Airbender,283,Island,common,True,['universesbeyond'],,black,2025-11-21,Basic Land — Island,"['nonfoil', 'foil']",False,0.18,0.18,,2026-10-12
+TLA,Avatar: The Last Airbender,284,Swamp,common,True,['universesbeyond'],,black,2025-11-21,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.18,0.25,,2026-10-12
+TLA,Avatar: The Last Airbender,285,Mountain,common,True,['universesbeyond'],,black,2025-11-21,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.15,0.21,,2026-10-12
+TLA,Avatar: The Last Airbender,286,Forest,common,True,['universesbeyond'],,black,2025-11-21,Basic Land — Forest,"['nonfoil', 'foil']",False,0.15,0.20,,2026-10-12
+TLA,Avatar: The Last Airbender,287,Plains,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Plains,"['nonfoil', 'foil']",False,0.36,0.44,,2026-10-12
+TLA,Avatar: The Last Airbender,288,Island,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Island,"['nonfoil', 'foil']",False,0.32,0.34,,2026-10-12
+TLA,Avatar: The Last Airbender,289,Swamp,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.36,0.40,,2026-10-12
+TLA,Avatar: The Last Airbender,290,Mountain,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.38,0.44,,2026-10-12
+TLA,Avatar: The Last Airbender,291,Forest,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Forest,"['nonfoil', 'foil']",False,0.36,0.49,,2026-10-12
+TLA,Avatar: The Last Airbender,292,Plains,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Plains,"['nonfoil', 'foil']",False,0.49,0.57,,2026-10-12
+TLA,Avatar: The Last Airbender,293,Island,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Island,"['nonfoil', 'foil']",False,0.46,0.53,,2026-10-12
+TLA,Avatar: The Last Airbender,294,Swamp,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Swamp,"['nonfoil', 'foil']",False,0.27,0.32,,2026-10-12
+TLA,Avatar: The Last Airbender,295,Mountain,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Mountain,"['nonfoil', 'foil']",False,0.59,0.59,,2026-10-12
+TLA,Avatar: The Last Airbender,296,Forest,common,True,"['universesbeyond', 'boosterfun']",,black,2025-11-21,Basic Land — Forest,"['nonfoil', 'foil']",False,0.59,0.57,,2026-10-12
+TLA,Avatar: The Last Airbender,297,Fated Firepower,mythic,True,"['universesbeyond', 'boosterfun']","['enchantment', 'inverted']",borderless,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,17.93,22.67,,2026-10-12
+TLA,Avatar: The Last Airbender,298,"Aang, Swift Savior // Aang and La, Ocean's Fury",rare,True,"['universesbeyond', 'boosterfun']","['inverted', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,"['nonfoil', 'foil']",False,9.72,10.27,,2026-10-12
+TLA,Avatar: The Last Airbender,299,Fire Nation Attacks,uncommon,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Instant,"['nonfoil', 'foil']",False,0.31,0.39,,2026-10-12
+TLA,Avatar: The Last Airbender,300,Crashing Wave,uncommon,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.30,0.39,,2026-10-12
+TLA,Avatar: The Last Airbender,301,Combustion Technique,uncommon,True,"['universesbeyond', 'boosterfun']","['inverted', 'lesson']",borderless,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,0.31,0.43,,2026-10-12
+TLA,Avatar: The Last Airbender,302,"Zuko, Conflicted",rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Rogue,"['nonfoil', 'foil']",False,1.00,1.53,,2026-10-12
+TLA,Avatar: The Last Airbender,303,"Azula, Cunning Usurper",rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Noble Rogue,"['nonfoil', 'foil']",False,1.98,2.76,,2026-10-12
+TLA,Avatar: The Last Airbender,304,"Aang, at the Crossroads // Aang, Destined Savior",rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,"['nonfoil', 'foil']",False,6.60,8.51,,2026-10-12
+TLA,Avatar: The Last Airbender,305,"Katara, the Fearless",rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,6.24,8.87,,2026-10-12
+TLA,Avatar: The Last Airbender,306,Dai Li Agents,uncommon,True,"['boosterfun', 'universesbeyond']",['inverted'],borderless,2025-11-21,Creature — Human Soldier,"['nonfoil', 'foil']",False,0.28,0.52,,2026-10-12
+TLA,Avatar: The Last Airbender,307,Earthbender Ascension,rare,True,"['universesbeyond', 'boosterfun']","['enchantment', 'inverted']",borderless,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,3.56,4.79,,2026-10-12
+TLA,Avatar: The Last Airbender,308,"Avatar Aang // Aang, Master of Elements",mythic,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,"['nonfoil', 'foil']",False,16.23,20.56,,2026-10-12
+TLA,Avatar: The Last Airbender,309,Sozin's Comet,mythic,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,15.54,21.13,,2026-10-12
+TLA,Avatar: The Last Airbender,310,Waterbender Ascension,rare,True,"['universesbeyond', 'boosterfun']","['enchantment', 'inverted']",borderless,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,1.86,2.21,,2026-10-12
+TLA,Avatar: The Last Airbender,311,"Ozai, the Phoenix King",mythic,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,27.87,43.56,,2026-10-12
+TLA,Avatar: The Last Airbender,312,Firebender Ascension,rare,True,"['universesbeyond', 'boosterfun']","['enchantment', 'inverted']",borderless,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,1.85,2.95,,2026-10-12
+TLA,Avatar: The Last Airbender,313,Fire Lord Azula,rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,12.84,23.41,,2026-10-12
+TLA,Avatar: The Last Airbender,314,The Last Agni Kai,rare,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Instant,"['nonfoil', 'foil']",False,3.64,5.57,,2026-10-12
+TLA,Avatar: The Last Airbender,315,Fire Lord Zuko,rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,3.99,6.03,,2026-10-12
+TLA,Avatar: The Last Airbender,316,"Appa, Steadfast Guardian",mythic,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Bison Ally,"['nonfoil', 'foil']",False,14.47,16.87,,2026-10-12
+TLA,Avatar: The Last Airbender,317,"Momo, Friendly Flier",rare,True,"['universesbeyond', 'boosterfun']","['inverted', 'legendary']",borderless,2025-11-21,Legendary Creature — Lemur Bat Ally,"['nonfoil', 'foil']",False,2.17,2.34,,2026-10-12
+TLA,Avatar: The Last Airbender,318,Tiger-Seal,rare,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Creature — Cat Seal,"['nonfoil', 'foil']",False,0.44,0.51,,2026-10-12
+TLA,Avatar: The Last Airbender,319,The Unagi of Kyoshi Island,rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Serpent,"['nonfoil', 'foil']",False,3.17,4.47,,2026-10-12
+TLA,Avatar: The Last Airbender,320,"Wan Shi Tong, Librarian",mythic,True,"['universesbeyond', 'boosterfun']","['inverted', 'legendary']",borderless,2025-11-21,Legendary Creature — Bird Spirit,"['nonfoil', 'foil']",False,54.64,80.08,,2026-10-12
+TLA,Avatar: The Last Airbender,321,The Fire Nation Drill,rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Artifact — Vehicle,"['nonfoil', 'foil']",False,0.58,0.77,,2026-10-12
+TLA,Avatar: The Last Airbender,322,"Koh, the Face Stealer",mythic,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Shapeshifter Spirit,"['nonfoil', 'foil']",False,3.70,4.99,,2026-10-12
+TLA,Avatar: The Last Airbender,323,Phoenix Fleet Airship,mythic,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Artifact — Vehicle,"['nonfoil', 'foil']",False,3.10,4.11,,2026-10-12
+TLA,Avatar: The Last Airbender,324,Raven Eagle,rare,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Creature — Bird Assassin,"['nonfoil', 'foil']",False,0.83,1.08,,2026-10-12
+TLA,Avatar: The Last Airbender,325,Ran and Shaw,rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Dragon,"['nonfoil', 'foil']",False,1.40,1.65,,2026-10-12
+TLA,Avatar: The Last Airbender,326,Badgermole Cub,mythic,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Creature — Badger Mole,"['nonfoil', 'foil']",False,66.32,90.67,,2026-10-12
+TLA,Avatar: The Last Airbender,327,Diligent Zookeeper,rare,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Creature — Human Citizen Ally,"['nonfoil', 'foil']",False,0.40,0.59,,2026-10-12
+TLA,Avatar: The Last Airbender,328,The Lion-Turtle,rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Elder Cat Turtle,"['nonfoil', 'foil']",False,0.74,1.12,,2026-10-12
+TLA,Avatar: The Last Airbender,329,The Walls of Ba Sing Se,mythic,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Artifact Creature — Wall,"['nonfoil', 'foil']",False,30.08,34.46,,2026-10-12
+TLA,Avatar: The Last Airbender,330,White Lotus Tile,mythic,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Artifact,"['nonfoil', 'foil']",False,7.19,8.45,,2026-10-12
+TLA,Avatar: The Last Airbender,331,United Front,mythic,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,4.58,5.90,,2026-10-12
+TLA,Avatar: The Last Airbender,332,Sozin's Comet,mythic,True,"['universesbeyond', 'boosterfun']",['inverted'],borderless,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,9.08,12.07,,2026-10-12
+TLA,Avatar: The Last Airbender,333,Avatar Destiny,rare,True,"['universesbeyond', 'boosterfun']","['enchantment', 'inverted']",borderless,2025-11-21,Enchantment — Aura,"['nonfoil', 'foil']",False,0.65,1.28,,2026-10-12
+TLA,Avatar: The Last Airbender,334,Fire Lord Azula,rare,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,8.76,11.80,,2026-10-12
+TLA,Avatar: The Last Airbender,335,"Ozai, the Phoenix King",mythic,True,"['universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,15.21,18.10,,2026-10-12
+TLA,Avatar: The Last Airbender,336,Aang's Iceberg,rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'enchantment']",borderless,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,1.47,1.82,,2026-10-12
+TLA,Avatar: The Last Airbender,337,Secret of Bloodbending,mythic,True,"['universesbeyond', 'boosterfun']","['showcase', 'lesson']",borderless,2025-11-21,Sorcery — Lesson,"['nonfoil', 'foil']",False,3.05,3.74,,2026-10-12
+TLA,Avatar: The Last Airbender,338,"Yue, the Moon Spirit",rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Spirit Ally,"['nonfoil', 'foil']",False,1.41,1.71,,2026-10-12
+TLA,Avatar: The Last Airbender,339,Foggy Swamp Visions,rare,True,"['universesbeyond', 'boosterfun']",['showcase'],borderless,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,0.38,0.79,,2026-10-12
+TLA,Avatar: The Last Airbender,340,Obsessive Pursuit,rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'enchantment']",borderless,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,1.78,2.72,,2026-10-12
+TLA,Avatar: The Last Airbender,341,Fated Firepower,mythic,True,"['universesbeyond', 'boosterfun']","['showcase', 'enchantment']",borderless,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,14.84,18.94,,2026-10-12
+TLA,Avatar: The Last Airbender,342,Firebending Student,rare,True,"['universesbeyond', 'boosterfun']",['showcase'],borderless,2025-11-21,Creature — Human Monk,"['nonfoil', 'foil']",False,2.46,2.66,,2026-10-12
+TLA,Avatar: The Last Airbender,343,Redirect Lightning,rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'lesson']",borderless,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,18.78,24.70,,2026-10-12
+TLA,Avatar: The Last Airbender,344,The Earth King,rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,4.25,4.30,,2026-10-12
+TLA,Avatar: The Last Airbender,345,Great Divide Guide,rare,True,"['universesbeyond', 'boosterfun']",['showcase'],borderless,2025-11-21,Creature — Human Scout Ally,"['nonfoil', 'foil']",False,2.52,2.96,,2026-10-12
+TLA,Avatar: The Last Airbender,346,"Aang, at the Crossroads // Aang, Destined Savior",rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,"['nonfoil', 'foil']",False,4.23,5.33,,2026-10-12
+TLA,Avatar: The Last Airbender,347,"Aang, Swift Savior // Aang and La, Ocean's Fury",rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,"['nonfoil', 'foil']",False,4.31,7.10,,2026-10-12
+TLA,Avatar: The Last Airbender,348,"Bumi, Unleashed",mythic,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,8.42,8.86,,2026-10-12
+TLA,Avatar: The Last Airbender,349,"Iroh, Grand Lotus",rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,2.68,4.06,,2026-10-12
+TLA,Avatar: The Last Airbender,350,"Katara, the Fearless",rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,4.91,5.30,,2026-10-12
+TLA,Avatar: The Last Airbender,351,"Katara, Water Tribe's Hope",rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,1.45,2.80,,2026-10-12
+TLA,Avatar: The Last Airbender,352,"Sokka, Tenacious Tactician",rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,1.46,2.41,,2026-10-12
+TLA,Avatar: The Last Airbender,353,"Toph, the First Metalbender",rare,True,"['universesbeyond', 'boosterfun']","['showcase', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,4.03,6.02,,2026-10-12
+TLA,Avatar: The Last Airbender,354,The Legend of Yangchen // Avatar Yangchen,mythic,True,"['universesbeyond', 'boosterfun']","['enchantment', 'legendary', 'inverted']",borderless,2025-11-21,Enchantment — Saga // Legendary Creature — Avatar,"['nonfoil', 'foil']",False,7.71,9.87,,2026-10-12
+TLA,Avatar: The Last Airbender,355,The Legend of Kuruk // Avatar Kuruk,mythic,True,"['universesbeyond', 'boosterfun']","['enchantment', 'legendary', 'inverted']",borderless,2025-11-21,Enchantment — Saga // Legendary Creature — Avatar,"['nonfoil', 'foil']",False,5.05,5.59,,2026-10-12
+TLA,Avatar: The Last Airbender,356,The Rise of Sozin // Fire Lord Sozin,mythic,True,"['universesbeyond', 'boosterfun']","['enchantment', 'legendary', 'inverted']",borderless,2025-11-21,Enchantment — Saga // Legendary Creature — Human Noble,"['nonfoil', 'foil']",False,3.92,5.07,,2026-10-12
+TLA,Avatar: The Last Airbender,357,The Legend of Roku // Avatar Roku,mythic,True,"['universesbeyond', 'boosterfun']","['enchantment', 'legendary', 'inverted']",borderless,2025-11-21,Enchantment — Saga // Legendary Creature — Avatar,"['nonfoil', 'foil']",False,12.59,15.54,,2026-10-12
+TLA,Avatar: The Last Airbender,358,The Legend of Kyoshi // Avatar Kyoshi,mythic,True,"['universesbeyond', 'boosterfun']","['enchantment', 'legendary', 'inverted']",borderless,2025-11-21,Enchantment — Saga // Legendary Creature — Avatar,"['nonfoil', 'foil']",False,13.91,16.66,,2026-10-12
+TLA,Avatar: The Last Airbender,359,"Aang, Swift Savior // Aang and La, Ocean's Fury",rare,False,"['universesbeyond', 'neonink', 'boosterfun']","['inverted', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally,['foil'],False,,611.40,,2026-10-12
+TLA,Avatar: The Last Airbender,360,Fire Lord Zuko,rare,False,"['universesbeyond', 'neonink', 'boosterfun']","['inverted', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Noble Ally,['foil'],False,,517.56,,2026-10-12
+TLA,Avatar: The Last Airbender,361,"Katara, the Fearless",rare,False,"['universesbeyond', 'neonink', 'boosterfun']","['inverted', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Warrior Ally,['foil'],False,,548.51,,2026-10-12
+TLA,Avatar: The Last Airbender,362,"Toph, the First Metalbender",rare,False,"['universesbeyond', 'neonink', 'boosterfun']","['inverted', 'legendary']",borderless,2025-11-21,Legendary Creature — Human Warrior Ally,['foil'],False,,1049.80,,2026-10-12
+TLA,Avatar: The Last Airbender,363,"Avatar Aang // Aang, Master of Elements",mythic,False,"['headliner', 'raisedfoil', 'universesbeyond', 'boosterfun']","['legendary', 'inverted']",borderless,2025-11-21,Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally,['foil'],False,,4784.20,,2026-10-12
+TLA,Avatar: The Last Airbender,364,Airbender Ascension,rare,False,"['universesbeyond', 'boosterfun']","['enchantment', 'extendedart']",black,2025-11-21,Enchantment,"['nonfoil', 'foil']",False,2.45,2.75,,2026-10-12
+TLA,Avatar: The Last Airbender,365,Avatar's Wrath,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,7.27,6.87,,2026-10-12
+TLA,Avatar: The Last Airbender,366,"Hakoda, Selfless Commander",rare,False,"['universesbeyond', 'boosterfun']","['extendedart', 'legendary']",black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,1.45,1.29,,2026-10-12
+TLA,Avatar: The Last Airbender,367,South Pole Voyager,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Creature — Human Scout Ally,"['nonfoil', 'foil']",False,1.31,1.02,,2026-10-12
+TLA,Avatar: The Last Airbender,368,"Suki, Courageous Rescuer",rare,False,"['universesbeyond', 'boosterfun']","['extendedart', 'legendary']",black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.94,1.07,,2026-10-12
+TLA,Avatar: The Last Airbender,369,"The Mechanist, Aerial Artisan",rare,False,"['universesbeyond', 'boosterfun']","['legendary', 'extendedart']",black,2025-11-21,Legendary Creature — Human Artificer Ally,"['nonfoil', 'foil']",False,0.68,0.66,,2026-10-12
+TLA,Avatar: The Last Airbender,370,Spirit Water Revival,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,2.28,2.56,,2026-10-12
+TLA,Avatar: The Last Airbender,371,"Ty Lee, Chi Blocker",rare,False,"['universesbeyond', 'boosterfun']","['legendary', 'extendedart']",black,2025-11-21,Legendary Creature — Human Performer Ally,"['nonfoil', 'foil']",False,2.00,1.77,,2026-10-12
+TLA,Avatar: The Last Airbender,372,Boiling Rock Rioter,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Creature — Human Rogue Ally,"['nonfoil', 'foil']",False,0.33,0.37,,2026-10-12
+TLA,Avatar: The Last Airbender,373,Day of Black Sun,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Sorcery,"['nonfoil', 'foil']",False,2.70,2.79,,2026-10-12
+TLA,Avatar: The Last Airbender,374,"Mai, Scornful Striker",rare,False,"['universesbeyond', 'boosterfun']","['extendedart', 'legendary']",black,2025-11-21,Legendary Creature — Human Noble Ally,"['nonfoil', 'foil']",False,4.59,3.82,,2026-10-12
+TLA,Avatar: The Last Airbender,375,Wartime Protestors,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Creature — Human Rebel Ally,"['nonfoil', 'foil']",False,0.46,0.45,,2026-10-12
+TLA,Avatar: The Last Airbender,376,"Zhao, the Moon Slayer",rare,False,"['universesbeyond', 'boosterfun']","['extendedart', 'legendary']",black,2025-11-21,Legendary Creature — Human Soldier,"['nonfoil', 'foil']",False,0.65,0.83,,2026-10-12
+TLA,Avatar: The Last Airbender,377,Earthen Ally,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.40,0.38,,2026-10-12
+TLA,Avatar: The Last Airbender,378,Elemental Teachings,rare,False,"['universesbeyond', 'boosterfun']","['extendedart', 'lesson']",black,2025-11-21,Instant — Lesson,"['nonfoil', 'foil']",False,1.01,1.10,,2026-10-12
+TLA,Avatar: The Last Airbender,379,Beifong's Bounty Hunters,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Creature — Human Mercenary,"['nonfoil', 'foil']",False,0.84,0.90,,2026-10-12
+TLA,Avatar: The Last Airbender,380,Earth King's Lieutenant,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Creature — Human Soldier Ally,"['nonfoil', 'foil']",False,0.91,0.86,,2026-10-12
+TLA,Avatar: The Last Airbender,381,"Iroh, Tea Master",rare,False,"['universesbeyond', 'boosterfun']","['legendary', 'extendedart']",black,2025-11-21,Legendary Creature — Human Citizen Ally,"['nonfoil', 'foil']",False,1.34,1.28,,2026-10-12
+TLA,Avatar: The Last Airbender,382,Sandbender Scavengers,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Creature — Human Rogue,"['nonfoil', 'foil']",False,0.72,0.39,,2026-10-12
+TLA,Avatar: The Last Airbender,383,"Sokka, Bold Boomeranger",rare,False,"['universesbeyond', 'boosterfun']","['legendary', 'extendedart']",black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,0.69,0.70,,2026-10-12
+TLA,Avatar: The Last Airbender,384,"Toph, Hardheaded Teacher",rare,False,"['universesbeyond', 'boosterfun']","['extendedart', 'legendary']",black,2025-11-21,Legendary Creature — Human Warrior Ally,"['nonfoil', 'foil']",False,3.64,4.32,,2026-10-12
+TLA,Avatar: The Last Airbender,385,Planetarium of Wan Shi Tong,mythic,False,"['universesbeyond', 'boosterfun']","['legendary', 'extendedart']",black,2025-11-21,Legendary Artifact,"['nonfoil', 'foil']",False,10.07,10.73,,2026-10-12
+TLA,Avatar: The Last Airbender,386,Abandoned Air Temple,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Land,"['nonfoil', 'foil']",False,9.24,9.14,,2026-10-12
+TLA,Avatar: The Last Airbender,387,Agna Qel'a,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Land,"['nonfoil', 'foil']",False,2.90,3.61,,2026-10-12
+TLA,Avatar: The Last Airbender,388,Ba Sing Se,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Land,"['nonfoil', 'foil']",False,7.26,7.92,,2026-10-12
+TLA,Avatar: The Last Airbender,389,Fire Nation Palace,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Land,"['nonfoil', 'foil']",False,4.67,4.17,,2026-10-12
+TLA,Avatar: The Last Airbender,390,Jasmine Dragon Tea Shop,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Land,"['nonfoil', 'foil']",False,1.80,2.04,,2026-10-12
+TLA,Avatar: The Last Airbender,391,Realm of Koh,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Land,"['nonfoil', 'foil']",False,1.49,1.61,,2026-10-12
+TLA,Avatar: The Last Airbender,392,Secret Tunnel,rare,False,"['universesbeyond', 'boosterfun']",['extendedart'],black,2025-11-21,Land — Cave,"['nonfoil', 'foil']",False,6.12,7.00,,2026-10-12
+TLA,Avatar: The Last Airbender,393,Firebending Student,rare,False,"['universesbeyond', 'buyabox']",['extendedart'],black,2025-11-21,Creature — Human Monk,['foil'],False,,0.43,,2026-10-12
+TLA,Avatar: The Last Airbender,394,"Momo, Friendly Flier",rare,False,"['universesbeyond', 'bundle']",['legendary'],black,2025-11-21,Legendary Creature — Lemur Bat Ally,['foil'],False,,0.37,,2026-10-12
