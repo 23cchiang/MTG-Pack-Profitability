@@ -1,0 +1,8 @@
+slot_name,expected_cards_per_pack
+common,6.984374999999999
+foil,1.0
+foilLand,0.2
+nonFoilLand,0.8
+rareMythicWithBoosterfun,1.0
+uncommon,3.0
+wildcard,0.9999999999999999
