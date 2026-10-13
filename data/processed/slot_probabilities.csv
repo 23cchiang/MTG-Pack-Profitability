@@ -1,0 +1,454 @@
+,,,,,,
+Set,Booster Slot,Card Category,Rarity,Probability (%),Treatment,Source / Notes
+HOB,Common,Main set,Common,92.2,Any,Wizards collecting guide; remaining 7.8% is scene cards
+HOB,Common,HOB scene card,Common,7.8,Any,2 scene cards; combined probability
+HOB,Uncommon,Main set,Uncommon,83.6,Any,Wizards collecting guide
+HOB,Uncommon,HOB scene card,Uncommon,5.5,Any,4 scene cards; combined probability
+HOB,Uncommon,Dragon hoard,Uncommon,10.9,Any,6 Dragon hoard cards; combined probability
+HOB,Wildcard,Main set,Common,74.17,Any,Official collecting guide
+HOB,Wildcard,Main set,Uncommon,3.9,Any,Official collecting guide
+HOB,Wildcard,Main set,Rare,17.3,Any,Official collecting guide
+HOB,Wildcard,Main set,Mythic rare,2.3,Any,Official collecting guide
+HOB,Wildcard,HOB scene card,Common,<1,Any,Official collecting guide
+HOB,Wildcard,HOB scene card,Uncommon,<1,Any,Official collecting guide
+HOB,Wildcard,HOB scene card,Rare,<1,Any,Official collecting guide
+HOB,Wildcard,Dragon hoard,Uncommon,<1,Any,Official collecting guide
+HOB,Wildcard,Dragon hoard,Rare,<1,Any,Official collecting guide
+HOB,Wildcard,Dragon hoard,Mythic rare,<1,Any,Official collecting guide
+HOB,Wildcard,Book cover,Rare,<1,Any,Official collecting guide
+HOB,Wildcard,Book cover,Mythic rare,<1,Any,Official collecting guide
+HOB,Rare/Mythic,Main set,Rare,82.9,Any,Official collecting guide
+HOB,Rare/Mythic,Main set,Mythic rare,11.1,Any,Official collecting guide
+HOB,Rare/Mythic,Scene card,Rare,1.8,Any,Excludes rare cards from Scene Boxes
+HOB,Rare/Mythic,Dragon hoard,Rare,2.3,Any,Official collecting guide
+HOB,Rare/Mythic,Dragon hoard,Mythic rare,<1,Any,Official collecting guide
+HOB,Rare/Mythic,Book cover,Rare,<1,Any,Official collecting guide
+HOB,Rare/Mythic,Book cover,Mythic rare,<1,Any,Official collecting guide
+HOB,Traditional foil,Main set,Common,59.8,Foil,Official collecting guide
+HOB,Traditional foil,Main set,Uncommon,29.3,Foil,Official collecting guide
+HOB,Traditional foil,Main set,Rare,7.1,Foil,Official collecting guide
+HOB,Traditional foil,Main set,Mythic rare,1,Foil,Official collecting guide
+HOB,Traditional foil,HOB scene card,Common,<1,Foil,Official collecting guide
+HOB,Traditional foil,HOB scene card,Uncommon,<1,Foil,Official collecting guide
+HOB,Traditional foil,HOB scene card,Rare,<1,Foil,Official collecting guide
+HOB,Traditional foil,Dragon hoard,Uncommon,<1,Foil,Official collecting guide
+HOB,Traditional foil,Dragon hoard,Rare,<1,Foil,Official collecting guide
+HOB,Traditional foil,Dragon hoard,Mythic rare,<1,Foil,Official collecting guide
+HOB,Traditional foil,Book cover,Rare,<1,Foil,Official collecting guide
+HOB,Traditional foil,Book cover,Mythic rare,<1,Foil,Official collecting guide
+HOB,Land,Default-frame basic land,Basic land,26.7,Nonfoil,Official collecting guide
+HOB,Land,Default-frame basic land,Basic land,6.7,Foil,Official collecting guide
+HOB,Land,Middle-earth journey basic land,Basic land,13.3,Nonfoil,Official collecting guide
+HOB,Land,Middle-earth journey basic land,Basic land,3.3,Foil,Official collecting guide
+HOB,Land,Common dual land,Common,40,Nonfoil,Official collecting guide
+HOB,Land,Common dual land,Common,10,Foil,Official collecting guide
+MSH,Common,Main set,Common,91.4,Any,Wizards collecting guide; complement of 8.6% scene-card chance
+MSH,Common,Scene card,Common,8.6,Any,Wizards collecting guide
+MSH,Uncommon,Main set,Uncommon,88,Any,Wizards collecting guide; complement of 12% scene-card chance
+MSH,Uncommon,Scene card,Uncommon,12,Any,Wizards collecting guide
+MSH,Wildcard,Main set,Common,12.4,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Main set,Uncommon,64,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Main set,Rare,16.8,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Main set,Mythic rare,2.1,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Scene card,Common,<1,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Scene card,Uncommon,2.7,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Scene card,Rare,<1,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Scene card,Mythic rare,<1,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Logo card,Rare,<1,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Logo card,Mythic rare,<1,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Panel card,Rare,<1,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Panel card,Mythic rare,<1,Nonfoil,Wizards collecting guide
+MSH,Wildcard,Borderless land,Rare,1,Nonfoil,Wizards collecting guide
+MSH,Rare/Mythic,Main set,Rare,76.1,Any,Wizards collecting guide
+MSH,Rare/Mythic,Main set,Mythic rare,16.6,Any,Wizards collecting guide
+MSH,Rare/Mythic,Scene card,Rare,1,Any,Wizards collecting guide
+MSH,Rare/Mythic,Scene card,Mythic rare,0.8,Any,Wizards collecting guide
+MSH,Rare/Mythic,Logo card,Rare,2.4,Any,Wizards collecting guide
+MSH,Rare/Mythic,Logo card,Mythic rare,0.7,Any,Wizards collecting guide
+MSH,Rare/Mythic,Panel card,Rare,1.9,Any,Wizards collecting guide
+MSH,Rare/Mythic,Panel card,Mythic rare,<1,Any,Wizards collecting guide
+MSH,Traditional foil,Main set,Common,59.9,Foil,Wizards collecting guide
+MSH,Traditional foil,Main set,Uncommon,29.6,Foil,Wizards collecting guide
+MSH,Traditional foil,Main set,Rare,5.9,Foil,Wizards collecting guide
+MSH,Traditional foil,Main set,Mythic rare,1.2,Foil,Wizards collecting guide
+MSH,Traditional foil,Scene card,Common,<1,Foil,Wizards collecting guide
+MSH,Traditional foil,Scene card,Uncommon,1.2,Foil,Wizards collecting guide
+MSH,Traditional foil,Scene card,Rare,<1,Foil,Wizards collecting guide
+MSH,Traditional foil,Scene card,Mythic rare,<1,Foil,Wizards collecting guide
+MSH,Traditional foil,Logo card,Rare,<1,Foil,Wizards collecting guide
+MSH,Traditional foil,Logo card,Mythic rare,<1,Foil,Wizards collecting guide
+MSH,Traditional foil,Panel card,Rare,<1,Foil,Wizards collecting guide
+MSH,Traditional foil,Panel card,Mythic rare,<1,Foil,Wizards collecting guide
+MSH,Traditional foil,Borderless land,Rare,<1,Foil,Wizards collecting guide
+MSH,Land,Common dual land,Common,40,Nonfoil,Wizards collecting guide
+MSH,Land,Common dual land,Common,10,Foil,Wizards collecting guide
+MSH,Land,Default-frame basic land,Basic land,20,Nonfoil,Wizards collecting guide
+MSH,Land,Default-frame basic land,Basic land,5,Foil,Wizards collecting guide
+MSH,Land,City calm basic land,Basic land,10,Nonfoil,Wizards collecting guide
+MSH,Land,City calm basic land,Basic land,2.5,Foil,Wizards collecting guide
+MSH,Land,City chaos basic land,Basic land,10,Nonfoil,Wizards collecting guide
+MSH,Land,City chaos basic land,Basic land,2.5,Foil,Wizards collecting guide
+MSH,Common replacement event,Source Material card,Special,4.1667,Nonfoil,1 in 24 Play Boosters; replaces a common; model as a pack-level event
+TMT,Common,Main set,Common,95.8,Any,Official guide; remaining 4.2% is scene cards
+TMT,Common,Scene card,Common,4.2,Any,Official collecting guide
+TMT,Uncommon,Main set,Uncommon,88.3,Any,Derived as 100 - 3.9 - 7.8
+TMT,Uncommon,Scene card,Uncommon,3.9,Any,Official collecting guide
+TMT,Uncommon,Sewer card,Uncommon,7.8,Any,Official collecting guide
+TMT,Legendary Turtle,Main set,Common,64.1,Any,Official collecting guide
+TMT,Legendary Turtle,Main set,Uncommon,13.1,Any,Official collecting guide
+TMT,Legendary Turtle,Main set,Rare,6.9,Any,Official collecting guide
+TMT,Legendary Turtle,Main set,Mythic rare,3.4,Any,Official collecting guide
+TMT,Legendary Turtle,Scene card,Common,4.6,Any,Official collecting guide
+TMT,Legendary Turtle,Scene card,Uncommon,6.5,Any,Official collecting guide
+TMT,Legendary Turtle,Scene card,Rare,1,Any,Official collecting guide
+TMT,Legendary Turtle,Silhouette card,Mythic rare,<1,Any,Official collecting guide
+TMT,Wildcard,Main set,Common,24.9,Any,Official collecting guide
+TMT,Wildcard,Main set,Uncommon,62.1,Any,Official collecting guide
+TMT,Wildcard,Main set,Rare,7.6,Any,Official collecting guide
+TMT,Wildcard,Main set,Mythic rare,<1,Any,Official collecting guide
+TMT,Wildcard,Scene card,Common,<1,Any,Official collecting guide
+TMT,Wildcard,Scene card,Uncommon,1.3,Any,Official collecting guide
+TMT,Wildcard,Scene card,Rare,<1,Any,Official collecting guide
+TMT,Wildcard,Scene card,Mythic rare,<1,Any,Official collecting guide
+TMT,Wildcard,Sewer card,Uncommon,2.6,Any,Official collecting guide
+TMT,Wildcard,Sewer card,Rare,<1,Any,Official collecting guide
+TMT,Wildcard,Sewer card,Mythic rare,<1,Any,Official collecting guide
+TMT,Wildcard,Silhouette card,Mythic rare,<1,Any,Official collecting guide
+TMT,Rare/Mythic,Main set,Rare,84.9,Any,Official collecting guide
+TMT,Rare/Mythic,Main set,Mythic rare,9.2,Any,Official collecting guide
+TMT,Rare/Mythic,Scene card,Rare,<1,Any,Official collecting guide
+TMT,Rare/Mythic,Sewer card,Rare,4.1,Any,Official collecting guide
+TMT,Rare/Mythic,Sewer card,Mythic rare,<1,Any,Official collecting guide
+TMT,Rare/Mythic,Silhouette card,Mythic rare,<1,Any,Official collecting guide
+TMT,Traditional foil,Main set,Common,61.5,Foil,Official collecting guide
+TMT,Traditional foil,Main set,Uncommon,27.7,Foil,Official collecting guide
+TMT,Traditional foil,Main set,Rare,6.7,Foil,Official collecting guide
+TMT,Traditional foil,Main set,Mythic rare,<1,Foil,Official collecting guide
+TMT,Traditional foil,Scene card,Common,<1,Foil,Official collecting guide
+TMT,Traditional foil,Scene card,Uncommon,<1,Foil,Official collecting guide
+TMT,Traditional foil,Scene card,Rare,<1,Foil,Official collecting guide
+TMT,Traditional foil,Sewer card,Uncommon,<1,Foil,Official collecting guide
+TMT,Traditional foil,Sewer card,Rare,<1,Foil,Official collecting guide
+TMT,Traditional foil,Sewer card,Mythic rare,<1,Foil,Official collecting guide
+TMT,Traditional foil,Silhouette card,Mythic rare,<1,Foil,Official collecting guide
+TMT,Land,Common dual land,Common,48,Nonfoil,Official collecting guide
+TMT,Land,Common dual land,Common,12,Foil,Official collecting guide
+TMT,Land,Rooftop basic land,Basic land,32,Nonfoil,Official collecting guide
+TMT,Land,Rooftop basic land,Basic land,8,Foil,Official collecting guide
+TMT,Common replacement event,Source Material card,Special,3.5714,Nonfoil,"1 in 28 boosters; replaces a common; pack-level event, not per-slot probability"
+DFT,Common,Main set,Common,98.5,Any,Official guide; Special Guests replaces a common in 1.5% of boosters
+DFT,Common replacement event,Special Guests,Special,1.5,Nonfoil,Pack-level event; replaces one common
+DFT,Wildcard,Main set,Common,8.3,Any,Official collecting guide
+DFT,Wildcard,Main set,Uncommon,62.5,Any,Official collecting guide
+DFT,Wildcard,Main set,Rare or mythic rare,20.8,Any,Official collecting guide; same rare/mythic proportion as rare slot
+DFT,Wildcard,Borderless revved up,Common or uncommon,8.3,Any,Official collecting guide
+DFT,Rare/Mythic,Main set,Rare,78,Any,Official collecting guide
+DFT,Rare/Mythic,Main set,Mythic rare,13,Any,Official collecting guide
+DFT,Rare/Mythic,Borderless,Rare,8,Any,Official collecting guide
+DFT,Rare/Mythic,Borderless,Mythic rare,1,Any,Official collecting guide
+DFT,Traditional foil,Main set,Common,60.5,Foil,Official collecting guide
+DFT,Traditional foil,Main set,Uncommon,30,Foil,Official collecting guide
+DFT,Traditional foil,Main set,Rare,6.4,Foil,Official collecting guide
+DFT,Traditional foil,Main set,Mythic rare,1.1,Foil,Official collecting guide
+DFT,Traditional foil,Borderless,Common,0.5,Foil,Official collecting guide
+DFT,Traditional foil,Borderless,Uncommon,0.5,Foil,Official collecting guide
+DFT,Traditional foil,Borderless,Rare,0.9,Foil,Official collecting guide
+DFT,Traditional foil,Borderless,Mythic rare,0.1,Foil,Official collecting guide
+DFT,Land,Common dual land,Common,50,Nonfoil,Official collecting guide
+DFT,Land,Common dual land,Common,10,Foil,Official collecting guide
+DFT,Land,Default-frame basic land,Basic land,37.5,Nonfoil,Official collecting guide
+DFT,Land,Default-frame basic land,Basic land,7.5,Foil,Derived from 20% foil-land rate and 37.5% default-frame share
+DFT,Land,Driver's seat full-art basic land,Basic land,12.5,Nonfoil,Official collecting guide
+DFT,Land,Driver's seat full-art basic land,Basic land,2.5,Foil,Derived from 20% foil-land rate and 12.5% full-art share
+EOE,Common,Main set,Common,Any,Any,81 main-set commons eligible; guide does not specify individual card probabilities
+EOE,Common replacement event,Special Guests,Rare or mythic rare,1.8,Nonfoil,Replaces a common in 1.8% of Play Boosters
+EOE,Uncommon,Main set,Uncommon,100,Any,100 main-set uncommons eligible
+EOE,Wildcard,Main set,Common,12.5,Any,Official collecting guide
+EOE,Wildcard,Main set,Uncommon,62.5,Any,Official collecting guide
+EOE,Wildcard,Main set,Rare,10.6,Any,Official collecting guide
+EOE,Wildcard,Main set,Mythic rare,<1,Any,Official collecting guide
+EOE,Wildcard,Stellar Sights,Rare,10,Nonfoil or traditional foil,Official collecting guide
+EOE,Wildcard,Stellar Sights,Mythic rare,2.5,Nonfoil or traditional foil,Official collecting guide
+EOE,Wildcard,Borderless viewport land,Rare,1,Any,Official collecting guide
+EOE,Wildcard,Borderless viewport land,Mythic rare,<1,Any,Official collecting guide
+EOE,Wildcard,Borderless triumphant or surreal space,Rare,<1,Any,Official collecting guide
+EOE,Wildcard,Borderless triumphant or surreal space,Mythic rare,<1,Any,Official collecting guide
+EOE,Rare/Mythic,Main set,Rare,80.4,Any,Official collecting guide
+EOE,Rare/Mythic,Main set,Mythic rare,14.2,Any,Official collecting guide
+EOE,Rare/Mythic,Borderless triumphant,Rare,2,Any,Official collecting guide
+EOE,Rare/Mythic,Borderless triumphant,Mythic rare,<1,Any,Official collecting guide
+EOE,Rare/Mythic,Borderless surreal space,Rare,2,Any,Official collecting guide
+EOE,Rare/Mythic,Borderless surreal space,Mythic rare,<1,Any,Official collecting guide
+EOE,Rare/Mythic,Borderless viewport land,Mythic rare,<1,Any,Official collecting guide
+EOE,Traditional foil,Main set,Common,58,Traditional foil,Official collecting guide
+EOE,Traditional foil,Main set,Uncommon,32,Traditional foil,Official collecting guide
+EOE,Traditional foil,Main set,Rare,6.4,Traditional foil,Official collecting guide
+EOE,Traditional foil,Main set,Mythic rare,1.1,Traditional foil,Official collecting guide
+EOE,Traditional foil,Stellar Sights,Rare,1,Traditional foil,Official collecting guide
+EOE,Traditional foil,Stellar Sights,Mythic rare,<1,Traditional foil,Official collecting guide
+EOE,Traditional foil,Borderless viewport land,Rare,<1,Traditional foil,Official collecting guide
+EOE,Traditional foil,Borderless viewport land,Mythic rare,<1,Traditional foil,Official collecting guide
+EOE,Traditional foil,Borderless triumphant or surreal space,Rare,<1,Traditional foil,Official collecting guide
+EOE,Traditional foil,Borderless triumphant or surreal space,Mythic rare,<1,Traditional foil,Official collecting guide
+EOE,Land,Default-frame basic land,Basic land,64,Nonfoil,Official collecting guide
+EOE,Land,Default-frame basic land,Basic land,16,Traditional foil,Official collecting guide
+EOE,Land,Borderless celestial basic land,Basic land,16,Nonfoil,Official collecting guide
+EOE,Land,Borderless celestial basic land,Basic land,4,Traditional foil,Official collecting guide
+EOE,Special land event,Stellar Sights,Rare or mythic rare,12.5,Nonfoil or traditional foil,One Stellar Sights land appears in 1 out of 8 Play Boosters; confirm its exact slot treatment before simulation
+FIN,Common,Main set,Common,Conditional,Nonfoil,6–7 common cards; base-set commons unless replaced by Through the Ages
+FIN,Common replacement event,Through the Ages bonus sheet,Uncommon,21.0833,Nonfoil,Pack-level event: 1 in 3 boosters; bonus-sheet card replaces a common
+FIN,Common replacement event,Through the Ages bonus sheet,Rare,9.9167,Nonfoil,1/3 × 29.75%; pack-level event
+FIN,Common replacement event,Through the Ages bonus sheet,Mythic rare,2.3333,Nonfoil,1/3 × 7%; pack-level event
+FIN,Uncommon,Main set,Uncommon,99.7,Any,Official guide; 0.3% of uncommon slots contain specified borderless variants
+FIN,Uncommon,Borderless woodblock or character,Uncommon,0.3,Nonfoil,Official collecting guide
+FIN,Wildcard,Main set,Common,16.7,Nonfoil,Official collecting guide
+FIN,Wildcard,Main set,Uncommon,58.3,Nonfoil,Official collecting guide
+FIN,Wildcard,Borderless woodblock,Common,2.6,Nonfoil,Official collecting guide
+FIN,Wildcard,Borderless woodblock or character,Uncommon,5.7,Nonfoil,Official collecting guide
+FIN,Wildcard,Main set,Rare or mythic rare,16.7,Nonfoil,Official guide; rarity proportions follow rare/mythic slot
+FIN,Rare/Mythic,Main set,Rare,80,Nonfoil,Default-frame rare
+FIN,Rare/Mythic,Main set,Mythic rare,10,Nonfoil,Default-frame mythic rare
+FIN,Rare/Mythic,Borderless,Rare,8,Nonfoil,Official collecting guide
+FIN,Rare/Mythic,Borderless,Mythic rare,1,Nonfoil,Official collecting guide
+FIN,Rare/Mythic,FINAL FANTASY artist,Rare,0.5,Nonfoil,Official collecting guide
+FIN,Rare/Mythic,FINAL FANTASY artist,Mythic rare,0.5,Nonfoil,Official collecting guide
+FIN,Traditional foil,Main set,Common,55.75,Foil,Official collecting guide
+FIN,Traditional foil,Main set,Uncommon,35.9,Foil,Official collecting guide
+FIN,Traditional foil,Main set,Rare,5.5,Foil,Official collecting guide
+FIN,Traditional foil,Main set,Mythic rare,0.75,Foil,Official collecting guide
+FIN,Traditional foil,Booster Fun,Common,0.1,Foil,Official collecting guide
+FIN,Traditional foil,Booster Fun,Uncommon,0.5,Foil,Official collecting guide
+FIN,Traditional foil,Booster Fun,Rare,1,Foil,Official collecting guide
+FIN,Traditional foil,Booster Fun,Mythic rare,0.25,Foil,Official collecting guide
+FIN,Traditional foil,Cid alternate-art variant,Rare or mythic rare,0.25,Foil,Official collecting guide; 1 of 15 variants
+FIN,Land,Common two-color land,Common,44,Nonfoil,55% land category × 80% nonfoil
+FIN,Land,Common two-color land,Common,11,Foil,55% land category × 20% foil
+FIN,Land,Basic land,Basic land,36,Nonfoil,45% land category × 80% nonfoil
+FIN,Land,Basic land,Basic land,9,Foil,45% land category × 20% foil
+ECL,Common,Main set,Common,98.1818,Any,Derived as 1 - 1/55 Special Guests replacement
+ECL,Common replacement event,Special Guests,Rare or mythic rare,1.8182,Nonfoil,1 in 55 Play Boosters; replaces a common
+ECL,Uncommon,Main set,Uncommon,90,Any,100 main-set uncommons; 10% fable-frame uncommon outcome
+ECL,Uncommon,Fable frame,Uncommon,10,Any,Official collecting guide
+ECL,Wildcard,Main set,Common,18,Nonfoil,Official collecting guide
+ECL,Wildcard,Main set,Uncommon,58,Nonfoil,Official collecting guide
+ECL,Wildcard,Main set,Rare,19,Nonfoil,Official collecting guide
+ECL,Wildcard,Main set,Mythic rare,2,Nonfoil,Official collecting guide
+ECL,Wildcard,Fable frame,Uncommon,2,Nonfoil,Official collecting guide
+ECL,Wildcard,Fable frame,Rare,<1,Nonfoil,Official collecting guide
+ECL,Wildcard,Fable frame,Mythic rare,<1,Nonfoil,Official collecting guide
+ECL,Wildcard,Borderless nonland,Rare,<1,Nonfoil,Official collecting guide
+ECL,Wildcard,Borderless nonland,Mythic rare,<1,Nonfoil,Official collecting guide
+ECL,Wildcard,Borderless reversible shock land,Rare or mythic rare,<1,Nonfoil,Official collecting guide
+ECL,Rare/Mythic,Main set,Rare,78.2,Nonfoil,Official collecting guide
+ECL,Rare/Mythic,Main set,Mythic rare,13.6,Nonfoil,Official collecting guide
+ECL,Rare/Mythic,Fable frame,Rare,4.6,Nonfoil,Official collecting guide
+ECL,Rare/Mythic,Fable frame,Mythic rare,1.2,Nonfoil,Official collecting guide
+ECL,Rare/Mythic,Borderless nonland,Rare,<1,Nonfoil,Official collecting guide
+ECL,Rare/Mythic,Borderless nonland,Mythic rare,<1,Nonfoil,Official collecting guide
+ECL,Rare/Mythic,Borderless reversible shock land,Rare or mythic rare,<1,Nonfoil,Official collecting guide
+ECL,Traditional foil,Main set,Common,60.4,Foil,Official collecting guide
+ECL,Traditional foil,Main set,Uncommon,29.8,Foil,Official collecting guide
+ECL,Traditional foil,Main set,Rare,6.5,Foil,Official collecting guide
+ECL,Traditional foil,Main set,Mythic rare,1.1,Foil,Official collecting guide
+ECL,Traditional foil,Fable frame,Uncommon,1,Foil,Official collecting guide
+ECL,Traditional foil,Fable frame,Rare,1,Foil,Official collecting guide
+ECL,Traditional foil,Fable frame,Mythic rare,<1,Foil,Official collecting guide
+ECL,Traditional foil,Borderless nonland,Rare,<1,Foil,Official collecting guide
+ECL,Traditional foil,Borderless nonland,Mythic rare,<1,Foil,Official collecting guide
+ECL,Traditional foil,Borderless reversible shock land,Rare or mythic rare,<1,Foil,Official collecting guide
+ECL,Land,Default-frame basic land,Basic land,40,Nonfoil,Official collecting guide
+ECL,Land,Default-frame basic land,Basic land,10,Foil,Official collecting guide
+ECL,Land,Full-art basic land,Basic land,40,Nonfoil,Official collecting guide
+ECL,Land,Full-art basic land,Basic land,10,Foil,Official collecting guide
+SPM,Common,Main set,Common,Conditional,Nonfoil,6–7 common slots; source material replaces a common in 1/24 boosters
+SPM,Common replacement event,Source Material,Special,4.1667,Nonfoil,Pack-level event; replaces a common
+SPM,Uncommon,Main set,Uncommon,Conditional,Nonfoil,55 main-set uncommons eligible; 3 uncommon scene cards can also appear
+SPM,Wildcard,Main set,Common,70.8,Nonfoil,Official collecting guide
+SPM,Wildcard,Main set,Uncommon,4.1,Nonfoil,Official collecting guide
+SPM,Wildcard,Main set,Rare,20.9,Nonfoil,Official collecting guide
+SPM,Wildcard,Main set,Mythic rare,2.9,Nonfoil,Official collecting guide
+SPM,Wildcard,Web-slinger,Rare,<1,Nonfoil,Official collecting guide
+SPM,Wildcard,Web-slinger,Mythic rare,<1,Nonfoil,Official collecting guide
+SPM,Wildcard,Panel card,Rare,<1,Nonfoil,Official collecting guide
+SPM,Wildcard,Panel card,Mythic rare,<1,Nonfoil,Official collecting guide
+SPM,Wildcard,Scene card,Uncommon,<1,Nonfoil,Official collecting guide
+SPM,Wildcard,Scene card,Rare,<1,Nonfoil,Official collecting guide
+SPM,Wildcard,Scene card,Mythic rare,<1,Nonfoil,Official collecting guide
+SPM,Rare/Mythic,Main set,Rare,83.7,Nonfoil,Official collecting guide
+SPM,Rare/Mythic,Main set,Mythic rare,11.7,Nonfoil,Official collecting guide
+SPM,Rare/Mythic,Web-slinger,Rare,1.2,Nonfoil,Official collecting guide
+SPM,Rare/Mythic,Web-slinger,Mythic rare,<1,Nonfoil,Official collecting guide
+SPM,Rare/Mythic,Panel card,Rare,2.1,Nonfoil,Official collecting guide
+SPM,Rare/Mythic,Panel card,Mythic rare,<1,Nonfoil,Official collecting guide
+SPM,Rare/Mythic,Scene card,Rare,1,Nonfoil,Official collecting guide
+SPM,Rare/Mythic,Scene card,Mythic rare,<1,Nonfoil,Official collecting guide
+SPM,Traditional foil,Main set,Common,65.8,Foil,Official collecting guide
+SPM,Traditional foil,Main set,Uncommon,24.1,Foil,Official collecting guide
+SPM,Traditional foil,Main set,Rare,7.8,Foil,Official collecting guide
+SPM,Traditional foil,Main set,Mythic rare,1.1,Foil,Official collecting guide
+SPM,Traditional foil,Web-slinger,Rare,<1,Foil,Official collecting guide
+SPM,Traditional foil,Web-slinger,Mythic rare,<1,Foil,Official collecting guide
+SPM,Traditional foil,Panel card,Rare,<1,Foil,Official collecting guide
+SPM,Traditional foil,Panel card,Mythic rare,<1,Foil,Official collecting guide
+SPM,Traditional foil,Scene card,Uncommon,<1,Foil,Official collecting guide
+SPM,Traditional foil,Scene card,Rare,<1,Foil,Official collecting guide
+SPM,Traditional foil,Scene card,Mythic rare,<1,Foil,Official collecting guide
+SPM,Land,Common two-color land,Common,50,Nonfoil,Official collecting guide
+SPM,Land,Common two-color land,Common,10,Foil,50% land category; foil 20% of the time
+SPM,Land,Spiderweb basic land,Basic land,25,Nonfoil,Official collecting guide; foil 20% of the time
+SPM,Land,Spiderweb basic land,Basic land,5,Foil,25% land category; foil 20% of the time
+SPM,Land,Default-frame basic land,Basic land,20,Nonfoil,Official collecting guide; foil 20% of the time
+SPM,Land,Default-frame basic land,Basic land,5,Foil,25% land category; foil 20% of the time
+TDM,Common,Main set,Common,Conditional,Nonfoil,81 eligible commons; 6–7 common slots
+TDM,Common replacement event,Special Guests,Rare or mythic rare,1.5,Nonfoil,Replaces a common in 1.5% of Play Boosters
+TDM,Uncommon,Main set,Uncommon,Conditional,Nonfoil,100 eligible main-set uncommons; 3 uncommon slots
+TDM,Wildcard,Main set,Common,12.5,Nonfoil,Official collecting guide
+TDM,Wildcard,Main set,Uncommon,58.3,Nonfoil,Official collecting guide
+TDM,Wildcard,Main set,Rare,15.6,Nonfoil,Official collecting guide
+TDM,Wildcard,Main set,Mythic rare,2.6,Nonfoil,Official collecting guide
+TDM,Wildcard,Showcase draconic frame,Common,4.6,Nonfoil,Official collecting guide
+TDM,Wildcard,Showcase draconic frame,Uncommon,3.8,Nonfoil,Official collecting guide
+TDM,Wildcard,Showcase draconic frame,Rare,0.2,Nonfoil,Official collecting guide
+TDM,Wildcard,Showcase draconic frame,Mythic rare,0.1,Nonfoil,Official collecting guide
+TDM,Wildcard,Borderless clan,Rare,1.3,Nonfoil,Official collecting guide
+TDM,Wildcard,Borderless clan,Mythic rare,0.2,Nonfoil,Official collecting guide
+TDM,Wildcard,"Borderless Sagas, Sieges, and lands",Rare,0.6,Nonfoil,Official collecting guide
+TDM,Wildcard,Borderless Elspeth,Mythic rare,<0.1,Nonfoil,Official collecting guide
+TDM,Wildcard,Borderless reversible dragon,Rare,0.2,Nonfoil,Official collecting guide
+TDM,Wildcard,Borderless reversible dragon,Mythic rare,<0.1,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,Main set,Rare,75,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,Main set,Mythic rare,12.5,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,Showcase draconic frame,Rare,0.8,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,Showcase draconic frame,Mythic rare,0.6,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,Borderless clan,Rare,6.4,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,Borderless clan,Mythic rare,1.2,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,"Borderless Sagas, Sieges, and lands",Rare,2.7,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,Borderless Elspeth,Mythic rare,0.1,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,Borderless reversible dragon,Rare,0.8,Nonfoil,Official collecting guide
+TDM,Rare/Mythic,Borderless reversible dragon,Mythic rare,0.9,Nonfoil,Official collecting guide
+TDM,Traditional foil,Main set,Common,56.5,Foil,Official collecting guide
+TDM,Traditional foil,Main set,Uncommon,32,Foil,Official collecting guide
+TDM,Traditional foil,Main set,Rare,6.4,Foil,Official collecting guide
+TDM,Traditional foil,Main set,Mythic rare,1.1,Foil,Official collecting guide
+TDM,Traditional foil,Showcase draconic frame,Common,1.6,Foil,Official collecting guide
+TDM,Traditional foil,Showcase draconic frame,Uncommon,1.4,Foil,Official collecting guide
+TDM,Traditional foil,Showcase draconic frame,Rare,<0.1,Foil,Official collecting guide
+TDM,Traditional foil,Showcase draconic frame,Mythic rare,<0.1,Foil,Official collecting guide
+TDM,Traditional foil,Borderless clan,Rare,0.5,Foil,Official collecting guide
+TDM,Traditional foil,Borderless clan,Mythic rare,0.1,Foil,Official collecting guide
+TDM,Traditional foil,"Borderless Sagas, Sieges, and lands",Rare,0.2,Foil,Official collecting guide
+TDM,Traditional foil,Borderless Elspeth,Mythic rare,<0.1,Foil,Official collecting guide
+TDM,Traditional foil,Borderless reversible dragon,Rare,0.1,Foil,Official collecting guide
+TDM,Traditional foil,Borderless reversible dragon,Mythic rare,<0.1,Foil,Official collecting guide
+TDM,Land,Default-frame basic land,Basic land,7,Nonfoil,Official collecting guide
+TDM,Land,Dragon's presence full-art basic land,Basic land,3.5,Nonfoil,Official collecting guide
+TDM,Land,Default-frame basic land,Basic land,1.7,Foil,Official collecting guide
+TDM,Land,Dragon's presence full-art basic land,Basic land,0.9,Foil,Official collecting guide
+TDM,Land,Common two-color land,Common,70,Nonfoil,Official collecting guide
+TDM,Land,Common two-color land,Common,17.4,Foil,Official collecting guide
+TLA,Common,Main set,Common,Conditional,Nonfoil,81 eligible main-set commons; 6–7 common slots
+TLA,Common replacement event,Source Material,Special,3.8462,Nonfoil,1 in 26 boosters; replaces a common; pack-level event
+TLA,Uncommon,Main set,Uncommon,96.4,Nonfoil,Official collecting guide; 110 eligible main-set uncommons
+TLA,Uncommon,Scene card,Uncommon,3.6,Nonfoil,Official collecting guide; 4 eligible uncommon scene cards
+TLA,Wildcard,Main set,Common,4.2,Nonfoil,Official collecting guide
+TLA,Wildcard,Main set,Uncommon,74.1,Nonfoil,Official collecting guide
+TLA,Wildcard,Main set,Rare,16.7,Nonfoil,Official collecting guide
+TLA,Wildcard,Main set,Mythic rare,2.6,Nonfoil,Official collecting guide
+TLA,Wildcard,Scene card,Uncommon,<1,Nonfoil,Official collecting guide
+TLA,Wildcard,Scene card,Rare or mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Wildcard,Field notes,Rare or mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Wildcard,Battle pose,Rare or mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Wildcard,Elemental frame,Rare or mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Wildcard,Borderless double-faced Saga,Mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Main set,Rare,80,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Main set,Mythic rare,12.6,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Scene card,Rare,1.6,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Scene card,Mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Field notes,Rare,1.4,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Field notes,Mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Battle pose,Rare or mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Elemental frame,Rare,2.4,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Elemental frame,Mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Rare/Mythic,Borderless double-faced Saga,Mythic rare,<1,Nonfoil,Official collecting guide
+TLA,Traditional foil,Main set,Common,53.9,Foil,Official collecting guide
+TLA,Traditional foil,Main set,Uncommon,36.7,Foil,Official collecting guide
+TLA,Traditional foil,Main set,Rare,6.7,Foil,Official collecting guide
+TLA,Traditional foil,Main set,Mythic rare,1.2,Foil,Official collecting guide
+TLA,Traditional foil,Scene card,Uncommon,<1,Foil,Official collecting guide
+TLA,Traditional foil,Scene card,Rare or mythic rare,<1,Foil,Official collecting guide
+TLA,Traditional foil,Field notes,Rare or mythic rare,<1,Foil,Official collecting guide
+TLA,Traditional foil,Battle pose,Rare or mythic rare,<1,Foil,Official collecting guide
+TLA,Traditional foil,Elemental frame,Rare or mythic rare,<1,Foil,Official collecting guide
+TLA,Traditional foil,Borderless double-faced Saga,Mythic rare,<1,Foil,Official collecting guide
+TLA,Land,Common dual land,Common,40,Nonfoil,Official collecting guide
+TLA,Land,Default-frame basic land,Basic land,20,Nonfoil,Official collecting guide
+TLA,Land,Avatar's journey basic land,Basic land,10,Nonfoil,Official collecting guide
+TLA,Land,Appa basic land,Basic land,10,Nonfoil,Official collecting guide
+TLA,Land,Common dual land,Common,10,Foil,Official collecting guide
+TLA,Land,Default-frame basic land,Basic land,5,Foil,Official collecting guide
+TLA,Land,Avatar's journey basic land,Basic land,2.5,Foil,Official collecting guide
+TLA,Land,Appa basic land,Basic land,2.5,Foil,Official collecting guide
+FRA,Common,Main set,Common,Conditional,Nonfoil,5–6 common slots; 71 eligible commons
+FRA,Common replacement event,Special Guests,Special,1.8182,Nonfoil,1 in 55 boosters; replaces a common
+FRA,Uncommon,Main set,Uncommon,96.2,Nonfoil,43 eligible main-set uncommons; 3.8% braintwister series
+FRA,Uncommon,Braintwister series,Uncommon,3.8,Nonfoil,Official collecting guide
+FRA,Common or uncommon,Main set,Common,23,Nonfoil,Official collecting guide
+FRA,Common or uncommon,Main set,Uncommon,74,Nonfoil,Official collecting guide
+FRA,Common or uncommon,Braintwister series,Uncommon,3,Nonfoil,Official collecting guide
+FRA,Echoed pairs,Main set,Uncommon,88.9,Nonfoil,Official collecting guide; 3 echoed-pairs cards per booster
+FRA,Echoed pairs,Main set,Rare,6.7,Nonfoil,Official collecting guide
+FRA,Echoed pairs,Main set,Mythic rare,1.4,Nonfoil,Official collecting guide
+FRA,Echoed pairs,Borderless echoed pairs,Uncommon,1.7,Nonfoil,Official collecting guide
+FRA,Echoed pairs,Borderless echoed pairs,Rare,<1,Nonfoil,Official collecting guide
+FRA,Echoed pairs,Borderless echoed pairs,Mythic rare,<1,Nonfoil,Official collecting guide
+FRA,Rare/Mythic,Main set,Rare,74.4,Nonfoil,Official collecting guide
+FRA,Rare/Mythic,Main set,Mythic rare,14.8,Nonfoil,Official collecting guide
+FRA,Rare/Mythic,Shattered mirror,Rare,1,Nonfoil,Official collecting guide
+FRA,Rare/Mythic,Shattered mirror,Mythic rare,<1,Nonfoil,Official collecting guide
+FRA,Rare/Mythic,Sculptor's stronghold,Rare,3.8,Nonfoil,Official collecting guide
+FRA,Rare/Mythic,Sculptor's stronghold,Mythic rare,1,Nonfoil,Official collecting guide
+FRA,Rare/Mythic,Braintwister series,Rare,3.1,Nonfoil,Official collecting guide
+FRA,Rare/Mythic,Braintwister series,Mythic rare,<1,Nonfoil,Official collecting guide
+FRA,Rare/Mythic,Borderless portal view land,Rare,1,Nonfoil,Official collecting guide
+FRA,Traditional foil,Main set,Common,49.5,Foil,Official collecting guide
+FRA,Traditional foil,Main set,Uncommon,40.5,Foil,Official collecting guide
+FRA,Traditional foil,Main set,Rare,6,Foil,Official collecting guide
+FRA,Traditional foil,Main set,Mythic rare,1.2,Foil,Official collecting guide
+FRA,Land,Default-frame basic land,Basic land,14.6,Nonfoil,Official collecting guide
+FRA,Land,Default-frame basic land,Basic land,3.6,Foil,Official collecting guide
+FRA,Land,Tower basic land,Basic land,21.8,Nonfoil,Official collecting guide
+FRA,Land,Tower basic land,Basic land,5.5,Foil,Official collecting guide
+FRA,Land,Common dual land,Common,43.6,Nonfoil,Official collecting guide
+FRA,Land,Common dual land,Common,10.9,Foil,Official collecting guide
+SOS,Common,Main set,Common,Conditional,Nonfoil,81 eligible main-set commons; 5–6 common slots
+SOS,Common replacement event,Special Guests,Special,1.8182,Nonfoil,1 in 55 boosters; replaces a common
+SOS,Uncommon,Main set,Uncommon,100,Nonfoil,100 eligible main-set uncommons
+SOS,Wildcard,Main set,Common,39.1,Nonfoil,Official collecting guide
+SOS,Wildcard,Main set,Uncommon,39.1,Nonfoil,Official collecting guide
+SOS,Wildcard,Main set,Rare,19.5,Nonfoil,Official collecting guide
+SOS,Wildcard,Main set,Mythic rare,1.9,Nonfoil,Official collecting guide
+SOS,Wildcard,"Borderless Elder Dragon, planeswalker, or dual land",Rare or mythic rare,<1,Nonfoil,Official collecting guide
+SOS,Wildcard,Field notes,Rare or mythic rare,<1,Nonfoil,Official collecting guide
+SOS,Rare/Mythic,Main set,Rare,82.5,Nonfoil,Official collecting guide
+SOS,Rare/Mythic,Main set,Mythic rare,14.1,Nonfoil,Official collecting guide
+SOS,Rare/Mythic,"Borderless Elder Dragon, planeswalker, or dual land",Rare or mythic rare,1.6,Nonfoil,Official collecting guide
+SOS,Rare/Mythic,Field notes,Rare,1.2,Nonfoil,Official collecting guide
+SOS,Rare/Mythic,Field notes,Mythic rare,<1,Nonfoil,Official collecting guide
+SOS,Mystical Archive,Mystical Archive,Uncommon,87.5,Nonfoil,Non-Japanese Play Boosters
+SOS,Mystical Archive,Mystical Archive,Rare,9.6,Nonfoil,Non-Japanese Play Boosters
+SOS,Mystical Archive,Mystical Archive,Mythic rare,2.9,Nonfoil,Non-Japanese Play Boosters
+SOS,Traditional foil,Main set,Common,54.4,Foil,Official collecting guide
+SOS,Traditional foil,Main set,Uncommon,33.6,Foil,Official collecting guide
+SOS,Traditional foil,Main set,Rare,6.7,Foil,Official collecting guide
+SOS,Traditional foil,Main set,Mythic rare,1.1,Foil,Official collecting guide
+SOS,Traditional foil,"Borderless Elder Dragon, planeswalker, or dual land",Rare or mythic rare,<1,Foil,Official collecting guide
+SOS,Traditional foil,Field notes,Rare or mythic rare,<1,Foil,Official collecting guide
+SOS,Traditional foil,Mystical Archive,Uncommon,2.8,Foil,Official collecting guide
+SOS,Traditional foil,Mystical Archive,Rare,<1,Foil,Official collecting guide
+SOS,Traditional foil,Mystical Archive,Mythic rare,<1,Foil,Official collecting guide
+SOS,Land,Default-frame basic land,Basic land,26.7,Nonfoil,Official collecting guide
+SOS,Land,Default-frame basic land,Basic land,6.7,Foil,Official collecting guide
+SOS,Land,Spellcraft land,Basic land,13.3,Nonfoil,Official collecting guide
+SOS,Land,Spellcraft land,Basic land,3.3,Foil,Official collecting guide
+SOS,Land,Common dual land,Common,40,Nonfoil,Official collecting guide
+SOS,Land,Common dual land,Common,10,Foil,Official collecting guide
