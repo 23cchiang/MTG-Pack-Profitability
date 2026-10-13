@@ -28,7 +28,7 @@ DFT,Aetherdrift,play,Bloodfell Caves,common,251,ea07bd64-eea3-53c2-a049-bb356fd9
 DFT,Aetherdrift,play,Bloodghast,rare,337,4f97530a-3940-5a32-b102-de1681b3b9ba,0.004617857142857143,"foil, nonfoil",0.004613895193148587
 DFT,Aetherdrift,play,Bloodghast,rare,77,5ad3166a-1694-5462-9c92-61c26dd4cfd0,0.01385357142857143,"foil, nonfoil",0.013817928378279887
 DFT,Aetherdrift,play,Blossoming Sands,common,252,fadad1b4-62b8-51fb-94e2-1c01380aa7ad,0.05,"foil, nonfoil",0.050000000000000155
-DFT,Aetherdrift,play,Bone Miser,mythic,87,4f29188a-2fb4-51b1-a7eb-a56e82e49388,0.0015625000000000003,"foil, nonfoil",0.9859375
+DFT,Aetherdrift,play,Bone Miser,mythic,87,4f29188a-2fb4-51b1-a7eb-a56e82e49388,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
 DFT,Aetherdrift,play,Boom Scholar,uncommon,189,375b8517-d702-5fab-9305-8ce4cfbb3424,0.03972,"foil, nonfoil",0.039112567002293486
 DFT,Aetherdrift,play,Boommobile,rare,113,f2b96ac0-a174-5bed-b463-3bfc74f6abd0,0.01385357142857143,"foil, nonfoil",0.013817928378279887
 DFT,Aetherdrift,play,Boommobile,rare,310,0cfc7ae0-8fb9-5c7f-8093-893daf3943ab,0.004617857142857143,"foil, nonfoil",0.004613895193148587
@@ -59,11 +59,11 @@ DFT,Aetherdrift,play,"Caradora, Heart of Alacria",rare,195,74066a51-c520-54aa-bf
 DFT,Aetherdrift,play,"Caradora, Heart of Alacria",rare,362,7b99ba9c-d314-5084-b592-01bcb81af155,0.004617857142857143,"foil, nonfoil",0.004613895193148587
 DFT,Aetherdrift,play,Carrion Cruiser,uncommon,305,848d8a3a-cb93-5432-82ca-07cb691e2e77,0.00243,"foil, nonfoil",0.0024287285312500906
 DFT,Aetherdrift,play,Carrion Cruiser,uncommon,78,e940f5d9-ffe8-5b34-b665-bc74df157d18,0.03729,"foil, nonfoil",0.036763376366290124
-DFT,Aetherdrift,play,Cavalier of Dawn,mythic,84,512a9b98-4194-50bf-9de7-0d9562fc4dc1,0.0015625000000000003,"foil, nonfoil",0.9859375
-DFT,Aetherdrift,play,Chandra's Ignition,mythic,89,229ea72d-63a1-5d82-b6e5-0f4f5cd330e4,0.0015625000000000003,"foil, nonfoil",0.9859375
+DFT,Aetherdrift,play,Cavalier of Dawn,mythic,84,512a9b98-4194-50bf-9de7-0d9562fc4dc1,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
+DFT,Aetherdrift,play,Chandra's Ignition,mythic,89,229ea72d-63a1-5d82-b6e5-0f4f5cd330e4,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
 DFT,Aetherdrift,play,"Chandra, Spark Hunter",mythic,116,12f091b0-4f2d-5717-830f-e878bbbb1c37,0.009235714285714286,"foil, nonfoil",0.009219869708454898
 DFT,Aetherdrift,play,Chitin Gravestalker,common,79,c341e07c-b470-5e9b-93cc-9fa8676cfd6c,0.09530092592592591,"foil, nonfoil",0.09141434403494308
-DFT,Aetherdrift,play,Chrome Mox,mythic,92,5a436e05-f446-5861-aa0a-613bcc584d46,0.0015625000000000003,"foil, nonfoil",0.9859375
+DFT,Aetherdrift,play,Chrome Mox,mythic,92,5a436e05-f446-5861-aa0a-613bcc584d46,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
 DFT,Aetherdrift,play,Clamorous Ironclad,common,117,bc9ef912-e7fc-5e25-b409-2a16b3c9cd4d,0.0930324074074074,"foil, nonfoil",0.08933901275755496
 DFT,Aetherdrift,play,Clamorous Ironclad,common,312,89ba83ae-e40f-5578-a21e-9da9fd8f2a57,0.0022685185185185182,"foil, nonfoil",0.002267792162018001
 DFT,Aetherdrift,play,Cloudspire Captain,uncommon,9,a70988e3-d9b5-58da-87a4-9c206952796b,0.03972,"foil, nonfoil",0.039112567002293486
@@ -124,7 +124,7 @@ DFT,Aetherdrift,play,Foul Roads,uncommon,255,7504c04e-7bb0-5b0f-a3a8-4d040dbcaf3
 DFT,Aetherdrift,play,Fuel the Flames,uncommon,126,5c0cf323-8c64-53b2-bb49-707cb6defde7,0.03972,"foil, nonfoil",0.039112567002293486
 DFT,Aetherdrift,play,Full Throttle,rare,127,a32adc12-99e2-5d1c-bcbf-2ba53f020836,0.018471428571428573,"foil, nonfoil",0.01840807603498551
 DFT,Aetherdrift,play,Gallant Strike,uncommon,13,0c3b8632-59c9-51c0-98b5-d4cf0d86e711,0.03972,"foil, nonfoil",0.039112567002293486
-DFT,Aetherdrift,play,Galvanic Blast,mythic,90,763a8cf2-3a56-5ffc-908a-d7bf919b07f4,0.0015625000000000003,"foil, nonfoil",0.9859375
+DFT,Aetherdrift,play,Galvanic Blast,mythic,90,763a8cf2-3a56-5ffc-908a-d7bf919b07f4,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
 DFT,Aetherdrift,play,Gas Guzzler,rare,338,4903cc32-86b7-51df-ae95-42c8d009a70b,0.004617857142857143,"foil, nonfoil",0.004613895193148587
 DFT,Aetherdrift,play,Gas Guzzler,rare,85,5606158b-fb82-59c1-a05e-5c5f69b57f7b,0.01385357142857143,"foil, nonfoil",0.013817928378279887
 DFT,Aetherdrift,play,Gastal Blockbuster,common,128,e9a246fc-9afd-547f-806f-11f83485cde2,0.09530092592592591,"foil, nonfoil",0.09141434403494308
@@ -187,7 +187,7 @@ DFT,Aetherdrift,play,Lightshield Parry,common,19,fb18361d-7b50-51b4-8ff5-f37f498
 DFT,Aetherdrift,play,Lightwheel Enhancements,common,20,1b7bae84-d1ee-5bdf-9d37-99ea75155816,0.09530092592592591,"foil, nonfoil",0.09141434403494308
 DFT,Aetherdrift,play,Locust Spray,uncommon,95,261c7bf3-b567-5004-935f-638b98755eed,0.03972,"foil, nonfoil",0.039112567002293486
 DFT,Aetherdrift,play,"Loot, the Pathfinder",mythic,212,47ea0a8d-a316-5cbd-9a43-05aa3e9e4bde,0.009235714285714286,"foil, nonfoil",0.009219869708454898
-DFT,Aetherdrift,play,Lord of the Undead,mythic,88,87b1bd50-8bbf-5d73-9c8f-9d8041e6d7fa,0.0015625000000000003,"foil, nonfoil",0.9859375
+DFT,Aetherdrift,play,Lord of the Undead,mythic,88,87b1bd50-8bbf-5d73-9c8f-9d8041e6d7fa,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
 DFT,Aetherdrift,play,Lotusguard Disciple,common,21,5b90fb65-d2ed-5c69-a09e-42b0a33b3776,0.09530092592592591,"foil, nonfoil",0.09141434403494308
 DFT,Aetherdrift,play,Loxodon Surveyor,common,167,da6baaca-a7c2-51f8-9636-2c0cd1a2ca48,0.09530092592592591,"foil, nonfoil",0.09141434403494308
 DFT,Aetherdrift,play,Lumbering Worldwagon,rare,168,389934f6-0c3b-511a-ac72-f86c6c4752e1,0.01385357142857143,"foil, nonfoil",0.013817928378279887
@@ -229,7 +229,7 @@ DFT,Aetherdrift,play,"Oviya, Automech Artisan",rare,173,8e0841ca-9fae-559e-bcd4-
 DFT,Aetherdrift,play,"Oviya, Automech Artisan",rare,359,d30a4627-9918-59bb-8cd3-f85575583107,0.004617857142857143,"foil, nonfoil",0.004613895193148587
 DFT,Aetherdrift,play,Pacesetter Paragon,uncommon,140,2245f6dd-7fe3-5adf-afad-7d0c63e2a64d,0.03972,"foil, nonfoil",0.039112567002293486
 DFT,Aetherdrift,play,Pactdoll Terror,common,99,7a916339-5e81-5c09-902b-5b2bc7d14e55,0.09530092592592591,"foil, nonfoil",0.09141434403494308
-DFT,Aetherdrift,play,Pathbreaker Ibex,mythic,91,10bc42ab-4c47-569f-9269-9ca8857a557a,0.0015625000000000003,"foil, nonfoil",0.9859375
+DFT,Aetherdrift,play,Pathbreaker Ibex,mythic,91,10bc42ab-4c47-569f-9269-9ca8857a557a,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
 DFT,Aetherdrift,play,Pedal to the Metal,common,141,64e99559-f3db-5070-82e7-cdfb6088a3b3,0.09530092592592591,"foil, nonfoil",0.09141434403494308
 DFT,Aetherdrift,play,Perilous Snare,rare,23,62ac529d-8776-597a-b701-d64454e4ad73,0.018471428571428573,"foil, nonfoil",0.01840807603498551
 DFT,Aetherdrift,play,Pit Automaton,uncommon,238,4ec21929-6bd6-5ce6-b5c9-a18ec55ace40,0.03972,"foil, nonfoil",0.039112567002293486
@@ -301,7 +301,7 @@ DFT,Aetherdrift,play,Skycrash,uncommon,146,041166f6-7c28-5a78-9144-161764b23abc,
 DFT,Aetherdrift,play,Skyseer's Chariot,rare,28,cacc7245-c05e-583b-b140-e53dca3d8261,0.01385357142857143,"foil, nonfoil",0.013817928378279887
 DFT,Aetherdrift,play,Skyseer's Chariot,rare,296,9cffcdeb-50f5-53fb-acc0-3aa1d64bd33d,0.004617857142857143,"foil, nonfoil",0.004613895193148587
 DFT,Aetherdrift,play,Skyserpent Seeker,uncommon,224,f1215e45-e215-5a18-a7c8-7c0517d0d5f5,0.03972,"foil, nonfoil",0.039112567002293486
-DFT,Aetherdrift,play,"Skysovereign, Consul Flagship",mythic,93,12a61320-7217-5187-8587-16af451f4cbe,0.0015625000000000003,"foil, nonfoil",0.9859375
+DFT,Aetherdrift,play,"Skysovereign, Consul Flagship",mythic,93,12a61320-7217-5187-8587-16af451f4cbe,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
 DFT,Aetherdrift,play,Skystreak Engineer,common,61,838258e5-d677-58b0-b9c8-bad18c501c0d,0.09530092592592591,"foil, nonfoil",0.09141434403494308
 DFT,Aetherdrift,play,Slick Imitator,uncommon,62,7bc06d0f-3783-55d4-857d-f3adf98a4253,0.03972,"foil, nonfoil",0.039112567002293486
 DFT,Aetherdrift,play,Spectacular Pileup,rare,29,2af2fffd-a539-5c14-8bc0-fa54e044d224,0.018471428571428573,"foil, nonfoil",0.01840807603498551
@@ -337,7 +337,7 @@ DFT,Aetherdrift,play,The Speed Demon,mythic,339,0c8e02d6-dd2d-511a-bafe-449559b1
 DFT,Aetherdrift,play,Thopter Fabricator,rare,304,0ac18fb9-8ab1-560c-ac36-4eb81699374d,0.004617857142857143,"foil, nonfoil",0.004613895193148587
 DFT,Aetherdrift,play,Thopter Fabricator,rare,68,26a7bb43-08a1-58f4-b5ff-5b3714f1c7a0,0.01385357142857143,"foil, nonfoil",0.013817928378279887
 DFT,Aetherdrift,play,Thornwood Falls,common,266,12eae30e-9493-500a-baed-50e1fe179892,0.05,"foil, nonfoil",0.050000000000000155
-DFT,Aetherdrift,play,Thoughtcast,mythic,85,d6fc612b-4cc1-5aec-887b-f3be61fe5213,0.0015625000000000003,"foil, nonfoil",0.9859375
+DFT,Aetherdrift,play,Thoughtcast,mythic,85,d6fc612b-4cc1-5aec-887b-f3be61fe5213,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
 DFT,Aetherdrift,play,Thunderhead Gunner,common,148,a467834b-92fd-5313-b5ae-dfd75669cb6b,0.09530092592592591,"foil, nonfoil",0.09141434403494308
 DFT,Aetherdrift,play,Thundering Broodwagon,uncommon,225,ee1a5e5f-1d0e-5094-9558-004eb11cdaf3,0.03729,"foil, nonfoil",0.036763376366290124
 DFT,Aetherdrift,play,Thundering Broodwagon,uncommon,328,4a54d6ad-eeff-5d14-aeb1-f012e0a17937,0.00243,"foil, nonfoil",0.0024287285312500906
@@ -371,7 +371,7 @@ DFT,Aetherdrift,play,Waxen Shapethief,rare,336,b99a8002-88a3-5739-ba02-2f239b0c5
 DFT,Aetherdrift,play,Waxen Shapethief,rare,74,33ffd84d-be0f-582d-9136-37cd4b22a1e3,0.01385357142857143,"foil, nonfoil",0.013817928378279887
 DFT,Aetherdrift,play,Webstrike Elite,rare,186,06bad981-0634-596c-bcc2-644586843f30,0.01385357142857143,"foil, nonfoil",0.013817928378279887
 DFT,Aetherdrift,play,Webstrike Elite,rare,345,7a90bef0-0807-5a74-aa5d-6895b3029592,0.004617857142857143,"foil, nonfoil",0.004613895193148587
-DFT,Aetherdrift,play,Whir of Invention,mythic,86,b5e6be9b-6cce-5428-b661-7ca75355a958,0.0015625000000000003,"foil, nonfoil",0.9859375
+DFT,Aetherdrift,play,Whir of Invention,mythic,86,b5e6be9b-6cce-5428-b661-7ca75355a958,0.0015625000000000003,"foil, nonfoil",0.0015625000000000222
 DFT,Aetherdrift,play,Wickerfolk Indomitable,uncommon,109,6ff56e65-f50a-528a-bc0c-bc0c395d142a,0.03972,"foil, nonfoil",0.039112567002293486
 DFT,Aetherdrift,play,Wild Roads,uncommon,269,41dac39d-fe35-5440-8de3-38b023a7b157,0.03972,"foil, nonfoil",0.039112567002293486
 DFT,Aetherdrift,play,Willowrush Verge,rare,270,e93ffe60-3db8-5bae-964b-815c6ae60c44,0.01385357142857143,"foil, nonfoil",0.013817928378279887

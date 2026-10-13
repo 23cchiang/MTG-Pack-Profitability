@@ -224,34 +224,40 @@ def main():
         )
     )
 
-    # Calculate the probability of pulling at least one copy.
-    # Each row in df represents a card's contribution within
-    # a particular booster variant and slot.
+    # Calculate the probability of at least one copy of each card.
+    # Booster variants are mutually exclusive, so calculate the
+    # probability within each variant before weighting the results.
 
     probability_rows = []
 
-    # Calculate the probability of at least one copy of each card.
+    variants = (
+        df[["variant_number", "variant_probability"]]
+        .drop_duplicates()
+    )
+
     for _, card in summary.iterrows():
         card_rows = df[df["uuid"] == card["uuid"]]
 
-        # Each booster variant is mutually exclusive, so calculate
-        # the probability within each variant first.
+        # Total probability of getting no copy, across all variants.
         probability_no_copy_overall = 0.0
 
-        for variant_number, variant_rows in card_rows.groupby(
-                "variant_number"
-        ):
-            variant_probability = variant_rows[
-                "variant_probability"
-            ].iloc[0]
+        for _, variant in variants.iterrows():
+            variant_number = variant["variant_number"]
+            variant_probability = variant["variant_probability"]
 
+            variant_card_rows = card_rows[
+                card_rows["variant_number"] == variant_number
+                ]
+
+            # If the card is absent from this variant, its
+            # probability of not appearing in the pack is 1.
             probability_no_copy_in_variant = 1.0
 
-            for _, row in variant_rows.iterrows():
+            for _, row in variant_card_rows.iterrows():
                 p = row["probability_within_sheet"]
                 n = int(row["cards_per_pack"])
 
-                # Approximation assuming independent draws.
+                # Assumes independent draws within this slot.
                 probability_no_copy_in_variant *= (1 - p) ** n
 
             probability_no_copy_overall += (
