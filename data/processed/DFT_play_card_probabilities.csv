@@ -2671,6 +2671,16 @@ DFT,Aetherdrift,play,3,4,0.0125,rareMythicWithBoosterfun,1,Quag Feast,rare,100,f
 DFT,Aetherdrift,play,3,4,0.0125,rareMythicWithBoosterfun,1,Lumbering Worldwagon,rare,316,fb7307e1-e769-5e6d-89d9-900493a7270d,"foil, nonfoil",2,560,0.0035714285714285713,4.464285714285714e-05
 DFT,Aetherdrift,play,3,4,0.0125,rareMythicWithBoosterfun,1,Explosive Getaway,rare,202,fe452cd5-75f4-5f10-b1f2-b3bc9c0ec289,"foil, nonfoil",8,560,0.014285714285714285,0.00017857142857142857
 DFT,Aetherdrift,play,3,4,0.0125,rareMythicWithBoosterfun,1,Coalstoke Gearhulk,mythic,349,ffc6ed37-193e-5c7c-879f-9e5793f6228b,"foil, nonfoil",1,560,0.0017857142857142857,2.232142857142857e-05
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,Pathbreaker Ibex,mythic,91,10bc42ab-4c47-569f-9269-9ca8857a557a,"foil, nonfoil",1,10,0.1,0.0012500000000000002
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,"Skysovereign, Consul Flagship",mythic,93,12a61320-7217-5187-8587-16af451f4cbe,"foil, nonfoil",1,10,0.1,0.0012500000000000002
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,Chandra's Ignition,mythic,89,229ea72d-63a1-5d82-b6e5-0f4f5cd330e4,"foil, nonfoil",1,10,0.1,0.0012500000000000002
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,Bone Miser,mythic,87,4f29188a-2fb4-51b1-a7eb-a56e82e49388,"foil, nonfoil",1,10,0.1,0.0012500000000000002
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,Cavalier of Dawn,mythic,84,512a9b98-4194-50bf-9de7-0d9562fc4dc1,"foil, nonfoil",1,10,0.1,0.0012500000000000002
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,Chrome Mox,mythic,92,5a436e05-f446-5861-aa0a-613bcc584d46,"foil, nonfoil",1,10,0.1,0.0012500000000000002
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,Galvanic Blast,mythic,90,763a8cf2-3a56-5ffc-908a-d7bf919b07f4,"foil, nonfoil",1,10,0.1,0.0012500000000000002
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,Lord of the Undead,mythic,88,87b1bd50-8bbf-5d73-9c8f-9d8041e6d7fa,"foil, nonfoil",1,10,0.1,0.0012500000000000002
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,Whir of Invention,mythic,86,b5e6be9b-6cce-5428-b661-7ca75355a958,"foil, nonfoil",1,10,0.1,0.0012500000000000002
+DFT,Aetherdrift,play,3,4,0.0125,specialGuest,1,Thoughtcast,mythic,85,d6fc612b-4cc1-5aec-887b-f3be61fe5213,"foil, nonfoil",1,10,0.1,0.0012500000000000002
 DFT,Aetherdrift,play,3,4,0.0125,uncommon,3,Skycrash,uncommon,146,041166f6-7c28-5a78-9144-161764b23abc,"foil, nonfoil",1,100,0.01,0.00037500000000000006
 DFT,Aetherdrift,play,3,4,0.0125,uncommon,3,Diversion Unit,uncommon,41,0a40ba66-92a2-5e5f-97e2-dc11767543bb,"foil, nonfoil",1,100,0.01,0.00037500000000000006
 DFT,Aetherdrift,play,3,4,0.0125,uncommon,3,"Kalakscion, Hunger Tyrant",uncommon,93,0a8740a9-040a-5a10-9710-54c1cf338b30,"foil, nonfoil",1,100,0.01,0.00037500000000000006
@@ -3710,6 +3720,16 @@ DFT,Aetherdrift,play,4,1,0.003125,rareMythicWithBoosterfun,1,Quag Feast,rare,100
 DFT,Aetherdrift,play,4,1,0.003125,rareMythicWithBoosterfun,1,Lumbering Worldwagon,rare,316,fb7307e1-e769-5e6d-89d9-900493a7270d,"foil, nonfoil",2,560,0.0035714285714285713,1.1160714285714286e-05
 DFT,Aetherdrift,play,4,1,0.003125,rareMythicWithBoosterfun,1,Explosive Getaway,rare,202,fe452cd5-75f4-5f10-b1f2-b3bc9c0ec289,"foil, nonfoil",8,560,0.014285714285714285,4.464285714285714e-05
 DFT,Aetherdrift,play,4,1,0.003125,rareMythicWithBoosterfun,1,Coalstoke Gearhulk,mythic,349,ffc6ed37-193e-5c7c-879f-9e5793f6228b,"foil, nonfoil",1,560,0.0017857142857142857,5.580357142857143e-06
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,Pathbreaker Ibex,mythic,91,10bc42ab-4c47-569f-9269-9ca8857a557a,"foil, nonfoil",1,10,0.1,0.00031250000000000006
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,"Skysovereign, Consul Flagship",mythic,93,12a61320-7217-5187-8587-16af451f4cbe,"foil, nonfoil",1,10,0.1,0.00031250000000000006
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,Chandra's Ignition,mythic,89,229ea72d-63a1-5d82-b6e5-0f4f5cd330e4,"foil, nonfoil",1,10,0.1,0.00031250000000000006
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,Bone Miser,mythic,87,4f29188a-2fb4-51b1-a7eb-a56e82e49388,"foil, nonfoil",1,10,0.1,0.00031250000000000006
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,Cavalier of Dawn,mythic,84,512a9b98-4194-50bf-9de7-0d9562fc4dc1,"foil, nonfoil",1,10,0.1,0.00031250000000000006
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,Chrome Mox,mythic,92,5a436e05-f446-5861-aa0a-613bcc584d46,"foil, nonfoil",1,10,0.1,0.00031250000000000006
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,Galvanic Blast,mythic,90,763a8cf2-3a56-5ffc-908a-d7bf919b07f4,"foil, nonfoil",1,10,0.1,0.00031250000000000006
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,Lord of the Undead,mythic,88,87b1bd50-8bbf-5d73-9c8f-9d8041e6d7fa,"foil, nonfoil",1,10,0.1,0.00031250000000000006
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,Whir of Invention,mythic,86,b5e6be9b-6cce-5428-b661-7ca75355a958,"foil, nonfoil",1,10,0.1,0.00031250000000000006
+DFT,Aetherdrift,play,4,1,0.003125,specialGuest,1,Thoughtcast,mythic,85,d6fc612b-4cc1-5aec-887b-f3be61fe5213,"foil, nonfoil",1,10,0.1,0.00031250000000000006
 DFT,Aetherdrift,play,4,1,0.003125,uncommon,3,Skycrash,uncommon,146,041166f6-7c28-5a78-9144-161764b23abc,"foil, nonfoil",1,100,0.01,9.375000000000002e-05
 DFT,Aetherdrift,play,4,1,0.003125,uncommon,3,Diversion Unit,uncommon,41,0a40ba66-92a2-5e5f-97e2-dc11767543bb,"foil, nonfoil",1,100,0.01,9.375000000000002e-05
 DFT,Aetherdrift,play,4,1,0.003125,uncommon,3,"Kalakscion, Hunger Tyrant",uncommon,93,0a8740a9-040a-5a10-9710-54c1cf338b30,"foil, nonfoil",1,100,0.01,9.375000000000002e-05
