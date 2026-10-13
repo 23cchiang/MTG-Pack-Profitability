@@ -199,6 +199,9 @@ def main():
 
     # Combine the same card across variants and slots.
     # This estimates its expected number of appearances per pack.
+
+    print("Dataframe columns:", df.columns.tolist())
+
     summary = (
         df.groupby(
             [
@@ -221,9 +224,43 @@ def main():
         )
     )
 
-    summary["probability_at_least_one"] = (
-        summary["expected_copies_per_pack"].clip(upper=1)
-    )
+    # Calculate the probability of pulling at least one copy.
+    # Each row in df represents a card's contribution within
+    # a particular booster variant and slot.
+
+    probability_rows = []
+
+    # Calculate the probability of at least one copy of each card.
+    for _, card in summary.iterrows():
+        card_rows = df[df["uuid"] == card["uuid"]]
+
+        # Each booster variant is mutually exclusive, so calculate
+        # the probability within each variant first.
+        probability_no_copy_overall = 0.0
+
+        for variant_number, variant_rows in card_rows.groupby(
+                "variant_number"
+        ):
+            variant_probability = variant_rows[
+                "variant_probability"
+            ].iloc[0]
+
+            probability_no_copy_in_variant = 1.0
+
+            for _, row in variant_rows.iterrows():
+                p = row["probability_within_sheet"]
+                n = int(row["cards_per_pack"])
+
+                # Approximation assuming independent draws.
+                probability_no_copy_in_variant *= (1 - p) ** n
+
+            probability_no_copy_overall += (
+                    variant_probability * probability_no_copy_in_variant
+            )
+
+        probability_rows.append(1 - probability_no_copy_overall)
+
+    summary["probability_at_least_one"] = probability_rows
 
     summary_path = (
         OUTPUT_DIR / f"{SET_CODE}_play_card_summary.csv"
