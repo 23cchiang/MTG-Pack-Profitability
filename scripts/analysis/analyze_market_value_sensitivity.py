@@ -45,8 +45,8 @@ def main():
         raise FileNotFoundError(
             f"Input file not found: {INPUT}\n"
             "Make sure you run this script from inside your project folder "
-            "and that results/DFT_monte_carlo_pack_values.csv exists."
-        )
+            "and that the DFT Monte Carlo pack-values file exists in "
+            "results/individual_sets/DFT/tables/.")
 
     RESULTS.mkdir(parents=True, exist_ok=True)
     df = pd.read_csv(INPUT)
