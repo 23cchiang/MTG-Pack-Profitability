@@ -63,7 +63,7 @@ def analyze_distribution(pack_values):
     plt.legend()
     plt.tight_layout()
 
-    output = RESULTS_DIR / "DFT_pack_value_distribution.png"
+    output = FIGURES_DIR / "DFT_pack_value_distribution.png"
     plt.savefig(output, dpi=200)
     plt.close()
     print(f"Saved histogram: {output}")
@@ -110,7 +110,7 @@ def analyze_top_cards(card_ev):
                 total_ev - removed_ev - PACK_PRICE,
         })
 
-    output = RESULTS_DIR / "DFT_top_card_sensitivity.csv"
+    output = TABLES_DIR / "DFT_top_card_sensitivity.csv"
     pd.DataFrame(rows).to_csv(output, index=False)
 
     print("\nTOP EXPECTED-VALUE CARDS")
@@ -153,7 +153,7 @@ def analyze_multi_pack(pack_values):
         })
 
     summary = pd.DataFrame(rows)
-    output = RESULTS_DIR / "DFT_multi_pack_profitability.csv"
+    output = TABLES_DIR / "DFT_multi_pack_profitability.csv"
     summary.to_csv(output, index=False)
 
     print("\nMULTI-PACK OPENING RESULTS")
@@ -253,7 +253,7 @@ def audit_probability_model(probabilities):
         "booster collation rule or print-run constraint."
     ]
 
-    output = RESULTS_DIR / "DFT_probability_model_audit.txt"
+    output = REPORTS_DIR / "DFT_probability_model_audit.txt"
     output.write_text("\n".join(lines), encoding="utf-8")
 
     print("\nPROBABILITY MODEL AUDIT")
@@ -262,7 +262,9 @@ def audit_probability_model(probabilities):
 
 
 def main():
-    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+    TABLES_DIR.mkdir(parents=True, exist_ok=True)
+    FIGURES_DIR.mkdir(parents=True, exist_ok=True)
+    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     for path in [PACK_VALUES_FILE, CARD_EV_FILE, PROBABILITY_FILE]:
         require_file(path)
 
