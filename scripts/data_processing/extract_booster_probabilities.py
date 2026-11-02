@@ -1,27 +1,52 @@
 
 import json
+import argparse
 from pathlib import Path
 
 import pandas as pd
 
 
 # --------------------------------------------------
-# Project paths and settings
+# Project paths
 # --------------------------------------------------
 
 PROJECT_DIR = Path(__file__).resolve().parents[2]
 RAW_DIR = PROJECT_DIR / "data" / "raw"
 OUTPUT_DIR = PROJECT_DIR / "data" / "processed"
 
-SET_CODE = "DFT"
-BOOSTER_TYPE = "play"
-
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
-def load_set_data():
-    """Load the saved MTGJSON set file."""
-    file_path = RAW_DIR / f"{SET_CODE}.json"
+# --------------------------------------------------
+# Command-line arguments
+# --------------------------------------------------
+
+def parse_arguments():
+    parser = argparse.ArgumentParser(
+        description="Extract MTG booster card probabilities."
+    )
+
+    parser.add_argument(
+        "set_code",
+        type=str,
+        help="MTG set code, such as DFT or FIN."
+    )
+
+    parser.add_argument(
+        "booster_type",
+        type=str,
+        help="Booster type, such as play or collector."
+    )
+
+    return parser.parse_args()
+
+
+# --------------------------------------------------
+# Load set data
+# --------------------------------------------------
+
+def load_set_data(set_code):
+    file_path = RAW_DIR / f"{set_code}.json"
 
     if not file_path.exists():
         raise FileNotFoundError(
@@ -33,18 +58,19 @@ def load_set_data():
         return json.load(file)
 
 
-def extract_probabilities(set_data):
-    """
-    Calculate card probabilities from MTGJSON's
-    booster variant weights and card-sheet weights.
-    """
+# --------------------------------------------------
+# Extract probabilities
+# --------------------------------------------------
+
+def extract_probabilities(set_data, set_code, booster_type):
+
     booster_config = set_data.get("booster") or {}
-    config = booster_config.get(BOOSTER_TYPE)
+    config = booster_config.get(booster_type)
 
     if not config:
         raise ValueError(
-            f"No '{BOOSTER_TYPE}' booster configuration "
-            f"found for {SET_CODE}."
+            f"No '{booster_type}' booster configuration "
+            f"found for {set_code}."
         )
 
     variants = config.get("boosters", [])
@@ -55,15 +81,14 @@ def extract_probabilities(set_data):
     if not variants or total_variant_weight <= 0:
         raise ValueError("Booster configuration is incomplete.")
 
-    # Connect card UUIDs to their names and metadata.
+    # Connect card UUIDs to their metadata.
     card_lookup = {
         card["uuid"]: card
         for card in cards
         if card.get("uuid")
     }
 
-    # Some booster sheets can reference cards from other sets.
-    # Load Special Guests as an additional metadata source.
+    # Include Special Guests when available.
     spg_path = RAW_DIR / "SPG.json"
 
     if spg_path.exists():
@@ -82,6 +107,7 @@ def extract_probabilities(set_data):
     rows = []
 
     for variant_number, variant in enumerate(variants, start=1):
+
         variant_weight = variant.get("weight", 0)
 
         if variant_weight <= 0:
@@ -96,6 +122,7 @@ def extract_probabilities(set_data):
         contents = variant.get("contents", {})
 
         for slot_name, cards_per_pack in contents.items():
+
             sheet = sheets.get(slot_name)
 
             if sheet is None:
@@ -115,8 +142,6 @@ def extract_probabilities(set_data):
                 )
                 continue
 
-            # Check whether the individual card weights add up
-            # to the sheet's declared total weight.
             calculated_sheet_weight = sum(sheet_cards.values())
 
             if calculated_sheet_weight != sheet_total_weight:
@@ -127,23 +152,20 @@ def extract_probabilities(set_data):
                 )
 
             for card_uuid, card_weight in sheet_cards.items():
+
                 card = card_lookup.get(card_uuid)
 
                 if card is None:
                     print(
                         f"WARNING: UUID {card_uuid} was not found "
-                        "in the set card list."
+                        "in the set card list or SPG metadata."
                     )
                     continue
 
-                # Conditional probability of selecting this card
-                # from this sheet.
                 probability_within_sheet = (
                     card_weight / sheet_total_weight
                 )
 
-                # Expected number of copies of this card per pack
-                # contributed by this variant and slot.
                 expected_copies_per_pack = (
                     variant_probability
                     * cards_per_pack
@@ -151,9 +173,9 @@ def extract_probabilities(set_data):
                 )
 
                 rows.append({
-                    "set_code": SET_CODE,
+                    "set_code": set_code,
                     "set_name": set_data.get("name"),
-                    "booster_type": BOOSTER_TYPE,
+                    "booster_type": booster_type,
                     "variant_number": variant_number,
                     "variant_weight": variant_weight,
                     "variant_probability": variant_probability,
@@ -179,11 +201,29 @@ def extract_probabilities(set_data):
     return pd.DataFrame(rows)
 
 
-def main():
-    print(f"Extracting {SET_CODE} Play Booster probabilities...")
+# --------------------------------------------------
+# Main analysis
+# --------------------------------------------------
 
-    set_data = load_set_data()
-    df = extract_probabilities(set_data)
+def main():
+
+    args = parse_arguments()
+
+    set_code = args.set_code.upper()
+    booster_type = args.booster_type.lower()
+
+    print(
+        f"Extracting {set_code} "
+        f"{booster_type.title()} Booster probabilities..."
+    )
+
+    set_data = load_set_data(set_code)
+
+    df = extract_probabilities(
+        set_data,
+        set_code,
+        booster_type
+    )
 
     if df.empty:
         raise ValueError(
@@ -191,16 +231,20 @@ def main():
             "Check the booster configuration."
         )
 
-    # Save detailed probabilities by pack variant and slot.
+    # --------------------------------------------------
+    # Save detailed probabilities
+    # --------------------------------------------------
+
     detailed_path = (
-        OUTPUT_DIR / f"{SET_CODE}_play_card_probabilities.csv"
+        OUTPUT_DIR
+        / f"{set_code}_{booster_type}_card_probabilities.csv"
     )
+
     df.to_csv(detailed_path, index=False)
 
-    # Combine the same card across variants and slots.
-    # This estimates its expected number of appearances per pack.
-
-    print("Dataframe columns:", df.columns.tolist())
+    # --------------------------------------------------
+    # Summarize expected copies per card
+    # --------------------------------------------------
 
     summary = (
         df.groupby(
@@ -224,9 +268,9 @@ def main():
         )
     )
 
-    # Calculate the probability of at least one copy of each card.
-    # Booster variants are mutually exclusive, so calculate the
-    # probability within each variant before weighting the results.
+    # --------------------------------------------------
+    # Probability of at least one copy
+    # --------------------------------------------------
 
     probability_rows = []
 
@@ -236,44 +280,51 @@ def main():
     )
 
     for _, card in summary.iterrows():
+
         card_rows = df[df["uuid"] == card["uuid"]]
 
-        # Total probability of getting no copy, across all variants.
         probability_no_copy_overall = 0.0
 
         for _, variant in variants.iterrows():
+
             variant_number = variant["variant_number"]
             variant_probability = variant["variant_probability"]
 
             variant_card_rows = card_rows[
                 card_rows["variant_number"] == variant_number
-                ]
+            ]
 
-            # If the card is absent from this variant, its
-            # probability of not appearing in the pack is 1.
             probability_no_copy_in_variant = 1.0
 
             for _, row in variant_card_rows.iterrows():
+
                 p = row["probability_within_sheet"]
                 n = int(row["cards_per_pack"])
 
-                # Assumes independent draws within this slot.
                 probability_no_copy_in_variant *= (1 - p) ** n
 
             probability_no_copy_overall += (
-                    variant_probability * probability_no_copy_in_variant
+                variant_probability
+                * probability_no_copy_in_variant
             )
 
-        probability_rows.append(1 - probability_no_copy_overall)
+        probability_rows.append(
+            1 - probability_no_copy_overall
+        )
 
     summary["probability_at_least_one"] = probability_rows
 
     summary_path = (
-        OUTPUT_DIR / f"{SET_CODE}_play_card_summary.csv"
+        OUTPUT_DIR
+        / f"{set_code}_{booster_type}_card_summary.csv"
     )
+
     summary.to_csv(summary_path, index=False)
 
-    # Report the expected number of cards contributed by each slot.
+    # --------------------------------------------------
+    # Expected cards per slot
+    # --------------------------------------------------
+
     slot_summary = (
         df.groupby("slot_name", as_index=False)
         .agg(
@@ -284,11 +335,18 @@ def main():
     )
 
     slot_path = (
-        OUTPUT_DIR / f"{SET_CODE}_play_slot_summary.csv"
+        OUTPUT_DIR
+        / f"{set_code}_{booster_type}_slot_summary.csv"
     )
+
     slot_summary.to_csv(slot_path, index=False)
 
+    # --------------------------------------------------
+    # Results
+    # --------------------------------------------------
+
     print("\nExtraction complete!")
+
     print(f"Detailed results: {detailed_path}")
     print(f"Card summary:     {summary_path}")
     print(f"Slot summary:     {slot_path}")
@@ -300,9 +358,11 @@ def main():
     print(slot_summary.to_string(index=False))
 
     print("\nTop 10 cards by expected appearances per pack:")
+
     print(
         summary.sort_values(
-            "expected_copies_per_pack", ascending=False
+            "expected_copies_per_pack",
+            ascending=False
         )[
             [
                 "card_name",
