@@ -1,36 +1,24 @@
-"""
-Market-value recovery and price-sensitivity analysis for Aetherdrift Play Boosters.
 
-Place this file in the MTG-Pack-Profitability project root, beside
-simulate_pack_profitability.py, then run:
-    python3 analyze_market_value_sensitivity.py
-
-Uses existing Monte Carlo pack values and applies hypothetical uniform
-declines to card market values. It does not model selling fees or proceeds.
-"""
+import argparse
 from pathlib import Path
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
+# --------------------------------------------------
+# Project paths and defaults
+# --------------------------------------------------
+
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-SET_CODE = "DFT"
+RESULTS_ROOT = PROJECT_ROOT / "results" / "individual_sets"
 
-SET_RESULTS_DIR = PROJECT_ROOT / "results" / "individual_sets" / SET_CODE
-TABLES_DIR = SET_RESULTS_DIR / "tables"
-FIGURES_DIR = SET_RESULTS_DIR / "figures"
-REPORTS_DIR = SET_RESULTS_DIR / "reports"
-
-INPUT = TABLES_DIR / "DFT_monte_carlo_pack_values.csv"
-RESULTS = TABLES_DIR
-
-for directory in [TABLES_DIR, FIGURES_DIR, REPORTS_DIR]:
-    directory.mkdir(parents=True, exist_ok=True)
-
-PACK_PRICE = 4.99
+DEFAULT_PACK_PRICE = 4.99
 PACK_COUNTS = [10, 20, 36, 100]
 PRICE_DECLINES = [0.00, 0.10, 0.20, 0.30]
+
 SESSIONS = 50_000
 RANDOM_SEED = 4212026
 
@@ -40,155 +28,410 @@ VALUE_COLUMNS = {
 }
 
 
+# --------------------------------------------------
+# Command-line arguments
+# --------------------------------------------------
+
+def parse_arguments():
+
+    parser = argparse.ArgumentParser(
+        description="Analyze MTG booster market-value sensitivity."
+    )
+
+    parser.add_argument(
+        "set_code",
+        type=str,
+        help="MTG set code, such as DFT."
+    )
+
+    parser.add_argument(
+        "booster_type",
+        type=str,
+        help="Booster type, such as play."
+    )
+
+    parser.add_argument(
+        "--pack-price",
+        type=float,
+        default=DEFAULT_PACK_PRICE,
+        help="Pack purchase price. Defaults to 4.99."
+    )
+
+    return parser.parse_args()
+
+
+# --------------------------------------------------
+# Main analysis
+# --------------------------------------------------
+
 def main():
-    if not INPUT.exists():
+
+    args = parse_arguments()
+
+    set_code = args.set_code.upper()
+    booster_type = args.booster_type.lower()
+    pack_price = args.pack_price
+
+    if pack_price <= 0:
+        raise ValueError(
+            "Pack price must be greater than zero."
+        )
+
+    # --------------------------------------------------
+    # Paths
+    # --------------------------------------------------
+
+    set_results_dir = RESULTS_ROOT / set_code
+
+    tables_dir = set_results_dir / "tables"
+    figures_dir = set_results_dir / "figures"
+    reports_dir = set_results_dir / "reports"
+
+    for directory in [
+        tables_dir,
+        figures_dir,
+        reports_dir
+    ]:
+        directory.mkdir(parents=True, exist_ok=True)
+
+    input_file = (
+        tables_dir
+        / f"{set_code}_monte_carlo_pack_values.csv"
+    )
+
+    if not input_file.exists():
         raise FileNotFoundError(
-            f"Input file not found: {INPUT}\n"
-            "Make sure you run this script from inside your project folder "
-            "and that the DFT Monte Carlo pack-values file exists in "
-            "results/individual_sets/DFT/tables/.")
+            f"Monte Carlo input file not found: {input_file}\n"
+            "Run simulate_pack_profitability.py first."
+        )
 
-    RESULTS.mkdir(parents=True, exist_ok=True)
-    df = pd.read_csv(INPUT)
+    # --------------------------------------------------
+    # Load simulated pack values
+    # --------------------------------------------------
 
-    missing = [column for column in VALUE_COLUMNS.values() if column not in df.columns]
+    df = pd.read_csv(input_file)
+
+    missing = [
+        column
+        for column in VALUE_COLUMNS.values()
+        if column not in df.columns
+    ]
+
     if missing:
-        raise ValueError(f"Missing required columns in Monte Carlo CSV: {missing}")
+        raise ValueError(
+            f"Missing required columns in Monte Carlo CSV: {missing}"
+        )
 
     rng = np.random.default_rng(RANDOM_SEED)
+
     single_pack_rows = []
     multi_pack_rows = []
 
-    print(f"Loaded {len(df):,} simulated packs from:")
-    print(INPUT)
-    print(f"\nPack cost: ${PACK_PRICE:.2f}")
-    print(f"Simulated sessions per multi-pack scenario: {SESSIONS:,}")
+    print(
+        f"Analyzing {set_code} {booster_type.title()} "
+        "Booster market-value sensitivity..."
+    )
+
+    print(f"Loaded {len(df):,} simulated packs.")
+    print(f"Pack cost: ${pack_price:.2f}")
+    print(f"Sessions per multi-pack scenario: {SESSIONS:,}")
+
+    # --------------------------------------------------
+    # Price sensitivity calculations
+    # --------------------------------------------------
 
     for finish_assumption, column in VALUE_COLUMNS.items():
-        pack_values = df[column].dropna().to_numpy(dtype=float)
+
+        pack_values = pd.to_numeric(
+            df[column],
+            errors="coerce"
+        ).dropna().to_numpy(dtype=float)
+
         if pack_values.size == 0:
-            print(f"Skipping {finish_assumption}: no values found.")
+            print(
+                f"Skipping {finish_assumption}: "
+                "no values found."
+            )
             continue
 
+        if not np.isfinite(pack_values).all():
+            raise ValueError(
+                f"Non-finite pack values found in {column}."
+            )
+
         original_mean = float(np.mean(pack_values))
-        break_even_decline = max(0.0, 1.0 - PACK_PRICE / original_mean)
+
+        break_even_decline = max(
+            0.0,
+            1.0 - pack_price / original_mean
+        )
 
         for decline in PRICE_DECLINES:
+
             adjusted_values = pack_values * (1.0 - decline)
+
             mean_value = float(np.mean(adjusted_values))
             median_value = float(np.median(adjusted_values))
 
             single_pack_rows.append({
+                "set_code": set_code,
+                "booster_type": booster_type,
                 "finish_assumption": finish_assumption,
                 "market_price_decline_percent": decline * 100,
                 "mean_pack_market_value_usd": mean_value,
                 "median_pack_market_value_usd": median_value,
-                "mean_recovery_percent": mean_value / PACK_PRICE * 100,
-                "median_recovery_percent": median_value / PACK_PRICE * 100,
-                "probability_pack_value_at_least_cost_percent":
-                    float(np.mean(adjusted_values >= PACK_PRICE) * 100),
-                "mean_profit_loss_per_pack_usd": mean_value - PACK_PRICE,
-                "break_even_price_decline_percent": break_even_decline * 100,
+                "mean_recovery_percent": (
+                    mean_value / pack_price * 100
+                ),
+                "median_recovery_percent": (
+                    median_value / pack_price * 100
+                ),
+                "probability_pack_value_at_least_cost_percent": (
+                    np.mean(adjusted_values >= pack_price) * 100
+                ),
+                "mean_profit_loss_per_pack_usd": (
+                    mean_value - pack_price
+                ),
+                "break_even_price_decline_percent": (
+                    break_even_decline * 100
+                )
             })
 
+            # --------------------------------------------------
+            # Multi-pack sensitivity
+            # --------------------------------------------------
+
             for number_of_packs in PACK_COUNTS:
+
                 draws = rng.choice(
                     adjusted_values,
                     size=(SESSIONS, number_of_packs),
-                    replace=True,
+                    replace=True
                 )
+
                 total_market_value = draws.sum(axis=1)
-                total_cost = number_of_packs * PACK_PRICE
+
+                total_cost = number_of_packs * pack_price
+
                 profit_loss = total_market_value - total_cost
-                recovery_percent = total_market_value / total_cost * 100
+
+                recovery_percent = (
+                    total_market_value / total_cost * 100
+                )
 
                 multi_pack_rows.append({
+                    "set_code": set_code,
+                    "booster_type": booster_type,
                     "finish_assumption": finish_assumption,
                     "market_price_decline_percent": decline * 100,
                     "packs_opened": number_of_packs,
                     "total_cost_usd": total_cost,
-                    "mean_total_market_value_usd": float(np.mean(total_market_value)),
-                    "median_total_market_value_usd": float(np.median(total_market_value)),
-                    "mean_recovery_percent": float(np.mean(recovery_percent)),
-                    "median_recovery_percent": float(np.median(recovery_percent)),
-                    "probability_recovering_at_least_cost_percent":
-                        float(np.mean(total_market_value >= total_cost) * 100),
-                    "mean_profit_loss_usd": float(np.mean(profit_loss)),
-                    "median_profit_loss_usd": float(np.median(profit_loss)),
-                    "profit_loss_5th_percentile_usd":
-                        float(np.percentile(profit_loss, 5)),
-                    "profit_loss_95th_percentile_usd":
-                        float(np.percentile(profit_loss, 95)),
-                    "simulated_sessions": SESSIONS,
+                    "mean_total_market_value_usd": (
+                        np.mean(total_market_value)
+                    ),
+                    "median_total_market_value_usd": (
+                        np.median(total_market_value)
+                    ),
+                    "mean_recovery_percent": (
+                        np.mean(recovery_percent)
+                    ),
+                    "median_recovery_percent": (
+                        np.median(recovery_percent)
+                    ),
+                    "probability_recovering_at_least_cost_percent": (
+                        np.mean(total_market_value >= total_cost) * 100
+                    ),
+                    "mean_profit_loss_usd": (
+                        np.mean(profit_loss)
+                    ),
+                    "median_profit_loss_usd": (
+                        np.median(profit_loss)
+                    ),
+                    "profit_loss_5th_percentile_usd": (
+                        np.percentile(profit_loss, 5)
+                    ),
+                    "profit_loss_95th_percentile_usd": (
+                        np.percentile(profit_loss, 95)
+                    ),
+                    "simulated_sessions": SESSIONS
                 })
+
+    # --------------------------------------------------
+    # Create result DataFrames
+    # --------------------------------------------------
 
     single_df = pd.DataFrame(single_pack_rows)
     multi_df = pd.DataFrame(multi_pack_rows)
 
-    single_path = TABLES_DIR / "DFT_market_value_recovery_and_sensitivity.csv"
-    multi_path = TABLES_DIR / "DFT_market_value_multi_pack_sensitivity.csv"
-    report_path = REPORTS_DIR / "DFT_market_value_sensitivity_report.txt"
-    chart_path = FIGURES_DIR / "DFT_market_value_recovery_sensitivity.png"
+    if single_df.empty or multi_df.empty:
+        raise ValueError(
+            "No sensitivity results were generated."
+        )
+
+    # --------------------------------------------------
+    # Output paths
+    # --------------------------------------------------
+
+    single_path = (
+        tables_dir
+        / f"{set_code}_market_value_recovery_and_sensitivity.csv"
+    )
+
+    multi_path = (
+        tables_dir
+        / f"{set_code}_market_value_multi_pack_sensitivity.csv"
+    )
+
+    report_path = (
+        reports_dir
+        / f"{set_code}_market_value_sensitivity_report.txt"
+    )
+
+    chart_path = (
+        figures_dir
+        / f"{set_code}_market_value_recovery_sensitivity.png"
+    )
+
+    # --------------------------------------------------
+    # Save tables
+    # --------------------------------------------------
 
     single_df.to_csv(single_path, index=False)
     multi_df.to_csv(multi_path, index=False)
 
-    # Chart: mean recovery percentage across price-decline scenarios.
+    # --------------------------------------------------
+    # Create chart
+    # --------------------------------------------------
+
     fig, ax = plt.subplots(figsize=(9, 5.5))
+
     for finish_assumption in VALUE_COLUMNS:
-        subset = single_df[single_df["finish_assumption"] == finish_assumption]
+
+        subset = single_df[
+            single_df["finish_assumption"] == finish_assumption
+        ]
+
+        if subset.empty:
+            continue
+
         ax.plot(
             subset["market_price_decline_percent"],
             subset["mean_recovery_percent"],
             marker="o",
-            label=finish_assumption,
+            label=finish_assumption
         )
-    ax.axhline(100, linestyle="--", linewidth=1, label="100% recovery (break-even)")
-    ax.set_title("Aetherdrift Play Booster: Market-Value Recovery")
-    ax.set_xlabel("Hypothetical decrease in TCGplayer Market Prices (%)")
-    ax.set_ylabel("Mean card market value recovered (%)")
+
+    ax.axhline(
+        100,
+        linestyle="--",
+        linewidth=1,
+        label="100% recovery (break-even)"
+    )
+
+    ax.set_title(
+        f"{set_code} {booster_type.title()} Booster: "
+        "Market-Value Recovery"
+    )
+
+    ax.set_xlabel(
+        "Hypothetical decrease in TCGplayer Market Prices (%)"
+    )
+
+    ax.set_ylabel(
+        "Mean card market value recovered (%)"
+    )
+
     ax.grid(True, alpha=0.3)
     ax.legend()
     fig.tight_layout()
+
     fig.savefig(chart_path, dpi=180)
     plt.close(fig)
 
-    with report_path.open("w", encoding="utf-8") as report:
-        report.write("AETHERDRIFT PLAY BOOSTER — MARKET-VALUE RECOVERY ANALYSIS\n")
-        report.write("=" * 65 + "\n\n")
-        report.write(f"Pack cost: ${PACK_PRICE:.2f}\n")
-        report.write("Valuation: TCGplayer Market Price from the existing price snapshot.\n")
-        report.write("Price shocks are hypothetical uniform declines in card market values.\n")
-        report.write("No seller fees, shipping, or buylist discounts are deducted.\n")
-        report.write(f"Source simulated packs: {len(df):,}\n")
-        report.write(f"Sessions per multi-pack scenario: {SESSIONS:,}\n\n")
-        report.write("SINGLE-PACK RECOVERY AND PRICE SENSITIVITY\n")
-        report.write(single_df.to_string(
-            index=False, float_format=lambda value: f"{value:.3f}"
-        ))
-        report.write("\n\nMULTI-PACK SESSION RESULTS\n")
-        report.write(multi_df.to_string(
-            index=False, float_format=lambda value: f"{value:.3f}"
-        ))
-        report.write(
-            "\n\nINTERPRETATION NOTES\n"
-            "- Recovery rate = card market value divided by pack cost.\n"
-            "- Above 100% means the card market value exceeds the pack cost.\n"
-            "- Price declines are hypothetical sensitivity tests, not forecasts.\n"
-            "- Multi-pack results are resampled from existing simulated pack values; "
-            "they are not guaranteed returns.\n"
+    # --------------------------------------------------
+    # Create report
+    # --------------------------------------------------
+
+    report_lines = [
+        (
+            f"{set_code} {booster_type.upper()} BOOSTER "
+            "— MARKET-VALUE RECOVERY ANALYSIS"
+        ),
+        "=" * 65,
+        f"Pack cost: ${pack_price:.2f}",
+        (
+            "Valuation: TCGplayer Market Price from "
+            "the existing price snapshot."
+        ),
+        (
+            "Price shocks are hypothetical uniform declines "
+            "in card market values."
+        ),
+        "No seller fees, shipping, or buylist discounts are deducted.",
+        f"Source simulated packs: {len(df):,}",
+        f"Sessions per multi-pack scenario: {SESSIONS:,}",
+        "",
+        "SINGLE-PACK RECOVERY AND PRICE SENSITIVITY",
+        single_df.to_string(
+            index=False,
+            float_format=lambda value: f"{value:.3f}"
+        ),
+        "",
+        "MULTI-PACK SESSION RESULTS",
+        multi_df.to_string(
+            index=False,
+            float_format=lambda value: f"{value:.3f}"
+        ),
+        "",
+        "INTERPRETATION NOTES",
+        "- Recovery rate = card market value divided by pack cost.",
+        "- Above 100% means card market value exceeds pack cost.",
+        "- Price declines are hypothetical sensitivity tests, not forecasts.",
+        (
+            "- Multi-pack results are resampled from existing simulated "
+            "pack values; they are not guaranteed returns."
         )
+    ]
+
+    report_path.write_text(
+        "\n".join(report_lines),
+        encoding="utf-8"
+    )
+
+    # --------------------------------------------------
+    # Terminal output
+    # --------------------------------------------------
 
     print("\nSINGLE-PACK RESULTS — SPG NONFOIL BASELINE")
-    print(single_df[single_df["finish_assumption"] == "SPG nonfoil baseline"].to_string(
-        index=False, float_format=lambda value: f"{value:.3f}"
-    ))
+
+    print(
+        single_df[
+            single_df["finish_assumption"] == "SPG nonfoil baseline"
+        ].to_string(
+            index=False,
+            float_format=lambda value: f"{value:.3f}"
+        )
+    )
+
     print("\nMULTI-PACK RESULTS — SPG NONFOIL BASELINE")
-    print(multi_df[multi_df["finish_assumption"] == "SPG nonfoil baseline"].to_string(
-        index=False, float_format=lambda value: f"{value:.3f}"
-    ))
+
+    print(
+        multi_df[
+            multi_df["finish_assumption"] == "SPG nonfoil baseline"
+        ].to_string(
+            index=False,
+            float_format=lambda value: f"{value:.3f}"
+        )
+    )
+
     print("\nCreated these files:")
-    for output in [single_path, multi_path, report_path, chart_path]:
+
+    for output in [
+        single_path,
+        multi_path,
+        report_path,
+        chart_path
+    ]:
         print(output)
 
 
