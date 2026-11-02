@@ -30,14 +30,17 @@ import json
 import numpy as np
 import pandas as pd
 
+from pathlib import Path
+
 PROJECT_DIR = Path(__file__).resolve().parents[2]
+
 PROCESSED_DIR = PROJECT_DIR / "data" / "processed"
 RAW_DIR = PROJECT_DIR / "data" / "raw"
-RESULTS_DIR = PROJECT_DIR / "results"
 
-PROBABILITY_FILE = PROCESSED_DIR / "DFT_play_card_probabilities.csv"
-PRICE_FILE = PROCESSED_DIR / "DFT_tcgplayer_prices.csv"
-SPG_FILE = RAW_DIR / "SPG.json"
+RESULTS_DIR = PROJECT_DIR / "results" / "individual_sets" / "DFT"
+
+TABLES_DIR = RESULTS_DIR / "tables"
+REPORTS_DIR = RESULTS_DIR / "reports"
 
 PACK_PRICE = 4.99
 N_PACKS = 200_000
@@ -245,7 +248,7 @@ def main():
     summary_rows += summarize(foil_values, "SPG all-foil sensitivity")
     summary = pd.DataFrame(summary_rows)
 
-    summary_path = RESULTS_DIR / "DFT_monte_carlo_summary.csv"
+    summary_path = TABLES_DIR / "DFT_monte_carlo_summary.csv"
     summary.to_csv(summary_path, index=False)
 
     pack_values = pd.DataFrame({
@@ -256,7 +259,7 @@ def main():
         "pack_value_spg_all_foil_usd": foil_values,
         "profit_loss_spg_all_foil_usd": foil_values - PACK_PRICE,
     })
-    pack_path = RESULTS_DIR / "DFT_monte_carlo_pack_values.csv"
+    pack_path = TABLES_DIR / "DFT_monte_carlo_pack_values.csv"
     pack_values.to_csv(pack_path, index=False)
 
     baseline_ev = baseline_values.mean()

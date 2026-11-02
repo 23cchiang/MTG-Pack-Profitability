@@ -21,14 +21,22 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-PROJECT_DIR = Path(__file__).resolve().parents[2]
-RESULTS_DIR = PROJECT_DIR / "results"
-PROCESSED_DIR = PROJECT_DIR / "data" / "processed"
+from pathlib import Path
 
-PACK_VALUES_FILE = RESULTS_DIR / "DFT_monte_carlo_pack_values.csv"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+SET_CODE = "DFT"
+
+SET_RESULTS_DIR = PROJECT_ROOT / "results" / "individual_sets" / SET_CODE
+TABLES_DIR = SET_RESULTS_DIR / "tables"
+FIGURES_DIR = SET_RESULTS_DIR / "figures"
+REPORTS_DIR = SET_RESULTS_DIR / "reports"
+
+PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
+
+PACK_VALUES_FILE = TABLES_DIR / "DFT_monte_carlo_pack_values.csv"
 CARD_EV_FILE = PROCESSED_DIR / "DFT_expected_value_by_card.csv"
 PROBABILITY_FILE = PROCESSED_DIR / "DFT_play_card_probabilities.csv"
-
 PACK_PRICE = 4.99
 RANDOM_SEED = 20261102
 N_PORTFOLIOS = 50_000

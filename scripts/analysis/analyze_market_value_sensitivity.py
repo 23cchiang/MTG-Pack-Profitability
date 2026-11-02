@@ -13,9 +13,20 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-ROOT = Path(__file__).resolve().parents[2]
-INPUT = ROOT / "results" / "DFT_monte_carlo_pack_values.csv"
-RESULTS = ROOT / "results"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+SET_CODE = "DFT"
+
+SET_RESULTS_DIR = PROJECT_ROOT / "results" / "individual_sets" / SET_CODE
+TABLES_DIR = SET_RESULTS_DIR / "tables"
+FIGURES_DIR = SET_RESULTS_DIR / "figures"
+REPORTS_DIR = SET_RESULTS_DIR / "reports"
+
+INPUT = TABLES_DIR / "DFT_monte_carlo_pack_values.csv"
+RESULTS = TABLES_DIR
+
+for directory in [TABLES_DIR, FIGURES_DIR, REPORTS_DIR]:
+    directory.mkdir(parents=True, exist_ok=True)
 
 PACK_PRICE = 4.99
 PACK_COUNTS = [10, 20, 36, 100]
@@ -114,10 +125,10 @@ def main():
     single_df = pd.DataFrame(single_pack_rows)
     multi_df = pd.DataFrame(multi_pack_rows)
 
-    single_path = RESULTS / "DFT_market_value_recovery_and_sensitivity.csv"
-    multi_path = RESULTS / "DFT_market_value_multi_pack_sensitivity.csv"
-    report_path = RESULTS / "DFT_market_value_sensitivity_report.txt"
-    chart_path = RESULTS / "DFT_market_value_recovery_sensitivity.png"
+    single_path = TABLES_DIR / "DFT_market_value_recovery_and_sensitivity.csv"
+    multi_path = TABLES_DIR / "DFT_market_value_multi_pack_sensitivity.csv"
+    report_path = REPORTS_DIR / "DFT_market_value_sensitivity_report.txt"
+    chart_path = FIGURES_DIR / "DFT_market_value_recovery_sensitivity.png"
 
     single_df.to_csv(single_path, index=False)
     multi_df.to_csv(multi_path, index=False)

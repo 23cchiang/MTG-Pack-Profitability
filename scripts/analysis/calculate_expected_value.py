@@ -17,15 +17,29 @@ import json
 import pandas as pd
 import numpy as np
 
-PROJECT_DIR = Path(__file__).resolve().parents[2]
-PROCESSED_DIR = PROJECT_DIR / "data" / "processed"
-RAW_DIR = PROJECT_DIR / "data" / "raw"
-RESULTS_DIR = PROJECT_DIR / "results"
+from pathlib import Path
 
-PROBABILITY_FILE = PROCESSED_DIR / "DFT_play_card_probabilities.csv"
-DFT_PRICE_FILE = PROCESSED_DIR / "DFT_cards_with_prices.csv"
-ALL_PRICE_FILE = PROCESSED_DIR / "DFT_tcgplayer_prices.csv"
-SPG_FILE = RAW_DIR / "SPG.json"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
+PROCESSED_DATA_DIR = PROJECT_ROOT / "data" / "processed"
+
+SET_CODE = "DFT"
+
+SET_RESULTS_DIR = (
+    PROJECT_ROOT / "results" / "individual_sets" / SET_CODE
+)
+
+TABLES_DIR = SET_RESULTS_DIR / "tables"
+FIGURES_DIR = SET_RESULTS_DIR / "figures"
+REPORTS_DIR = SET_RESULTS_DIR / "reports"
+
+for directory in [TABLES_DIR, FIGURES_DIR, REPORTS_DIR]:
+    directory.mkdir(parents=True, exist_ok=True)
+
+RESULTS_DIR = PROJECT_ROOT / "results" / "individual_sets" / "DFT"
+TABLES_DIR = RESULTS_DIR / "tables"
+REPORTS_DIR = RESULTS_DIR / "reports"
 
 PACK_PRICE = 4.99
 FOIL_SLOTS = {"foil", "foilLand"}

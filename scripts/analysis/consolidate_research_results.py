@@ -18,11 +18,15 @@ Outputs:
 from pathlib import Path
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents[2]
-RESULTS = ROOT / "results"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-SINGLE_INPUT = RESULTS / "DFT_market_value_recovery_and_sensitivity.csv"
-MULTI_INPUT = RESULTS / "DFT_market_value_multi_pack_sensitivity.csv"
+RESULTS_DIR = PROJECT_ROOT / "results" / "individual_sets" / "DFT"
+
+TABLES_DIR = RESULTS_DIR / "tables"
+REPORTS_DIR = RESULTS_DIR / "reports"
+
+SINGLE_INPUT = TABLES_DIR / "DFT_market_value_recovery_and_sensitivity.csv"
+MULTI_INPUT = TABLES_DIR / "DFT_market_value_multi_pack_sensitivity.csv"
 
 SINGLE_COLUMNS = [
     "finish_assumption",
@@ -84,9 +88,9 @@ def main():
         ["market_price_decline_percent", "finish_assumption", "packs_opened"]
     )
 
-    single_path = RESULTS / "DFT_final_single_pack_comparison.csv"
-    multi_path = RESULTS / "DFT_final_multi_pack_comparison.csv"
-    report_path = RESULTS / "DFT_final_research_results.txt"
+    single_path = TABLES_DIR / "DFT_final_single_pack_comparison.csv"
+    multi_path = TABLES_DIR / "DFT_final_multi_pack_comparison.csv"
+    report_path = REPORTS_DIR / "DFT_final_research_results.txt"
 
     single.to_csv(single_path, index=False)
     multi.to_csv(multi_path, index=False)
