@@ -17,33 +17,24 @@ import json
 import pandas as pd
 import numpy as np
 
-from pathlib import Path
+PROJECT_DIR = Path(__file__).resolve().parents[2]
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROCESSED_DIR = PROJECT_DIR / "data" / "processed"
+RAW_DIR = PROJECT_DIR / "data" / "raw"
 
-RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
-PROCESSED_DATA_DIR = PROJECT_ROOT / "data" / "processed"
-
-SET_CODE = "DFT"
-
-SET_RESULTS_DIR = (
-    PROJECT_ROOT / "results" / "individual_sets" / SET_CODE
-)
-
-TABLES_DIR = SET_RESULTS_DIR / "tables"
-FIGURES_DIR = SET_RESULTS_DIR / "figures"
-REPORTS_DIR = SET_RESULTS_DIR / "reports"
-
-for directory in [TABLES_DIR, FIGURES_DIR, REPORTS_DIR]:
-    directory.mkdir(parents=True, exist_ok=True)
-
-RESULTS_DIR = PROJECT_ROOT / "results" / "individual_sets" / "DFT"
+RESULTS_DIR = PROJECT_DIR / "results" / "individual_sets" / "DFT"
 TABLES_DIR = RESULTS_DIR / "tables"
 REPORTS_DIR = RESULTS_DIR / "reports"
 
+PROBABILITY_FILE = PROCESSED_DIR / "DFT_play_card_probabilities.csv"
+PRICE_FILE = PROCESSED_DIR / "DFT_tcgplayer_prices.csv"
+SPG_FILE = RAW_DIR / "SPG.json"
+
 PACK_PRICE = 4.99
 FOIL_SLOTS = {"foil", "foilLand"}
-
+N_PACKS = 200_000
+RANDOM_SEED = 4212026
+THRESHOLDS = [4.99, 10.00, 20.00, 50.00, 100.00]
 
 def load_price_pivot(price_file):
     """Return one row per UUID with latest normal/nonfoil and foil prices."""
@@ -70,7 +61,8 @@ def load_price_pivot(price_file):
 
 
 def main():
-    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+    TABLES_DIR.mkdir(parents=True, exist_ok=True)
+    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
     for file in [PROBABILITY_FILE, DFT_PRICE_FILE, ALL_PRICE_FILE, SPG_FILE]:
         if not file.exists():
@@ -197,7 +189,7 @@ def main():
         .reset_index()
         .sort_values("expected_value_contribution_usd", ascending=False)
     )
-    top_output = RESULTS_DIR / "DFT_top_value_cards.csv"
+    top_output = TABLES_DIR / "DFT_top_value_cards.csv"
     top_cards.head(25).to_csv(top_output, index=False)
 
     # Special Guest price match audit and finish sensitivity.
@@ -208,7 +200,7 @@ def main():
         np.where(sg_audit["price_nonfoil_usd"].notna() | sg_audit["price_foil_usd"].notna(),
                  "One finish priced", "No price found")
     )
-    sg_audit_output = RESULTS_DIR / "DFT_special_guest_price_audit.csv"
+    sg_audit_output = TABLES_DIR / "DFT_special_guest_price_audit.csv"
     sg_audit.to_csv(sg_audit_output, index=False)
 
     known_ev = data["expected_value_contribution_usd"].sum()
@@ -266,7 +258,7 @@ def main():
         f"- {top_output}",
         f"- {sg_audit_output}",
     ]
-    report_path = RESULTS_DIR / "DFT_expected_value_report.txt"
+    report_path = REPORTS_DIR / "DFT_monte_carlo_report.txt"
     report_path.write_text("\n".join(report), encoding="utf-8")
 
     print("\nCalculation complete.")

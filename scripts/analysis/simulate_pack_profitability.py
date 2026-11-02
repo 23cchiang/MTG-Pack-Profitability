@@ -42,6 +42,10 @@ RESULTS_DIR = PROJECT_DIR / "results" / "individual_sets" / "DFT"
 TABLES_DIR = RESULTS_DIR / "tables"
 REPORTS_DIR = RESULTS_DIR / "reports"
 
+PROBABILITY_FILE = PROCESSED_DIR / "DFT_play_card_probabilities.csv"
+PRICE_FILE = PROCESSED_DIR / "DFT_tcgplayer_prices.csv"
+SPG_FILE = RAW_DIR / "SPG.json"
+
 PACK_PRICE = 4.99
 N_PACKS = 200_000
 RANDOM_SEED = 4212026
@@ -283,7 +287,7 @@ def main():
         "",
         "See DFT_monte_carlo_summary.csv for thresholds and percentiles.",
     ]
-    report_path = RESULTS_DIR / "DFT_monte_carlo_report.txt"
+    report_path = REPORTS_DIR / "DFT_monte_carlo_report.txt"
     report_path.write_text("\n".join(report), encoding="utf-8")
 
     print("\nMONTE CARLO RESULTS — SPG NONFOIL BASELINE")

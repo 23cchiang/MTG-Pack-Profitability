@@ -30,5 +30,5 @@ ASSUMPTIONS
 OUTPUT FILES
 - /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/DFT_expected_value_by_card.csv
 - /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/DFT_expected_value_by_slot.csv
-- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/DFT_top_value_cards.csv
-- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/DFT_special_guest_price_audit.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/DFT/tables/DFT_top_value_cards.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/DFT/tables/DFT_special_guest_price_audit.csv
