@@ -1,4 +1,4 @@
-AETHERDRIFT PLAY BOOSTER — MONTE CARLO PROFITABILITY
+DFT PLAY BOOSTER — MONTE CARLO PROFITABILITY
 ==============================================================
 Pack price: $4.99
 Simulations per scenario: 200,000
@@ -8,8 +8,18 @@ Simulated baseline mean: $5.3227
 Analytical expected value check: $5.3067
 Difference: $0.0160
 
-Interpretation: probabilities are estimated by simulated pack outcomes.
-This is market card value, not net cash after selling fees or shipping.
-Special Guest finish is unknown; nonfoil is baseline and all-foil is sensitivity.
+Simulated all-foil SPG mean: $5.4642
+Analytical all-foil expected value: $5.4442
+Difference: $0.0200
 
-See DFT_monte_carlo_summary.csv for thresholds and percentiles.
+MODEL ASSUMPTIONS
+- Booster variants are sampled using variant probabilities.
+- Cards are sampled independently within each slot.
+- Foil and foilLand slots use foil prices.
+- Other slots use nonfoil prices in the baseline.
+- Special Guest all-foil is a sensitivity scenario.
+- Values represent card market value, not cash proceeds after fees.
+
+OUTPUT FILES
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/DFT/tables/DFT_monte_carlo_summary.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/DFT/tables/DFT_monte_carlo_pack_values.csv

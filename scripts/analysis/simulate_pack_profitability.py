@@ -1,305 +1,740 @@
-"""
-Monte Carlo simulation for Aetherdrift (DFT) Play Boosters.
 
-Run from the project root:
-    python3 simulate_pack_profitability.py
-
-Inputs:
-    data/processed/DFT_play_card_probabilities.csv
-    data/processed/DFT_tcgplayer_prices.csv
-    data/raw/SPG.json
-
-Outputs:
-    results/DFT_monte_carlo_summary.csv
-    results/DFT_monte_carlo_pack_values.csv
-    results/DFT_monte_carlo_report.txt
-
-Model:
-- First draw a booster variant using variant_probability.
-- Within each slot, draw cards using probability_within_sheet.
-- Add cards_per_pack copies for that slot.
-- Foil and foilLand use foil prices.
-- Other slots use nonfoil prices in the baseline.
-- Special Guest finish is unknown, so both nonfoil-baseline and all-foil
-  sensitivity simulations are reported.
-- This models card market value, not cash proceeds after selling fees.
-"""
-
+import argparse
 from pathlib import Path
-import json
+
 import numpy as np
 import pandas as pd
 
-from pathlib import Path
+
+# --------------------------------------------------
+# Project paths and defaults
+# --------------------------------------------------
 
 PROJECT_DIR = Path(__file__).resolve().parents[2]
 
 PROCESSED_DIR = PROJECT_DIR / "data" / "processed"
-RAW_DIR = PROJECT_DIR / "data" / "raw"
+RESULTS_DIR = PROJECT_DIR / "results" / "individual_sets"
 
-RESULTS_DIR = PROJECT_DIR / "results" / "individual_sets" / "DFT"
-
-TABLES_DIR = RESULTS_DIR / "tables"
-REPORTS_DIR = RESULTS_DIR / "reports"
-
-PROBABILITY_FILE = PROCESSED_DIR / "DFT_play_card_probabilities.csv"
-PRICE_FILE = PROCESSED_DIR / "DFT_tcgplayer_prices.csv"
-SPG_FILE = RAW_DIR / "SPG.json"
-
-PACK_PRICE = 4.99
-N_PACKS = 200_000
+DEFAULT_PACK_PRICE = 4.99
+DEFAULT_N_PACKS = 200_000
 RANDOM_SEED = 4212026
+
 THRESHOLDS = [4.99, 10.00, 20.00, 50.00, 100.00]
 
+FOIL_SLOTS = {"foil", "foilLand"}
 
-def load_price_lookup():
-    prices = pd.read_csv(PRICE_FILE)
-    required = {"uuid", "cardFinish", "price"}
+
+# --------------------------------------------------
+# Command-line arguments
+# --------------------------------------------------
+
+def parse_arguments():
+    parser = argparse.ArgumentParser(
+        description="Simulate MTG booster pack profitability."
+    )
+
+    parser.add_argument(
+        "set_code",
+        type=str,
+        help="MTG set code, such as DFT."
+    )
+
+    parser.add_argument(
+        "booster_type",
+        type=str,
+        help="Booster type, such as play."
+    )
+
+    parser.add_argument(
+        "--pack-price",
+        type=float,
+        default=DEFAULT_PACK_PRICE,
+        help="Pack purchase price. Defaults to 4.99."
+    )
+
+    parser.add_argument(
+        "--n-packs",
+        type=int,
+        default=DEFAULT_N_PACKS,
+        help="Number of packs to simulate."
+    )
+
+    return parser.parse_args()
+
+
+# --------------------------------------------------
+# Price loading
+# --------------------------------------------------
+
+def normalize_prices(price_file, finish_column, source_priority):
+    """Load and normalize one source of finish-specific prices."""
+
+    prices = pd.read_csv(price_file)
+
+    required = {"uuid", finish_column, "price"}
     missing = required - set(prices.columns)
-    if missing:
-        raise ValueError(f"Price file missing columns: {sorted(missing)}")
 
-    prices["price"] = pd.to_numeric(prices["price"], errors="coerce")
-    prices["cardFinish"] = prices["cardFinish"].astype(str).str.lower()
-    prices = prices.dropna(subset=["uuid", "price"])
-    prices = prices.sort_values("date") if "date" in prices.columns else prices
-    prices = prices.drop_duplicates(["uuid", "cardFinish"], keep="last")
+    if missing:
+        raise ValueError(
+            f"{price_file.name} missing columns: {sorted(missing)}"
+        )
+
+    prices["uuid"] = prices["uuid"].astype("string").str.strip()
+
+    prices["price"] = pd.to_numeric(
+        prices["price"], errors="coerce"
+    )
+
+    prices["finish"] = (
+        prices[finish_column]
+        .astype("string")
+        .str.lower()
+        .str.strip()
+        .replace({
+            "normal": "nonfoil",
+            "nonfoil": "nonfoil",
+            "foil": "foil"
+        })
+    )
+
+    prices = prices[
+        prices["finish"].isin(["foil", "nonfoil"])
+    ].copy()
+
+    prices = prices.dropna(
+        subset=["uuid", "price"]
+    )
+
+    if "date" in prices.columns:
+        prices["date"] = pd.to_datetime(
+            prices["date"], errors="coerce"
+        )
+    else:
+        prices["date"] = pd.NaT
+
+    prices["source_priority"] = source_priority
+
+    return prices[
+        ["uuid", "finish", "price", "date", "source_priority"]
+    ]
+
+
+def load_price_lookup(set_price_file, all_price_file):
+    """
+    Combine set-specific matched prices with the full price extract.
+
+    The set-specific matched file takes priority when dates are equal.
+    The latest available price is retained per UUID and finish.
+    """
+
+    all_prices = normalize_prices(
+        all_price_file,
+        finish_column="cardFinish",
+        source_priority=0
+    )
+
+    set_prices = normalize_prices(
+        set_price_file,
+        finish_column="price_finish",
+        source_priority=1
+    )
+
+    prices = pd.concat(
+        [all_prices, set_prices],
+        ignore_index=True
+    )
+
+    prices = prices.sort_values(
+        ["date", "source_priority"],
+        na_position="first"
+    )
+
+    prices = prices.drop_duplicates(
+        ["uuid", "finish"],
+        keep="last"
+    )
 
     lookup = {}
+
     for row in prices.itertuples(index=False):
-        finish_key = "nonfoil" if str(row.cardFinish) == "normal" else str(row.cardFinish)
-        lookup[(str(row.uuid), finish_key)] = float(row.price)
+        lookup[(str(row.uuid), row.finish)] = float(row.price)
+
     return lookup
 
 
-def load_spg_uuids():
-    with open(SPG_FILE, "r", encoding="utf-8") as f:
-        payload = json.load(f)
-    return {str(card["uuid"]) for card in payload.get("cards", [])}
+# --------------------------------------------------
+# Probability preparation
+# --------------------------------------------------
 
+def prepare_probability_data(
+    probability_file,
+    price_lookup
+):
 
-def prepare_probability_data(price_lookup, spg_uuids):
-    probs = pd.read_csv(PROBABILITY_FILE)
+    probs = pd.read_csv(probability_file)
+
     required = {
-        "variant_number", "variant_probability", "slot_name",
-        "cards_per_pack", "uuid", "card_name",
-        "probability_within_sheet", "expected_copies_per_pack"
+        "variant_number",
+        "variant_probability",
+        "slot_name",
+        "cards_per_pack",
+        "uuid",
+        "card_name",
+        "probability_within_sheet",
+        "expected_copies_per_pack"
     }
+
     missing = required - set(probs.columns)
+
     if missing:
-        raise ValueError(f"Probability file missing columns: {sorted(missing)}")
+        raise ValueError(
+            f"Probability file missing columns: {sorted(missing)}"
+        )
 
-    for col in ["variant_probability", "cards_per_pack",
-                "probability_within_sheet", "expected_copies_per_pack"]:
-        probs[col] = pd.to_numeric(probs[col], errors="coerce")
-    if probs[list(["variant_probability", "cards_per_pack",
-                   "probability_within_sheet"])].isna().any().any():
-        raise ValueError("Probability data contains missing/non-numeric weights.")
+    numeric_columns = [
+        "variant_probability",
+        "cards_per_pack",
+        "probability_within_sheet",
+        "expected_copies_per_pack"
+    ]
 
-    # Check that variant probabilities are defined consistently.
+    for column in numeric_columns:
+        probs[column] = pd.to_numeric(
+            probs[column], errors="coerce"
+        )
+
+    if probs[numeric_columns].isna().any().any():
+        raise ValueError(
+            "Probability data contains missing or nonnumeric values."
+        )
+
+    probs["uuid"] = (
+        probs["uuid"].astype("string").str.strip()
+    )
+
+    # Verify booster variant probabilities.
     variants = (
         probs[["variant_number", "variant_probability"]]
         .drop_duplicates()
         .sort_values("variant_number")
     )
-    if not np.isclose(variants["variant_probability"].sum(), 1.0):
-        raise ValueError("Variant probabilities do not sum to 1.")
 
-    # Attach prices. Special Guest UUIDs are in SPG.json and are also
-    # looked up against the same MTGJSON TCGplayer price extract.
-    def get_price(uuid, finish):
-        return price_lookup.get((str(uuid), finish), np.nan)
-
-    probs["uuid"] = probs["uuid"].astype(str)
-    probs["is_special_guest"] = probs["uuid"].isin(spg_uuids)
-
-    def slot_price(row, spg_finish="nonfoil"):
-        slot = str(row["slot_name"])
-        if slot in {"foil", "foilLand"}:
-            finish = "foil"
-        elif slot == "specialGuest":
-            finish = spg_finish
-        else:
-            finish = "nonfoil"
-        return get_price(row["uuid"], finish)
-
-    probs["price_nonfoil"] = probs["uuid"].map(
-        lambda u: get_price(u, "nonfoil")
-    )
-    probs["price_foil"] = probs["uuid"].map(
-        lambda u: get_price(u, "foil")
-    )
-    probs["price_baseline"] = probs.apply(
-        lambda r: slot_price(r, "nonfoil"), axis=1
-    )
-    probs["price_spg_all_foil"] = probs.apply(
-        lambda r: slot_price(r, "foil"), axis=1
-    )
-
-    missing_baseline = probs[probs["price_baseline"].isna()]
-    if not missing_baseline.empty:
-        examples = missing_baseline[["slot_name", "card_name", "uuid"]].head(10)
+    if variants["variant_number"].duplicated().any():
         raise ValueError(
-            f"{len(missing_baseline)} probability rows lack baseline prices. "
-            f"Examples:\n{examples.to_string(index=False)}"
+            "A booster variant has inconsistent probabilities."
+        )
+
+    if not np.isclose(
+        variants["variant_probability"].sum(), 1.0
+    ):
+        raise ValueError(
+            "Variant probabilities do not sum to 1."
+        )
+
+    if (
+        (variants["variant_probability"] < 0).any()
+        or (variants["variant_probability"] > 1).any()
+    ):
+        raise ValueError("Invalid variant probabilities.")
+
+    # Attach both finishes to every card.
+    probs["price_nonfoil"] = probs["uuid"].map(
+        lambda uuid: price_lookup.get(
+            (str(uuid), "nonfoil"), np.nan
+        )
+    )
+
+    probs["price_foil"] = probs["uuid"].map(
+        lambda uuid: price_lookup.get(
+            (str(uuid), "foil"), np.nan
+        )
+    )
+
+    # Baseline: foil slots use foil prices.
+    # Special Guests use nonfoil prices.
+    # All other slots use nonfoil prices.
+    probs["price_baseline"] = np.where(
+        probs["slot_name"].isin(FOIL_SLOTS),
+        probs["price_foil"],
+        probs["price_nonfoil"]
+    )
+
+    # Sensitivity: only Special Guests switch to foil prices.
+    probs["price_spg_all_foil"] = probs["price_baseline"].copy()
+
+    special_guest = probs["slot_name"].eq("specialGuest")
+
+    probs.loc[
+        special_guest, "price_spg_all_foil"
+    ] = probs.loc[
+        special_guest, "price_foil"
+    ]
+
+    # Validate baseline prices.
+    missing_baseline = probs[
+        probs["price_baseline"].isna()
+    ]
+
+    if not missing_baseline.empty:
+        examples = missing_baseline[
+            ["slot_name", "card_name", "uuid"]
+        ].head(10)
+
+        raise ValueError(
+            f"{len(missing_baseline)} probability rows lack "
+            f"baseline prices.\n{examples.to_string(index=False)}"
+        )
+
+    # The sensitivity simulation also needs complete prices.
+    missing_sensitivity = probs[
+        probs["price_spg_all_foil"].isna()
+    ]
+
+    if not missing_sensitivity.empty:
+        examples = missing_sensitivity[
+            ["slot_name", "card_name", "uuid"]
+        ].head(10)
+
+        raise ValueError(
+            f"{len(missing_sensitivity)} probability rows lack "
+            f"all-foil sensitivity prices.\n"
+            f"{examples.to_string(index=False)}"
         )
 
     return probs, variants
 
 
+# --------------------------------------------------
+# Build booster models
+# --------------------------------------------------
+
 def build_variant_models(probs, variants, price_column):
+
     models = {}
+
     for variant in variants.itertuples(index=False):
-        variant_rows = probs[probs["variant_number"] == variant.variant_number]
+
+        variant_rows = probs[
+            probs["variant_number"] == variant.variant_number
+        ]
+
         slot_models = {}
+
         for slot, group in variant_rows.groupby("slot_name"):
-            weights = group["probability_within_sheet"].to_numpy(dtype=float)
-            if (weights < 0).any() or not np.isclose(weights.sum(), 1.0):
+
+            weights = group[
+                "probability_within_sheet"
+            ].to_numpy(dtype=float)
+
+            if (
+                not np.isfinite(weights).all()
+                or (weights < 0).any()
+                or not np.isclose(weights.sum(), 1.0)
+            ):
                 raise ValueError(
-                    f"Within-sheet probabilities for variant "
-                    f"{variant.variant_number}, slot {slot} sum to {weights.sum()}."
+                    f"Invalid sheet probabilities for variant "
+                    f"{variant.variant_number}, slot {slot}. "
+                    f"Sum: {weights.sum()}"
                 )
-            prices = group[price_column].to_numpy(dtype=float)
-            cards_per_pack_values = group["cards_per_pack"].dropna().unique()
+
+            prices = group[
+                price_column
+            ].to_numpy(dtype=float)
+
+            if not np.isfinite(prices).all():
+                raise ValueError(
+                    f"Missing or invalid prices for variant "
+                    f"{variant.variant_number}, slot {slot}."
+                )
+
+            cards_per_pack_values = (
+                group["cards_per_pack"].dropna().unique()
+            )
+
             if len(cards_per_pack_values) != 1:
                 raise ValueError(
                     f"Multiple cards_per_pack values for variant "
                     f"{variant.variant_number}, slot {slot}."
                 )
+
+            cards_per_pack = cards_per_pack_values[0]
+
+            if (
+                cards_per_pack <= 0
+                or not float(cards_per_pack).is_integer()
+            ):
+                raise ValueError(
+                    f"Invalid cards_per_pack for variant "
+                    f"{variant.variant_number}, slot {slot}."
+                )
+
             slot_models[slot] = (
-                prices, weights, int(cards_per_pack_values[0])
+                prices,
+                weights,
+                int(cards_per_pack)
             )
+
         models[int(variant.variant_number)] = slot_models
+
     return models
 
 
+# --------------------------------------------------
+# Monte Carlo simulation
+# --------------------------------------------------
+
 def simulate(models, variants, n_packs, seed):
+
     rng = np.random.default_rng(seed)
-    variant_numbers = variants["variant_number"].to_numpy(dtype=int)
-    variant_weights = variants["variant_probability"].to_numpy(dtype=float)
+
+    variant_numbers = variants[
+        "variant_number"
+    ].to_numpy(dtype=int)
+
+    variant_weights = variants[
+        "variant_probability"
+    ].to_numpy(dtype=float)
+
     chosen_variants = rng.choice(
-        variant_numbers, size=n_packs, p=variant_weights
+        variant_numbers,
+        size=n_packs,
+        p=variant_weights
     )
+
     pack_values = np.zeros(n_packs, dtype=float)
 
     for variant_number in variant_numbers:
-        pack_indices = np.flatnonzero(chosen_variants == variant_number)
+
+        pack_indices = np.flatnonzero(
+            chosen_variants == variant_number
+        )
+
         if len(pack_indices) == 0:
             continue
+
         slot_models = models[int(variant_number)]
+
         for slot, (prices, weights, cards_per_pack) in slot_models.items():
+
             draws = rng.choice(
-                prices, size=(len(pack_indices), cards_per_pack), p=weights
+                prices,
+                size=(len(pack_indices), cards_per_pack),
+                p=weights
             )
+
             pack_values[pack_indices] += draws.sum(axis=1)
 
     return pack_values
 
 
-def summarize(values, scenario):
-    profit = values - PACK_PRICE
+# --------------------------------------------------
+# Simulation summary
+# --------------------------------------------------
+
+def summarize(values, scenario, pack_price, thresholds):
+
+    profit = values - pack_price
+
     rows = [
-        {"metric": "packs_simulated", "value": len(values), "scenario": scenario},
-        {"metric": "mean_pack_value_usd", "value": values.mean(), "scenario": scenario},
-        {"metric": "median_pack_value_usd", "value": np.median(values), "scenario": scenario},
-        {"metric": "standard_deviation_usd", "value": values.std(ddof=1), "scenario": scenario},
-        {"metric": "mean_profit_loss_usd", "value": profit.mean(), "scenario": scenario},
-        {"metric": "mean_roi_percent", "value": profit.mean() / PACK_PRICE * 100, "scenario": scenario},
-        {"metric": "probability_value_at_least_pack_price_percent",
-         "value": (values >= PACK_PRICE).mean() * 100, "scenario": scenario},
-        {"metric": "probability_profit_positive_percent",
-         "value": (values > PACK_PRICE).mean() * 100, "scenario": scenario},
+        {
+            "metric": "packs_simulated",
+            "value": len(values),
+            "scenario": scenario
+        },
+        {
+            "metric": "mean_pack_value_usd",
+            "value": values.mean(),
+            "scenario": scenario
+        },
+        {
+            "metric": "median_pack_value_usd",
+            "value": np.median(values),
+            "scenario": scenario
+        },
+        {
+            "metric": "standard_deviation_usd",
+            "value": values.std(ddof=1),
+            "scenario": scenario
+        },
+        {
+            "metric": "mean_profit_loss_usd",
+            "value": profit.mean(),
+            "scenario": scenario
+        },
+        {
+            "metric": "mean_roi_percent",
+            "value": profit.mean() / pack_price * 100,
+            "scenario": scenario
+        },
+        {
+            "metric": "probability_value_at_least_pack_price_percent",
+            "value": (values >= pack_price).mean() * 100,
+            "scenario": scenario
+        },
+        {
+            "metric": "probability_profit_positive_percent",
+            "value": (values > pack_price).mean() * 100,
+            "scenario": scenario
+        }
     ]
-    for threshold in THRESHOLDS:
+
+    for threshold in thresholds:
         rows.append({
-            "metric": f"probability_value_at_least_{threshold:.2f}_usd_percent",
+            "metric": (
+                f"probability_value_at_least_{threshold:.2f}_usd_percent"
+            ),
             "value": (values >= threshold).mean() * 100,
             "scenario": scenario
         })
-    for quantile in [0.05, 0.10, 0.25, 0.50, 0.75, 0.90, 0.95, 0.99]:
+
+    for quantile in [
+        0.05, 0.10, 0.25, 0.50,
+        0.75, 0.90, 0.95, 0.99
+    ]:
         rows.append({
-            "metric": f"value_percentile_{int(quantile*100)}_usd",
+            "metric": f"value_percentile_{int(quantile * 100)}_usd",
             "value": np.quantile(values, quantile),
             "scenario": scenario
         })
+
     return rows
 
 
+# --------------------------------------------------
+# Main
+# --------------------------------------------------
+
 def main():
-    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
-    for path in [PROBABILITY_FILE, PRICE_FILE, SPG_FILE]:
+
+    args = parse_arguments()
+
+    set_code = args.set_code.upper()
+    booster_type = args.booster_type.lower()
+
+    pack_price = args.pack_price
+    n_packs = args.n_packs
+
+    if pack_price <= 0:
+        raise ValueError("Pack price must be greater than zero.")
+
+    if n_packs <= 0:
+        raise ValueError("Number of packs must be greater than zero.")
+
+    probability_file = (
+        PROCESSED_DIR
+        / f"{set_code}_{booster_type}_card_probabilities.csv"
+    )
+
+    set_price_file = (
+        PROCESSED_DIR
+        / f"{set_code}_cards_with_prices.csv"
+    )
+
+    all_price_file = (
+        PROCESSED_DIR
+        / f"{set_code}_tcgplayer_prices.csv"
+    )
+
+    results_dir = RESULTS_DIR / set_code
+    tables_dir = results_dir / "tables"
+    reports_dir = results_dir / "reports"
+
+    tables_dir.mkdir(parents=True, exist_ok=True)
+    reports_dir.mkdir(parents=True, exist_ok=True)
+
+    for path in [
+        probability_file,
+        set_price_file,
+        all_price_file
+    ]:
         if not path.exists():
-            raise FileNotFoundError(f"Required input not found: {path}")
+            raise FileNotFoundError(
+                f"Required input not found: {path}"
+            )
 
-    print("Loading probability, price, and Special Guest data...")
-    price_lookup = load_price_lookup()
-    spg_uuids = load_spg_uuids()
-    probs, variants = prepare_probability_data(price_lookup, spg_uuids)
+    print(
+        f"Loading {set_code} {booster_type.title()} "
+        "probabilities and prices..."
+    )
 
-    baseline_models = build_variant_models(probs, variants, "price_baseline")
-    foil_models = build_variant_models(probs, variants, "price_spg_all_foil")
+    price_lookup = load_price_lookup(
+        set_price_file,
+        all_price_file
+    )
 
-    print(f"Simulating {N_PACKS:,} packs per scenario...")
+    probs, variants = prepare_probability_data(
+        probability_file,
+        price_lookup
+    )
+
+    baseline_models = build_variant_models(
+        probs, variants, "price_baseline"
+    )
+
+    foil_models = build_variant_models(
+        probs, variants, "price_spg_all_foil"
+    )
+
+    print(f"Simulating {n_packs:,} packs per scenario...")
+
     baseline_values = simulate(
-        baseline_models, variants, N_PACKS, RANDOM_SEED
+        baseline_models,
+        variants,
+        n_packs,
+        RANDOM_SEED
     )
+
     foil_values = simulate(
-        foil_models, variants, N_PACKS, RANDOM_SEED
+        foil_models,
+        variants,
+        n_packs,
+        RANDOM_SEED
     )
+
+    # --------------------------------------------------
+    # Summary tables
+    # --------------------------------------------------
 
     summary_rows = []
-    summary_rows += summarize(baseline_values, "SPG nonfoil baseline")
-    summary_rows += summarize(foil_values, "SPG all-foil sensitivity")
+
+    summary_rows += summarize(
+        baseline_values,
+        "SPG nonfoil baseline",
+        pack_price,
+        THRESHOLDS
+    )
+
+    summary_rows += summarize(
+        foil_values,
+        "SPG all-foil sensitivity",
+        pack_price,
+        THRESHOLDS
+    )
+
     summary = pd.DataFrame(summary_rows)
 
-    summary_path = TABLES_DIR / "DFT_monte_carlo_summary.csv"
+    summary_path = (
+        tables_dir
+        / f"{set_code}_monte_carlo_summary.csv"
+    )
+
     summary.to_csv(summary_path, index=False)
 
+    # --------------------------------------------------
+    # Individual pack outcomes
+    # --------------------------------------------------
+
     pack_values = pd.DataFrame({
-        "pack_number": np.arange(1, N_PACKS + 1),
+        "pack_number": np.arange(1, n_packs + 1),
         "booster_variant": "sampled",
         "pack_value_spg_nonfoil_usd": baseline_values,
-        "profit_loss_spg_nonfoil_usd": baseline_values - PACK_PRICE,
+        "profit_loss_spg_nonfoil_usd": (
+            baseline_values - pack_price
+        ),
         "pack_value_spg_all_foil_usd": foil_values,
-        "profit_loss_spg_all_foil_usd": foil_values - PACK_PRICE,
+        "profit_loss_spg_all_foil_usd": (
+            foil_values - pack_price
+        )
     })
-    pack_path = TABLES_DIR / "DFT_monte_carlo_pack_values.csv"
+
+    pack_path = (
+        tables_dir
+        / f"{set_code}_monte_carlo_pack_values.csv"
+    )
+
     pack_values.to_csv(pack_path, index=False)
 
+    # --------------------------------------------------
+    # Analytical expected-value check
+    # --------------------------------------------------
+
     baseline_ev = baseline_values.mean()
+
     analytic_ev = (
-        probs["expected_copies_per_pack"] * probs["price_baseline"]
+        probs["expected_copies_per_pack"]
+        * probs["price_baseline"]
     ).sum()
+
+    foil_analytic_ev = (
+        probs["expected_copies_per_pack"]
+        * probs["price_spg_all_foil"]
+    ).sum()
+
+    # --------------------------------------------------
+    # Report
+    # --------------------------------------------------
+
     report = [
-        "AETHERDRIFT PLAY BOOSTER — MONTE CARLO PROFITABILITY",
+        f"{set_code} {booster_type.upper()} BOOSTER "
+        "— MONTE CARLO PROFITABILITY",
         "=" * 62,
-        f"Pack price: ${PACK_PRICE:.2f}",
-        f"Simulations per scenario: {N_PACKS:,}",
+        f"Pack price: ${pack_price:.2f}",
+        f"Simulations per scenario: {n_packs:,}",
         f"Random seed: {RANDOM_SEED}",
         "",
-        f"Simulated baseline mean: ${baseline_ev:.4f}",
+        f"Simulated baseline mean: ${baseline_values.mean():.4f}",
         f"Analytical expected value check: ${analytic_ev:.4f}",
-        f"Difference: ${baseline_ev - analytic_ev:.4f}",
+        f"Difference: ${baseline_values.mean() - analytic_ev:.4f}",
         "",
-        "Interpretation: probabilities are estimated by simulated pack outcomes.",
-        "This is market card value, not net cash after selling fees or shipping.",
-        "Special Guest finish is unknown; nonfoil is baseline and all-foil is sensitivity.",
+        f"Simulated all-foil SPG mean: ${foil_values.mean():.4f}",
+        f"Analytical all-foil expected value: ${foil_analytic_ev:.4f}",
+        f"Difference: ${foil_values.mean() - foil_analytic_ev:.4f}",
         "",
-        "See DFT_monte_carlo_summary.csv for thresholds and percentiles.",
+        "MODEL ASSUMPTIONS",
+        "- Booster variants are sampled using variant probabilities.",
+        "- Cards are sampled independently within each slot.",
+        "- Foil and foilLand slots use foil prices.",
+        "- Other slots use nonfoil prices in the baseline.",
+        "- Special Guest all-foil is a sensitivity scenario.",
+        "- Values represent card market value, not cash proceeds after fees.",
+        "",
+        "OUTPUT FILES",
+        f"- {summary_path}",
+        f"- {pack_path}"
     ]
-    report_path = REPORTS_DIR / "DFT_monte_carlo_report.txt"
-    report_path.write_text("\n".join(report), encoding="utf-8")
+
+    report_path = (
+        reports_dir
+        / f"{set_code}_monte_carlo_report.txt"
+    )
+
+    report_path.write_text(
+        "\n".join(report),
+        encoding="utf-8"
+    )
+
+    # --------------------------------------------------
+    # Terminal output
+    # --------------------------------------------------
 
     print("\nMONTE CARLO RESULTS — SPG NONFOIL BASELINE")
+
+    print(f"Set: {set_code}")
+    print(f"Booster type: {booster_type}")
+    print(f"Packs simulated: {n_packs:,}")
+
     print(f"Mean pack value: ${baseline_values.mean():.4f}")
     print(f"Median pack value: ${np.median(baseline_values):.4f}")
-    print(f"Probability pack value >= ${PACK_PRICE:.2f}: "
-          f"{(baseline_values >= PACK_PRICE).mean()*100:.2f}%")
+
+    print(
+        f"Probability pack value >= ${pack_price:.2f}: "
+        f"{(baseline_values >= pack_price).mean() * 100:.2f}%"
+    )
+
     for threshold in [10, 20, 50, 100]:
-        print(f"Probability pack value >= ${threshold:.2f}: "
-              f"{(baseline_values >= threshold).mean()*100:.2f}%")
+        print(
+            f"Probability pack value >= ${threshold:.2f}: "
+            f"{(baseline_values >= threshold).mean() * 100:.2f}%"
+        )
+
     print(f"Analytical EV check: ${analytic_ev:.4f}")
+
+    print("\nMONTE CARLO RESULTS — SPG ALL-FOIL SENSITIVITY")
+    print(f"Mean pack value: ${foil_values.mean():.4f}")
+    print(f"Analytical EV check: ${foil_analytic_ev:.4f}")
+
     print("\nSaved:")
+
     print(summary_path)
     print(pack_path)
     print(report_path)
