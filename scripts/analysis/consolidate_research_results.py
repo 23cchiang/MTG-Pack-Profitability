@@ -67,6 +67,9 @@ def require_file(path):
 
 
 def main():
+    TABLES_DIR.mkdir(parents=True, exist_ok=True)
+    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+
     require_file(SINGLE_INPUT)
     require_file(MULTI_INPUT)
 
