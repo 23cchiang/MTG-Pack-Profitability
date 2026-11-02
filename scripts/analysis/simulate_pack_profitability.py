@@ -30,7 +30,7 @@ import json
 import numpy as np
 import pandas as pd
 
-PROJECT_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = Path(__file__).resolve().parents[2]
 PROCESSED_DIR = PROJECT_DIR / "data" / "processed"
 RAW_DIR = PROJECT_DIR / "data" / "raw"
 RESULTS_DIR = PROJECT_DIR / "results"

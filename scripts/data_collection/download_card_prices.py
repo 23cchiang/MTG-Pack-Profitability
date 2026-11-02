@@ -2,7 +2,7 @@ import requests
 from pathlib import Path
 from datetime import datetime
 
-PROJECT_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = Path(__file__).resolve().parents[2]
 RAW_DIR = PROJECT_DIR / "data" / "raw"
 
 RAW_DIR.mkdir(parents=True, exist_ok=True)

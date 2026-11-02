@@ -9,7 +9,7 @@ import pandas as pd
 # Project paths and settings
 # --------------------------------------------------
 
-PROJECT_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = Path(__file__).resolve().parents[2]
 RAW_DIR = PROJECT_DIR / "data" / "raw"
 OUTPUT_DIR = PROJECT_DIR / "data" / "processed"
 

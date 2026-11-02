@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 
 
-PROJECT_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = Path(__file__).resolve().parents[2]
 DATA_DIR = PROJECT_DIR / "data" / "raw"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 

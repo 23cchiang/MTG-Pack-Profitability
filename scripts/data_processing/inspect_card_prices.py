@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-PROJECT_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = Path(__file__).resolve().parents[2]
 PRICE_FILE = PROJECT_DIR / "data" / "raw" / "cardPrices.csv.bz2"
 
 print("Reading MTGJSON card price data...")

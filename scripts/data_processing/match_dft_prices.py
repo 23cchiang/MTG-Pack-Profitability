@@ -2,7 +2,7 @@
 import pandas as pd
 from pathlib import Path
 
-PROJECT_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = Path(__file__).resolve().parents[2]
 PROCESSED_DIR = PROJECT_DIR / "data" / "processed"
 
 SUMMARY_FILE = PROCESSED_DIR / "DFT_play_card_summary.csv"

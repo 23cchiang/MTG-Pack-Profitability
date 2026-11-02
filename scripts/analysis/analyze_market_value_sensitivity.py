@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[2]
 INPUT = ROOT / "results" / "DFT_monte_carlo_pack_values.csv"
 RESULTS = ROOT / "results"
 
