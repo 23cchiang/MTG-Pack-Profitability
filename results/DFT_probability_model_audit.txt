@@ -1,0 +1,48 @@
+AETHERDRIFT PROBABILITY MODEL AUDIT
+=============================================
+Variant probability total: 1.0000000000
+Variant weights sum to 1: True
+Variant/slot groups checked: 26
+All within-slot probability totals equal 1: True
+Cards-per-pack constant within each slot: True
+Expected-copy formula matches all rows: True
+
+VARIANT WEIGHTS
+ variant_number  variant_probability
+              1             0.787500
+              2             0.196875
+              3             0.012500
+              4             0.003125
+
+SLOT CHECKS
+ variant_number                slot_name  within_sheet_probability_sum  cards_per_pack_min  cards_per_pack_max  probability_sums_to_one  cards_per_pack_is_constant
+              1                   common                           1.0                   7                   7                     True                        True
+              1                     foil                           1.0                   1                   1                     True                        True
+              1              nonFoilLand                           1.0                   1                   1                     True                        True
+              1 rareMythicWithBoosterfun                           1.0                   1                   1                     True                        True
+              1                 uncommon                           1.0                   3                   3                     True                        True
+              1                 wildcard                           1.0                   1                   1                     True                        True
+              2                   common                           1.0                   7                   7                     True                        True
+              2                     foil                           1.0                   1                   1                     True                        True
+              2                 foilLand                           1.0                   1                   1                     True                        True
+              2 rareMythicWithBoosterfun                           1.0                   1                   1                     True                        True
+              2                 uncommon                           1.0                   3                   3                     True                        True
+              2                 wildcard                           1.0                   1                   1                     True                        True
+              3                   common                           1.0                   6                   6                     True                        True
+              3                     foil                           1.0                   1                   1                     True                        True
+              3              nonFoilLand                           1.0                   1                   1                     True                        True
+              3 rareMythicWithBoosterfun                           1.0                   1                   1                     True                        True
+              3             specialGuest                           1.0                   1                   1                     True                        True
+              3                 uncommon                           1.0                   3                   3                     True                        True
+              3                 wildcard                           1.0                   1                   1                     True                        True
+              4                   common                           1.0                   6                   6                     True                        True
+              4                     foil                           1.0                   1                   1                     True                        True
+              4                 foilLand                           1.0                   1                   1                     True                        True
+              4 rareMythicWithBoosterfun                           1.0                   1                   1                     True                        True
+              4             specialGuest                           1.0                   1                   1                     True                        True
+              4                 uncommon                           1.0                   3                   3                     True                        True
+              4                 wildcard                           1.0                   1                   1                     True                        True
+
+OVERALL RESULT: PASS
+
+Scope note: these checks validate the supplied probability table and the simulation's independent slot-sampling assumptions. They do not independently prove that the probability table matches every physical booster collation rule or print-run constraint.
