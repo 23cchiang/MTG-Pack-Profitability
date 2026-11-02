@@ -1,0 +1,15 @@
+AETHERDRIFT PLAY BOOSTER — MONTE CARLO PROFITABILITY
+==============================================================
+Pack price: $4.99
+Simulations per scenario: 200,000
+Random seed: 4212026
+
+Simulated baseline mean: $5.3227
+Analytical expected value check: $5.3067
+Difference: $0.0160
+
+Interpretation: probabilities are estimated by simulated pack outcomes.
+This is market card value, not net cash after selling fees or shipping.
+Special Guest finish is unknown; nonfoil is baseline and all-foil is sensitivity.
+
+See DFT_monte_carlo_summary.csv for thresholds and percentiles.

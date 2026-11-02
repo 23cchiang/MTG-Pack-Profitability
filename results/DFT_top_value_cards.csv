@@ -1,0 +1,26 @@
+uuid,card_name,rarity,expected_copies_per_pack,expected_value_contribution_usd,slots
+5a436e05-f446-5861-aa0a-613bcc584d46,Chrome Mox,mythic,0.0015625,0.26579687500000004,specialGuest
+a4798ef1-6df3-5748-b596-289a8ef075ef,Monument to Endurance,rare,0.018471428571428344,0.25239742857142494,"foil, rareMythicWithBoosterfun, wildcard"
+d94fd995-b642-5984-883a-a710a389e351,Riverpyre Verge,rare,0.01385357142857136,0.19998492857142758,"foil, rareMythicWithBoosterfun, wildcard"
+ca43c835-d9a9-5003-b8de-76cd7d6bb170,The Aetherspark,mythic,0.009235714285714085,0.18467349999999524,"foil, rareMythicWithBoosterfun, wildcard"
+2ab16da7-2e3f-5658-810d-eee8e22fe15f,Sunbillow Verge,rare,0.01385357142857136,0.14681174999999927,"foil, rareMythicWithBoosterfun, wildcard"
+4b958d55-9000-56a1-84e0-fc9829abe54f,Bleachbone Verge,rare,0.01385357142857136,0.12619692857142795,"foil, rareMythicWithBoosterfun, wildcard"
+7bac7d37-f51c-5586-8fb5-c4a739b6d029,Wastewood Verge,rare,0.01385357142857136,0.11659853571428513,"foil, rareMythicWithBoosterfun, wildcard"
+a32adc12-99e2-5d1c-bcbf-2ba53f020836,Full Throttle,rare,0.018471428571428344,0.08144028571428437,"foil, rareMythicWithBoosterfun, wildcard"
+17d4f88d-be53-5fce-b5be-a59483725941,Riverpyre Verge,rare,0.0046178571428570426,0.07372182142856941,"foil, rareMythicWithBoosterfun, wildcard"
+e93ffe60-3db8-5bae-964b-815c6ae60c44,Willowrush Verge,rare,0.01385357142857136,0.06447128571428538,"foil, rareMythicWithBoosterfun, wildcard"
+f9e54eed-c35e-57fd-b76b-5c662c3cae79,Stock Up,uncommon,0.039719999999999804,0.05600239999999974,"foil, uncommon, wildcard"
+bab02f65-4117-5500-8226-60fc2a6d81ca,Sunbillow Verge,rare,0.0046178571428570426,0.05438410714285585,"foil, rareMythicWithBoosterfun, wildcard"
+4f29188a-2fb4-51b1-a7eb-a56e82e49388,Bone Miser,mythic,0.0015625,0.05334375000000001,specialGuest
+1f5cc599-e2d7-5d1c-bd61-7f562c1ccac8,Bleachbone Verge,rare,0.0046178571428570426,0.045521607142855865,"foil, rareMythicWithBoosterfun, wildcard"
+41f1ce00-d0c3-578d-abba-3317eccc5b72,Wastewood Verge,rare,0.0046178571428570426,0.043841785714284556,"foil, rareMythicWithBoosterfun, wildcard"
+48e6b39b-92f6-565d-bafe-a2377cdcfffa,Magmakin Artillerist,common,0.0953009259259254,0.04382322530864159,"common, foil, wildcard"
+28e53dc5-30d6-54c4-82b2-32aa0d8b0322,Defend the Rider,uncommon,0.039719999999999804,0.040126699999999856,"foil, uncommon, wildcard"
+7aabc830-06cc-5b41-8a4d-a73e1f9bb0cc,Brightglass Gearhulk,mythic,0.006926785714285715,0.03893228571428572,"foil, rareMythicWithBoosterfun, wildcard"
+229ea72d-63a1-5d82-b6e5-0f4f5cd330e4,Chandra's Ignition,mythic,0.0015625,0.036265625,specialGuest
+30e96ef9-6a7f-5f17-9ea7-85e39da2013c,Howlsquad Heavy,rare,0.01385357142857136,0.034721999999999836,"foil, rareMythicWithBoosterfun, wildcard"
+9a7b3939-66c3-52bd-87e1-aa6e8eb928dd,Unstoppable Plan,rare,0.018471428571428344,0.031487571428570775,"foil, rareMythicWithBoosterfun, wildcard"
+e35e26cb-14a0-5dae-a03e-a2abba9a29f8,Voyager Quickwelder,common,0.0953009259259254,0.029268055555555384,"common, foil, wildcard"
+6dfee968-6cba-557b-8cbb-bbd013fba9f0,Willowrush Verge,rare,0.0046178571428570426,0.02888378571428497,"foil, rareMythicWithBoosterfun, wildcard"
+1f02ee50-90a0-52d6-8809-7dfb091568fe,Engine Rat,common,0.0953009259259254,0.028816203703703542,"common, foil, wildcard"
+6a54290d-117c-50e2-85c9-74b9c13b9aaa,Avishkar Raceway,common,0.0953009259259254,0.027938503086419594,"common, foil, wildcard"

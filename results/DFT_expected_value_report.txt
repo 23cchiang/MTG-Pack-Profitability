@@ -1,0 +1,34 @@
+AETHERDRIFT PLAY BOOSTER — EXPECTED VALUE REPORT
+=======================================================
+Pack price: $4.99
+Calculation status: COMPLETE
+
+Expected value (Special Guest nonfoil assumption): $5.3067
+Expected profit/loss: $0.3167
+Expected ROI: 6.35%
+Expected value if Special Guest were all foil: $5.4442
+
+Special Guest expected slot frequency: 0.015625 per pack
+Special Guest nonfoil EV contribution: $0.4548
+Special Guest foil EV contribution: $0.5922
+Special Guest cards matched: 10
+Special Guest cards with both finishes priced: 10
+
+Probability rows: 4,176
+Priced probability rows: 4,176
+Missing-price rows: 0
+Expected copies in missing-price rows per pack: 0.000000
+
+ASSUMPTIONS
+- expected_copies_per_pack already includes booster variant probability.
+- foil and foilLand slots use foil prices.
+- all other slots use nonfoil prices for the main estimate.
+- Special Guest finish probability is not supplied; all-nonfoil is the base case.
+- an all-foil Special Guest estimate is reported as a sensitivity case.
+- missing prices are not treated as $0.
+
+OUTPUT FILES
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/DFT_expected_value_by_card.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/DFT_expected_value_by_slot.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/DFT_top_value_cards.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/DFT_special_guest_price_audit.csv
