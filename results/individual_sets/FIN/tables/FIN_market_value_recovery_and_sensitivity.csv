@@ -1,0 +1,5 @@
+set_code,booster_type,finish_assumption,market_price_decline_percent,mean_pack_market_value_usd,median_pack_market_value_usd,mean_recovery_percent,median_recovery_percent,probability_pack_value_at_least_cost_percent,mean_profit_loss_per_pack_usd,break_even_price_decline_percent
+FIN,play,Standard baseline,0.0,8.93104185,5.01,95.62143308351177,53.64025695931477,23.205000000000002,-0.40895815000000013,0.0
+FIN,play,Standard baseline,10.0,8.037937665,4.509,86.0592897751606,48.2762312633833,19.9315,-1.3020623350000005,0.0
+FIN,play,Standard baseline,20.0,7.14483348,4.008,76.49714646680941,42.91220556745182,16.900499999999997,-2.19516652,0.0
+FIN,play,Standard baseline,30.0,6.251729294999999,3.5069999999999997,66.93500315845823,37.54817987152034,14.674000000000001,-3.088270705000001,0.0

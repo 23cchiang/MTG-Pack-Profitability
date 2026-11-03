@@ -1,0 +1,22 @@
+FIN PLAY BOOSTER — MONTE CARLO PROFITABILITY
+==============================================================
+Pack price: $9.34
+Simulations: 200,000
+Random seed: 4212026
+
+BASELINE RESULTS
+Simulated mean: $8.9310
+Simulated median: $5.0100
+Analytical expected value: $8.9484
+Difference: $-0.0174
+
+MODEL ASSUMPTIONS
+- Booster variants are sampled using variant probabilities.
+- Cards are sampled independently within each slot.
+- Foil and foilLand slots use foil prices.
+- Other slots use nonfoil prices.
+- Values represent card market value, not cash proceeds after fees.
+
+OUTPUT FILES
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/FIN/tables/FIN_monte_carlo_summary.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/FIN/tables/FIN_monte_carlo_pack_values.csv

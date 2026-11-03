@@ -249,9 +249,11 @@ def prepare_probability_data(
             (str(uuid), "foil"), np.nan
         )
     )
+    # --------------------------------------------------
+    # Baseline card prices
+    # --------------------------------------------------
 
-    # Baseline: foil slots use foil prices.
-    # Special Guests use nonfoil prices.
+    # Foil and foilLand slots use foil prices.
     # All other slots use nonfoil prices.
     probs["price_baseline"] = np.where(
         probs["slot_name"].isin(FOIL_SLOTS),
@@ -259,16 +261,8 @@ def prepare_probability_data(
         probs["price_nonfoil"]
     )
 
-    # Sensitivity: only Special Guests switch to foil prices.
-    probs["price_spg_all_foil"] = probs["price_baseline"].copy()
-
-    special_guest = probs["slot_name"].eq("specialGuest")
-
-    probs.loc[
-        special_guest, "price_spg_all_foil"
-    ] = probs.loc[
-        special_guest, "price_foil"
-    ]
+    # Check whether this booster configuration has Special Guests.
+    has_special_guest = probs["slot_name"].eq("specialGuest").any()
 
     # Validate baseline prices.
     missing_baseline = probs[
@@ -285,21 +279,38 @@ def prepare_probability_data(
             f"baseline prices.\n{examples.to_string(index=False)}"
         )
 
-    # The sensitivity simulation also needs complete prices.
-    missing_sensitivity = probs[
-        probs["price_spg_all_foil"].isna()
-    ]
+    # --------------------------------------------------
+    # Optional Special Guest all-foil sensitivity
+    # --------------------------------------------------
 
-    if not missing_sensitivity.empty:
-        examples = missing_sensitivity[
-            ["slot_name", "card_name", "uuid"]
-        ].head(10)
+    if has_special_guest:
 
-        raise ValueError(
-            f"{len(missing_sensitivity)} probability rows lack "
-            f"all-foil sensitivity prices.\n"
-            f"{examples.to_string(index=False)}"
+        probs["price_spg_all_foil"] = (
+            probs["price_baseline"].copy()
         )
+
+        special_guest = probs["slot_name"].eq("specialGuest")
+
+        probs.loc[
+            special_guest, "price_spg_all_foil"
+        ] = probs.loc[
+            special_guest, "price_foil"
+        ]
+
+        missing_sensitivity = probs[
+            probs["price_spg_all_foil"].isna()
+        ]
+
+        if not missing_sensitivity.empty:
+            examples = missing_sensitivity[
+                ["slot_name", "card_name", "uuid"]
+            ].head(10)
+
+            raise ValueError(
+                f"{len(missing_sensitivity)} probability rows lack "
+                f"all-foil sensitivity prices.\n"
+                f"{examples.to_string(index=False)}"
+            )
 
     return probs, variants
 
@@ -571,9 +582,14 @@ def main():
         probs, variants, "price_baseline"
     )
 
-    foil_models = build_variant_models(
-        probs, variants, "price_spg_all_foil"
-    )
+    has_special_guest = "price_spg_all_foil" in probs.columns
+
+    foil_models = None
+
+    if has_special_guest:
+        foil_models = build_variant_models(
+            probs, variants, "price_spg_all_foil"
+        )
 
     print(f"Simulating {n_packs:,} packs per scenario...")
 
@@ -584,12 +600,19 @@ def main():
         RANDOM_SEED
     )
 
-    foil_values = simulate(
-        foil_models,
-        variants,
-        n_packs,
-        RANDOM_SEED
-    )
+    foil_values = None
+
+    if has_special_guest:
+        foil_values = simulate(
+            foil_models,
+            variants,
+            n_packs,
+            RANDOM_SEED
+        )
+
+    # --------------------------------------------------
+    # Summary tables
+    # --------------------------------------------------
 
     # --------------------------------------------------
     # Summary tables
@@ -599,17 +622,18 @@ def main():
 
     summary_rows += summarize(
         baseline_values,
-        "SPG nonfoil baseline",
+        "Baseline",
         pack_price,
         THRESHOLDS
     )
 
-    summary_rows += summarize(
-        foil_values,
-        "SPG all-foil sensitivity",
-        pack_price,
-        THRESHOLDS
-    )
+    if has_special_guest:
+        summary_rows += summarize(
+            foil_values,
+            "Special Guest all-foil sensitivity",
+            pack_price,
+            THRESHOLDS
+        )
 
     summary = pd.DataFrame(summary_rows)
 
@@ -627,15 +651,23 @@ def main():
     pack_values = pd.DataFrame({
         "pack_number": np.arange(1, n_packs + 1),
         "booster_variant": "sampled",
+        "pack_value_baseline_usd": baseline_values,
+        "profit_loss_baseline_usd": (
+            baseline_values - pack_price
+        ),
+
+        # Temporary legacy columns for compatibility.
         "pack_value_spg_nonfoil_usd": baseline_values,
         "profit_loss_spg_nonfoil_usd": (
             baseline_values - pack_price
-        ),
-        "pack_value_spg_all_foil_usd": foil_values,
-        "profit_loss_spg_all_foil_usd": (
-            foil_values - pack_price
         )
     })
+
+    if has_special_guest:
+        pack_values["pack_value_spg_all_foil_usd"] = foil_values
+        pack_values["profit_loss_spg_all_foil_usd"] = (
+            foil_values - pack_price
+        )
 
     pack_path = (
         tables_dir
@@ -655,10 +687,36 @@ def main():
         * probs["price_baseline"]
     ).sum()
 
-    foil_analytic_ev = (
-        probs["expected_copies_per_pack"]
-        * probs["price_spg_all_foil"]
-    ).sum()
+    print("\nBASELINE EXPECTED-VALUE CHECK")
+    print(f"Simulated mean: ${baseline_ev:.4f}")
+    print(f"Analytical EV:  ${analytic_ev:.4f}")
+    print(f"Difference:     ${baseline_ev - analytic_ev:.4f}")
+
+    if not np.isclose(
+        baseline_ev,
+        analytic_ev,
+        rtol=0.02
+    ):
+        print(
+            "WARNING: Simulated mean differs from analytical EV "
+            "by more than 2%."
+        )
+
+    foil_analytic_ev = None
+
+    if has_special_guest:
+        foil_analytic_ev = (
+            probs["expected_copies_per_pack"]
+            * probs["price_spg_all_foil"]
+        ).sum()
+
+        print("\nSPECIAL GUEST ALL-FOIL SENSITIVITY")
+        print(f"Simulated mean: ${foil_values.mean():.4f}")
+        print(f"Analytical EV:  ${foil_analytic_ev:.4f}")
+        print(
+            f"Difference:     "
+            f"${foil_values.mean() - foil_analytic_ev:.4f}"
+        )
 
     # --------------------------------------------------
     # Report
@@ -669,29 +727,41 @@ def main():
         "— MONTE CARLO PROFITABILITY",
         "=" * 62,
         f"Pack price: ${pack_price:.2f}",
-        f"Simulations per scenario: {n_packs:,}",
+        f"Simulations: {n_packs:,}",
         f"Random seed: {RANDOM_SEED}",
         "",
-        f"Simulated baseline mean: ${baseline_values.mean():.4f}",
-        f"Analytical expected value check: ${analytic_ev:.4f}",
+        "BASELINE RESULTS",
+        f"Simulated mean: ${baseline_values.mean():.4f}",
+        f"Simulated median: ${np.median(baseline_values):.4f}",
+        f"Analytical expected value: ${analytic_ev:.4f}",
         f"Difference: ${baseline_values.mean() - analytic_ev:.4f}",
-        "",
-        f"Simulated all-foil SPG mean: ${foil_values.mean():.4f}",
-        f"Analytical all-foil expected value: ${foil_analytic_ev:.4f}",
-        f"Difference: ${foil_values.mean() - foil_analytic_ev:.4f}",
         "",
         "MODEL ASSUMPTIONS",
         "- Booster variants are sampled using variant probabilities.",
         "- Cards are sampled independently within each slot.",
         "- Foil and foilLand slots use foil prices.",
-        "- Other slots use nonfoil prices in the baseline.",
-        "- Special Guest all-foil is a sensitivity scenario.",
-        "- Values represent card market value, not cash proceeds after fees.",
+        "- Other slots use nonfoil prices.",
+        "- Values represent card market value, not cash proceeds after fees."
+    ]
+
+    if has_special_guest:
+        report.extend([
+            "",
+            "SPECIAL GUEST ALL-FOIL SENSITIVITY",
+            f"Simulated mean: ${foil_values.mean():.4f}",
+            f"Analytical expected value: ${foil_analytic_ev:.4f}",
+            (
+                "- Special Guest cards use foil prices in this "
+                "hypothetical sensitivity scenario."
+            )
+        ])
+
+    report.extend([
         "",
         "OUTPUT FILES",
         f"- {summary_path}",
         f"- {pack_path}"
-    ]
+    ])
 
     report_path = (
         reports_dir
@@ -707,12 +777,10 @@ def main():
     # Terminal output
     # --------------------------------------------------
 
-    print("\nMONTE CARLO RESULTS — SPG NONFOIL BASELINE")
-
+    print("\nMONTE CARLO BASELINE RESULTS")
     print(f"Set: {set_code}")
     print(f"Booster type: {booster_type}")
     print(f"Packs simulated: {n_packs:,}")
-
     print(f"Mean pack value: ${baseline_values.mean():.4f}")
     print(f"Median pack value: ${np.median(baseline_values):.4f}")
 
@@ -729,16 +797,15 @@ def main():
 
     print(f"Analytical EV check: ${analytic_ev:.4f}")
 
-    print("\nMONTE CARLO RESULTS — SPG ALL-FOIL SENSITIVITY")
-    print(f"Mean pack value: ${foil_values.mean():.4f}")
-    print(f"Analytical EV check: ${foil_analytic_ev:.4f}")
+    if has_special_guest:
+        print("\nSPECIAL GUEST ALL-FOIL SENSITIVITY")
+        print(f"Mean pack value: ${foil_values.mean():.4f}")
+        print(f"Analytical EV check: ${foil_analytic_ev:.4f}")
 
     print("\nSaved:")
-
     print(summary_path)
     print(pack_path)
     print(report_path)
-
 
 if __name__ == "__main__":
     main()

@@ -82,6 +82,7 @@ def extract_probabilities(set_data, set_code, booster_type):
         raise ValueError("Booster configuration is incomplete.")
 
     # Connect card UUIDs to their metadata.
+    # Connect card UUIDs to metadata from the main set.
     card_lookup = {
         card["uuid"]: card
         for card in cards
@@ -103,6 +104,21 @@ def extract_probabilities(set_data, set_code, booster_type):
             "NOTE: SPG.json not found. "
             "Special Guest card metadata may be missing."
         )
+
+    # Include external cards referenced by the FIN booster configuration.
+    external_path = RAW_DIR / "FIN_external_cards.json"
+
+    if external_path.exists():
+        with external_path.open("r", encoding="utf-8") as file:
+            external_cards = json.load(file)
+
+        card_lookup.update(external_cards)
+
+        print(
+            f"Loaded {len(external_cards)} external FIN booster cards."
+        )
+    else:
+        print("NOTE: FIN_external_cards.json not found.")
 
     rows = []
 

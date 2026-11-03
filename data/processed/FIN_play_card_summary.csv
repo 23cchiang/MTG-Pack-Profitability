@@ -1,0 +1,486 @@
+set_code,set_name,booster_type,card_name,rarity,collector_number,uuid,expected_copies_per_pack,finish_options,probability_at_least_one
+FIN,Final Fantasy,play,A Realm Reborn,rare,196,c2b9d77f-8081-59a8-bc12-18f0bc2cf5be,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,A Realm Reborn,rare,344,5bc3dc5e-9a06-5c18-aabc-4e8a0cb2cc61,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Absolute Virtue,mythic,212,6934be2a-e00b-5874-b963-891373540bd8,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Adelbert Steiner,uncommon,3,31434b11-4622-5778-9aa1-88ba62124d9b,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Adeline, Resplendent Cathar",rare,1,303fd495-e32d-53b8-baa3-61dadba042d8,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Adventurer's Airship,common,252,053389fd-4c8e-53ae-adbb-38071b3a9789,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Adventurer's Inn,common,271,20302775-5991-5785-b470-5761ca37cae0,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Aerith Gainsborough,rare,374,8de8d8d5-8e0b-55a8-af81-bb8f32a99273,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Aerith Gainsborough,rare,4,ef7ac1f2-76d2-599a-85b0-db3a22845073,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Aerith Rescue Mission,common,5,c7c5f7d3-6431-5eb4-922a-61844ce9deaa,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Aettir and Priwen,mythic,253,43af3c03-81f0-5448-a53b-c8795210c8e0,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Aettir and Priwen,mythic,350,4cfc4f5e-82c2-5c57-ac0f-349e68ca9b6f,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Ahriman,common,87,aed2a0f7-7018-5967-9ff7-438f4b9ece0d,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Airship Crash,common,171,5f919ab3-24dd-513d-8d96-49ae9b28377a,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Akroma's Will,mythic,21,1c7848e4-269d-553c-b0a8-91d91ad1daf4,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,Al Bhed Salvagers,uncommon,88,fa88fdc4-abd2-5f68-aa10-192aa2f446d4,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Ambrosia Whiteheart,uncommon,325,10af9a11-b805-5bb5-9cad-838b58555758,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Ambrosia Whiteheart,uncommon,6,a111b229-8490-55b7-b3f5-4231a24f8ba8,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Ancient Adamantoise,mythic,172,ab6fc7f4-f4f4-56b9-8846-82a7d85b24a1,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Ancient Copper Dragon,mythic,12,7a7f1a60-d9d5-5cd8-b131-f43cec9cd3a6,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,"Ardyn, the Usurper",rare,315,974fb546-6a34-51bc-ba01-daef3b3c3bf2,0.003758333333333333,"foil, nonfoil",0.0037561308932775317
+FIN,Final Fantasy,play,"Ardyn, the Usurper",rare,379,384cd877-7c7a-5a29-97b1-44cf4e4c4e5f,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Ardyn, the Usurper",rare,89,6388bc12-81b9-5c0b-9b9d-ffeaaf454488,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Ashe, Princess of Dalmasca",uncommon,7,89e2e9ec-89e6-5e8b-877e-7e7b4f8249d7,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Astrologian's Planisphere,rare,46,234749c9-6a84-5945-a105-497684435421,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Atraxa, Grand Unifier",mythic,49,a96b57a8-39fe-5f92-af87-da69cd130b49,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,Auron's Inspiration,uncommon,8,d8bc179a-ade6-552b-a9ce-e819b7090b80,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Azusa, Lost but Seeking",rare,15,0e90d827-86a6-5eab-819d-adbc27830280,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Balamb Garden, SeeD Academy // Balamb Garden, Airborne",rare,272,3d3f6ff1-01c3-52ff-9d73-fa1bcea9b7a8,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Balamb Garden, SeeD Academy // Balamb Garden, Airborne",rare,354,35828728-6b73-5a47-8f9c-8a8b5495423f,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Balamb T-Rexaur,common,173,a7ae809f-8405-5a3d-ae37-5d73977bca78,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Balthier and Fran,rare,213,7701c9bf-d44b-5220-9c40-c3b33ec1359e,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Balthier and Fran,rare,319,4d234a08-44c8-54dc-b4ff-1e36847a3e64,0.003758333333333333,"foil, nonfoil",0.0037561308932775317
+FIN,Final Fantasy,play,Balthier and Fran,rare,393,a50901c5-a7fc-5709-83ec-ed7c3fb27832,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Bard's Bow,common,174,5beb3e7b-3708-5dee-938f-199f8889d315,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Baron, Airship Kingdom",common,273,bb82f62f-d936-5f9b-94a7-fd57920bf199,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,Barret Wallace,uncommon,129,abb26854-ae71-530b-9836-80a05c396fa9,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Bartz and Boko,rare,175,98404933-f349-5056-9c10-a4a4b560f8cc,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Battle Menu,uncommon,9,8a20549e-dd0f-5fe8-9ac0-166f9972b17f,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Black Mage's Rod,common,90,d2f916ee-8592-5273-8696-76c9a5bfccd2,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Black Waltz No. 3,uncommon,214,9e623375-cd1d-5a9a-aa95-eaccda1021f9,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Blazing Bomb,common,130,a43f24fe-3dc8-5ba5-b73f-eba82fc456f7,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Blitzball,common,254,43784939-6b37-5021-adc0-0b5e4d5fa1e8,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Blitzball Shot,common,176,d71847b8-5d9d-57aa-9fe8-08f81680a8b6,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Bolas's Citadel,rare,7,f751c966-a89e-54b0-963e-35a5c133797e,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Brainstorm,uncommon,28,1cab0378-a281-5daa-b20c-2fd0e046926a,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,"Bruse Tarl, Boorish Herder",rare,50,99eb73fe-4bfc-5195-909a-db19380906b1,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Buster Sword,mythic,255,955cce31-52f1-5f8e-9364-de6014de5f60,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Buster Sword,mythic,351,d76e4687-2626-5957-97b8-f1994428ffa9,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Cactuar,uncommon,177,2bef6ef0-ce41-5c08-bbca-fa45471eb5fb,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Call the Mountain Chocobo,common,131,7977fd06-dc85-5521-bf53-4084e0d52e6d,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Capital City,uncommon,274,a0db0557-16f4-5187-8fc6-b455cbd90a76,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Captain Lannery Storm,uncommon,38,b729cc4f-97b0-5fcd-9a7c-18b6bf5c9e38,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Cargo Ship,uncommon,47,978f026e-d15c-59fc-a297-f70308f1dc5c,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Carpet of Flowers,rare,44,0134f5d4-38ae-5f51-b1a8-d621bf4b291f,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Cecil, Dark Knight // Cecil, Redeemed Paladin",rare,380,35d5e17f-364e-53da-92a4-fa473dcc1482,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Cecil, Dark Knight // Cecil, Redeemed Paladin",rare,91,c025e71a-b1c0-573a-92df-dcf565808fef,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Choco, Seeker of Paradise",rare,215,9117ee67-f17e-565d-9874-f52267bbdfc3,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Choco-Comet,uncommon,132,fafde436-84cc-5117-b7fc-764e4cfbfcb3,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Chocobo Kick,common,178,b4d1c960-f52b-5bf1-a740-65e8722aa543,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Chocobo Racetrack,uncommon,179,90b20d31-0f8a-50f0-a04e-cadaa1c7f55f,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Chromatic Lantern,rare,61,800eb38e-ee78-59a7-8d8b-c8be94395fb3,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,216,4a6592e9-b1cb-529e-b4b2-0ab39f4c2913,0.002351529663608563,"foil, nonfoil",0.0023494005743571744
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,407,faa5ddb1-f0c4-5ee4-8dd8-6c5338296993,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,408,8d60ae46-5fcd-5aac-b701-95f196bd53f4,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,409,ce914b8f-4126-5f97-b093-c01ca2facae5,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,410,6b2b63c7-c379-5c71-9fba-1c3e044109ff,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,411,e26efeda-8ce3-5803-ac93-1ebc55dc24d6,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,412,52d0eda3-09f8-5cfc-ac04-40d2615e5942,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,413,931953d1-4b6e-5c9b-a41b-e7cf341475eb,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,414,9150d65e-c53d-5db7-bded-5f43a449d722,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,415,343f561a-46c6-5559-a206-f7a7f69bfadd,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,416,b2191a86-a045-54d7-b48e-8bc938457f35,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,417,516eed7e-c637-5511-89a6-f6b9ff3db2c2,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,418,c1e05e88-095c-5eb6-ae13-9f447d48f31f,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,419,1b61b5c9-6d81-5b76-a76e-95fc0bd3fb08,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,"Cid, Timeless Artificer",uncommon,420,21013e42-d87d-5633-a9e6-c55f2cb28f4c,0.0025181963302752294,"foil, nonfoil",0.0025157033913975058
+FIN,Final Fantasy,play,Circle of Power,uncommon,92,e6407a43-3948-5c9f-a39c-d187c72d6a3a,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Clash of the Eikons,uncommon,180,2f7c1401-6c55-50a4-9b35-828d7d4b4622,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Clash of the Eikons,uncommon,341,35b2f81e-5946-58b9-98fb-6131ab3cbe4e,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Clive's Hideaway,rare,275,826443ee-3512-5d42-a8b1-31ac823e3e5e,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",mythic,133,4f229f13-824d-5140-8442-99078c40d6ab,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",mythic,318,fec0bef1-7c1f-5cea-b1f4-5d6b0adff83d,0.0014776623376623376,"foil, nonfoil",0.0014772792108646016
+FIN,Final Fantasy,play,"Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",mythic,385,9f67005d-ce84-5e4d-998b-46b45b611761,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Cloud of Darkness,uncommon,217,d2a4c7a8-3768-5069-9002-301294a0dbc6,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Cloud, Midgar Mercenary",mythic,10,1254a148-48ca-5e19-bb4f-54e7b1cba5f1,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Cloud, Midgar Mercenary",mythic,375,52236e62-1195-585a-8d01-a2de788632d6,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Cloudbound Moogle,common,11,abfbf3fb-2496-58ec-a272-fada2180d8e3,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Coeurl,common,12,e3cd871e-f82a-5797-b512-5acd3695ed64,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Coliseum Behemoth,uncommon,181,8183768d-2dfd-5af8-ad21-94ec497a2dbb,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Combat Tutorial,common,48,a5ff0bb9-3021-5a1b-bde7-c0c3c3440a01,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Command Beacon,rare,64,ab99027f-8af5-54bd-9fad-0f7c6d7af4fd,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Commune with Beavers,common,182,3b518e6e-ff18-5fc0-9048-298c0416a5bf,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Coral Sword,uncommon,134,c4a9a37d-b7a2-5869-a8f7-51a22cb183ac,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Cornered by Black Mages,common,93,078b9db3-9bd9-5894-b2d3-fe45a5b8fba2,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Counterspell,uncommon,4,526fa8a1-efc6-546a-8c4d-0a0df2b5fbad,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Crossroads Village,common,276,2b32dd1f-3a1d-54f4-81f3-cd2898af3aa2,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Cryptic Command,rare,29,aa315dd4-06cb-564f-8bee-21045723f2d6,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Crystal Fragments // Summon: Alexander,uncommon,13,08cc9ab4-5041-59db-894b-e364a594f500,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Crystal Fragments // Summon: Alexander,uncommon,357,c6f17951-84f5-5b8b-8ef9-ad5df96525a1,0.0073121666666666665,"foil, nonfoil",0.0072955552528657375
+FIN,Final Fantasy,play,"Danitha Capashen, Paragon",uncommon,22,d7ffffaf-6986-566d-801e-bc3ac92d9724,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Dark Confidant,mythic,334,e79f39a2-7fd1-5915-bfc8-97f67b72ec03,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Dark Confidant,mythic,94,fc50ead3-ab4c-51be-9555-542f29a2e309,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Dark Knight's Greatsword,uncommon,95,cc6896e6-2e62-5aa1-9c53-c362a0c6cc02,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Dark Ritual,rare,8,f8c02d5b-c18a-518e-89ff-5f811be9ef43,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Deadly Dispute,uncommon,33,4f750325-c1aa-5991-952a-c38b136d228d,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Delivery Moogle,uncommon,15,3d205107-3dad-568c-8c42-0110b5c4045f,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Demon Wall,uncommon,97,9046c7d5-c8f5-5d0b-8022-623c3f6e955c,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Diabolic Intent,rare,34,8cb1f4da-a92d-553a-a60e-77538ef57de9,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Diamond Weapon,uncommon,183,47fda5b0-165c-5a89-a668-55ca46b04a79,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Dion, Bahamut's Dominant // Bahamut, Warden of Light",rare,16,7df789e5-8790-59a9-895d-4285867de306,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Dion, Bahamut's Dominant // Bahamut, Warden of Light",rare,376,03f99653-cfda-58fc-a222-d23642e4251b,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Dovin's Veto,uncommon,51,c415d605-d965-5226-bb53-5307c318a270,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Dragoon's Lance,uncommon,17,86c4f507-baf5-594a-bf1c-f5edb45540f7,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Dragoon's Wyvern,common,49,0d0d03df-7a3b-58f9-a63c-98223460fc82,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Dreams of Laguna,common,50,254c6da9-b86f-5aef-91ae-01832c776697,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Dwarven Castle Guard,common,18,635dcc41-7fa1-5a53-b048-c6b4b24980d0,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Eden, Seat of the Sanctum",uncommon,277,27db49ae-0952-5ef8-9330-52b0ecb8c8c6,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Eden, Seat of the Sanctum",uncommon,355,9289a5d1-3e70-5e3e-83fb-dae750675843,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,"Edgar, King of Figaro",rare,51,1eadf625-88a3-57a2-bbcb-38960050bd15,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Eject,uncommon,52,ea348b24-09f5-5b2c-b7a8-715633472f1e,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Elixir,uncommon,256,d21b0ba4-3d15-57dc-b8f8-f119cb79ccea,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",mythic,218,e18dd6a3-5204-5114-b04e-f608a4e5fa9a,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Emet-Selch, Unsundered // Hades, Sorcerer of Eld",mythic,394,9430c8c4-903a-58b6-a835-9c71fb620028,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Esper Origins // Summon: Esper Maduin,rare,185,0c5d7efd-38dd-52dc-abdc-8d653cfe8d29,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Esper Origins // Summon: Esper Maduin,rare,370,2e487775-5277-5b02-ac97-54fe5751dc2e,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Ether,uncommon,53,5c025d28-fa80-5c5e-8236-e4c0584f7be0,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Evil Reawakened,uncommon,98,a238563f-6d51-5543-ad83-7a5f6cd0f645,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Excalibur II,rare,257,1aa841b8-eea5-5a3d-aad1-6f918be69e33,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Excalibur II,rare,352,20c55e55-eea0-5194-9796-c910f3f30b60,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Exdeath, Void Warlock // Neo Exdeath, Dimension's End",uncommon,220,9ee89e35-58e4-5535-b337-3622144b7f6a,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Fang, Fearless l'Cie // Ragnarok, Divine Deliverance",uncommon,381,14d87a06-22b6-575d-8963-9d9868ba3521,0.0073121666666666665,"foil, nonfoil",0.0072955552528657375
+FIN,Final Fantasy,play,"Fang, Fearless l'Cie // Ragnarok, Divine Deliverance",uncommon,99,37352d29-3bab-5fef-8b0d-8cc80e5d3b2e,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Farseek,uncommon,45,e759c297-923e-5028-8899-3d5a5d219ce7,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Fatal Push,uncommon,9,b04d594a-e7ff-5d9a-8871-2ccb4f4a4c94,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Fate of the Sun-Cryst,common,19,d3f36250-1335-51b0-8030-34757bea76a8,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Fight On!,common,100,b2792ec0-5059-5a7e-834b-8796e82060ae,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Fire Magic,uncommon,136,fceb7acd-d47d-56da-8906-d25dc17f3835,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Firion, Wild Rose Warrior",rare,137,88353094-cc1d-5bd8-b698-a168bdc42eec,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Firion, Wild Rose Warrior",rare,386,7e4bf02e-0fbb-5cd4-aec3-f374178bb7d5,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Forest,common,306,45e476cc-251f-57f2-bd54-103dd969c4e9,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Forest,common,307,46d363ce-81d5-58a9-a997-47ebdd71f2fe,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Forest,common,308,c2ca616f-b0b4-53ec-8ef2-8bb33e990269,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Freya Crescent,uncommon,138,c6c69e66-254f-58d6-93fc-52eeb564ac3e,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,From Father to Son,rare,20,6374fb9c-3f47-51b3-b397-c657c7b2cbb5,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Fynn, the Fangbearer",uncommon,46,d118f199-87ca-53c3-b5ee-34cd63c277be,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,G'raha Tia,uncommon,21,2c74623e-c14a-59cc-bfab-0a7a9bd5f829,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Gaelicat,common,22,9bfbeba4-b68f-5a0d-8d30-34abbc2ac933,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Gaius van Baelsar,uncommon,102,b7510e99-648b-5481-9df0-ef68bb895767,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Galuf's Final Act,uncommon,186,a9cf4986-5648-53ea-ba39-6341c65bb122,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Garland, Knight of Cornelia // Chaos, the Endless",uncommon,221,c893181b-df17-58b8-809c-961361ffaa87,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Garnet, Princess of Alexandria",uncommon,222,a37708bd-7143-59ea-b188-2878947d50ba,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Genji Glove,rare,258,bb06f85d-810d-5df9-90cd-c0f2971e3cf9,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Gigantoad,common,187,790c4025-140a-5b15-8d04-e4105798a77d,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Gilgamesh, Master-at-Arms",rare,139,2f6ac776-11d0-5927-bc12-5339edc0daab,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Gilgamesh, Master-at-Arms",rare,338,3eb15ebd-e92f-5909-86f3-aaa7871b99ed,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Giott, King of the Dwarves",uncommon,223,b292b845-1745-506a-b00a-913d29ffd690,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Gix, Yawgmoth Praetor",mythic,35,aa247fce-b425-52e5-afcc-1dd40cb93dd4,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,Gladiolus Amicitia,uncommon,224,c7e16db9-c481-5567-9373-1712b7df1e07,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Godo, Bandit Warlord",rare,13,3ee32515-7b54-5c49-9cb6-123999d22025,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Gogo, Master of Mimicry",mythic,377,893d88f2-9c9d-59e0-bee9-26534d26e5e4,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,"Gogo, Master of Mimicry",mythic,54,0cfeb956-4230-5700-a6dc-73401dbb962b,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Gohn, Town of Ruin",common,278,78f44ffa-eb5a-5a02-80d0-ebad26dcae63,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,"Golbez, Crystal Collector",rare,225,f5df39d3-b69c-5b75-948d-338801fa9f45,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Golbez, Crystal Collector",rare,395,b3a3e757-5902-5b2f-9cd5-f33802460ced,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Gongaga, Reactor Town",common,280,da905bf3-f7a1-5f3f-a23b-aad47289ba53,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,Goobbue Gardener,common,188,e9474299-0112-5e93-a632-eaec8e9cf05c,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Gran Pulse Ochu,common,189,440ebfb7-e1d2-556a-98f1-b1f5a6bb17e3,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Guadosalam, Farplane Gateway",common,281,e2b2ed27-bde2-505e-830d-2d0dc994211d,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,Gysahl Greens,common,190,11840fd7-3114-54e4-8503-1312cfbaf826,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Haste Magic,common,140,4eeb5793-8653-5767-8116-766a7d5615ff,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Hecteyes,common,103,6d097b21-e531-5393-9c95-0125a32ae3d9,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Hill Gigas,common,141,80883b83-7ba0-59ef-973a-f7278f2ef1ac,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Hope Estheim,rare,226,1f6c3a08-3417-53d5-8a64-7f6e2197852f,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Hope Estheim,rare,396,4748df7d-949d-5f56-a8f1-fb295f42c80e,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Ice Flan,common,55,27f64fe6-ce19-558f-be0f-40aa0d47d4c4,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Ice Magic,common,56,dfa4b9ce-eff1-5ec2-8db6-f746fd604228,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Ignis Scientia,uncommon,227,5c7e9b8d-fc7e-532c-bbdc-325754d44bd4,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Il Mheg Pixie,uncommon,57,a69e143d-6bf9-5d2f-a0b3-b58457a7a340,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Inalla, Archmage Ritualist",rare,52,5a9512ba-212f-5bb8-b35b-4da808b80ce4,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Insomnia, Crown City",common,282,2a0e5af8-8ed9-5a31-983c-e47be2724f98,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,Instant Ramen,common,259,65d27257-800d-5591-9bb6-77ba0a456f15,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Iron Giant,common,260,9e5f989f-4907-5065-b5ba-dcb3044eecc1,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Ishai, Ojutai Dragonspeaker",rare,53,be43ec3f-0282-551b-8843-05c204b69a98,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Ishgard, the Holy See // Faith & Grief",rare,283,5326e283-5f67-55fc-b3c6-0e26ebf323c8,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Ishgard, the Holy See // Faith & Grief",rare,310,e17fc4fd-821c-5d7e-9f7a-a1b3054679c1,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Island,common,297,e35d0a99-72d7-55e2-9f93-fb4ee8c27c2e,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Island,common,298,6fe4c114-886e-5c57-88d4-663731941dcd,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Island,common,299,a9ab6e3a-c705-5311-b00f-4379d6b30d33,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,"Isshin, Two Heavens as One",rare,54,2178367a-55f9-52a4-8ecd-2e986a97eb15,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Item Shopkeep,common,142,b99642a9-5779-504c-9ff5-879da1fa3bb6,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Jecht, Reluctant Guardian // Braska's Final Aeon",rare,104,31e2bf20-7b45-5a02-a8c9-fc82d457761f,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Jecht, Reluctant Guardian // Braska's Final Aeon",rare,363,33a5d6c7-c0c5-5430-b0d2-4f5c28d1115b,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Jenova, Ancient Calamity",rare,228,a16b2906-34c8-5e40-8426-aae50785f0f5,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Jenova, Ancient Calamity",rare,346,8a5aaa23-fc79-503a-bd6b-a805d808c6cd,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Jidoor, Aristocratic Capital // Overture",rare,284,15e2c75e-749a-57a3-86e4-125dc837c9c2,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Jidoor, Aristocratic Capital // Overture",rare,311,b2345e93-d57a-5cc6-9408-cf95767c64c5,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Jill, Shiva's Dominant // Shiva, Warden of Ice",rare,378,79d2cc47-2cb1-57a6-8bfb-e5052b72f66a,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Jill, Shiva's Dominant // Shiva, Warden of Ice",rare,58,a9e3f597-628b-5955-b6ff-88726e12990d,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Jodah, the Unifier",rare,17,bfce2d36-17a7-5d0a-9170-11d71ec215d4,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",rare,229,e6b54206-08fa-5700-a528-3cbc39c988f1,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Joshua, Phoenix's Dominant // Phoenix, Warden of Fire",rare,397,60fad755-84ef-5ae3-9cd8-e58eb5680f8e,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Judge Magister Gabranth,uncommon,230,35150353-a70d-55cd-8827-392a671b01c7,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Jumbo Cactuar,rare,191,a9c699f6-34e3-5d82-89ce-5435b0fb2236,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Jumbo Cactuar,rare,343,dbf281d7-2cf2-5020-827a-884b39f2cb14,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"K'rrik, Son of Yawgmoth",rare,36,21ef4bc4-e626-5750-816d-9525e0b2ea06,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Kain, Traitorous Dragoon",rare,105,f1698657-ff1b-518e-9fda-0ae4f806b87e,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Kain, Traitorous Dragoon",rare,316,89fbefb1-e283-5b3a-aa51-9dfd9060d13c,0.003758333333333333,"foil, nonfoil",0.0037561308932775317
+FIN,Final Fantasy,play,"Kefka, Court Mage // Kefka, Ruler of Ruin",mythic,231,e8982ebc-6c66-5224-837e-c0ccabb75b53,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Kefka, Court Mage // Kefka, Ruler of Ruin",mythic,322,5fcd9a65-f6f2-5594-99e4-fc9628e147ce,0.0014776623376623376,"foil, nonfoil",0.0014772792108646016
+FIN,Final Fantasy,play,"Kefka, Court Mage // Kefka, Ruler of Ruin",mythic,398,3c0163e0-2b86-5c75-b598-636dd1416e77,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,"Kenrith, the Returned King",rare,23,1691c7b7-6c21-5cf9-9a16-f77c86186fd8,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Kinnan, Bonder Prodigy",mythic,55,fb112513-3252-5b72-903b-9b55703b41dd,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,"Kraum, Ludevic's Opus",rare,56,6325de66-cb88-595d-b565-ee9bed79b782,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",rare,232,adca0acc-5685-5eb0-a111-9fead6f56f9b,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Kuja, Genome Sorcerer // Trance Kuja, Fate Defied",rare,399,c3038a1f-1a9d-569b-8c9a-1c4610014e83,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Laboratory Maniac,uncommon,30,910ce9ad-411b-5e5a-8507-0d27bc1f9166,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Laughing Mad,common,143,314c8b9b-faad-5bcd-bf20-a357382d70e2,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Light Up the Stage,uncommon,39,ebfe03c9-3cd8-52cb-88bc-12302591e4eb,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Light of Judgment,common,144,74f94d35-0d41-5855-a90b-6fa4a6cf9754,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Lightning Bolt,uncommon,40,c253d801-5d57-5d08-ad30-a9404353f250,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,"Lightning, Army of One",mythic,233,38ed79f2-66bd-579b-aca2-26f315c69f2e,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Lightning, Army of One",mythic,320,fb12b778-cd4d-54b6-bba1-fd0f8b5edffe,0.0014776623376623376,"foil, nonfoil",0.0014772792108646016
+FIN,Final Fantasy,play,"Lightning, Army of One",mythic,400,3fe6e9b6-177a-5da4-a41f-37f3c0c2854c,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,"Lindblum, Industrial Regency // Mage Siege",rare,285,6a31f746-38f8-5a97-aff5-285d0ed8df9b,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Lindblum, Industrial Regency // Mage Siege",rare,312,cae600e6-0d15-5aa5-8ac6-10cfdde489c8,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Lion Heart,uncommon,261,ff833866-810e-5d4c-a909-36230958f34a,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Locke Cole,uncommon,234,11bc6d25-69d3-58f5-b4db-825b626c1ce1,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Loporrit Scout,common,192,64a9f974-dbe2-5592-b863-733532031d40,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Loran of the Third Path,rare,24,9f0c3c70-67e4-57dc-a0e0-774238f5bc0a,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Louisoix's Sacrifice,rare,59,bdd341d4-b703-53e2-8237-5f35d11a0e8f,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Lunatic Pandora,common,262,3aebac64-ef2d-5a2a-807f-a56a2dc58a78,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Machinist's Arsenal,rare,23,835f5e3a-3d72-5e3b-b986-7dad1447554b,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Magic Damper,common,61,905dfc3d-eb0c-5ce7-867e-dba6a6b34285,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Magic Pot,common,263,85380bd5-178b-5117-a13b-0a33abe36784,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Magitek Armor,uncommon,24,3cc4c3bc-76b5-5e85-af17-b2de2d0fc183,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Magitek Infantry,common,25,481d10bf-1a5e-5b1f-a6ac-0e98f86e80a0,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Malboro,common,106,66fd7642-92a2-53b0-afa0-451d5ddf11c4,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Mangara, the Diplomat",rare,25,d0a42a91-efec-57b0-8479-45086fdc4c8d,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Matoya, Archon Elder",rare,62,5ed38f0b-0094-5c7a-808d-c13eadb24d73,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Memories Returning,rare,331,8c1990ef-c585-5b44-9814-386c42b5db98,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Memories Returning,rare,63,e57c81c2-7385-534a-ad17-ee93260e926e,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Midgar, City of Mako // Reactor Raid",rare,286,d7929718-8a74-5fba-85bc-093f49ad6770,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Midgar, City of Mako // Reactor Raid",rare,313,f6c8a213-d02c-5c1d-b8d5-6566eb731bce,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Minwu, White Mage",rare,26,a78d69c5-9076-5499-aac6-1173b54410d9,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Mizzix's Mastery,rare,41,fff17f56-3dd8-5ed6-8de5-d0398bd7bb6d,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Monk's Fist,common,265,e25c00ce-dd8a-5401-9bd1-fa1c4ca810f9,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Moogles' Valor,rare,27,fc6c017d-b45d-53e5-9c44-335d02050f1b,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Moogles' Valor,rare,326,db575c8d-0381-5399-b0b8-d0822cd42d98,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Mountain,common,303,f92fcb2e-8b7c-5786-9091-ebea6f019aba,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Mountain,common,304,07f3f86a-076e-51ed-9bb8-c15e8d6af817,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Mountain,common,305,77efe8dd-3bce-54a2-b41e-6a185211b403,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,"Muldrotha, the Gravetide",rare,57,21698c71-2161-58fc-8640-ae50591efe88,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Mysidian Elder,common,145,01970d6b-0268-5da2-ab72-a3fa40b47294,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Najeela, the Blade-Blossom",mythic,42,e6a87970-8411-5d8e-bbf8-89fa273c2fd2,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,Namazu Trader,common,107,4e0a4790-6396-59a4-9b1f-33a0224a9a37,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Nature's Claim,uncommon,47,8a7c84b2-7e83-597e-9b8d-877b6f4efe12,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Nibelheim Aflame,mythic,146,5cb1b863-60e3-517b-83d4-903ee7defaec,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Nibelheim Aflame,mythic,339,c9459ace-852e-54b0-8c66-75242af6c19e,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Ninja's Blades,rare,108,ce516ea1-5c11-5698-8fa0-ef2e7e45a780,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Noctis, Prince of Lucis",rare,235,17f90297-33e5-5638-ac38-92e85b25b39b,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Noctis, Prince of Lucis",rare,401,a080c85e-efd2-525a-bdb2-612e70de2bca,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Nyxbloom Ancient,mythic,16,567d8800-37fb-53fc-99a9-052c4531093e,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,"Omega, Heartless Evolution",uncommon,236,4572ef65-ff31-5762-9ce2-b9d6f8fe0754,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Omega, Heartless Evolution",uncommon,347,2139fd4a-bc28-5a0b-b666-09b4db7171d6,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Opera Love Song,uncommon,147,2397e159-a406-515f-a4fc-029b254c3774,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Overkill,uncommon,109,3d0c20cf-c2e8-546a-a025-6111a0ea5d0e,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Paladin's Arms,common,28,329c1b67-311c-59c3-be91-7a8202e3895c,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Phantom Train,uncommon,110,342b9f7c-f620-5ca3-98be-0f89dfceaee4,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Phoenix Down,uncommon,29,0c4c27f5-7741-59f9-b517-aed89ee7bc2d,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Plains,common,294,138a5910-7867-57c9-8e50-d1a7f85757bb,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Plains,common,295,920b17b6-beb9-510d-982a-01941cd2420d,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Plains,common,296,fbf83e18-771c-5d2e-85fb-1c13b320ec05,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Poison the Waters,uncommon,111,5f5995d4-06ec-5e8a-af59-f091ae590986,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Primeval Titan,rare,48,7f91ff65-3313-5eff-b17e-886d32dce2cb,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Prishe's Wanderings,common,193,d0d8f70f-f2c3-50d3-b96f-30c08b6c5c0c,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Prompto Argentum,uncommon,148,c55e4176-acd7-5d1b-9ef9-301a91368b6f,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Prompto Argentum,uncommon,387,a4a30390-3839-50b5-93a8-d17025da4c37,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,PuPu UFO,uncommon,266,c739d942-161d-597f-b3f8-208a82eaa9ab,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Purphoros, God of the Forge",mythic,14,6401499a-50fe-5dc8-845b-110f122c7ca8,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,Qiqirn Merchant,common,65,4ef5706d-1ffd-58dd-9978-b483f5bbb5bb,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Queen Brahne,uncommon,149,98ba991e-3c0b-56f4-982d-365559d2b5f4,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Quina, Qu Gourmet",uncommon,194,38378c25-5119-51b7-9493-1c93d00c5baf,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Quistis Trepe,uncommon,66,e15bb913-ad72-56c4-a15b-e00612f9b617,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Qutrub Forayer,common,112,4697e311-26a4-5cb1-931b-df81cfe83eb0,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Rabanastre, Royal City",common,287,cccd46d4-1ac4-5107-80c3-9aa290fe6778,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,"Ragavan, Nimble Pilferer",mythic,43,a198b0b2-7dc4-525c-976a-531969d0135e,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,Random Encounter,uncommon,150,fb4f7a0c-2da2-5276-9b15-9528a5ec6011,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Ranger-Captain of Eos,mythic,2,17717e95-6242-56cc-be69-9afbc9e2a378,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,"Raubahn, Bull of Ala Mhigo",rare,151,9aabe252-cb24-52ba-8423-bb778e416d2a,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Raubahn, Bull of Ala Mhigo",rare,388,2ba32cf2-cc67-5a54-b66c-4821c67bbe96,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Reach the Horizon,uncommon,195,a27c5dca-048a-565d-9008-eb883ee5ead2,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Red Mage's Rapier,common,152,e3eafb3b-f34a-574e-bb10-9a4f0cd41311,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Relentless X-ATM092,uncommon,268,07289d70-2a6a-506f-9b85-039db3551f64,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Relm's Sketching,uncommon,67,d09dab8d-c45f-51d9-89b4-016275d12a9c,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Reno and Rude,uncommon,113,d777f6ea-09d0-5b79-b11c-9cd277e74446,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Resentful Revelation,common,114,734ca265-85ba-571c-9365-501bdd47a2dc,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Restoration Magic,uncommon,30,a971ff07-6137-5e27-8175-8b51feac7aa1,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Retrieve the Esper,common,68,fa1590d4-bc6b-528d-9498-5d225ae447eb,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Rhystic Study,mythic,31,31ff2624-6a32-5804-8934-6099184bdb6e,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,Ride the Shoopuf,uncommon,197,daeb69dd-1752-5d73-84f0-af491193f163,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Ring of the Lucii,uncommon,269,b99a373e-5f64-5b6b-bd67-dce0c4a583da,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Rinoa Heartilly,uncommon,237,24761274-bfff-5907-9e4e-832841f44753,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Rook Turret,common,69,b6866064-4fec-5d63-a6de-c083ea7ad481,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Rufus Shinra,uncommon,238,05332bc8-6824-59d2-9df3-1d67020f5d62,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Rydia's Return,uncommon,198,37b29e6b-97cc-51fe-bd06-28bb71f11f8e,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Rydia, Summoner of Mist",uncommon,239,32a16499-e5bd-57ad-a6c2-10d573116419,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Sabotender,common,153,f3509f06-87bf-525a-a32a-05a26df6a983,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Sage's Nouliths,common,70,cb1d950c-7830-5f9c-bb87-04c2d740f02f,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Sahagin,common,71,f3684cc6-62ee-5a36-9528-62cf370e346e,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Samurai's Katana,uncommon,154,da6c6f7d-f2ae-5278-bc10-cfd37a42943d,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Sandworm,uncommon,155,a075e9a5-02f9-5f86-a06f-d9505856372e,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Sazh Katzroy,rare,199,a6082d5f-e6c2-5446-8dca-25fe3e7730b1,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Sazh's Chocobo,uncommon,200,bb37f821-4cab-5f06-bd36-8dde520c626a,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Scorpion Sentinel,common,72,cb2932b6-efc9-5ada-99d1-d4ce50993626,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Seifer Almasy,rare,156,ca51d060-008b-54e2-8545-29e409cb4462,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Seifer Almasy,rare,389,fb0a4dcb-7c04-5356-adf8-28129642b807,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Self-Destruct,uncommon,157,96238e50-9a29-5851-813b-17d46864d46a,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Sephiroth's Intervention,common,116,7a88c641-779e-56a3-bb91-bfca8f899e9d,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",mythic,115,b4baf463-2edb-508e-b1a8-9de930d8049f,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",mythic,317,3751ebe2-eddc-5f2b-9dfe-11e4925797e7,0.0014776623376623376,"foil, nonfoil",0.0014772792108646016
+FIN,Final Fantasy,play,"Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",mythic,382,cb6c74da-562e-55ad-81de-a415d409d64f,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Serah Farron // Crystallized Serah,rare,240,a6d9e1ab-dd3c-558e-b74c-97a8887bef4e,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Shambling Cie'th,uncommon,117,6df410a6-9799-5a1a-950c-111e49a8dee7,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Shantotto, Tactician Magician",uncommon,241,5000029e-bcaa-559d-a4b1-652cc11494f8,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Sharlayan, Nation of Scholars",common,288,0fe3a345-5ece-53ff-823f-fbcd6865ad9f,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,Shinra Reinforcements,common,118,11133344-8491-546e-9c3e-c502e3a8462a,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Sidequest: Card Collection // Magicked Card,uncommon,73,26f46851-383f-5188-949c-9b4fd8c5d05d,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Sidequest: Catch a Fish // Cooking Campsite,uncommon,31,7588a46b-5a01-51f4-bdc7-136197769207,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Sidequest: Hunt the Mark // Yiazmat, Ultimate Mark",uncommon,119,f790e0aa-541f-5bb1-a48b-d23d181e02e6,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Sidequest: Play Blitzball // World Champion, Celestial Weapon",uncommon,158,8f7cb1bc-6d64-508d-85f2-83cda2d05fbe,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Sidequest: Raise a Chocobo // Black Chocobo,uncommon,201,6b52dfb2-ddd3-51da-a22f-047de9b92793,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Sin, Spira's Punishment",rare,242,a62de1de-0dec-5a12-bea0-f75ab5ba9d2c,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Sin, Spira's Punishment",rare,348,2097852b-aaf6-5ba5-a3a7-69f569589cf5,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Slash of Light,common,32,8f320631-9d6f-5cc7-9d34-f39e7160c06e,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Sleep Magic,uncommon,74,643290ac-efd3-523b-851b-e55c322cc216,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Smuggler's Copter,rare,62,87cbee12-5b05-5f26-869a-bb2e2eae6c55,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Snow Villiers,uncommon,33,dbd48822-e18f-5cd3-a846-89864d11baed,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Sorceress's Schemes,uncommon,159,66933df7-6654-5c7d-b00c-2ad42cdc0811,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Squall, SeeD Mercenary",rare,243,fb81101f-54ef-5f31-b5e5-3b949ebdd774,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Squall, SeeD Mercenary",rare,402,9b00f8e1-6262-5006-b224-e96fbc723c01,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Sram, Senior Edificer",rare,3,44d86d14-bc90-5413-b8e6-1dd01e5dfeb9,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Starting Town,rare,289,1f31f675-27ff-507a-93e9-f8eac7196f5a,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Stiltzkin, Moogle Merchant",rare,327,f922c001-c392-574e-b11e-eca74a9bcf11,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Stiltzkin, Moogle Merchant",rare,34,07471996-5e7b-5553-ae69-68331b8175f5,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Stolen Uniform,uncommon,332,7899f5e0-3c33-5db8-9d09-60434de3c8dd,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Stolen Uniform,uncommon,75,caee07d8-54cc-5ece-8030-7c492d5e680e,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Strixhaven Stadium,uncommon,63,e8b82cd5-fecd-5015-84ee-8e5b2457a636,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Stroke of Midnight,uncommon,26,3a9090df-a440-5ddb-93eb-9b506064d2e7,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Stuck in Summoner's Sanctum,common,76,c8533370-7274-5c28-9c07-b04ab35e963b,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Summon: Anima,uncommon,120,ebe6d2dc-f8aa-52ac-9562-d4b1b96966ca,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Summon: Anima,uncommon,364,947cbff8-758f-5cc7-a936-7235eb8d6652,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Summon: Bahamut,mythic,1,213f2ebb-965d-5c79-bb24-20edc242fb7d,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Summon: Bahamut,mythic,356,d053672b-9283-574f-a6d5-da12e136e528,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Summon: Brynhildr,rare,160,17f85365-942c-5a74-ad09-66976d1fea4e,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Summon: Brynhildr,rare,366,7eed432c-9c61-5ef5-ba69-ab6da2408537,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Summon: Choco/Mog,common,35,d815aeeb-e320-55d9-8b47-0c7563bbd0f5,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Summon: Choco/Mog,common,358,2876f935-8f12-567e-a5ec-8d2f9f4fb401,0.009,"foil, nonfoil",0.008997111111111122
+FIN,Final Fantasy,play,Summon: Esper Ramuh,uncommon,161,69221228-0ccc-55a8-ba67-67778ecd8975,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Summon: Esper Ramuh,uncommon,367,ecb6a5d9-dc61-5a88-b7c7-d36cd995f03a,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Summon: Fat Chocobo,common,202,c1ff22a7-a6e1-5a8f-872c-e292e1992bf0,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Summon: Fat Chocobo,common,371,2703d2b3-b202-5de9-a40b-f7a88c498cef,0.009,"foil, nonfoil",0.008997111111111122
+FIN,Final Fantasy,play,Summon: Fenrir,uncommon,203,b21e91c0-40e4-50fd-afc9-4b469f0d740a,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Summon: Fenrir,uncommon,372,655a8d44-337a-5c51-a400-ebe0917e2e42,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Summon: G.F. Cerberus,rare,162,61681032-9fa7-5b50-bdfc-3c9a82619cfc,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Summon: G.F. Cerberus,rare,368,6013027b-cd40-59f8-8f53-62bfec942ac9,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Summon: G.F. Ifrit,common,163,606b766d-1e3e-5d13-aebc-d627eae4ad84,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Summon: G.F. Ifrit,common,369,d2f80ab5-4f66-5a2a-b503-a3ac04475eb9,0.009,"foil, nonfoil",0.008997111111111122
+FIN,Final Fantasy,play,Summon: Knights of Round,mythic,359,c805363c-538b-5b4f-bb21-2bd99f9ef29c,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,Summon: Knights of Round,mythic,36,bb2ddf9b-8a36-5d66-8bf9-b02ee3222c24,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Summon: Leviathan,rare,361,be5dad9e-b3b5-5e45-99af-1eaaca39e763,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Summon: Leviathan,rare,77,7668c47f-d9e0-5ba2-aa21-8ee0f415694c,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Summon: Primal Garuda,uncommon,360,e36c8020-378e-59ef-9bb3-f59ba347df3e,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Summon: Primal Garuda,uncommon,37,6078fa73-42cd-54d5-82ac-85d95cadfc28,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Summon: Primal Odin,rare,121,6f782192-f041-590a-8fb7-d5e06b503617,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Summon: Primal Odin,rare,365,df245ab0-6916-5b00-87e1-8dc7ef85fe13,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Summon: Shiva,uncommon,362,e124bc76-947a-5600-bbc9-a5f53dc7aefe,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Summon: Shiva,uncommon,78,0cc7cc20-8a0c-5080-b789-0cdde6a7e258,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Summon: Titan,rare,204,dcf6cff4-b425-5ba5-9eeb-a5603e9464a2,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Summon: Titan,rare,373,8da4ef21-3fe7-5932-ac02-fb5c7741b188,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Summoner's Grimoire,rare,205,ad625317-23c1-50c4-8141-49bd8d5e31cc,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Suplex,common,164,6b1730c6-32ef-5ad0-b9ac-2dd9e196be25,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Swallowed by Leviathan,uncommon,79,f13c2df2-615b-59e1-a3de-3f9f736e34b0,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Swamp,common,300,92ce255e-768f-545f-a108-16d9c1d9085e,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Swamp,common,301,b9fedbaa-d2ce-55ff-b1cf-58105e5cba08,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Swamp,common,302,a8eced7d-46ba-5312-b5ef-c016b9f85484,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Syncopate,common,80,ff7a2a7e-3747-5c0a-bcfe-40219819d084,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Syr Konrad, the Grim",uncommon,10,fb539530-01d6-53ed-8fa6-6ab45678f71a,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,"Teferi, Mage of Zhalfir",rare,32,131e961f-af58-50c9-a6bf-27f4ac504b33,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Tellah, Great Sage",rare,244,954f0986-c429-5fb4-a590-cc593e1623d4,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Tellah, Great Sage",rare,349,230a88a6-d232-5356-8d25-1aa7fd3993d4,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Terra, Magical Adept // Esper Terra",mythic,245,e445a554-6fc2-547c-9511-2bda007a81fe,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Terra, Magical Adept // Esper Terra",mythic,323,6972eef5-fc4c-5cb5-982f-1592ce3e91cc,0.0014776623376623376,"foil, nonfoil",0.0014772792108646016
+FIN,Final Fantasy,play,The Crystal's Chosen,uncommon,14,b8306c3a-fb2d-5cb4-b6d2-8e7775cd6fb7,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,The Darkness Crystal,rare,335,195af9d0-31d3-5a9d-9fef-e2ac95691ec7,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,The Darkness Crystal,rare,96,e85d7f5a-028b-5ca0-b1a7-5bb36e0e622e,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,The Earth Crystal,rare,184,2a346a2e-9187-50bf-a7d2-e1eeb17d785e,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,The Earth Crystal,rare,342,a46b9daa-87a7-533b-91c7-c0cf166f3579,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,The Emperor of Palamecia // The Lord Master of Hell,uncommon,219,15858d88-b6e2-577b-a03c-5888a6c69d94,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,The Final Days,uncommon,101,c8341134-643c-51b7-b90b-2923e1e16303,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,The Fire Crystal,rare,135,d7aa9e85-1b1f-5633-b091-54f7d722615b,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,The Fire Crystal,rare,337,891d4cae-e041-54a4-a979-c050fccd7edd,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,The Gold Saucer,uncommon,279,b063519d-6944-5a7c-89ee-a898b48de4eb,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,The Lunar Whale,rare,60,320f1df3-3aca-554a-8069-dc960a8db61a,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,The Masamune,rare,264,055890d1-1ca8-5d81-ae86-8497f366f45b,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,The Masamune,rare,353,c55f7bd5-ae9a-5685-9e54-6677ced985c2,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,The Prima Vista,uncommon,64,edbb5409-cce7-5a14-99cd-0ce3ee277583,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,The Regalia,rare,267,a7235ef3-6ddb-5bdf-948e-2ef04137e333,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,The Wandering Minstrel,rare,249,d4770d8b-f5de-50d2-8062-a877bdaccc1f,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,The Wandering Minstrel,rare,403,3ec4b104-4140-5dbe-80ee-1f1b7bc32184,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,The Water Crystal,rare,333,52a3a3f8-c1bc-5080-b767-ad129eb4a241,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,The Water Crystal,rare,85,39770d42-2526-5a12-bc42-851a9f242dcd,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,The Wind Crystal,rare,330,0b59c387-96b4-59e1-92ab-3f31098fe049,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,The Wind Crystal,rare,43,e144f07b-bce2-51ee-935a-ec7e58dfe927,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Thief's Knife,uncommon,81,bd0c1b67-1b00-504d-ba21-e95a0ba68b44,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Thrasios, Triton Hero",mythic,58,f16a74b6-6b38-5f50-bec1-039249ad237b,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,Thunder Magic,common,165,363fb0c7-3b7e-5068-b121-deb5fb62befa,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Tidus, Blitzball Star",uncommon,246,4bfede2a-7a02-55f0-8587-0260300a22e2,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Tifa Lockhart,rare,206,8fcbdff7-e203-5af2-8a4d-2a6a34bedd71,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Tifa Lockhart,rare,391,088cedd1-450a-542f-b3be-809f9ea449b3,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Tifa's Limit Break,uncommon,207,c2986d4d-a260-5993-ac6f-fff7217b8dfa,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Tonberry,uncommon,122,2dfac2a6-15a3-5f36-9adc-eb005e756cf1,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Torgal, A Fine Hound",uncommon,208,95a80572-3e4a-5cf2-aad0-0a132fcaf94c,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Torgal, A Fine Hound",uncommon,345,a974709b-5ee8-51dd-b7fa-2a4ae876d433,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,Town Greeter,common,209,0359dc42-a613-5d96-a7fb-4dffaf4a6edb,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Travel the Overworld,uncommon,82,f6f714c5-484c-5ccd-afdb-b3a80fc8bcc5,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Traveling Chocobo,mythic,210,1183391a-d315-5f9d-b1c6-9a23d2b25587,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Traveling Chocobo,mythic,406,19070be4-c404-58f9-8cfa-e8d53c9a26f5,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,"Traxos, Scourge of Kroog",rare,20,5f13201f-c4ac-589f-907b-ac87d20496b1,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,"Treno, Dark City",common,290,b5556361-abd9-5885-85d8-db8f69848bd3,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,Triple Triad,rare,166,444d9cad-2b07-5180-b4bd-28f2b03595de,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Triple Triad,rare,340,a076d5cf-4066-5f32-bd89-0a7437f93d3f,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Tymna the Weaver,rare,18,34ea3825-0eee-5803-897e-17d0a9546fcf,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Ultima,rare,328,9e6cb522-d720-5f76-a6f9-d6c375d922b9,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Ultima,rare,38,959a2d46-35bf-5951-9252-dc2716968c0f,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Ultima, Origin of Oblivion",rare,2,cf2a028a-0bf9-5d6f-9680-fc0cbea9272e,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Ultima, Origin of Oblivion",rare,324,edf1a73d-5f05-5af7-99cc-bf27d324a1de,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Ultimecia, Time Sorceress // Ultimecia, Omnipotent",uncommon,247,7d822323-4794-5e72-9cc0-812a9b0839c3,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Ultros, Obnoxious Octopus",uncommon,83,a50185b2-7515-571f-8d2f-edb1287440f1,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,Undercity Dire Rat,common,123,b6c7d457-2108-570a-a9a9-7a96e2a0f582,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Unexpected Request,uncommon,167,7e42298a-9c19-58ce-b7ac-1afc01c26998,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Urza, Lord High Artificer",mythic,5,ef39a93d-1ff4-5869-9854-94ab2287f37f,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,"Vaan, Street Thief",rare,168,a5dabb61-bf75-5286-a1f9-c2002c21747c,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Vaan, Street Thief",rare,390,ac840c4b-a081-5c43-b121-ccc7144a84b3,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Valkyrie Aerial Unit,uncommon,84,1879cc77-d8d9-597b-8109-3b4cf78955c9,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Vanille, Cheerful l'Cie // Ragnarok, Divine Deliverance",uncommon,211,2a5b16d1-88c5-59d5-b1fb-f077ba0d1e60,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Vanille, Cheerful l'Cie // Ragnarok, Divine Deliverance",uncommon,392,523b97de-7744-5ca1-adef-818ff02528d1,0.0073121666666666665,"foil, nonfoil",0.0072955552528657375
+FIN,Final Fantasy,play,"Varragoth, Bloodsky Sire",rare,37,80ed6eff-e708-5644-aa96-d0213293d20c,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Vayne's Treachery,common,124,9046c1c4-8b16-539c-ba23-35023afd14d2,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Vector, Imperial Capital",common,291,c2e5add4-37db-53cc-8637-08b88e9c8de0,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,"Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal",rare,329,6e415bf2-0293-56b3-aa30-a996e8acbd67,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal",rare,39,3bdaf96d-80f2-5ce6-8d37-ebd3aa34327d,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Venser, Shaper Savant",rare,6,ab30100d-0cfe-5717-92b1-0f14fdc3ad02,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Vial Smasher the Fierce,mythic,59,e83c78c9-465c-5494-bc43-6105bc32f0aa,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,Vincent Valentine // Galian Beast,rare,125,e71fd26a-4c31-5bec-aa8f-76c5ccf01c08,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,Vincent Valentine // Galian Beast,rare,383,93d4a359-ba36-5b2d-8f82-ee2c58a7972e,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Vincent's Limit Break,common,126,de84bef6-e786-5839-a0c3-a25691f5b6c4,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Vivi Ornitier,mythic,248,940c4310-854f-51b3-80d5-16f56431fe98,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,Vivi Ornitier,mythic,321,305232d0-3a95-55dc-94f6-f4486b83331e,0.0014776623376623376,"foil, nonfoil",0.0014772792108646016
+FIN,Final Fantasy,play,Wall of Omens,uncommon,27,0c49419b-894f-5c90-92e1-e4ed4952e18b,0.012401960784313725,"foil, nonfoil",0.01240196078431366
+FIN,Final Fantasy,play,Warrior's Sword,common,169,36233d7b-1231-561d-9b16-0d2692e9e617,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Wastes,common,309,da896f9b-20d5-5759-8b0f-7919503fd915,0.028124999999999997,"foil, nonfoil",0.028124999999999956
+FIN,Final Fantasy,play,Weapons Vendor,common,40,faa2c388-addc-5cc6-b5b4-6308e17e5b45,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,White Auracite,common,41,2b71653a-860b-55c1-b96d-e64c8cddd68b,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,White Mage's Staff,common,42,706c9748-36d6-572e-bc90-f70da9e93dab,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Windurst, Federation Center",common,292,8847d36e-fef2-5aeb-b791-b4dbe6820105,0.055,"foil, nonfoil",0.05499999999999994
+FIN,Final Fantasy,play,"Winota, Joiner of Forces",rare,19,d46ac082-ef28-52a2-b6c4-e5a2f98a77a5,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,World Map,common,270,28d844ce-bfa8-561d-8147-7eefa41b494f,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,Y'shtola Rhul,mythic,577,038abe2f-3e9d-5084-b570-10433bccef91,0.0014776623376623376,"foil, nonfoil",0.0014772792108646016
+FIN,Final Fantasy,play,Y'shtola Rhul,mythic,86,1f9e7c69-b664-512c-aae8-6440ac181a86,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Yawgmoth, Thran Physician",mythic,11,962d6650-38e0-5151-a3f2-ec6edbf1c799,0.0015555555555555557,"foil, nonfoil",0.0015555555555555323
+FIN,Final Fantasy,play,You're Not Alone,common,44,39cebd6c-194f-577c-8825-016202a1f769,0.09238958333333334,"foil, nonfoil",0.08873703670002275
+FIN,Final Fantasy,play,"Yuna, Hope of Spira",mythic,250,290e4bcc-2dd4-5724-8cf0-927cb3b5822d,0.00621,"foil, nonfoil",0.006203638440624992
+FIN,Final Fantasy,play,"Yuna, Hope of Spira",mythic,404,5156eb3f-6ba3-55a0-8f89-30533d86e9ff,0.000644090909090909,"foil, nonfoil",0.0006439961299540276
+FIN,Final Fantasy,play,"Yuriko, the Tiger's Shadow",rare,60,5d630125-5c1d-5a48-ae73-96a9ac22c006,0.003098958333333333,"foil, nonfoil",0.0030989583333334014
+FIN,Final Fantasy,play,Zack Fair,uncommon,45,0da8d444-b384-5689-868c-3a1cf52d907e,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Zanarkand, Ancient Metropolis // Lasting Fayth",rare,293,425af320-89c9-5905-a16c-ab8dfc2c53d8,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Zanarkand, Ancient Metropolis // Lasting Fayth",rare,314,3c4623da-5176-501a-b616-e36dc9d770d0,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,Zell Dincht,rare,170,550e01bc-81be-5bcb-af22-89d9dacb7cf4,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Zenos yae Galvus // Shinryu, Transcendent Rival",rare,127,88c2b6cd-b62a-5493-ab2d-17f716113210,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Zenos yae Galvus // Shinryu, Transcendent Rival",rare,384,293feb0b-8508-58cc-be9b-520d3a5117f9,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138
+FIN,Final Fantasy,play,"Zidane, Tantalus Thief",uncommon,251,3d757768-5e96-5fb7-9fb4-f367584d90b2,0.03609701902820252,"foil, nonfoil",0.03559417353159011
+FIN,Final Fantasy,play,"Zidane, Tantalus Thief",uncommon,405,f09d306d-5994-520e-b602-5834854033ca,0.0037291666666666667,"foil, nonfoil",0.003728572916666506
+FIN,Final Fantasy,play,"Zodiark, Umbral God",rare,128,ed1642fd-a3c0-5aa7-9946-2768ed6f86ee,0.013359459459459459,"foil, nonfoil",0.013330579152271316
+FIN,Final Fantasy,play,"Zodiark, Umbral God",rare,336,0c360733-30eb-5f06-bd4e-f913b6d63379,0.0018133333333333332,"foil, nonfoil",0.0018127170783344138

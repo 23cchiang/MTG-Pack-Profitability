@@ -22,9 +22,12 @@ PRICE_DECLINES = [0.00, 0.10, 0.20, 0.30]
 SESSIONS = 50_000
 RANDOM_SEED = 4212026
 
-VALUE_COLUMNS = {
-    "SPG nonfoil baseline": "pack_value_spg_nonfoil_usd",
-    "SPG all-foil sensitivity": "pack_value_spg_all_foil_usd",
+BASELINE_COLUMN = "pack_value_baseline_usd"
+
+SENSITIVITY_COLUMNS = {
+    "Special Guest all-foil sensitivity": (
+        "pack_value_spg_all_foil_usd"
+    )
 }
 
 
@@ -111,16 +114,37 @@ def main():
 
     df = pd.read_csv(input_file)
 
-    missing = [
-        column
-        for column in VALUE_COLUMNS.values()
-        if column not in df.columns
-    ]
+    # --------------------------------------------------
+    # Identify available finish scenarios
+    # --------------------------------------------------
 
-    if missing:
-        raise ValueError(
-            f"Missing required columns in Monte Carlo CSV: {missing}"
+    value_columns = {}
+
+    if BASELINE_COLUMN in df.columns:
+        value_columns["Standard baseline"] = BASELINE_COLUMN
+
+    # Backward compatibility with older simulation outputs.
+    elif "pack_value_spg_nonfoil_usd" in df.columns:
+        value_columns["Standard baseline"] = (
+            "pack_value_spg_nonfoil_usd"
         )
+
+    else:
+        raise ValueError(
+            "Monte Carlo CSV is missing its baseline value column. "
+            f"Expected '{BASELINE_COLUMN}'. "
+            f"Found: {list(df.columns)}"
+        )
+
+    # Add Special Guest sensitivity only when the simulation
+    # actually produced that scenario.
+    for label, column in SENSITIVITY_COLUMNS.items():
+        if column in df.columns:
+            value_columns[label] = column
+
+    print("\nAvailable scenarios:")
+    for label, column in value_columns.items():
+        print(f"- {label}: {column}")
 
     rng = np.random.default_rng(RANDOM_SEED)
 
@@ -140,7 +164,7 @@ def main():
     # Price sensitivity calculations
     # --------------------------------------------------
 
-    for finish_assumption, column in VALUE_COLUMNS.items():
+    for finish_assumption, column in value_columns.items():
 
         pack_values = pd.to_numeric(
             df[column],
@@ -305,7 +329,7 @@ def main():
 
     fig, ax = plt.subplots(figsize=(9, 5.5))
 
-    for finish_assumption in VALUE_COLUMNS:
+    for finish_assumption in value_columns:
 
         subset = single_df[
             single_df["finish_assumption"] == finish_assumption
@@ -402,22 +426,24 @@ def main():
     # Terminal output
     # --------------------------------------------------
 
-    print("\nSINGLE-PACK RESULTS — SPG NONFOIL BASELINE")
+    baseline_label = "Standard baseline"
+
+    print(f"\nSINGLE-PACK RESULTS — {baseline_label.upper()}")
 
     print(
         single_df[
-            single_df["finish_assumption"] == "SPG nonfoil baseline"
+            single_df["finish_assumption"] == baseline_label
         ].to_string(
             index=False,
             float_format=lambda value: f"{value:.3f}"
         )
     )
 
-    print("\nMULTI-PACK RESULTS — SPG NONFOIL BASELINE")
+    print(f"\nMULTI-PACK RESULTS — {baseline_label.upper()}")
 
     print(
         multi_df[
-            multi_df["finish_assumption"] == "SPG nonfoil baseline"
+            multi_df["finish_assumption"] == baseline_label
         ].to_string(
             index=False,
             float_format=lambda value: f"{value:.3f}"
@@ -433,7 +459,6 @@ def main():
         chart_path
     ]:
         print(output)
-
 
 if __name__ == "__main__":
     main()
