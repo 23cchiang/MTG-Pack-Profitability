@@ -7,20 +7,21 @@ PROJECT SETTINGS
 - Booster type: play
 - Pack price: $4.99
 - Valuation basis: TCGplayer Market Price
-- SPG baseline assumption: nonfoil
-- SPG sensitivity assumption: all foil
-- Price sensitivity: uniform hypothetical decreases of 0%, 10%, 20%, and 30%
+- Baseline assumption: SPG nonfoil baseline
+- Additional sensitivity assumption: SPG all-foil sensitivity
+- Price sensitivity: hypothetical decreases of 0%, 10%, 20%, and 30%
 - No selling fees, shipping, or buylist discounts are deducted
 
 HEADLINE SINGLE-PACK RESULTS (NO PRICE DECLINE)
 --------------------------------------------------
-SPG nonfoil: mean $5.3227; median $3.2700; mean recovery 106.67%; probability pack value >= cost 22.34%; mean P/L $0.3327; break-even uniform price decline 6.25%.
-SPG all-foil: mean $5.4642; median $3.2700; mean recovery 109.50%; probability pack value >= cost 22.34%; mean P/L $0.4742; break-even uniform price decline 8.68%.
+SPG nonfoil baseline: mean $5.3227; median $3.2700; mean recovery 106.67%; probability pack value >= cost 22.34%; mean P/L $0.3327; break-even price decline 6.25%.
+  At a 10% price decline: mean value $4.7905; mean P/L $-0.1995.
+SPG all-foil sensitivity: mean $5.4642; median $3.2700; mean recovery 109.50%; probability pack value >= cost 22.34%; mean P/L $0.4742; break-even price decline 8.68%.
+  At a 10% price decline: mean value $4.9178; mean P/L $-0.0722.
 
-10% MARKET-PRICE DECLINE CHECK
+BREAK-EVEN INTERPRETATION
 ----------------------------------------
-SPG nonfoil mean pack value: $4.7905; mean P/L: $-0.1995.
-SPG all-foil mean pack value: $4.9178; mean P/L: $-0.0722.
+A break-even price decline of 0% can mean the expected pack value is already below the pack cost. It does not necessarily indicate that the pack is breaking even.
 
 SINGLE-PACK COMPARISON TABLE
 ----------------------------------------
@@ -73,7 +74,7 @@ set_code booster_type        finish_assumption  market_price_decline_percent  pa
 INTERPRETATION AND LIMITATIONS
 - Expected/mean market value is an average, not a guaranteed pack outcome.
 - Median pack value describes the middle simulated pack and can be lower than the mean when rare high-value cards create a right-skewed distribution.
-- The all-foil SPG case is a sensitivity assumption, not a claim that all Special Guest cards are actually foil in every relevant pack.
+- The all-foil Special Guest case is a sensitivity assumption, not a claim that all Special Guest cards are actually foil in every relevant pack.
 - Uniform price declines are hypothetical stress tests, not forecasts.
 - Multi-pack outcomes are resampled from the existing simulated single-pack distribution and assume independent pack outcomes.
 - Results reflect the price snapshot used to build the existing datasets; they are not live TCGplayer prices.
