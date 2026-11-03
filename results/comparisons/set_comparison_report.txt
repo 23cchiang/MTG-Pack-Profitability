@@ -1,0 +1,89 @@
+MTG BOOSTER SET PROFITABILITY COMPARISON
+=================================================================
+
+COMPARISON SETTINGS
+-----------------------------------
+- Sets: Aetherdrift (DFT) and Final Fantasy (FIN)
+- Booster type: Play Boosters
+- Valuation: TCGplayer Market Price
+- Scenarios: Standard baseline only
+- Price declines: 0%, 10%, 20%, and 30%
+- Results are based on the October 19, 2026 market-price snapshot.
+
+SINGLE-PACK COMPARISON AT CURRENT MARKET PRICES
+-------------------------------------------------------
+
+Aetherdrift (DFT)
+Pack cost: $4.99
+Mean simulated pack value: $5.3227
+Median pack value: $3.2700
+Mean profit/loss: $0.3327
+Simulated ROI: 6.67%
+Probability of recovering pack cost: 22.34%
+
+Final Fantasy (FIN)
+Pack cost: $9.34
+Mean simulated pack value: $8.9310
+Median pack value: $5.0100
+Mean profit/loss: $-0.4090
+Simulated ROI: -4.38%
+Probability of recovering pack cost: 23.20%
+
+
+MARKET-PRICE SENSITIVITY
+----------------------------------------
+DFT | Price decline: 0% | Mean value: $5.323 | Mean P/L: $0.333
+DFT | Price decline: 10% | Mean value: $4.790 | Mean P/L: $-0.200
+DFT | Price decline: 20% | Mean value: $4.258 | Mean P/L: $-0.732
+DFT | Price decline: 30% | Mean value: $3.726 | Mean P/L: $-1.264
+FIN | Price decline: 0% | Mean value: $8.931 | Mean P/L: $-0.409
+FIN | Price decline: 10% | Mean value: $8.038 | Mean P/L: $-1.302
+FIN | Price decline: 20% | Mean value: $7.145 | Mean P/L: $-2.195
+FIN | Price decline: 30% | Mean value: $6.252 | Mean P/L: $-3.088
+
+
+MULTI-PACK COMPARISON
+----------------------------------------
+DFT | 10 packs | Price decline: 0% | Mean P/L: $3.24 | Recovery probability: 45.62%
+DFT | 20 packs | Price decline: 0% | Mean P/L: $6.58 | Recovery probability: 49.06%
+DFT | 36 packs | Price decline: 0% | Mean P/L: $12.03 | Recovery probability: 52.36%
+DFT | 100 packs | Price decline: 0% | Mean P/L: $33.51 | Recovery probability: 60.11%
+DFT | 10 packs | Price decline: 10% | Mean P/L: $-2.05 | Recovery probability: 31.76%
+DFT | 20 packs | Price decline: 10% | Mean P/L: $-4.13 | Recovery probability: 29.99%
+DFT | 36 packs | Price decline: 10% | Mean P/L: $-7.29 | Recovery probability: 27.72%
+DFT | 100 packs | Price decline: 10% | Mean P/L: $-19.53 | Recovery probability: 26.26%
+DFT | 10 packs | Price decline: 20% | Mean P/L: $-7.34 | Recovery probability: 19.50%
+DFT | 20 packs | Price decline: 20% | Mean P/L: $-14.70 | Recovery probability: 14.73%
+DFT | 36 packs | Price decline: 20% | Mean P/L: $-26.18 | Recovery probability: 11.89%
+DFT | 100 packs | Price decline: 20% | Mean P/L: $-72.96 | Recovery probability: 14.06%
+DFT | 10 packs | Price decline: 30% | Mean P/L: $-12.73 | Recovery probability: 9.80%
+DFT | 20 packs | Price decline: 30% | Mean P/L: $-25.23 | Recovery probability: 6.28%
+DFT | 36 packs | Price decline: 30% | Mean P/L: $-45.37 | Recovery probability: 6.47%
+DFT | 100 packs | Price decline: 30% | Mean P/L: $-126.17 | Recovery probability: 3.73%
+FIN | 10 packs | Price decline: 0% | Mean P/L: $-4.04 | Recovery probability: 34.09%
+FIN | 20 packs | Price decline: 0% | Mean P/L: $-8.13 | Recovery probability: 35.04%
+FIN | 36 packs | Price decline: 0% | Mean P/L: $-14.61 | Recovery probability: 36.05%
+FIN | 100 packs | Price decline: 0% | Mean P/L: $-40.38 | Recovery probability: 34.13%
+FIN | 10 packs | Price decline: 10% | Mean P/L: $-13.31 | Recovery probability: 25.03%
+FIN | 20 packs | Price decline: 10% | Mean P/L: $-25.90 | Recovery probability: 24.45%
+FIN | 36 packs | Price decline: 10% | Mean P/L: $-47.15 | Recovery probability: 21.28%
+FIN | 100 packs | Price decline: 10% | Mean P/L: $-130.65 | Recovery probability: 12.63%
+FIN | 10 packs | Price decline: 20% | Mean P/L: $-22.02 | Recovery probability: 17.46%
+FIN | 20 packs | Price decline: 20% | Mean P/L: $-43.85 | Recovery probability: 14.74%
+FIN | 36 packs | Price decline: 20% | Mean P/L: $-79.56 | Recovery probability: 10.24%
+FIN | 100 packs | Price decline: 20% | Mean P/L: $-219.71 | Recovery probability: 2.52%
+FIN | 10 packs | Price decline: 30% | Mean P/L: $-30.96 | Recovery probability: 11.28%
+FIN | 20 packs | Price decline: 30% | Mean P/L: $-61.65 | Recovery probability: 7.73%
+FIN | 36 packs | Price decline: 30% | Mean P/L: $-111.24 | Recovery probability: 3.57%
+FIN | 100 packs | Price decline: 30% | Mean P/L: $-308.99 | Recovery probability: 0.16%
+
+
+INTERPRETATION AND LIMITATIONS
+----------------------------------------
+- Mean simulated pack value represents an average across simulated openings, not a guaranteed outcome.
+- The standard baseline is used for both sets to maintain a consistent comparison.
+- DFT's optional Special Guest all-foil sensitivity scenario is excluded from this comparison.
+- Market prices are estimates and do not guarantee resale proceeds.
+- Selling fees, shipping, and buylist discounts are not deducted.
+- Multi-pack simulations assume independent pack outcomes.
+- Market-price declines are hypothetical stress tests, not forecasts.
