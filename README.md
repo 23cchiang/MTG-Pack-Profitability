@@ -104,31 +104,65 @@ The following results use the October 19th, 2026 TCGplayer Market Price snapshot
 - The expected value is already below the purchase price before applying additional market-price declines.
 
 ## Project Structure
+
+<pre>
 MTG-Pack-Profitability/
-│
 ├── data/
 │   ├── raw/
+│   │   ├── DFT.json
+│   │   ├── FIN.json
+│   │   ├── SPG.json
+│   │   ├── FIN_external_cards.json
+│   │   └── ...
 │   ├── processed/
+│   │   ├── DFT_cards_with_prices.csv
+│   │   ├── DFT_tcgplayer_prices.csv
+│   │   ├── DFT_play_card_probabilities.csv
+│   │   ├── FIN_cards_with_prices.csv
+│   │   ├── FIN_tcgplayer_prices.csv
+│   │   └── ...
 │   └── set_probabilities/
+│       └── DFT/
+│           └── slot_probabilities.csv
 │
 ├── results/
 │   ├── individual_sets/
 │   │   ├── DFT/
+│   │   │   ├── tables/
+│   │   │   ├── figures/
+│   │   │   └── reports/
 │   │   └── FIN/
+│   │       ├── tables/
+│   │       ├── figures/
+│   │       └── reports/
 │   └── comparisons/
 │
 ├── scripts/
 │   ├── analysis/
+│   │   ├── analyze_market_value_sensitivity.py
+│   │   ├── analyze_pack_results.py
+│   │   ├── calculate_expected_value.py
+│   │   ├── consolidate_research_results.py
+│   │   └── simulate_pack_profitability.py
 │   ├── data_collection/
+│   │   ├── download_card_prices.py
+│   │   ├── download_mtgjson.py
+│   │   └── download_external_booster_cards.py
 │   ├── data_processing/
+│   │   ├── extract_booster_probabilities.py
+│   │   ├── extract_tcgplayer_prices.py
+│   │   ├── inspect_card_prices.py
+│   │   └── match_set_prices.py
 │   └── validation/
 │
 ├── reports/
-│
+├── .gitignore
 ├── README.md
 └── requirements.txt
+</pre>
 
-Large source datasets and raw downloads are excluded from GitHub when appropriate. In particular, data/raw/AllIdentifiers.json.bz2 is downloaded locally when needed and is excluded through .gitignore
+**Note:** Large source datasets and raw downloads are excluded from GitHub when appropriate. `data/raw/AllIdentifiers.json.bz2` is downloaded locally when needed and excluded through `.gitignore`.
+
 
 ## Running the Project
 ### Requirements
