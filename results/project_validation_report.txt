@@ -1,0 +1,144 @@
+MTG PACK PROFITABILITY PROJECT VALIDATION
+=================================================================
+
+VALIDATION SUMMARY
+------------------------------
+Passed: 43
+Warnings: 0
+Failed: 0
+
+DETAILED RESULTS
+------------------------------
+[PASS] Booster probability data
+    File exists.
+
+[PASS] Booster slot summary
+    File exists.
+
+[PASS] Expected value by card
+    File exists.
+
+[PASS] Expected value by slot
+    File exists.
+
+[PASS] TCGplayer price data
+    File exists.
+
+[PASS] Monte Carlo summary
+    File exists.
+
+[PASS] Monte Carlo pack values
+    File exists.
+
+[PASS] DFT variant probabilities
+    Sum = 1.00000000
+
+[PASS] DFT card sheet probabilities
+    All 26 variant-slot groups sum to 1.
+
+[PASS] DFT pack composition
+    Expected cards per pack = 14.000000
+
+[PASS] DFT slot quantity consistency
+    Probability data matches slot summary.
+
+[PASS] DFT price coverage
+    All expected-value card rows are priced.
+
+[PASS] DFT slot price coverage
+    No missing price rows in slot summary.
+
+[PASS] DFT analytical expected value
+    Card total $5.3067; slot total $5.3067
+
+[PASS] DFT analytical vs. simulation
+    Analytical $5.3067; simulated $5.3227; difference $0.0160
+
+[PASS] DFT simulation count
+    200,000 packs simulated.
+
+[PASS] DFT simulation output integrity
+    200,000 pack values available.
+
+[PASS] DFT expected profit/loss
+    Expected value $5.3067 - pack cost $4.99 = $0.3167
+
+[PASS] Booster probability data
+    File exists.
+
+[PASS] Booster slot summary
+    File exists.
+
+[PASS] Expected value by card
+    File exists.
+
+[PASS] Expected value by slot
+    File exists.
+
+[PASS] TCGplayer price data
+    File exists.
+
+[PASS] Monte Carlo summary
+    File exists.
+
+[PASS] Monte Carlo pack values
+    File exists.
+
+[PASS] FIN variant probabilities
+    Sum = 1.00000000
+
+[PASS] FIN card sheet probabilities
+    All 26 variant-slot groups sum to 1.
+
+[PASS] FIN pack composition
+    Expected cards per pack = 14.000000
+
+[PASS] FIN slot quantity consistency
+    Probability data matches slot summary.
+
+[PASS] FIN price coverage
+    All expected-value card rows are priced.
+
+[PASS] FIN slot price coverage
+    No missing price rows in slot summary.
+
+[PASS] FIN analytical expected value
+    Card total $8.9484; slot total $8.9484
+
+[PASS] FIN analytical vs. simulation
+    Analytical $8.9484; simulated $8.9310; difference $0.0174
+
+[PASS] FIN simulation count
+    200,000 packs simulated.
+
+[PASS] FIN simulation output integrity
+    200,000 pack values available.
+
+[PASS] FIN expected profit/loss
+    Expected value $8.9484 - pack cost $9.34 = $-0.3916
+
+[PASS] Comparison output: set_comparison.csv
+    File exists.
+
+[PASS] Comparison output: multi_pack_comparison.csv
+    File exists.
+
+[PASS] Comparison output: set_comparison_report.txt
+    File exists.
+
+[PASS] Comparison output: set_value_vs_cost.png
+    File exists.
+
+[PASS] Comparison output: market_price_sensitivity.png
+    File exists.
+
+[PASS] Cross-set comparison contents
+    Both DFT and FIN are included.
+
+[PASS] Cross-set baseline scenarios
+    Exactly two baseline rows found.
+
+
+FINAL STATUS
+------------------------------
+ALL VALIDATION CHECKS PASSED.
