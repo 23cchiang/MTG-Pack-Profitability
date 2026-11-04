@@ -105,8 +105,8 @@ def extract_probabilities(set_data, set_code, booster_type):
             "Special Guest card metadata may be missing."
         )
 
-    # Include external cards referenced by the FIN booster configuration.
-    external_path = RAW_DIR / "FIN_external_cards.json"
+    # Include external cards referenced by this set's booster configuration.
+    external_path = RAW_DIR / f"{set_code}_external_cards.json"
 
     if external_path.exists():
         with external_path.open("r", encoding="utf-8") as file:
@@ -115,11 +115,13 @@ def extract_probabilities(set_data, set_code, booster_type):
         card_lookup.update(external_cards)
 
         print(
-            f"Loaded {len(external_cards)} external FIN booster cards."
+            f"Loaded {len(external_cards)} external "
+            f"{set_code} booster cards."
         )
     else:
-        print("NOTE: FIN_external_cards.json not found.")
-
+        print(
+            f"NOTE: {set_code}_external_cards.json not found."
+        )
     rows = []
 
     for variant_number, variant in enumerate(variants, start=1):
