@@ -1,0 +1,27 @@
+TDM PLAY BOOSTER — MONTE CARLO PROFITABILITY
+==============================================================
+Pack price: $6.58
+Simulations: 200,000
+Random seed: 4212026
+
+BASELINE RESULTS
+Simulated mean: $6.4787
+Simulated median: $3.6800
+Analytical expected value: $6.4899
+Difference: $-0.0112
+
+MODEL ASSUMPTIONS
+- Booster variants are sampled using variant probabilities.
+- Cards are sampled independently within each slot.
+- Foil and foilLand slots use foil prices.
+- Other slots use nonfoil prices.
+- Values represent card market value, not cash proceeds after fees.
+
+SPECIAL GUEST ALL-FOIL SENSITIVITY
+Simulated mean: $6.7655
+Analytical expected value: $6.7800
+- Special Guest cards use foil prices in this hypothetical sensitivity scenario.
+
+OUTPUT FILES
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/TDM/tables/TDM_monte_carlo_summary.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/TDM/tables/TDM_monte_carlo_pack_values.csv

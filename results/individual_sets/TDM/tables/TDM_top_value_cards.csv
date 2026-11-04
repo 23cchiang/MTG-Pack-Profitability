@@ -1,0 +1,26 @@
+uuid,card_name,rarity,expected_copies_per_pack,expected_value_contribution_usd,slots
+49fc65ab-f09a-5a9a-b550-f8fde7ac1b5e,"Elspeth, Storm Slayer",mythic,0.008085714285714286,0.4020009285714286,"foil, rareMythicBoosterfun, wildcard"
+22e8c995-d185-5f9f-84cf-a7e799daeeda,"Ugin, Eye of the Storms",mythic,0.008085714285714286,0.3351962857142857,"foil, rareMythicBoosterfun, wildcard"
+986e3fe2-b49e-5158-8e51-05f6da78ba79,Voice of Victory,rare,0.016171428571428573,0.33329114285714284,"foil, rareMythicBoosterfun, wildcard"
+6ec5cd9b-aea6-54f0-8332-bc71ff98f5bb,Craterhoof Behemoth,mythic,0.008085714285714286,0.20183164285714283,"foil, rareMythicBoosterfun, wildcard"
+7703e3b6-8694-53fb-8e63-e17649e610b0,Mistrise Village,rare,0.016171428571428573,0.11926985714285714,"foil, rareMythicBoosterfun, wildcard"
+fb9e8c74-b433-560e-8b91-78bc602bd2f4,Scalding Tarn,mythic,0.0015625,0.109484375,specialGuest
+0bb61288-bcc4-56fe-8eb5-a6cc401aeb26,Mox Jasper,mythic,0.008085714285714286,0.10307999999999999,"foil, rareMythicBoosterfun, wildcard"
+51c8c874-9bfa-5af6-8570-b6ab9d63ba2a,Dracogenesis,mythic,0.008085714285714286,0.09943035714285714,"foil, rareMythicBoosterfun, wildcard"
+914298c5-4bfa-55e8-b398-25e109183c2f,Cori-Steel Cutter,rare,0.016171428571428573,0.09109542857142858,"foil, rareMythicBoosterfun, wildcard"
+309fef85-6d9b-5234-8651-1e4c5c9c2e50,Nature's Rhythm,rare,0.016171428571428573,0.08573471428571429,"foil, rareMythicBoosterfun, wildcard"
+d752c646-307b-5f0c-a4c0-dd4c4357b5e5,Misty Rainforest,mythic,0.0015625,0.07995312500000001,specialGuest
+76bdf413-e394-57ef-8eac-287016377485,Herd Heirloom,rare,0.016171428571428573,0.07902471428571428,"foil, rareMythicBoosterfun, wildcard"
+3f7d749f-1b07-5d14-bd50-5788261bdc1f,Verdant Catacombs,mythic,0.0015625,0.07681249999999999,specialGuest
+4b0e994c-7481-5f7e-9ffd-2714dddd5947,Marsh Flats,mythic,0.0015625,0.071640625,specialGuest
+3971e12b-4bc0-5a07-b5f7-c138fa812b67,Arid Mesa,mythic,0.0015625,0.068515625,specialGuest
+ef7955f4-0aca-53a4-9b00-ffb5ddbae260,"Elspeth, Storm Slayer",mythic,0.0012851227447499634,0.06321793552202953,"foil, rareMythicBoosterfun, wildcard"
+3e18f169-8d68-518c-baab-2e0ca8551b89,Tempest Hawk,common,0.09474537037036986,0.06301458333333287,"common, foil, wildcard"
+6fca668c-fd12-5512-a110-9de5c1634c7d,"Ugin, Eye of the Storms // Ugin, Eye of the Storms",mythic,0.0012851227447499634,0.06091596569061885,"foil, rareMythicBoosterfun, wildcard"
+9de42322-cb51-5a85-a711-766c4039ccdf,Clarion Conqueror,rare,0.016171428571428573,0.060457714285714295,"foil, rareMythicBoosterfun, wildcard"
+919f2be0-249b-5bca-9b2a-54c098adbf9f,Voice of Victory,rare,0.0025702454894998834,0.05743627920732861,"foil, rareMythicBoosterfun, wildcard"
+47366dca-0ac2-5560-93f1-f4901d8d3025,Windcrag Siege,rare,0.016171428571428573,0.05615271428571428,"foil, rareMythicBoosterfun, wildcard"
+4b5578c9-d5f6-50a9-8c9f-d8bc4cd0af7b,Strategic Betrayal,uncommon,0.03903,0.05326650000000001,"foil, uncommon, wildcard"
+6dc09ffa-7a9b-5110-890b-7352b5bdf8b6,"Betor, Kin to All",mythic,0.008085714285714286,0.050393428571428575,"foil, rareMythicBoosterfun, wildcard"
+8f3d82fa-0978-536f-9b05-71ae9cae1726,Jeskai Revelation,mythic,0.008085714285714286,0.04602064285714285,"foil, rareMythicBoosterfun, wildcard"
+d2b9c781-b783-523d-b488-05c37af8b91f,Frostcliff Siege,rare,0.016171428571428573,0.043270142857142854,"foil, rareMythicBoosterfun, wildcard"
