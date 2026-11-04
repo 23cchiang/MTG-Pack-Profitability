@@ -1,0 +1,743 @@
+set_code,set_name,booster_type,card_name,rarity,collector_number,uuid,expected_copies_per_pack,finish_options,probability_at_least_one,price_finish,cardFinish,price,date
+EOE,Edge of Eternities,play,"Adagia, Windswept Bastion",mythic,250,3297cea3-e801-5f49-9ba1-fe7cee0c00e9,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,6.4,2026-10-19
+EOE,Edge of Eternities,play,"Adagia, Windswept Bastion",mythic,250,3297cea3-e801-5f49-9ba1-fe7cee0c00e9,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,6.11,2026-10-19
+EOE,Edge of Eternities,play,"Adagia, Windswept Bastion",mythic,277,223bc127-dce1-5eef-ad8a-b302bdd71374,0.0026966386694663,"foil, nonfoil",0.0026946557696231,foil,foil,8.79,2026-10-19
+EOE,Edge of Eternities,play,"Adagia, Windswept Bastion",mythic,277,223bc127-dce1-5eef-ad8a-b302bdd71374,0.0026966386694663,"foil, nonfoil",0.0026946557696231,normal,normal,7.37,2026-10-19
+EOE,Edge of Eternities,play,All-Fates Scroll,uncommon,234,25546bc4-abf7-561d-a3cd-4911ca6447a0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.36,2026-10-19
+EOE,Edge of Eternities,play,All-Fates Scroll,uncommon,234,25546bc4-abf7-561d-a3cd-4911ca6447a0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.35,2026-10-19
+EOE,Edge of Eternities,play,All-Fates Stalker,uncommon,3,75b581fc-55bc-5d05-90a4-fada38d1bb24,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.18,2026-10-19
+EOE,Edge of Eternities,play,All-Fates Stalker,uncommon,3,75b581fc-55bc-5d05-90a4-fada38d1bb24,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,"Alpharael, Dreaming Acolyte",uncommon,212,a2cad316-2535-59dc-a0ad-717bd49e3e07,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.28,2026-10-19
+EOE,Edge of Eternities,play,"Alpharael, Dreaming Acolyte",uncommon,212,a2cad316-2535-59dc-a0ad-717bd49e3e07,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,"Alpharael, Stonechosen",mythic,292,4d5e89a2-927a-580f-893d-cd73e4855309,0.0010624850014998,"foil, nonfoil",0.001062281281593,foil,foil,2.55,2026-10-19
+EOE,Edge of Eternities,play,"Alpharael, Stonechosen",mythic,292,4d5e89a2-927a-580f-893d-cd73e4855309,0.0010624850014998,"foil, nonfoil",0.001062281281593,normal,normal,1.73,2026-10-19
+EOE,Edge of Eternities,play,"Alpharael, Stonechosen",mythic,87,cc3748ba-0af3-5ade-92b9-ac2e983eb19f,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,0.53,2026-10-19
+EOE,Edge of Eternities,play,"Alpharael, Stonechosen",mythic,87,cc3748ba-0af3-5ade-92b9-ac2e983eb19f,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,0.38,2026-10-19
+EOE,Edge of Eternities,play,Ancient Tomb,mythic,1,64de23a6-3c70-5c11-8dda-4a41120597c9,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,193.75,2026-10-19
+EOE,Edge of Eternities,play,Ancient Tomb,mythic,1,64de23a6-3c70-5c11-8dda-4a41120597c9,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,137.69,2026-10-19
+EOE,Edge of Eternities,play,Annul,uncommon,46,da211b91-5a32-57a4-a1f1-6b0e7a957e39,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,Annul,uncommon,46,da211b91-5a32-57a4-a1f1-6b0e7a957e39,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.32,2026-10-19
+EOE,Edge of Eternities,play,Anticausal Vestige,rare,1,b645e013-baf9-56d9-9ec9-a33db2370d85,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,2.2,2026-10-19
+EOE,Edge of Eternities,play,Anticausal Vestige,rare,1,b645e013-baf9-56d9-9ec9-a33db2370d85,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,2.6,2026-10-19
+EOE,Edge of Eternities,play,Archenemy's Charm,rare,307,0268f22b-ebf9-55d3-b3a7-237f7ea042f3,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,3.94,2026-10-19
+EOE,Edge of Eternities,play,Archenemy's Charm,rare,307,0268f22b-ebf9-55d3-b3a7-237f7ea042f3,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,2.76,2026-10-19
+EOE,Edge of Eternities,play,Archenemy's Charm,rare,88,3c351f5b-847b-503d-bd5f-a9f566678c3f,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,1.37,2026-10-19
+EOE,Edge of Eternities,play,Archenemy's Charm,rare,88,3c351f5b-847b-503d-bd5f-a9f566678c3f,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.82,2026-10-19
+EOE,Edge of Eternities,play,Astelli Reclaimer,rare,288,f6e47d02-efd5-5f85-879a-0da015bdf5b6,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,1.22,2026-10-19
+EOE,Edge of Eternities,play,Astelli Reclaimer,rare,288,f6e47d02-efd5-5f85-879a-0da015bdf5b6,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,0.85,2026-10-19
+EOE,Edge of Eternities,play,Astelli Reclaimer,rare,4,5766bd8e-222b-545d-9207-7ed8229cf336,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.38,2026-10-19
+EOE,Edge of Eternities,play,Astelli Reclaimer,rare,4,5766bd8e-222b-545d-9207-7ed8229cf336,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.28,2026-10-19
+EOE,Edge of Eternities,play,Atmospheric Greenhouse,uncommon,171,20a1cf56-cf9c-5fa1-9585-a5b55c2b42f0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Atmospheric Greenhouse,uncommon,171,20a1cf56-cf9c-5fa1-9585-a5b55c2b42f0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Atomic Microsizer,uncommon,47,7dda246f-9824-5b94-aadd-bd931bdb97d2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Atomic Microsizer,uncommon,47,7dda246f-9824-5b94-aadd-bd931bdb97d2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.21,2026-10-19
+EOE,Edge of Eternities,play,Auxiliary Boosters,common,5,7206479b-0592-5829-bfbf-b3d2d75572a0,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.2,2026-10-19
+EOE,Edge of Eternities,play,Auxiliary Boosters,common,5,7206479b-0592-5829-bfbf-b3d2d75572a0,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Banishing Light,common,6,e7b8ca4f-6404-5dee-9d5b-ddbdce0da8a4,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.28,2026-10-19
+EOE,Edge of Eternities,play,Banishing Light,common,6,e7b8ca4f-6404-5dee-9d5b-ddbdce0da8a4,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.14,2026-10-19
+EOE,Edge of Eternities,play,Beamsaw Prospector,common,89,745af939-073e-5634-9b58-adf90e759a4e,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.2,2026-10-19
+EOE,Edge of Eternities,play,Beamsaw Prospector,common,89,745af939-073e-5634-9b58-adf90e759a4e,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.21,2026-10-19
+EOE,Edge of Eternities,play,Beyond the Quiet,rare,303,942875bc-5710-5307-bcc2-cc1e0c46e423,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,3.54,2026-10-19
+EOE,Edge of Eternities,play,Beyond the Quiet,rare,303,942875bc-5710-5307-bcc2-cc1e0c46e423,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,1.54,2026-10-19
+EOE,Edge of Eternities,play,Beyond the Quiet,rare,7,2d46a056-70fe-58ee-ae4e-d4c84167808e,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.43,2026-10-19
+EOE,Edge of Eternities,play,Beyond the Quiet,rare,7,2d46a056-70fe-58ee-ae4e-d4c84167808e,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.32,2026-10-19
+EOE,Edge of Eternities,play,Bioengineered Future,rare,172,73057b56-3242-5c37-9ea4-54fbfb97ab28,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.45,2026-10-19
+EOE,Edge of Eternities,play,Bioengineered Future,rare,172,73057b56-3242-5c37-9ea4-54fbfb97ab28,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Biomechan Engineer,uncommon,213,2d768ccf-c2f4-50fe-bdcd-7c0fc8ee6e72,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Biomechan Engineer,uncommon,213,2d768ccf-c2f4-50fe-bdcd-7c0fc8ee6e72,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.23,2026-10-19
+EOE,Edge of Eternities,play,Biosynthic Burst,common,173,4dbba6b7-46c2-57de-9922-c4b4e0ca2f7d,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.34,2026-10-19
+EOE,Edge of Eternities,play,Biosynthic Burst,common,173,4dbba6b7-46c2-57de-9922-c4b4e0ca2f7d,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.23,2026-10-19
+EOE,Edge of Eternities,play,Biotech Specialist,rare,214,efa981b9-a8ba-568e-83b4-948f90b8c641,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,1.38,2026-10-19
+EOE,Edge of Eternities,play,Biotech Specialist,rare,214,efa981b9-a8ba-568e-83b4-948f90b8c641,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.39,2026-10-19
+EOE,Edge of Eternities,play,Blade of the Swarm,uncommon,90,df984faa-fa45-55db-bb02-08807efbb5b8,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Blade of the Swarm,uncommon,90,df984faa-fa45-55db-bb02-08807efbb5b8,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Blast Zone,rare,2,b29d28df-c0f0-5237-a52c-62985c82ed15,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.74,2026-10-19
+EOE,Edge of Eternities,play,Blast Zone,rare,2,b29d28df-c0f0-5237-a52c-62985c82ed15,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.96,2026-10-19
+EOE,Edge of Eternities,play,Blinkmoth Nexus,rare,3,0f8f7c7b-59ed-5333-a6e6-d69391d36fde,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.27,2026-10-19
+EOE,Edge of Eternities,play,Blinkmoth Nexus,rare,3,0f8f7c7b-59ed-5333-a6e6-d69391d36fde,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,1.63,2026-10-19
+EOE,Edge of Eternities,play,Blooming Stinger,common,174,33e97c4b-e284-5821-8b87-40d2bf57add4,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Blooming Stinger,common,174,33e97c4b-e284-5821-8b87-40d2bf57add4,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.18,2026-10-19
+EOE,Edge of Eternities,play,Bombard,common,129,a7980388-335b-53c2-a8ff-a2387125d578,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.19,2026-10-19
+EOE,Edge of Eternities,play,Bombard,common,129,a7980388-335b-53c2-a8ff-a2387125d578,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.1,2026-10-19
+EOE,Edge of Eternities,play,Bonders' Enclave,rare,4,41398840-6ba6-548c-83fb-2eaa799376ed,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,2.67,2026-10-19
+EOE,Edge of Eternities,play,Bonders' Enclave,rare,4,41398840-6ba6-548c-83fb-2eaa799376ed,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,1.27,2026-10-19
+EOE,Edge of Eternities,play,Breeding Pool,rare,251,045a795f-8e16-5f01-a2ca-61e3e44d384e,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,9.4,2026-10-19
+EOE,Edge of Eternities,play,Breeding Pool,rare,251,045a795f-8e16-5f01-a2ca-61e3e44d384e,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,9.1,2026-10-19
+EOE,Edge of Eternities,play,Breeding Pool,rare,278,b1caf6a5-d488-58d8-baf5-d61c70446245,0.0021932773389327,"foil, nonfoil",0.0021923627637236,foil,foil,12.23,2026-10-19
+EOE,Edge of Eternities,play,Breeding Pool,rare,278,b1caf6a5-d488-58d8-baf5-d61c70446245,0.0021932773389327,"foil, nonfoil",0.0021923627637236,normal,normal,12.03,2026-10-19
+EOE,Edge of Eternities,play,Brightspear Zealot,common,8,67825231-6e73-591b-9ad3-b0685e049469,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.18,2026-10-19
+EOE,Edge of Eternities,play,Brightspear Zealot,common,8,67825231-6e73-591b-9ad3-b0685e049469,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Broodguard Elite,uncommon,175,27f3069a-ca07-5365-a1da-41cf3f667036,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.34,2026-10-19
+EOE,Edge of Eternities,play,Broodguard Elite,uncommon,175,27f3069a-ca07-5365-a1da-41cf3f667036,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.3,2026-10-19
+EOE,Edge of Eternities,play,Burgeoning,mythic,126,e6a2e058-c5f9-5c9e-aa65-478b151b066c,0.0018,"foil, nonfoil",0.0018,foil,foil,36.64,2026-10-19
+EOE,Edge of Eternities,play,Burgeoning,mythic,126,e6a2e058-c5f9-5c9e-aa65-478b151b066c,0.0018,"foil, nonfoil",0.0018,normal,normal,30.27,2026-10-19
+EOE,Edge of Eternities,play,Bygone Colossus,uncommon,235,35c1989e-2db9-550f-b4ad-a6fb611efdb5,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.37,2026-10-19
+EOE,Edge of Eternities,play,Bygone Colossus,uncommon,235,35c1989e-2db9-550f-b4ad-a6fb611efdb5,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.31,2026-10-19
+EOE,Edge of Eternities,play,Cascading Cataracts,rare,5,c5aa2ccf-6ab3-532d-a10a-78535a55613b,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,6.13,2026-10-19
+EOE,Edge of Eternities,play,Cascading Cataracts,rare,5,c5aa2ccf-6ab3-532d-a10a-78535a55613b,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,2.78,2026-10-19
+EOE,Edge of Eternities,play,Cathedral of War,rare,6,3b351134-b824-5d18-9b64-01ac387188e3,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.14,2026-10-19
+EOE,Edge of Eternities,play,Cathedral of War,rare,6,3b351134-b824-5d18-9b64-01ac387188e3,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.78,2026-10-19
+EOE,Edge of Eternities,play,Celestial Colonnade,rare,7,c4be8f43-9a74-579a-a036-615b8292e6e7,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.19,2026-10-19
+EOE,Edge of Eternities,play,Celestial Colonnade,rare,7,c4be8f43-9a74-579a-a036-615b8292e6e7,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.63,2026-10-19
+EOE,Edge of Eternities,play,Cerebral Download,uncommon,48,b9f32871-cecc-59d2-b6fa-81602b4e6a94,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Cerebral Download,uncommon,48,b9f32871-cecc-59d2-b6fa-81602b4e6a94,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Chorale of the Void,rare,91,4d2f6315-1781-5f67-9a1a-cd514d31b456,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.33,2026-10-19
+EOE,Edge of Eternities,play,Chorale of the Void,rare,91,4d2f6315-1781-5f67-9a1a-cd514d31b456,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.25,2026-10-19
+EOE,Edge of Eternities,play,Chrome Companion,common,236,b3dd8357-a6cc-57a3-83ec-c0f2b95bfa8f,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Chrome Companion,common,236,b3dd8357-a6cc-57a3-83ec-c0f2b95bfa8f,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Close Encounter,uncommon,176,0f238e12-09a5-5446-bf42-bdbd4251a781,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Close Encounter,uncommon,176,0f238e12-09a5-5446-bf42-bdbd4251a781,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Cloudsculpt Technician,common,49,ff59b85f-df84-57ce-a06c-08e26be70b73,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.14,2026-10-19
+EOE,Edge of Eternities,play,Cloudsculpt Technician,common,49,ff59b85f-df84-57ce-a06c-08e26be70b73,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Codecracker Hound,uncommon,50,211becbc-625e-5505-a6bb-2330cc0c5a81,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Codecracker Hound,uncommon,50,211becbc-625e-5505-a6bb-2330cc0c5a81,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Comet Crawler,common,92,625e6645-0e68-5b31-8f7d-465b733eb00e,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Comet Crawler,common,92,625e6645-0e68-5b31-8f7d-465b733eb00e,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Command Bridge,common,252,b7e91fa4-7942-58cb-a988-c761ecbc1e3f,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Command Bridge,common,252,b7e91fa4-7942-58cb-a988-c761ecbc1e3f,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Consult the Star Charts,rare,51,904e330d-ec59-5e5d-bcb4-a705751566d9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,3.93,2026-10-19
+EOE,Edge of Eternities,play,Consult the Star Charts,rare,51,904e330d-ec59-5e5d-bcb4-a705751566d9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,3.88,2026-10-19
+EOE,Edge of Eternities,play,Contested War Zone,rare,8,331674b6-8a59-5da7-81fd-1de51433f8f0,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,0.55,2026-10-19
+EOE,Edge of Eternities,play,Contested War Zone,rare,8,331674b6-8a59-5da7-81fd-1de51433f8f0,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.37,2026-10-19
+EOE,Edge of Eternities,play,Cosmogoyf,rare,215,57911f65-c37c-5fd4-8b91-eff66083f1c9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.39,2026-10-19
+EOE,Edge of Eternities,play,Cosmogoyf,rare,215,57911f65-c37c-5fd4-8b91-eff66083f1c9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.28,2026-10-19
+EOE,Edge of Eternities,play,Cosmogoyf,rare,313,27db2132-e225-555b-ab6c-4e4cf8448498,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,1.96,2026-10-19
+EOE,Edge of Eternities,play,Cosmogoyf,rare,313,27db2132-e225-555b-ab6c-4e4cf8448498,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,0.83,2026-10-19
+EOE,Edge of Eternities,play,Cosmogrand Zenith,mythic,304,843d7240-6ad1-5072-9a6b-19ab4618cd04,0.0011659832016798,"foil, nonfoil",0.0011657338481724,foil,foil,12.18,2026-10-19
+EOE,Edge of Eternities,play,Cosmogrand Zenith,mythic,304,843d7240-6ad1-5072-9a6b-19ab4618cd04,0.0011659832016798,"foil, nonfoil",0.0011657338481724,normal,normal,9.36,2026-10-19
+EOE,Edge of Eternities,play,Cosmogrand Zenith,mythic,9,980c01c8-13f1-5bdf-94af-a6619b603f83,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,7.97,2026-10-19
+EOE,Edge of Eternities,play,Cosmogrand Zenith,mythic,9,980c01c8-13f1-5bdf-94af-a6619b603f83,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,7.21,2026-10-19
+EOE,Edge of Eternities,play,Creeping Tar Pit,rare,9,2a8b8df1-e4fc-5ef3-af93-f41e506cc0ac,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.46,2026-10-19
+EOE,Edge of Eternities,play,Creeping Tar Pit,rare,9,2a8b8df1-e4fc-5ef3-af93-f41e506cc0ac,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.71,2026-10-19
+EOE,Edge of Eternities,play,Cryogen Relic,common,52,24b797a0-8764-57e9-8e21-2b60c8cc9fbf,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,1.37,2026-10-19
+EOE,Edge of Eternities,play,Cryogen Relic,common,52,24b797a0-8764-57e9-8e21-2b60c8cc9fbf,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.28,2026-10-19
+EOE,Edge of Eternities,play,Cryoshatter,common,53,d09eac4f-c7ce-52a7-9ea5-2cc7666e3056,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.18,2026-10-19
+EOE,Edge of Eternities,play,Cryoshatter,common,53,d09eac4f-c7ce-52a7-9ea5-2cc7666e3056,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Crystal Quarry,rare,10,8699c80f-00a4-59b0-a38a-1cf96a13fc57,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.19,2026-10-19
+EOE,Edge of Eternities,play,Crystal Quarry,rare,10,8699c80f-00a4-59b0-a38a-1cf96a13fc57,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.81,2026-10-19
+EOE,Edge of Eternities,play,Cut Propulsion,uncommon,130,84857111-72e8-532f-9f87-eab7c38a6081,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.31,2026-10-19
+EOE,Edge of Eternities,play,Cut Propulsion,uncommon,130,84857111-72e8-532f-9f87-eab7c38a6081,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Dark Endurance,common,93,168408a1-5983-53cc-9859-91648deb8b42,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.2,2026-10-19
+EOE,Edge of Eternities,play,Dark Endurance,common,93,168408a1-5983-53cc-9859-91648deb8b42,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.14,2026-10-19
+EOE,Edge of Eternities,play,Darkness,mythic,124,f08f87e2-8f39-5f65-8fc1-35e9aadaf7b3,0.0018,"foil, nonfoil",0.0018,foil,foil,13.02,2026-10-19
+EOE,Edge of Eternities,play,Darkness,mythic,124,f08f87e2-8f39-5f65-8fc1-35e9aadaf7b3,0.0018,"foil, nonfoil",0.0018,normal,normal,10.76,2026-10-19
+EOE,Edge of Eternities,play,Dauntless Scrapbot,uncommon,237,08b4a77c-cdea-50f3-acff-29ba559eba24,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.4,2026-10-19
+EOE,Edge of Eternities,play,Dauntless Scrapbot,uncommon,237,08b4a77c-cdea-50f3-acff-29ba559eba24,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.29,2026-10-19
+EOE,Edge of Eternities,play,"Dawnsire, Sunstar Dreadnought",mythic,238,2f3bddaf-fdaa-5b38-bad4-53251f91e09f,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,14.62,2026-10-19
+EOE,Edge of Eternities,play,"Dawnsire, Sunstar Dreadnought",mythic,238,2f3bddaf-fdaa-5b38-bad4-53251f91e09f,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,12.39,2026-10-19
+EOE,Edge of Eternities,play,Dawnstrike Vanguard,uncommon,10,105e05f4-f809-5b3e-b972-105ff81aac60,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Dawnstrike Vanguard,uncommon,10,105e05f4-f809-5b3e-b972-105ff81aac60,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Deafening Silence,mythic,120,ce7825f1-c94d-5909-9eb0-e6eacc3b9dc8,0.0018,"foil, nonfoil",0.0018,foil,foil,15.08,2026-10-19
+EOE,Edge of Eternities,play,Deafening Silence,mythic,120,ce7825f1-c94d-5909-9eb0-e6eacc3b9dc8,0.0018,"foil, nonfoil",0.0018,normal,normal,7.08,2026-10-19
+EOE,Edge of Eternities,play,Debris Field Crusher,uncommon,131,247232d0-c4d5-5a41-853f-f2680dc6cb99,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Debris Field Crusher,uncommon,131,247232d0-c4d5-5a41-853f-f2680dc6cb99,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.21,2026-10-19
+EOE,Edge of Eternities,play,Decode Transmissions,common,94,bb2f0391-cc32-5173-9095-3bb15dd116f3,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Decode Transmissions,common,94,bb2f0391-cc32-5173-9095-3bb15dd116f3,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,Depressurize,common,95,3e29c485-fae3-5cf1-9186-6029021fdb1d,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.19,2026-10-19
+EOE,Edge of Eternities,play,Depressurize,common,95,3e29c485-fae3-5cf1-9186-6029021fdb1d,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.1,2026-10-19
+EOE,Edge of Eternities,play,Desculpting Blast,uncommon,54,80c6dc23-2159-5818-b0e1-578703eb37fc,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Desculpting Blast,uncommon,54,80c6dc23-2159-5818-b0e1-578703eb37fc,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.31,2026-10-19
+EOE,Edge of Eternities,play,Deserted Temple,mythic,11,41dfd59b-8026-5501-9394-1394342ec929,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,7.1,2026-10-19
+EOE,Edge of Eternities,play,Deserted Temple,mythic,11,41dfd59b-8026-5501-9394-1394342ec929,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,3.32,2026-10-19
+EOE,Edge of Eternities,play,Devastating Onslaught,mythic,132,b1794575-2f74-57ee-bf63-afed93674087,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,3.52,2026-10-19
+EOE,Edge of Eternities,play,Devastating Onslaught,mythic,132,b1794575-2f74-57ee-bf63-afed93674087,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,4.68,2026-10-19
+EOE,Edge of Eternities,play,Devastating Onslaught,mythic,308,c16b251d-57f0-510e-bbce-c804fc0194f7,0.0011659832016798,"foil, nonfoil",0.0011657338481724,foil,foil,8.71,2026-10-19
+EOE,Edge of Eternities,play,Devastating Onslaught,mythic,308,c16b251d-57f0-510e-bbce-c804fc0194f7,0.0011659832016798,"foil, nonfoil",0.0011657338481724,normal,normal,5.56,2026-10-19
+EOE,Edge of Eternities,play,Diplomatic Relations,common,177,2c9b687b-87f0-5b11-a6f0-0d6ddb929e0d,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.16,2026-10-19
+EOE,Edge of Eternities,play,Diplomatic Relations,common,177,2c9b687b-87f0-5b11-a6f0-0d6ddb929e0d,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Divert Disaster,common,55,48f9e7bc-edf2-5d05-9cff-6109192abe81,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Divert Disaster,common,55,48f9e7bc-edf2-5d05-9cff-6109192abe81,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Dockworker Drone,common,11,b335f09f-ab61-5278-a4d9-9d94d289933c,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Dockworker Drone,common,11,b335f09f-ab61-5278-a4d9-9d94d289933c,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,Drill Too Deep,common,133,84254159-dc1a-5890-af3f-b626cebaa7d0,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Drill Too Deep,common,133,84254159-dc1a-5890-af3f-b626cebaa7d0,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Drix Fatemaker,common,178,fa4c8512-5ed1-55c4-8c06-7036065e2705,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Drix Fatemaker,common,178,fa4c8512-5ed1-55c4-8c06-7036065e2705,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.18,2026-10-19
+EOE,Edge of Eternities,play,Dual-Sun Adepts,uncommon,12,9976f3d8-454b-5f1b-a4a9-c21f4d22a9b9,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.16,2026-10-19
+EOE,Edge of Eternities,play,Dual-Sun Adepts,uncommon,12,9976f3d8-454b-5f1b-a4a9-c21f4d22a9b9,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Dual-Sun Technique,uncommon,13,f80e0573-871d-5471-b4d7-0c70e752e4c3,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Dual-Sun Technique,uncommon,13,f80e0573-871d-5471-b4d7-0c70e752e4c3,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Dubious Delicacy,uncommon,96,e9d37c0b-5d42-5b7a-a0d6-75644018086b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Dubious Delicacy,uncommon,96,e9d37c0b-5d42-5b7a-a0d6-75644018086b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.18,2026-10-19
+EOE,Edge of Eternities,play,Dust Bowl,mythic,12,ff04f38b-b92e-54af-97e4-b89d6f8cde3f,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,4.57,2026-10-19
+EOE,Edge of Eternities,play,Dust Bowl,mythic,12,ff04f38b-b92e-54af-97e4-b89d6f8cde3f,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,2.34,2026-10-19
+EOE,Edge of Eternities,play,"Dyadrine, Synthesis Amalgam",rare,216,335d7a7b-0279-5218-b4a3-1ce4fab8df86,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,"Dyadrine, Synthesis Amalgam",rare,216,335d7a7b-0279-5218-b4a3-1ce4fab8df86,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.29,2026-10-19
+EOE,Edge of Eternities,play,"Dyadrine, Synthesis Amalgam",rare,298,75b2a64f-31c3-5554-a0b2-ff79a4a77c21,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,1.25,2026-10-19
+EOE,Edge of Eternities,play,"Dyadrine, Synthesis Amalgam",rare,298,75b2a64f-31c3-5554-a0b2-ff79a4a77c21,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,0.5,2026-10-19
+EOE,Edge of Eternities,play,Echoing Deeps,rare,13,acf5acca-f6ac-57fc-aa47-2a93e2e39d09,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,3.97,2026-10-19
+EOE,Edge of Eternities,play,Echoing Deeps,rare,13,acf5acca-f6ac-57fc-aa47-2a93e2e39d09,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,1.14,2026-10-19
+EOE,Edge of Eternities,play,Edge Rover,uncommon,179,a8f025f6-6841-5945-ae72-71230914734b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.26,2026-10-19
+EOE,Edge of Eternities,play,Edge Rover,uncommon,179,a8f025f6-6841-5945-ae72-71230914734b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Eldrazi Temple,rare,14,66834355-8875-54c8-a2e1-78e4347b5356,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,7.0,2026-10-19
+EOE,Edge of Eternities,play,Eldrazi Temple,rare,14,66834355-8875-54c8-a2e1-78e4347b5356,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,4.31,2026-10-19
+EOE,Edge of Eternities,play,Elegy Acolyte,rare,293,8f1e97ba-4356-535b-bc81-1a239b2626a7,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,1.38,2026-10-19
+EOE,Edge of Eternities,play,Elegy Acolyte,rare,293,8f1e97ba-4356-535b-bc81-1a239b2626a7,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,0.84,2026-10-19
+EOE,Edge of Eternities,play,Elegy Acolyte,rare,97,b950f390-95b3-5b0c-ad2e-af17cb58cd32,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.47,2026-10-19
+EOE,Edge of Eternities,play,Elegy Acolyte,rare,97,b950f390-95b3-5b0c-ad2e-af17cb58cd32,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.45,2026-10-19
+EOE,Edge of Eternities,play,Embrace Oblivion,common,98,0a83468d-f3fb-58c8-9a80-9299cae531b5,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Embrace Oblivion,common,98,0a83468d-f3fb-58c8-9a80-9299cae531b5,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Emergency Eject,uncommon,14,f3a27c4b-85ec-501f-88c3-ff7a53540beb,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Emergency Eject,uncommon,14,f3a27c4b-85ec-501f-88c3-ff7a53540beb,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.32,2026-10-19
+EOE,Edge of Eternities,play,Emissary Escort,rare,56,f2d455e5-8b12-5a96-b000-9e15346d4321,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.36,2026-10-19
+EOE,Edge of Eternities,play,Emissary Escort,rare,56,f2d455e5-8b12-5a96-b000-9e15346d4321,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.25,2026-10-19
+EOE,Edge of Eternities,play,Endless Sands,rare,15,9683bcdf-8127-5acf-bce4-3776b61ecbd1,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,0.83,2026-10-19
+EOE,Edge of Eternities,play,Endless Sands,rare,15,9683bcdf-8127-5acf-bce4-3776b61ecbd1,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.37,2026-10-19
+EOE,Edge of Eternities,play,Entropic Battlecruiser,rare,99,4c455e6c-e23a-5c37-8889-b735cd838528,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.43,2026-10-19
+EOE,Edge of Eternities,play,Entropic Battlecruiser,rare,99,4c455e6c-e23a-5c37-8889-b735cd838528,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.39,2026-10-19
+EOE,Edge of Eternities,play,Eumidian Terrabotanist,uncommon,180,3ec1cc55-1ee7-59f9-878d-5804ae9a4f3a,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.36,2026-10-19
+EOE,Edge of Eternities,play,Eumidian Terrabotanist,uncommon,180,3ec1cc55-1ee7-59f9-878d-5804ae9a4f3a,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.36,2026-10-19
+EOE,Edge of Eternities,play,Eusocial Engineering,uncommon,181,b54d65c1-0208-577a-9fad-69e6ce2544e0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.35,2026-10-19
+EOE,Edge of Eternities,play,Eusocial Engineering,uncommon,181,b54d65c1-0208-577a-9fad-69e6ce2544e0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.28,2026-10-19
+EOE,Edge of Eternities,play,"Evendo, Waking Haven",mythic,253,cf938c46-6b33-506e-8c65-e554455e9924,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,20.37,2026-10-19
+EOE,Edge of Eternities,play,"Evendo, Waking Haven",mythic,253,cf938c46-6b33-506e-8c65-e554455e9924,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,18.05,2026-10-19
+EOE,Edge of Eternities,play,"Evendo, Waking Haven",mythic,279,8f218e0e-e669-58af-b64c-34240819b9d0,0.0026966386694663,"foil, nonfoil",0.0026946557696231,foil,foil,26.71,2026-10-19
+EOE,Edge of Eternities,play,"Evendo, Waking Haven",mythic,279,8f218e0e-e669-58af-b64c-34240819b9d0,0.0026966386694663,"foil, nonfoil",0.0026946557696231,normal,normal,23.6,2026-10-19
+EOE,Edge of Eternities,play,Exalted Sunborn,mythic,15,40cc019e-a240-5ad3-9944-81c0456e45f6,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,19.44,2026-10-19
+EOE,Edge of Eternities,play,Exalted Sunborn,mythic,15,40cc019e-a240-5ad3-9944-81c0456e45f6,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,21.49,2026-10-19
+EOE,Edge of Eternities,play,Exosuit Savior,common,16,23ea1565-cf8d-5dd7-b32e-541e872ed2d6,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.15,2026-10-19
+EOE,Edge of Eternities,play,Exosuit Savior,common,16,23ea1565-cf8d-5dd7-b32e-541e872ed2d6,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Extinguisher Battleship,rare,242,0d57f475-84f8-5c17-9fcb-d42a7b5d0468,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,1.08,2026-10-19
+EOE,Edge of Eternities,play,Extinguisher Battleship,rare,242,0d57f475-84f8-5c17-9fcb-d42a7b5d0468,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.35,2026-10-19
+EOE,Edge of Eternities,play,Faller's Faithful,uncommon,100,935de565-2d5c-5838-8087-6135b98c1180,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Faller's Faithful,uncommon,100,935de565-2d5c-5838-8087-6135b98c1180,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Famished Worldsire,mythic,182,19a53ba6-5015-541d-9fe5-0655ae37832c,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,3.58,2026-10-19
+EOE,Edge of Eternities,play,Famished Worldsire,mythic,182,19a53ba6-5015-541d-9fe5-0655ae37832c,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,3.84,2026-10-19
+EOE,Edge of Eternities,play,Fell Gravship,uncommon,101,f95ac50b-5b0d-5205-b8b6-1e3e3af15012,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Fell Gravship,uncommon,101,f95ac50b-5b0d-5205-b8b6-1e3e3af15012,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.28,2026-10-19
+EOE,Edge of Eternities,play,Flight-Deck Coordinator,common,17,3a05a31f-0262-5efd-a5d6-1701d139da8e,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Flight-Deck Coordinator,common,17,3a05a31f-0262-5efd-a5d6-1701d139da8e,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Focus Fire,common,18,198c38f8-0be6-560f-a315-f4a621547eb0,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.15,2026-10-19
+EOE,Edge of Eternities,play,Focus Fire,common,18,198c38f8-0be6-560f-a315-f4a621547eb0,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Forest,common,266,0da1cdfe-49d4-5676-a225-11fa9886e584,0.04,"foil, nonfoil",0.04,foil,foil,1.56,2026-10-19
+EOE,Edge of Eternities,play,Forest,common,266,0da1cdfe-49d4-5676-a225-11fa9886e584,0.04,"foil, nonfoil",0.04,normal,normal,1.28,2026-10-19
+EOE,Edge of Eternities,play,Forest,common,275,d3044be7-80e6-5ea7-841c-0b9d5ae2ed07,0.08,"foil, nonfoil",0.08,foil,foil,0.15,2026-10-19
+EOE,Edge of Eternities,play,Forest,common,275,d3044be7-80e6-5ea7-841c-0b9d5ae2ed07,0.08,"foil, nonfoil",0.08,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Forest,common,276,ecc2792a-fbc3-5736-af11-a7b4402c35a2,0.08,"foil, nonfoil",0.08,foil,foil,0.15,2026-10-19
+EOE,Edge of Eternities,play,Forest,common,276,ecc2792a-fbc3-5736-af11-a7b4402c35a2,0.08,"foil, nonfoil",0.08,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Frenzied Baloth,rare,183,98358171-611e-50ac-a73e-a06a66326768,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,3.53,2026-10-19
+EOE,Edge of Eternities,play,Frenzied Baloth,rare,183,98358171-611e-50ac-a73e-a06a66326768,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,2.72,2026-10-19
+EOE,Edge of Eternities,play,Frontline War-Rager,common,134,78d6a842-5c33-5eab-bf5e-16d440220561,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.16,2026-10-19
+EOE,Edge of Eternities,play,Frontline War-Rager,common,134,78d6a842-5c33-5eab-bf5e-16d440220561,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.1,2026-10-19
+EOE,Edge of Eternities,play,Full Bore,uncommon,135,dd50c0f1-829e-5246-a349-8330acaf0532,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.33,2026-10-19
+EOE,Edge of Eternities,play,Full Bore,uncommon,135,dd50c0f1-829e-5246-a349-8330acaf0532,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.27,2026-10-19
+EOE,Edge of Eternities,play,Fungal Colossus,common,184,3da5bcf4-e989-5363-a9b3-f0f7dad55617,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.2,2026-10-19
+EOE,Edge of Eternities,play,Fungal Colossus,common,184,3da5bcf4-e989-5363-a9b3-f0f7dad55617,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Galactic Wayfarer,common,185,9eb5a0ce-f846-50f5-aac7-d873fae9484a,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Galactic Wayfarer,common,185,9eb5a0ce-f846-50f5-aac7-d873fae9484a,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Galvanizing Sawship,uncommon,136,6337be17-98af-5e51-8e74-61176c81077f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Galvanizing Sawship,uncommon,136,6337be17-98af-5e51-8e74-61176c81077f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.21,2026-10-19
+EOE,Edge of Eternities,play,Gemstone Caverns,mythic,16,911657ea-47bb-5312-b13d-d05caf002221,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,106.77,2026-10-19
+EOE,Edge of Eternities,play,Gemstone Caverns,mythic,16,911657ea-47bb-5312-b13d-d05caf002221,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,65.6,2026-10-19
+EOE,Edge of Eternities,play,Gene Pollinator,common,186,d139becb-9887-593c-8120-e6c7c5e63947,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.35,2026-10-19
+EOE,Edge of Eternities,play,Gene Pollinator,common,186,d139becb-9887-593c-8120-e6c7c5e63947,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.35,2026-10-19
+EOE,Edge of Eternities,play,Genemorph Imago,rare,217,8e73f2c9-b77f-59ed-b117-eac568ccbc7b,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.38,2026-10-19
+EOE,Edge of Eternities,play,Genemorph Imago,rare,217,8e73f2c9-b77f-59ed-b117-eac568ccbc7b,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Genemorph Imago,rare,299,fa2f1bca-72ae-5de0-8286-f38e9de41fd1,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,0.59,2026-10-19
+EOE,Edge of Eternities,play,Genemorph Imago,rare,299,fa2f1bca-72ae-5de0-8286-f38e9de41fd1,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,0.33,2026-10-19
+EOE,Edge of Eternities,play,Germinating Wurm,common,187,5b66c0e5-f516-5701-b33c-4480c18ec713,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Germinating Wurm,common,187,5b66c0e5-f516-5701-b33c-4480c18ec713,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Gigastorm Titan,uncommon,57,0e0ff5c9-3005-5790-b3e2-0135048d5aee,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Gigastorm Titan,uncommon,57,0e0ff5c9-3005-5790-b3e2-0135048d5aee,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.18,2026-10-19
+EOE,Edge of Eternities,play,Glacier Godmaw,uncommon,188,64372e90-fb52-5ad2-8231-335fa699e43b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.34,2026-10-19
+EOE,Edge of Eternities,play,Glacier Godmaw,uncommon,188,64372e90-fb52-5ad2-8231-335fa699e43b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.31,2026-10-19
+EOE,Edge of Eternities,play,Godless Shrine,rare,254,fdf9a4b0-15fd-5ee2-879a-e655de72d44c,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,9.69,2026-10-19
+EOE,Edge of Eternities,play,Godless Shrine,rare,254,fdf9a4b0-15fd-5ee2-879a-e655de72d44c,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,8.23,2026-10-19
+EOE,Edge of Eternities,play,Godless Shrine,rare,280,8d8da147-e97c-53cf-acee-6aea28ab2ae7,0.0021932773389327,"foil, nonfoil",0.0021923627637236,foil,foil,11.99,2026-10-19
+EOE,Edge of Eternities,play,Godless Shrine,rare,280,8d8da147-e97c-53cf-acee-6aea28ab2ae7,0.0021932773389327,"foil, nonfoil",0.0021923627637236,normal,normal,10.81,2026-10-19
+EOE,Edge of Eternities,play,Gravblade Heavy,common,102,a498a081-f041-5b5b-9c40-53cdf051d671,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.14,2026-10-19
+EOE,Edge of Eternities,play,Gravblade Heavy,common,102,a498a081-f041-5b5b-9c40-53cdf051d671,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.05,2026-10-19
+EOE,Edge of Eternities,play,Gravkill,common,103,6ec59796-7b8e-53f9-a705-8bc64345e7c8,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.26,2026-10-19
+EOE,Edge of Eternities,play,Gravkill,common,103,6ec59796-7b8e-53f9-a705-8bc64345e7c8,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.21,2026-10-19
+EOE,Edge of Eternities,play,Gravpack Monoist,common,104,31ad7696-f5b6-55ea-8dbb-76585a8e687c,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Gravpack Monoist,common,104,31ad7696-f5b6-55ea-8dbb-76585a8e687c,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Green Sun's Zenith,mythic,127,619f530c-02f7-53a1-b204-b17cda62ffab,0.0018,"foil, nonfoil",0.0018,foil,foil,56.59,2026-10-19
+EOE,Edge of Eternities,play,Green Sun's Zenith,mythic,127,619f530c-02f7-53a1-b204-b17cda62ffab,0.0018,"foil, nonfoil",0.0018,normal,normal,33.09,2026-10-19
+EOE,Edge of Eternities,play,Grove of the Burnwillows,mythic,17,ac252711-d161-54cd-a88e-586870bd78a6,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,8.76,2026-10-19
+EOE,Edge of Eternities,play,Grove of the Burnwillows,mythic,17,ac252711-d161-54cd-a88e-586870bd78a6,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,7.73,2026-10-19
+EOE,Edge of Eternities,play,"Haliya, Ascendant Cadet",uncommon,218,ec20cbee-650c-5c7b-8682-96e13bf793a1,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.28,2026-10-19
+EOE,Edge of Eternities,play,"Haliya, Ascendant Cadet",uncommon,218,ec20cbee-650c-5c7b-8682-96e13bf793a1,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,"Haliya, Guided by Light",rare,19,d2baf7a3-6c49-5237-83d3-6d0f008853c2,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,5.43,2026-10-19
+EOE,Edge of Eternities,play,"Haliya, Guided by Light",rare,19,d2baf7a3-6c49-5237-83d3-6d0f008853c2,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,5.59,2026-10-19
+EOE,Edge of Eternities,play,"Haliya, Guided by Light",rare,289,694f0077-68b2-5d56-8415-75dca89c1ae2,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,10.1,2026-10-19
+EOE,Edge of Eternities,play,"Haliya, Guided by Light",rare,289,694f0077-68b2-5d56-8415-75dca89c1ae2,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,6.56,2026-10-19
+EOE,Edge of Eternities,play,Hardlight Containment,rare,20,38260303-4846-5df5-92ba-af99bc7d04fb,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,Hardlight Containment,rare,20,38260303-4846-5df5-92ba-af99bc7d04fb,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Harmonious Grovestrider,uncommon,189,2b27be15-9495-5972-bd25-c58f2fcfa004,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.28,2026-10-19
+EOE,Edge of Eternities,play,Harmonious Grovestrider,uncommon,189,2b27be15-9495-5972-bd25-c58f2fcfa004,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Hemosymbic Mite,uncommon,190,0a85ef06-ed74-5b99-bf0e-e52b14bffd5b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Hemosymbic Mite,uncommon,190,0a85ef06-ed74-5b99-bf0e-e52b14bffd5b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.22,2026-10-19
+EOE,Edge of Eternities,play,High Market,rare,18,aa5f215f-8e75-5476-a3f2-a45637dac0e1,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,3.12,2026-10-19
+EOE,Edge of Eternities,play,High Market,rare,18,aa5f215f-8e75-5476-a3f2-a45637dac0e1,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,2.27,2026-10-19
+EOE,Edge of Eternities,play,Hissing Quagmire,rare,19,d200b94f-ccd4-5105-900d-d68de17654cc,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,0.64,2026-10-19
+EOE,Edge of Eternities,play,Hissing Quagmire,rare,19,d200b94f-ccd4-5105-900d-d68de17654cc,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.53,2026-10-19
+EOE,Edge of Eternities,play,Honor,uncommon,21,6c07ebec-6c70-5eb2-b48a-579348470f52,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.44,2026-10-19
+EOE,Edge of Eternities,play,Honor,uncommon,21,6c07ebec-6c70-5eb2-b48a-579348470f52,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.29,2026-10-19
+EOE,Edge of Eternities,play,Honored Knight-Captain,uncommon,22,5f2f065e-a5e2-5d2a-9087-4a881eb1da5c,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.26,2026-10-19
+EOE,Edge of Eternities,play,Honored Knight-Captain,uncommon,22,5f2f065e-a5e2-5d2a-9087-4a881eb1da5c,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.25,2026-10-19
+EOE,Edge of Eternities,play,Hullcarver,common,105,f02798c5-2f70-56a7-95a1-7a4c626c5a8c,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Hullcarver,common,105,f02798c5-2f70-56a7-95a1-7a4c626c5a8c,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.23,2026-10-19
+EOE,Edge of Eternities,play,Hylderblade,uncommon,106,23575bcb-8f23-535a-a5cd-a09f495a612a,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Hylderblade,uncommon,106,23575bcb-8f23-535a-a5cd-a09f495a612a,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,Hymn of the Faller,uncommon,107,12e2128f-3776-54b6-87d3-c37b7b828bf7,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.31,2026-10-19
+EOE,Edge of Eternities,play,Hymn of the Faller,uncommon,107,12e2128f-3776-54b6-87d3-c37b7b828bf7,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Icecave Crasher,common,191,d4d5986e-7d6f-5c6c-9622-68f46544b9c9,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Icecave Crasher,common,191,d4d5986e-7d6f-5c6c-9622-68f46544b9c9,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.1,2026-10-19
+EOE,Edge of Eternities,play,Icetill Explorer,rare,192,74ffe6a6-0f56-5e44-a016-189161704bb8,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,22.24,2026-10-19
+EOE,Edge of Eternities,play,Icetill Explorer,rare,192,74ffe6a6-0f56-5e44-a016-189161704bb8,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,21.45,2026-10-19
+EOE,Edge of Eternities,play,Illvoi Galeblade,common,58,f9b39f22-40ab-5bd7-83f9-64c2324ac250,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.33,2026-10-19
+EOE,Edge of Eternities,play,Illvoi Galeblade,common,58,f9b39f22-40ab-5bd7-83f9-64c2324ac250,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.23,2026-10-19
+EOE,Edge of Eternities,play,Illvoi Infiltrator,uncommon,59,7231a297-08b4-5da8-a5cb-e1842697d673,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Illvoi Infiltrator,uncommon,59,7231a297-08b4-5da8-a5cb-e1842697d673,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Illvoi Light Jammer,common,60,4f148947-4118-56e5-a013-ac93812408f3,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Illvoi Light Jammer,common,60,4f148947-4118-56e5-a013-ac93812408f3,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Illvoi Operative,common,61,d52be241-37d7-5a35-94f4-8e73aef8ea60,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Illvoi Operative,common,61,d52be241-37d7-5a35-94f4-8e73aef8ea60,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Infinite Guideline Station,rare,219,322f0dfe-4322-5437-b8ec-e900bc9444f5,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.35,2026-10-19
+EOE,Edge of Eternities,play,Infinite Guideline Station,rare,219,322f0dfe-4322-5437-b8ec-e900bc9444f5,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.27,2026-10-19
+EOE,Edge of Eternities,play,Inkmoth Nexus,mythic,20,09e7d881-8a91-57b5-b608-4357af0f1598,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,15.79,2026-10-19
+EOE,Edge of Eternities,play,Inkmoth Nexus,mythic,20,09e7d881-8a91-57b5-b608-4357af0f1598,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,12.93,2026-10-19
+EOE,Edge of Eternities,play,Insatiable Skittermaw,common,108,3bbe8f5e-07bf-5505-b043-62ac1655305d,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Insatiable Skittermaw,common,108,3bbe8f5e-07bf-5505-b043-62ac1655305d,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Interceptor Mechan,uncommon,220,43155730-5806-58e0-91b1-e0b0e09ddea2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Interceptor Mechan,uncommon,220,43155730-5806-58e0-91b1-e0b0e09ddea2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Intrepid Tenderfoot,common,193,c75c6e0f-c81f-5a2e-8755-5bff7ffad799,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Intrepid Tenderfoot,common,193,c75c6e0f-c81f-5a2e-8755-5bff7ffad799,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.09,2026-10-19
+EOE,Edge of Eternities,play,Invasive Maneuvers,uncommon,137,1260b87d-ad50-5ff9-aeaf-f026cad4760f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Invasive Maneuvers,uncommon,137,1260b87d-ad50-5ff9-aeaf-f026cad4760f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,Inventors' Fair,mythic,21,153a0c0b-022f-505f-b705-789430cd0be0,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,24.65,2026-10-19
+EOE,Edge of Eternities,play,Inventors' Fair,mythic,21,153a0c0b-022f-505f-b705-789430cd0be0,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,21.02,2026-10-19
+EOE,Edge of Eternities,play,Island,common,263,6c4735c6-a7ba-55d6-9f4b-fb36aae5d2b9,0.04,"foil, nonfoil",0.04,foil,foil,1.62,2026-10-19
+EOE,Edge of Eternities,play,Island,common,263,6c4735c6-a7ba-55d6-9f4b-fb36aae5d2b9,0.04,"foil, nonfoil",0.04,normal,normal,1.24,2026-10-19
+EOE,Edge of Eternities,play,Island,common,269,3bf9f062-0a9d-5e69-a318-3b9b70a0caf9,0.08,"foil, nonfoil",0.08,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Island,common,269,3bf9f062-0a9d-5e69-a318-3b9b70a0caf9,0.08,"foil, nonfoil",0.08,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Island,common,270,37bf1b7e-bf43-55f2-9b3e-4669d1e5d7ed,0.08,"foil, nonfoil",0.08,foil,foil,0.16,2026-10-19
+EOE,Edge of Eternities,play,Island,common,270,37bf1b7e-bf43-55f2-9b3e-4669d1e5d7ed,0.08,"foil, nonfoil",0.08,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Kav Landseeker,common,138,8c676497-f73d-51a6-8991-9e1a37a97e1b,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.15,2026-10-19
+EOE,Edge of Eternities,play,Kav Landseeker,common,138,8c676497-f73d-51a6-8991-9e1a37a97e1b,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.14,2026-10-19
+EOE,Edge of Eternities,play,Kavaron Harrier,uncommon,139,6e689bda-5c39-5724-8a53-1b5ac0ac6ef9,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Kavaron Harrier,uncommon,139,6e689bda-5c39-5724-8a53-1b5ac0ac6ef9,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Kavaron Skywarden,common,140,c49627c1-c157-521c-b08b-1c90be69256c,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.19,2026-10-19
+EOE,Edge of Eternities,play,Kavaron Skywarden,common,140,c49627c1-c157-521c-b08b-1c90be69256c,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Kavaron Turbodrone,common,141,79ff3d43-583f-5967-860f-d37b383dbd88,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.17,2026-10-19
+EOE,Edge of Eternities,play,Kavaron Turbodrone,common,141,79ff3d43-583f-5967-860f-d37b383dbd88,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.1,2026-10-19
+EOE,Edge of Eternities,play,"Kavaron, Memorial World",mythic,255,9e577cde-9916-5281-9d48-074f18b659dd,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,1.83,2026-10-19
+EOE,Edge of Eternities,play,"Kavaron, Memorial World",mythic,255,9e577cde-9916-5281-9d48-074f18b659dd,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,1.47,2026-10-19
+EOE,Edge of Eternities,play,"Kavaron, Memorial World",mythic,281,99d74648-3d0b-5d83-8ff6-40c62ef2f14a,0.0026966386694663,"foil, nonfoil",0.0026946557696231,foil,foil,2.91,2026-10-19
+EOE,Edge of Eternities,play,"Kavaron, Memorial World",mythic,281,99d74648-3d0b-5d83-8ff6-40c62ef2f14a,0.0026966386694663,"foil, nonfoil",0.0026946557696231,normal,normal,2.15,2026-10-19
+EOE,Edge of Eternities,play,Knight Luminary,common,23,83b8280d-91aa-59f7-9bbd-74d55fc257ac,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.16,2026-10-19
+EOE,Edge of Eternities,play,Knight Luminary,common,23,83b8280d-91aa-59f7-9bbd-74d55fc257ac,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Larval Scoutlander,uncommon,194,0ad694c0-6ed6-54ef-8383-8f02f2f8f452,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Larval Scoutlander,uncommon,194,0ad694c0-6ed6-54ef-8383-8f02f2f8f452,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.27,2026-10-19
+EOE,Edge of Eternities,play,Lashwhip Predator,uncommon,195,4b7ab054-5f68-595c-b459-37620a9f9d03,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Lashwhip Predator,uncommon,195,4b7ab054-5f68-595c-b459-37620a9f9d03,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Lavaclaw Reaches,rare,22,99934978-d8eb-5dcb-86fc-b8f59b1cd16c,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.14,2026-10-19
+EOE,Edge of Eternities,play,Lavaclaw Reaches,rare,22,99934978-d8eb-5dcb-86fc-b8f59b1cd16c,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.41,2026-10-19
+EOE,Edge of Eternities,play,Lightless Evangel,uncommon,109,63fe3ed5-24e7-5406-8b6b-227bce4ff12b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.31,2026-10-19
+EOE,Edge of Eternities,play,Lightless Evangel,uncommon,109,63fe3ed5-24e7-5406-8b6b-227bce4ff12b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.25,2026-10-19
+EOE,Edge of Eternities,play,Lightstall Inquisitor,rare,24,95d71d27-41d8-50e4-8bf6-5046c578a59a,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.41,2026-10-19
+EOE,Edge of Eternities,play,Lightstall Inquisitor,rare,24,95d71d27-41d8-50e4-8bf6-5046c578a59a,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.37,2026-10-19
+EOE,Edge of Eternities,play,Lithobraking,uncommon,142,19aa48d5-afdf-5298-bc7e-f2e375712a26,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Lithobraking,uncommon,142,19aa48d5-afdf-5298-bc7e-f2e375712a26,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,Loading Zone,rare,196,01237d3a-0d61-57a9-a271-1aaf6baaa999,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,2.36,2026-10-19
+EOE,Edge of Eternities,play,Loading Zone,rare,196,01237d3a-0d61-57a9-a271-1aaf6baaa999,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.74,2026-10-19
+EOE,Edge of Eternities,play,Lost in Space,common,62,32294f07-796b-5334-94a8-1bffb9423bab,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.15,2026-10-19
+EOE,Edge of Eternities,play,Lost in Space,common,62,32294f07-796b-5334-94a8-1bffb9423bab,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.12,2026-10-19
+EOE,Edge of Eternities,play,Lotus Field,mythic,23,333c1e9e-ad73-5049-975b-e0b9251becb4,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,19.82,2026-10-19
+EOE,Edge of Eternities,play,Lotus Field,mythic,23,333c1e9e-ad73-5049-975b-e0b9251becb4,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,10.58,2026-10-19
+EOE,Edge of Eternities,play,Lumbering Falls,rare,24,13c6fbdf-3240-5910-92f4-ba9e1ce3c29d,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,0.79,2026-10-19
+EOE,Edge of Eternities,play,Lumbering Falls,rare,24,13c6fbdf-3240-5910-92f4-ba9e1ce3c29d,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.4,2026-10-19
+EOE,Edge of Eternities,play,Lumen-Class Frigate,rare,25,579977d0-8575-5b6b-9cb8-2555b3652032,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.43,2026-10-19
+EOE,Edge of Eternities,play,Lumen-Class Frigate,rare,25,579977d0-8575-5b6b-9cb8-2555b3652032,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.29,2026-10-19
+EOE,Edge of Eternities,play,Luxknight Breacher,common,26,feb3f728-2e98-5012-9f2a-02cb83dc5285,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Luxknight Breacher,common,26,feb3f728-2e98-5012-9f2a-02cb83dc5285,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Magus of the Moon,mythic,125,0af0b432-993c-526b-a5d8-327fd19678b0,0.0018,"foil, nonfoil",0.0018,foil,foil,9.69,2026-10-19
+EOE,Edge of Eternities,play,Magus of the Moon,mythic,125,0af0b432-993c-526b-a5d8-327fd19678b0,0.0018,"foil, nonfoil",0.0018,normal,normal,4.79,2026-10-19
+EOE,Edge of Eternities,play,Mana Confluence,mythic,25,cee11e88-a6b3-5375-b2de-91900792dba2,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,52.24,2026-10-19
+EOE,Edge of Eternities,play,Mana Confluence,mythic,25,cee11e88-a6b3-5375-b2de-91900792dba2,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,37.68,2026-10-19
+EOE,Edge of Eternities,play,Mechan Assembler,uncommon,63,a5f897b9-d398-5e70-8eaf-0dd4346d12e9,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Mechan Assembler,uncommon,63,a5f897b9-d398-5e70-8eaf-0dd4346d12e9,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Mechan Navigator,uncommon,64,f6ac0772-a5e1-5931-be25-31e1ba7f5628,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.19,2026-10-19
+EOE,Edge of Eternities,play,Mechan Navigator,uncommon,64,f6ac0772-a5e1-5931-be25-31e1ba7f5628,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.28,2026-10-19
+EOE,Edge of Eternities,play,Mechan Shieldmate,common,65,80889db1-4ad6-5390-88bf-9ad52f0abecc,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.19,2026-10-19
+EOE,Edge of Eternities,play,Mechan Shieldmate,common,65,80889db1-4ad6-5390-88bf-9ad52f0abecc,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.1,2026-10-19
+EOE,Edge of Eternities,play,Mechanozoa,common,66,74fe21a2-09a4-5f92-98a0-1491aafdcf75,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Mechanozoa,common,66,74fe21a2-09a4-5f92-98a0-1491aafdcf75,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.12,2026-10-19
+EOE,Edge of Eternities,play,Melded Moxite,common,143,563324c9-c473-5fd7-9698-2c64274b9fef,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Melded Moxite,common,143,563324c9-c473-5fd7-9698-2c64274b9fef,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Meltstrider Eulogist,uncommon,197,0dd9081e-1caa-54f4-9687-e8e48f62f8ba,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Meltstrider Eulogist,uncommon,197,0dd9081e-1caa-54f4-9687-e8e48f62f8ba,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.32,2026-10-19
+EOE,Edge of Eternities,play,Meltstrider's Gear,common,198,c5d12af8-cd9f-5cd4-b8ab-f6e72b77482d,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.19,2026-10-19
+EOE,Edge of Eternities,play,Meltstrider's Gear,common,198,c5d12af8-cd9f-5cd4-b8ab-f6e72b77482d,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.21,2026-10-19
+EOE,Edge of Eternities,play,Meltstrider's Resolve,uncommon,199,d462e93d-cf5b-5374-9511-f3174ebfbf16,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.37,2026-10-19
+EOE,Edge of Eternities,play,Meltstrider's Resolve,uncommon,199,d462e93d-cf5b-5374-9511-f3174ebfbf16,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.35,2026-10-19
+EOE,Edge of Eternities,play,Memorial Team Leader,uncommon,144,2acf54d5-a8ca-56c7-8688-2d9e277f9556,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Memorial Team Leader,uncommon,144,2acf54d5-a8ca-56c7-8688-2d9e277f9556,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Memorial Vault,rare,145,63b58bfd-72b8-5942-9b93-9670bcedfba3,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Memorial Vault,rare,145,63b58bfd-72b8-5942-9b93-9670bcedfba3,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.22,2026-10-19
+EOE,Edge of Eternities,play,Mental Modulation,common,67,721ca719-5725-580c-80ad-2b9e040026fa,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,Mental Modulation,common,67,721ca719-5725-580c-80ad-2b9e040026fa,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Meteor Crater,rare,26,d73d7e5d-9fda-5918-9694-d8d12899f860,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,3.11,2026-10-19
+EOE,Edge of Eternities,play,Meteor Crater,rare,26,d73d7e5d-9fda-5918-9694-d8d12899f860,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,1.73,2026-10-19
+EOE,Edge of Eternities,play,Mightform Harmonizer,rare,200,056adf19-4161-5d4a-865b-d48b6ccf663f,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,3.18,2026-10-19
+EOE,Edge of Eternities,play,Mightform Harmonizer,rare,200,056adf19-4161-5d4a-865b-d48b6ccf663f,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,2.47,2026-10-19
+EOE,Edge of Eternities,play,Mightform Harmonizer,rare,297,d1786040-85df-5e05-8875-adae613a906c,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,5.44,2026-10-19
+EOE,Edge of Eternities,play,Mightform Harmonizer,rare,297,d1786040-85df-5e05-8875-adae613a906c,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,5.14,2026-10-19
+EOE,Edge of Eternities,play,Mirrorpool,mythic,27,b3da72d4-ff03-51e4-8d8a-ffa8152a25e4,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,10.11,2026-10-19
+EOE,Edge of Eternities,play,Mirrorpool,mythic,27,b3da72d4-ff03-51e4-8d8a-ffa8152a25e4,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,4.48,2026-10-19
+EOE,Edge of Eternities,play,"Mm'menon, Uthros Exile",uncommon,221,1def52d7-cf8e-502c-b632-f20569c33111,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,"Mm'menon, Uthros Exile",uncommon,221,1def52d7-cf8e-502c-b632-f20569c33111,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.25,2026-10-19
+EOE,Edge of Eternities,play,"Mm'menon, the Right Hand",rare,290,afdb3a6b-0e81-5318-988b-43e43f5259b8,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,2.9,2026-10-19
+EOE,Edge of Eternities,play,"Mm'menon, the Right Hand",rare,290,afdb3a6b-0e81-5318-988b-43e43f5259b8,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,1.87,2026-10-19
+EOE,Edge of Eternities,play,"Mm'menon, the Right Hand",rare,68,652c953e-4ff1-5371-8e2f-47fc30b64173,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.37,2026-10-19
+EOE,Edge of Eternities,play,"Mm'menon, the Right Hand",rare,68,652c953e-4ff1-5371-8e2f-47fc30b64173,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.33,2026-10-19
+EOE,Edge of Eternities,play,Molecular Modifier,uncommon,146,db748064-5b49-5692-aaa5-1195cb28ec68,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Molecular Modifier,uncommon,146,db748064-5b49-5692-aaa5-1195cb28ec68,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Monoist Circuit-Feeder,uncommon,110,cfc8cafe-334f-5104-bc93-6c8f28475f0d,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.31,2026-10-19
+EOE,Edge of Eternities,play,Monoist Circuit-Feeder,uncommon,110,cfc8cafe-334f-5104-bc93-6c8f28475f0d,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.14,2026-10-19
+EOE,Edge of Eternities,play,Monoist Sentry,uncommon,111,d7678592-bbf0-531a-b983-8a12836cec8d,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.26,2026-10-19
+EOE,Edge of Eternities,play,Monoist Sentry,uncommon,111,d7678592-bbf0-531a-b983-8a12836cec8d,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Moonlit Meditation,rare,69,76f05aa2-9035-5ef5-9c7e-3563ab984fa6,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.52,2026-10-19
+EOE,Edge of Eternities,play,Moonlit Meditation,rare,69,76f05aa2-9035-5ef5-9c7e-3563ab984fa6,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.38,2026-10-19
+EOE,Edge of Eternities,play,Mountain,common,265,bb1881f9-202e-5eac-a754-6f34b3808c17,0.04,"foil, nonfoil",0.04,foil,foil,2.51,2026-10-19
+EOE,Edge of Eternities,play,Mountain,common,265,bb1881f9-202e-5eac-a754-6f34b3808c17,0.04,"foil, nonfoil",0.04,normal,normal,1.62,2026-10-19
+EOE,Edge of Eternities,play,Mountain,common,273,ab1ef946-8a4a-51d9-90ba-43860225a4c9,0.08,"foil, nonfoil",0.08,foil,foil,0.13,2026-10-19
+EOE,Edge of Eternities,play,Mountain,common,273,ab1ef946-8a4a-51d9-90ba-43860225a4c9,0.08,"foil, nonfoil",0.08,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Mountain,common,274,9b1b7040-b809-5e3a-b587-9cc6b8e91b05,0.08,"foil, nonfoil",0.08,foil,foil,0.14,2026-10-19
+EOE,Edge of Eternities,play,Mountain,common,274,9b1b7040-b809-5e3a-b587-9cc6b8e91b05,0.08,"foil, nonfoil",0.08,normal,normal,0.22,2026-10-19
+EOE,Edge of Eternities,play,Mouth of the Storm,uncommon,70,931697b9-01f0-5f3d-bbed-bd1490b9dd6e,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Mouth of the Storm,uncommon,70,931697b9-01f0-5f3d-bbed-bd1490b9dd6e,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Mutavault,mythic,28,32c9fd22-edb4-5bcb-b18f-431768cc1638,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,7.98,2026-10-19
+EOE,Edge of Eternities,play,Mutavault,mythic,28,32c9fd22-edb4-5bcb-b18f-431768cc1638,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,5.7,2026-10-19
+EOE,Edge of Eternities,play,Mutinous Massacre,rare,222,f41a271b-7d3a-5bcc-a8ad-1b3b225f6fa2,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.38,2026-10-19
+EOE,Edge of Eternities,play,Mutinous Massacre,rare,222,f41a271b-7d3a-5bcc-a8ad-1b3b225f6fa2,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.27,2026-10-19
+EOE,Edge of Eternities,play,Mutinous Massacre,rare,314,dd9d3cef-7b13-5572-a794-b199d9c799e0,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,0.84,2026-10-19
+EOE,Edge of Eternities,play,Mutinous Massacre,rare,314,dd9d3cef-7b13-5572-a794-b199d9c799e0,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,0.59,2026-10-19
+EOE,Edge of Eternities,play,Mystifying Maze,rare,29,9f3641de-0522-5b56-b36b-1b1f46f2a98f,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,0.73,2026-10-19
+EOE,Edge of Eternities,play,Mystifying Maze,rare,29,9f3641de-0522-5b56-b36b-1b1f46f2a98f,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.59,2026-10-19
+EOE,Edge of Eternities,play,Nanoform Sentinel,common,71,f3b52f42-f70c-5bce-b4eb-1cd21abcf28d,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Nanoform Sentinel,common,71,f3b52f42-f70c-5bce-b4eb-1cd21abcf28d,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Nebula Dragon,common,147,7d69fa12-2fcc-546e-b1cf-8e0fbdb210d5,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Nebula Dragon,common,147,7d69fa12-2fcc-546e-b1cf-8e0fbdb210d5,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Needle Spires,rare,30,da2be75f-875e-5d9f-a685-71b797c54a8a,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,0.88,2026-10-19
+EOE,Edge of Eternities,play,Needle Spires,rare,30,da2be75f-875e-5d9f-a685-71b797c54a8a,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.42,2026-10-19
+EOE,Edge of Eternities,play,Nesting Grounds,rare,31,e172095d-93f2-54c4-8bc6-4810be6c4fb1,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.75,2026-10-19
+EOE,Edge of Eternities,play,Nesting Grounds,rare,31,e172095d-93f2-54c4-8bc6-4810be6c4fb1,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,1.17,2026-10-19
+EOE,Edge of Eternities,play,Nexus of Fate,mythic,122,79ffd1d8-e771-57bb-aee2-4dda3ece18cc,0.0018,"foil, nonfoil",0.0018,foil,foil,11.89,2026-10-19
+EOE,Edge of Eternities,play,Nexus of Fate,mythic,122,79ffd1d8-e771-57bb-aee2-4dda3ece18cc,0.0018,"foil, nonfoil",0.0018,normal,normal,7.75,2026-10-19
+EOE,Edge of Eternities,play,Nova Hellkite,rare,148,5f18904d-4a74-5986-b02f-2b258e130543,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.7,2026-10-19
+EOE,Edge of Eternities,play,Nova Hellkite,rare,148,5f18904d-4a74-5986-b02f-2b258e130543,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.56,2026-10-19
+EOE,Edge of Eternities,play,Nova Hellkite,rare,309,e1224c57-5684-5817-afad-43ac85f3ad29,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,1.87,2026-10-19
+EOE,Edge of Eternities,play,Nova Hellkite,rare,309,e1224c57-5684-5817-afad-43ac85f3ad29,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,1.37,2026-10-19
+EOE,Edge of Eternities,play,Nutrient Block,common,243,beb91c1a-65b5-55ef-87cc-597362bb4ca4,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.33,2026-10-19
+EOE,Edge of Eternities,play,Nutrient Block,common,243,beb91c1a-65b5-55ef-87cc-597362bb4ca4,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Orbital Plunge,common,149,cee0a1a0-9b30-5625-81bd-44f9cd832c72,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Orbital Plunge,common,149,cee0a1a0-9b30-5625-81bd-44f9cd832c72,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Oreplate Pangolin,common,150,045435e4-0173-5f63-a73e-7c5e23445135,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.26,2026-10-19
+EOE,Edge of Eternities,play,Oreplate Pangolin,common,150,045435e4-0173-5f63-a73e-7c5e23445135,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.14,2026-10-19
+EOE,Edge of Eternities,play,Ouroboroid,mythic,201,73a40c12-ea04-53e4-93e8-05dbbdce184d,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,37.14,2026-10-19
+EOE,Edge of Eternities,play,Ouroboroid,mythic,201,73a40c12-ea04-53e4-93e8-05dbbdce184d,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,35.83,2026-10-19
+EOE,Edge of Eternities,play,Pain for All,rare,151,e9a7da62-2113-5371-a960-38e01af28435,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,1.52,2026-10-19
+EOE,Edge of Eternities,play,Pain for All,rare,151,e9a7da62-2113-5371-a960-38e01af28435,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.92,2026-10-19
+EOE,Edge of Eternities,play,Paradox Haze,mythic,123,86f05d61-eb08-5c8a-a042-1984c7b703ab,0.0018,"foil, nonfoil",0.0018,foil,foil,5.71,2026-10-19
+EOE,Edge of Eternities,play,Paradox Haze,mythic,123,86f05d61-eb08-5c8a-a042-1984c7b703ab,0.0018,"foil, nonfoil",0.0018,normal,normal,4.3,2026-10-19
+EOE,Edge of Eternities,play,Perigee Beckoner,common,112,5dbfc98c-f23c-5b63-a440-0ee68f39690f,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Perigee Beckoner,common,112,5dbfc98c-f23c-5b63-a440-0ee68f39690f,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Petrified Field,mythic,32,dc3542cc-8d1b-5a77-aadd-7a5c0edde757,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,3.68,2026-10-19
+EOE,Edge of Eternities,play,Petrified Field,mythic,32,dc3542cc-8d1b-5a77-aadd-7a5c0edde757,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,1.97,2026-10-19
+EOE,Edge of Eternities,play,Pinnacle Emissary,rare,223,e41bd886-cb0a-56dd-95cb-f5c23781110b,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,1.94,2026-10-19
+EOE,Edge of Eternities,play,Pinnacle Emissary,rare,223,e41bd886-cb0a-56dd-95cb-f5c23781110b,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.33,2026-10-19
+EOE,Edge of Eternities,play,Pinnacle Kill-Ship,common,244,e09fdb1b-4dd5-58d9-a417-b5f558d6c99e,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.31,2026-10-19
+EOE,Edge of Eternities,play,Pinnacle Kill-Ship,common,244,e09fdb1b-4dd5-58d9-a417-b5f558d6c99e,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.23,2026-10-19
+EOE,Edge of Eternities,play,Pinnacle Starcage,rare,27,ffcdc8c0-8100-591a-b466-90cf25122340,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.38,2026-10-19
+EOE,Edge of Eternities,play,Pinnacle Starcage,rare,27,ffcdc8c0-8100-591a-b466-90cf25122340,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.36,2026-10-19
+EOE,Edge of Eternities,play,Plains,common,262,170306de-5e56-594a-aa80-e0aa6c5d03ee,0.04,"foil, nonfoil",0.04,foil,foil,1.07,2026-10-19
+EOE,Edge of Eternities,play,Plains,common,262,170306de-5e56-594a-aa80-e0aa6c5d03ee,0.04,"foil, nonfoil",0.04,normal,normal,1.05,2026-10-19
+EOE,Edge of Eternities,play,Plains,common,267,d53bcaed-aad8-5745-8b2e-b73cea17fec9,0.08,"foil, nonfoil",0.08,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Plains,common,267,d53bcaed-aad8-5745-8b2e-b73cea17fec9,0.08,"foil, nonfoil",0.08,normal,normal,0.18,2026-10-19
+EOE,Edge of Eternities,play,Plains,common,268,c7e26aa4-d3b1-514a-8668-5490a8498568,0.08,"foil, nonfoil",0.08,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Plains,common,268,c7e26aa4-d3b1-514a-8668-5490a8498568,0.08,"foil, nonfoil",0.08,normal,normal,0.21,2026-10-19
+EOE,Edge of Eternities,play,Plasma Bolt,common,152,66aa9853-dadf-5d12-82d3-12c7e7c12239,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Plasma Bolt,common,152,66aa9853-dadf-5d12-82d3-12c7e7c12239,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Plaza of Heroes,mythic,33,d0391bfb-3ead-5b23-b0be-9781abacc72e,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,15.26,2026-10-19
+EOE,Edge of Eternities,play,Plaza of Heroes,mythic,33,d0391bfb-3ead-5b23-b0be-9781abacc72e,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,8.57,2026-10-19
+EOE,Edge of Eternities,play,Possibility Technician,rare,153,72e4013e-6cce-5b3d-b8bf-58c571d8d6f8,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.26,2026-10-19
+EOE,Edge of Eternities,play,Possibility Technician,rare,153,72e4013e-6cce-5b3d-b8bf-58c571d8d6f8,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.22,2026-10-19
+EOE,Edge of Eternities,play,Possibility Technician,rare,295,a9eb2545-b14a-51f7-9a89-a5721da42991,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,0.36,2026-10-19
+EOE,Edge of Eternities,play,Possibility Technician,rare,295,a9eb2545-b14a-51f7-9a89-a5721da42991,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,0.3,2026-10-19
+EOE,Edge of Eternities,play,Power Depot,rare,34,3fc9fdb7-0ff1-59eb-b292-86378ae2fe17,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,3.06,2026-10-19
+EOE,Edge of Eternities,play,Power Depot,rare,34,3fc9fdb7-0ff1-59eb-b292-86378ae2fe17,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,1.79,2026-10-19
+EOE,Edge of Eternities,play,Pull Through the Weft,uncommon,202,1cb8ad88-1732-58ec-a443-4d408ba6f9a2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.28,2026-10-19
+EOE,Edge of Eternities,play,Pull Through the Weft,uncommon,202,1cb8ad88-1732-58ec-a443-4d408ba6f9a2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Pulsar Squadron Ace,uncommon,28,b3a6dbd8-731e-544b-9431-f2ad43e38351,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Pulsar Squadron Ace,uncommon,28,b3a6dbd8-731e-544b-9431-f2ad43e38351,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Quantum Riddler,mythic,305,368f0c94-fcc9-5eba-bdcf-58c5bf07580e,0.0011659832016798,"foil, nonfoil",0.0011657338481724,foil,foil,56.02,2026-10-19
+EOE,Edge of Eternities,play,Quantum Riddler,mythic,305,368f0c94-fcc9-5eba-bdcf-58c5bf07580e,0.0011659832016798,"foil, nonfoil",0.0011657338481724,normal,normal,44.28,2026-10-19
+EOE,Edge of Eternities,play,Quantum Riddler,mythic,72,6a99d4a2-2ab5-5e71-b710-11dba09dfd6e,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,38.91,2026-10-19
+EOE,Edge of Eternities,play,Quantum Riddler,mythic,72,6a99d4a2-2ab5-5e71-b710-11dba09dfd6e,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,35.13,2026-10-19
+EOE,Edge of Eternities,play,Radiant Strike,common,29,cd9cce10-d8b8-50b9-ab3a-4f1c84011a6d,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.2,2026-10-19
+EOE,Edge of Eternities,play,Radiant Strike,common,29,cd9cce10-d8b8-50b9-ab3a-4f1c84011a6d,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Raging Ravine,rare,35,b6463324-f545-5551-b62e-a4911af6ee97,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,0.8,2026-10-19
+EOE,Edge of Eternities,play,Raging Ravine,rare,35,b6463324-f545-5551-b62e-a4911af6ee97,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.44,2026-10-19
+EOE,Edge of Eternities,play,"Ragost, Deft Gastronaut",rare,224,146d71bd-e779-5d02-9e70-91b8d34f3527,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.47,2026-10-19
+EOE,Edge of Eternities,play,"Ragost, Deft Gastronaut",rare,224,146d71bd-e779-5d02-9e70-91b8d34f3527,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.33,2026-10-19
+EOE,Edge of Eternities,play,"Ragost, Deft Gastronaut",rare,300,b312ff38-9d61-5eb2-8b97-6095af452456,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,5.11,2026-10-19
+EOE,Edge of Eternities,play,"Ragost, Deft Gastronaut",rare,300,b312ff38-9d61-5eb2-8b97-6095af452456,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,2.75,2026-10-19
+EOE,Edge of Eternities,play,Rayblade Trooper,uncommon,30,040862c3-ad10-5d5a-92fc-f19eb8f123aa,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Rayblade Trooper,uncommon,30,040862c3-ad10-5d5a-92fc-f19eb8f123aa,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Red Tiger Mechan,common,154,c6d9daaa-7abf-55b8-a128-8e374edfc5f5,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.17,2026-10-19
+EOE,Edge of Eternities,play,Red Tiger Mechan,common,154,c6d9daaa-7abf-55b8-a128-8e374edfc5f5,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Reflecting Pool,mythic,36,9751d882-de4e-5874-8800-56d8ddce1fb9,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,23.19,2026-10-19
+EOE,Edge of Eternities,play,Reflecting Pool,mythic,36,9751d882-de4e-5874-8800-56d8ddce1fb9,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,18.21,2026-10-19
+EOE,Edge of Eternities,play,Remnant Elemental,uncommon,155,dc06669d-67ee-5fbd-bb5b-ccb450dbb0e2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Remnant Elemental,uncommon,155,dc06669d-67ee-5fbd-bb5b-ccb450dbb0e2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.12,2026-10-19
+EOE,Edge of Eternities,play,Requiem Monolith,rare,113,e04b3cc3-2f7f-5540-9479-bba890c10f42,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.42,2026-10-19
+EOE,Edge of Eternities,play,Requiem Monolith,rare,113,e04b3cc3-2f7f-5540-9479-bba890c10f42,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.33,2026-10-19
+EOE,Edge of Eternities,play,Reroute Systems,uncommon,31,0cff8488-3df6-5bcb-b4b0-fac112f32b06,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Reroute Systems,uncommon,31,0cff8488-3df6-5bcb-b4b0-fac112f32b06,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.21,2026-10-19
+EOE,Edge of Eternities,play,Rescue Skiff,uncommon,32,883b79bb-c05f-5d45-bf9d-47bbd2dadcd0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,Rescue Skiff,uncommon,32,883b79bb-c05f-5d45-bf9d-47bbd2dadcd0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Rig for War,common,156,486f04f8-db2d-503e-848d-07e4f7ebd03f,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.19,2026-10-19
+EOE,Edge of Eternities,play,Rig for War,common,156,486f04f8-db2d-503e-848d-07e4f7ebd03f,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Robe of Stars,mythic,121,469b74f0-5831-5957-bc7d-75ae16332ce5,0.0018,"foil, nonfoil",0.0018,foil,foil,21.74,2026-10-19
+EOE,Edge of Eternities,play,Robe of Stars,mythic,121,469b74f0-5831-5957-bc7d-75ae16332ce5,0.0018,"foil, nonfoil",0.0018,normal,normal,16.0,2026-10-19
+EOE,Edge of Eternities,play,Roving Actuator,uncommon,157,8fd905db-03a0-5b60-8012-783a1fe87eaf,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.16,2026-10-19
+EOE,Edge of Eternities,play,Roving Actuator,uncommon,157,8fd905db-03a0-5b60-8012-783a1fe87eaf,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Ruinous Rampage,uncommon,158,1f67723b-08d2-533d-97a4-1c08196f3bec,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Ruinous Rampage,uncommon,158,1f67723b-08d2-533d-97a4-1c08196f3bec,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.23,2026-10-19
+EOE,Edge of Eternities,play,Rust Harvester,rare,159,72448e55-2be2-561e-b2f8-ae6bb1c945c5,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Rust Harvester,rare,159,72448e55-2be2-561e-b2f8-ae6bb1c945c5,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.29,2026-10-19
+EOE,Edge of Eternities,play,Rust Harvester,rare,310,b42d1d65-8aac-56f5-b3dd-f526dcf7449e,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,0.45,2026-10-19
+EOE,Edge of Eternities,play,Rust Harvester,rare,310,b42d1d65-8aac-56f5-b3dd-f526dcf7449e,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,0.36,2026-10-19
+EOE,Edge of Eternities,play,Sacred Foundry,rare,256,3e8d1feb-d031-5960-9669-bb48e29921d0,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,11.79,2026-10-19
+EOE,Edge of Eternities,play,Sacred Foundry,rare,256,3e8d1feb-d031-5960-9669-bb48e29921d0,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,10.4,2026-10-19
+EOE,Edge of Eternities,play,Sacred Foundry,rare,282,76998b1e-1354-5a09-b3ce-cf559720f630,0.0021932773389327,"foil, nonfoil",0.0021923627637236,foil,foil,12.94,2026-10-19
+EOE,Edge of Eternities,play,Sacred Foundry,rare,282,76998b1e-1354-5a09-b3ce-cf559720f630,0.0021932773389327,"foil, nonfoil",0.0021923627637236,normal,normal,12.06,2026-10-19
+EOE,Edge of Eternities,play,Sami's Curiosity,common,203,a5e1446b-8952-5e5d-9182-791e0279f3c3,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Sami's Curiosity,common,203,a5e1446b-8952-5e5d-9182-791e0279f3c3,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,"Sami, Ship's Engineer",uncommon,225,5b8b8343-04ee-5066-a10b-1616feceb309,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,"Sami, Ship's Engineer",uncommon,225,5b8b8343-04ee-5066-a10b-1616feceb309,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.18,2026-10-19
+EOE,Edge of Eternities,play,"Sami, Wildcat Captain",mythic,226,280d1060-e175-58b9-8ae7-dd8219a855fc,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,1.78,2026-10-19
+EOE,Edge of Eternities,play,"Sami, Wildcat Captain",mythic,226,280d1060-e175-58b9-8ae7-dd8219a855fc,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,2.13,2026-10-19
+EOE,Edge of Eternities,play,"Sami, Wildcat Captain",mythic,301,6589b5c9-e3d7-5926-9a45-9141f0acc646,0.0010624850014998,"foil, nonfoil",0.001062281281593,foil,foil,10.0,2026-10-19
+EOE,Edge of Eternities,play,"Sami, Wildcat Captain",mythic,301,6589b5c9-e3d7-5926-9a45-9141f0acc646,0.0010624850014998,"foil, nonfoil",0.001062281281593,normal,normal,5.0,2026-10-19
+EOE,Edge of Eternities,play,Scavenger Grounds,rare,37,5de13c8a-28f1-52ae-8428-9a410c0ba36f,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,3.11,2026-10-19
+EOE,Edge of Eternities,play,Scavenger Grounds,rare,37,5de13c8a-28f1-52ae-8428-9a410c0ba36f,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,1.73,2026-10-19
+EOE,Edge of Eternities,play,Scour for Scrap,uncommon,73,c69ed3d6-9407-5848-9b13-020cf024dedc,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,1.5,2026-10-19
+EOE,Edge of Eternities,play,Scour for Scrap,uncommon,73,c69ed3d6-9407-5848-9b13-020cf024dedc,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.42,2026-10-19
+EOE,Edge of Eternities,play,Scout for Survivors,uncommon,33,c2af89e4-bfb4-5982-8899-769562e9f7f5,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Scout for Survivors,uncommon,33,c2af89e4-bfb4-5982-8899-769562e9f7f5,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.25,2026-10-19
+EOE,Edge of Eternities,play,Scrounge for Eternity,uncommon,114,4f6498f1-2ad1-5ab8-9470-53bb9d3769d3,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.28,2026-10-19
+EOE,Edge of Eternities,play,Scrounge for Eternity,uncommon,114,4f6498f1-2ad1-5ab8-9470-53bb9d3769d3,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.25,2026-10-19
+EOE,Edge of Eternities,play,Seam Rip,uncommon,34,1360bf3d-8be9-53db-8c5e-ee91783127da,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,1.6,2026-10-19
+EOE,Edge of Eternities,play,Seam Rip,uncommon,34,1360bf3d-8be9-53db-8c5e-ee91783127da,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.83,2026-10-19
+EOE,Edge of Eternities,play,Secluded Starforge,rare,257,9e8391a4-28a0-5388-b78c-72acec1852cc,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.74,2026-10-19
+EOE,Edge of Eternities,play,Secluded Starforge,rare,257,9e8391a4-28a0-5388-b78c-72acec1852cc,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.37,2026-10-19
+EOE,Edge of Eternities,play,Secluded Starforge,rare,316,2b63381a-3594-5668-bdb9-4e0f0da7babc,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,2.11,2026-10-19
+EOE,Edge of Eternities,play,Secluded Starforge,rare,316,2b63381a-3594-5668-bdb9-4e0f0da7babc,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,1.37,2026-10-19
+EOE,Edge of Eternities,play,Seedship Agrarian,uncommon,204,afb1927c-cee6-575a-96b7-fcac4d38aac9,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Seedship Agrarian,uncommon,204,afb1927c-cee6-575a-96b7-fcac4d38aac9,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Seedship Broodtender,uncommon,227,b6670d07-8b6f-52ee-ad30-6b605e6a0f75,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,Seedship Broodtender,uncommon,227,b6670d07-8b6f-52ee-ad30-6b605e6a0f75,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.29,2026-10-19
+EOE,Edge of Eternities,play,Seedship Impact,uncommon,205,d1e3ddf6-9f47-537b-b9e8-46287d13e18e,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,Seedship Impact,uncommon,205,d1e3ddf6-9f47-537b-b9e8-46287d13e18e,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.27,2026-10-19
+EOE,Edge of Eternities,play,Selfcraft Mechan,common,74,91925ab1-4605-5601-9988-b474721df4ff,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.19,2026-10-19
+EOE,Edge of Eternities,play,Selfcraft Mechan,common,74,91925ab1-4605-5601-9988-b474721df4ff,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Shambling Vent,rare,38,5278b9d4-5ba1-5ba5-b883-e4bb4e975b35,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.05,2026-10-19
+EOE,Edge of Eternities,play,Shambling Vent,rare,38,5278b9d4-5ba1-5ba5-b883-e4bb4e975b35,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.45,2026-10-19
+EOE,Edge of Eternities,play,Shattered Wings,common,206,acd6b440-74cc-5df1-8ea1-9988c8b721fd,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Shattered Wings,common,206,acd6b440-74cc-5df1-8ea1-9988c8b721fd,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Singularity Rupture,rare,228,fe2f8311-9920-5c7c-b541-43b43c7f68b7,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,1.49,2026-10-19
+EOE,Edge of Eternities,play,Singularity Rupture,rare,228,fe2f8311-9920-5c7c-b541-43b43c7f68b7,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.5,2026-10-19
+EOE,Edge of Eternities,play,Sinister Cryologist,common,75,ca243c48-09f2-5dbf-9df1-9bfa94fe8711,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.17,2026-10-19
+EOE,Edge of Eternities,play,Sinister Cryologist,common,75,ca243c48-09f2-5dbf-9df1-9bfa94fe8711,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Skystinger,common,207,6cf26ef5-8566-5cfd-8815-9eedb3a3f017,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Skystinger,common,207,6cf26ef5-8566-5cfd-8815-9eedb3a3f017,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.08,2026-10-19
+EOE,Edge of Eternities,play,Slagdrill Scrapper,common,160,58f45240-0f2e-5338-870d-c59130fd6b5f,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Slagdrill Scrapper,common,160,58f45240-0f2e-5338-870d-c59130fd6b5f,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.12,2026-10-19
+EOE,Edge of Eternities,play,Sledge-Class Seedship,rare,208,ccc2a6ca-edee-5166-993f-6f7f8201f46a,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.36,2026-10-19
+EOE,Edge of Eternities,play,Sledge-Class Seedship,rare,208,ccc2a6ca-edee-5166-993f-6f7f8201f46a,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.29,2026-10-19
+EOE,Edge of Eternities,play,Sliver Overlord,mythic,128,e3723116-0722-5f6e-be47-932ac47409e9,0.0018,"foil, nonfoil",0.0018,foil,foil,42.2,2026-10-19
+EOE,Edge of Eternities,play,Sliver Overlord,mythic,128,e3723116-0722-5f6e-be47-932ac47409e9,0.0018,"foil, nonfoil",0.0018,normal,normal,29.81,2026-10-19
+EOE,Edge of Eternities,play,"Sothera, the Supervoid",mythic,115,3382c59b-10c6-54bb-af78-d8093f8bbae4,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,3.6,2026-10-19
+EOE,Edge of Eternities,play,"Sothera, the Supervoid",mythic,115,3382c59b-10c6-54bb-af78-d8093f8bbae4,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,2.91,2026-10-19
+EOE,Edge of Eternities,play,Space-Time Anomaly,rare,229,cef325fe-d2ab-528d-ad44-34a0925d4ae2,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.43,2026-10-19
+EOE,Edge of Eternities,play,Space-Time Anomaly,rare,229,cef325fe-d2ab-528d-ad44-34a0925d4ae2,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.37,2026-10-19
+EOE,Edge of Eternities,play,Space-Time Anomaly,rare,315,e1055693-0bbc-504e-bde6-887f465b5262,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,2.35,2026-10-19
+EOE,Edge of Eternities,play,Space-Time Anomaly,rare,315,e1055693-0bbc-504e-bde6-887f465b5262,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,1.79,2026-10-19
+EOE,Edge of Eternities,play,Specimen Freighter,uncommon,76,c8cf2a6a-3205-5dca-9165-8054c7132f6b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.28,2026-10-19
+EOE,Edge of Eternities,play,Specimen Freighter,uncommon,76,c8cf2a6a-3205-5dca-9165-8054c7132f6b,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Squire's Lightblade,common,36,91ffd314-c812-5723-aa15-9b66eba00cd8,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Squire's Lightblade,common,36,91ffd314-c812-5723-aa15-9b66eba00cd8,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Starbreach Whale,common,77,44d82dfb-1d92-5d37-9011-35365a3d543a,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Starbreach Whale,common,77,44d82dfb-1d92-5d37-9011-35365a3d543a,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,Starfield Shepherd,uncommon,37,ffce2b7a-c694-5688-94ae-9d44e3175ad2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.39,2026-10-19
+EOE,Edge of Eternities,play,Starfield Shepherd,uncommon,37,ffce2b7a-c694-5688-94ae-9d44e3175ad2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.35,2026-10-19
+EOE,Edge of Eternities,play,Starfield Vocalist,rare,78,5cebd1ba-8a70-5480-bdb6-fd64e11cf5d9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,2.93,2026-10-19
+EOE,Edge of Eternities,play,Starfield Vocalist,rare,78,5cebd1ba-8a70-5480-bdb6-fd64e11cf5d9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.68,2026-10-19
+EOE,Edge of Eternities,play,Starfighter Pilot,common,38,0874a673-2835-5600-91f1-5e5b90cae352,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Starfighter Pilot,common,38,0874a673-2835-5600-91f1-5e5b90cae352,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.21,2026-10-19
+EOE,Edge of Eternities,play,Starport Security,common,39,b4d65631-e897-5f04-8f76-57e50706e473,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Starport Security,common,39,b4d65631-e897-5f04-8f76-57e50706e473,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Starwinder,rare,291,69fb1158-f0fe-520f-9da5-67a0b01a4d55,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,9.43,2026-10-19
+EOE,Edge of Eternities,play,Starwinder,rare,291,69fb1158-f0fe-520f-9da5-67a0b01a4d55,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,6.37,2026-10-19
+EOE,Edge of Eternities,play,Starwinder,rare,306,4aacd6a8-ee56-5c59-9d8b-8a4dc6f7d09b,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,7.56,2026-10-19
+EOE,Edge of Eternities,play,Starwinder,rare,306,4aacd6a8-ee56-5c59-9d8b-8a4dc6f7d09b,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,6.07,2026-10-19
+EOE,Edge of Eternities,play,Starwinder,rare,79,c71697bc-9389-523b-8b8e-60d90247efcc,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,1.89,2026-10-19
+EOE,Edge of Eternities,play,Starwinder,rare,79,c71697bc-9389-523b-8b8e-60d90247efcc,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.72,2026-10-19
+EOE,Edge of Eternities,play,Station Monitor,uncommon,230,a2039f84-85e7-59f2-8c57-719df9102cc0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.27,2026-10-19
+EOE,Edge of Eternities,play,Station Monitor,uncommon,230,a2039f84-85e7-59f2-8c57-719df9102cc0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.23,2026-10-19
+EOE,Edge of Eternities,play,Steelswarm Operator,uncommon,80,f55a2d7d-a98f-5a09-8307-a14078acff25,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.34,2026-10-19
+EOE,Edge of Eternities,play,Steelswarm Operator,uncommon,80,f55a2d7d-a98f-5a09-8307-a14078acff25,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Stirring Wildwood,rare,39,c267c424-52aa-5d63-8304-c16ae505ffdc,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,0.78,2026-10-19
+EOE,Edge of Eternities,play,Stirring Wildwood,rare,39,c267c424-52aa-5d63-8304-c16ae505ffdc,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.44,2026-10-19
+EOE,Edge of Eternities,play,Stomping Ground,rare,258,d333fda0-ea12-57c6-8eef-6d6e2d8698cb,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,7.88,2026-10-19
+EOE,Edge of Eternities,play,Stomping Ground,rare,258,d333fda0-ea12-57c6-8eef-6d6e2d8698cb,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,7.55,2026-10-19
+EOE,Edge of Eternities,play,Stomping Ground,rare,283,9a1931b7-7c88-57ae-9ea3-aaac6e3bbc68,0.0021932773389327,"foil, nonfoil",0.0021923627637236,foil,foil,11.1,2026-10-19
+EOE,Edge of Eternities,play,Stomping Ground,rare,283,9a1931b7-7c88-57ae-9ea3-aaac6e3bbc68,0.0021932773389327,"foil, nonfoil",0.0021923627637236,normal,normal,8.9,2026-10-19
+EOE,Edge of Eternities,play,Strip Mine,mythic,40,65635726-4c79-50bb-9855-16ef672ad3e5,0.0018333166683331,"foil, nonfoil",0.0018330389183305,foil,foil,27.28,2026-10-19
+EOE,Edge of Eternities,play,Strip Mine,mythic,40,65635726-4c79-50bb-9855-16ef672ad3e5,0.0018333166683331,"foil, nonfoil",0.0018330389183305,normal,normal,19.48,2026-10-19
+EOE,Edge of Eternities,play,Sunken Citadel,rare,41,201e677b-d4d3-5482-ba16-536f28d6af33,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,1.57,2026-10-19
+EOE,Edge of Eternities,play,Sunken Citadel,rare,41,201e677b-d4d3-5482-ba16-536f28d6af33,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.7,2026-10-19
+EOE,Edge of Eternities,play,Sunset Saboteur,rare,116,7badf7c4-85c5-58cb-a0e5-5d513f7bb883,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.37,2026-10-19
+EOE,Edge of Eternities,play,Sunset Saboteur,rare,116,7badf7c4-85c5-58cb-a0e5-5d513f7bb883,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Sunstar Chaplain,rare,40,2fbb4323-2f94-5ebc-8218-e20211a6191d,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Sunstar Chaplain,rare,40,2fbb4323-2f94-5ebc-8218-e20211a6191d,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Sunstar Expansionist,uncommon,41,c0f38efd-443c-56c1-9a6d-a85ebd93c504,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Sunstar Expansionist,uncommon,41,c0f38efd-443c-56c1-9a6d-a85ebd93c504,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,Sunstar Lightsmith,uncommon,42,8f017945-30cb-5528-9943-b828608fc6e8,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.26,2026-10-19
+EOE,Edge of Eternities,play,Sunstar Lightsmith,uncommon,42,8f017945-30cb-5528-9943-b828608fc6e8,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.23,2026-10-19
+EOE,Edge of Eternities,play,Survey Mechan,uncommon,245,5052eb4a-14b9-5f00-aa01-4153ec15d47f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.28,2026-10-19
+EOE,Edge of Eternities,play,Survey Mechan,uncommon,245,5052eb4a-14b9-5f00-aa01-4153ec15d47f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.25,2026-10-19
+EOE,Edge of Eternities,play,"Susur Secundi, Void Altar",mythic,259,568fce38-443f-5352-85d3-279a207d58fc,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,6.12,2026-10-19
+EOE,Edge of Eternities,play,"Susur Secundi, Void Altar",mythic,259,568fce38-443f-5352-85d3-279a207d58fc,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,5.35,2026-10-19
+EOE,Edge of Eternities,play,"Susur Secundi, Void Altar",mythic,284,ca9a9f94-323e-5012-8115-3d1a25b7a9d9,0.0026966386694663,"foil, nonfoil",0.0026946557696231,foil,foil,9.39,2026-10-19
+EOE,Edge of Eternities,play,"Susur Secundi, Void Altar",mythic,284,ca9a9f94-323e-5012-8115-3d1a25b7a9d9,0.0026966386694663,"foil, nonfoil",0.0026946557696231,normal,normal,7.4,2026-10-19
+EOE,Edge of Eternities,play,Susurian Dirgecraft,uncommon,117,cc681681-216f-5752-a76c-42d1601f27db,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Susurian Dirgecraft,uncommon,117,cc681681-216f-5752-a76c-42d1601f27db,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.24,2026-10-19
+EOE,Edge of Eternities,play,Susurian Voidborn,uncommon,118,263c91e1-e8b7-5f84-927b-bb6b1af536d2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Susurian Voidborn,uncommon,118,263c91e1-e8b7-5f84-927b-bb6b1af536d2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.31,2026-10-19
+EOE,Edge of Eternities,play,Swamp,common,264,2c0a0600-c266-5dcc-b94c-719b7f6be967,0.04,"foil, nonfoil",0.04,foil,foil,1.82,2026-10-19
+EOE,Edge of Eternities,play,Swamp,common,264,2c0a0600-c266-5dcc-b94c-719b7f6be967,0.04,"foil, nonfoil",0.04,normal,normal,1.2,2026-10-19
+EOE,Edge of Eternities,play,Swamp,common,271,9fa89106-50bb-5d0b-8122-7d0ca0396eee,0.08,"foil, nonfoil",0.08,foil,foil,0.14,2026-10-19
+EOE,Edge of Eternities,play,Swamp,common,271,9fa89106-50bb-5d0b-8122-7d0ca0396eee,0.08,"foil, nonfoil",0.08,normal,normal,0.14,2026-10-19
+EOE,Edge of Eternities,play,Swamp,common,272,68bf2ae1-0d42-57e4-84ae-25263b917396,0.08,"foil, nonfoil",0.08,foil,foil,0.19,2026-10-19
+EOE,Edge of Eternities,play,Swamp,common,272,68bf2ae1-0d42-57e4-84ae-25263b917396,0.08,"foil, nonfoil",0.08,normal,normal,0.22,2026-10-19
+EOE,Edge of Eternities,play,Swarm Culler,common,119,df520d4e-5a21-5eae-b5e7-5e0156b6f339,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Swarm Culler,common,119,df520d4e-5a21-5eae-b5e7-5e0156b6f339,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.12,2026-10-19
+EOE,Edge of Eternities,play,Swarmyard,rare,42,9f692b69-48a1-5c08-b359-6d66754e8e8c,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,6.09,2026-10-19
+EOE,Edge of Eternities,play,Swarmyard,rare,42,9f692b69-48a1-5c08-b359-6d66754e8e8c,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,4.67,2026-10-19
+EOE,Edge of Eternities,play,Synthesizer Labship,rare,81,8535e8bf-b502-5922-8a6e-36b8ca99587a,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,Synthesizer Labship,rare,81,8535e8bf-b502-5922-8a6e-36b8ca99587a,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.29,2026-10-19
+EOE,Edge of Eternities,play,"Syr Vondam, Sunstar Exemplar",rare,231,a9c81a3d-9fcf-53f3-b661-411e4dc1c976,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.41,2026-10-19
+EOE,Edge of Eternities,play,"Syr Vondam, Sunstar Exemplar",rare,231,a9c81a3d-9fcf-53f3-b661-411e4dc1c976,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.4,2026-10-19
+EOE,Edge of Eternities,play,"Syr Vondam, Sunstar Exemplar",rare,302,3d187dec-a134-5cc8-9b8d-d7c39de781c0,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,1.15,2026-10-19
+EOE,Edge of Eternities,play,"Syr Vondam, Sunstar Exemplar",rare,302,3d187dec-a134-5cc8-9b8d-d7c39de781c0,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,0.61,2026-10-19
+EOE,Edge of Eternities,play,"Syr Vondam, the Lucent",uncommon,232,4fec70e7-8452-51b5-8066-c316f94c24ed,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,"Syr Vondam, the Lucent",uncommon,232,4fec70e7-8452-51b5-8066-c316f94c24ed,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.27,2026-10-19
+EOE,Edge of Eternities,play,Systems Override,uncommon,161,1374cd30-ae33-5170-a2d0-f17feae15497,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.22,2026-10-19
+EOE,Edge of Eternities,play,Systems Override,uncommon,161,1374cd30-ae33-5170-a2d0-f17feae15497,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.18,2026-10-19
+EOE,Edge of Eternities,play,"Tannuk, Memorial Ensign",uncommon,233,fc3e314e-9fb1-5cbe-917b-c7cf41cf00e4,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,1.01,2026-10-19
+EOE,Edge of Eternities,play,"Tannuk, Memorial Ensign",uncommon,233,fc3e314e-9fb1-5cbe-917b-c7cf41cf00e4,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,1.4,2026-10-19
+EOE,Edge of Eternities,play,"Tannuk, Steadfast Second",mythic,162,fdc155a5-5de7-5c01-8a6d-add2da74ba1a,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,2.36,2026-10-19
+EOE,Edge of Eternities,play,"Tannuk, Steadfast Second",mythic,162,fdc155a5-5de7-5c01-8a6d-add2da74ba1a,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,2.72,2026-10-19
+EOE,Edge of Eternities,play,"Tannuk, Steadfast Second",mythic,296,107cc5f0-a9cd-5119-bcf8-760e2bb9b3a9,0.0010624850014998,"foil, nonfoil",0.001062281281593,foil,foil,9.65,2026-10-19
+EOE,Edge of Eternities,play,"Tannuk, Steadfast Second",mythic,296,107cc5f0-a9cd-5119-bcf8-760e2bb9b3a9,0.0010624850014998,"foil, nonfoil",0.001062281281593,normal,normal,4.6,2026-10-19
+EOE,Edge of Eternities,play,Tapestry Warden,uncommon,209,c07b97e4-bf90-5681-9484-70033ca65645,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.26,2026-10-19
+EOE,Edge of Eternities,play,Tapestry Warden,uncommon,209,c07b97e4-bf90-5681-9484-70033ca65645,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,Temporal Intervention,common,120,616fbc35-d748-58af-97d7-08d05045cd2b,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.16,2026-10-19
+EOE,Edge of Eternities,play,Temporal Intervention,common,120,616fbc35-d748-58af-97d7-08d05045cd2b,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.15,2026-10-19
+EOE,Edge of Eternities,play,Terminal Velocity,rare,163,a2a9691e-e573-5b1e-9eae-d4a657711411,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,Terminal Velocity,rare,163,a2a9691e-e573-5b1e-9eae-d4a657711411,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.19,2026-10-19
+EOE,Edge of Eternities,play,Terrain Generator,rare,43,565d0ea2-2796-56af-91d1-9677664df4cb,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,3.12,2026-10-19
+EOE,Edge of Eternities,play,Terrain Generator,rare,43,565d0ea2-2796-56af-91d1-9677664df4cb,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,1.78,2026-10-19
+EOE,Edge of Eternities,play,Terrapact Intimidator,uncommon,164,4b2d9085-fc7c-5a35-ae46-2d69fe45630f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Terrapact Intimidator,uncommon,164,4b2d9085-fc7c-5a35-ae46-2d69fe45630f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.27,2026-10-19
+EOE,Edge of Eternities,play,Terrasymbiosis,rare,210,aa1058c7-8c5f-51e5-a424-a6ad91305962,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,10.76,2026-10-19
+EOE,Edge of Eternities,play,Terrasymbiosis,rare,210,aa1058c7-8c5f-51e5-a424-a6ad91305962,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,10.6,2026-10-19
+EOE,Edge of Eternities,play,Terrasymbiosis,rare,312,e835032b-a2b6-574b-97e8-b76c630dfb2b,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,16.27,2026-10-19
+EOE,Edge of Eternities,play,Terrasymbiosis,rare,312,e835032b-a2b6-574b-97e8-b76c630dfb2b,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,12.91,2026-10-19
+EOE,Edge of Eternities,play,Territorial Bruntar,uncommon,165,4b1b78e8-cbb8-5a18-be38-147a49021a33,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Territorial Bruntar,uncommon,165,4b1b78e8-cbb8-5a18-be38-147a49021a33,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.17,2026-10-19
+EOE,Edge of Eternities,play,"Tezzeret, Cruel Captain",mythic,2,f117b755-1507-5521-991d-88ffd3533c91,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,23.91,2026-10-19
+EOE,Edge of Eternities,play,"Tezzeret, Cruel Captain",mythic,2,f117b755-1507-5521-991d-88ffd3533c91,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,21.79,2026-10-19
+EOE,Edge of Eternities,play,"Tezzeret, Cruel Captain",mythic,287,8d390c57-da25-56d2-9422-9da245c7526d,0.0010624850014998,"foil, nonfoil",0.001062281281593,foil,foil,91.8,2026-10-19
+EOE,Edge of Eternities,play,"Tezzeret, Cruel Captain",mythic,287,8d390c57-da25-56d2-9422-9da245c7526d,0.0010624850014998,"foil, nonfoil",0.001062281281593,normal,normal,41.57,2026-10-19
+EOE,Edge of Eternities,play,Thaumaton Torpedo,common,246,df7c8c5f-7f80-5535-bf3c-4775b04831e5,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.15,2026-10-19
+EOE,Edge of Eternities,play,Thaumaton Torpedo,common,246,df7c8c5f-7f80-5535-bf3c-4775b04831e5,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Thawbringer,common,211,38c19ea8-ef52-5c35-a4c5-5cfa95f03f2d,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.13,2026-10-19
+EOE,Edge of Eternities,play,Thawbringer,common,211,38c19ea8-ef52-5c35-a4c5-5cfa95f03f2d,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.09,2026-10-19
+EOE,Edge of Eternities,play,The Dominion Bracelet,mythic,239,e7c9140b-6ffa-5bcb-a961-8f1ed7ec3508,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,0.77,2026-10-19
+EOE,Edge of Eternities,play,The Dominion Bracelet,mythic,239,e7c9140b-6ffa-5bcb-a961-8f1ed7ec3508,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,0.62,2026-10-19
+EOE,Edge of Eternities,play,The Endstone,mythic,240,2b49c643-2785-54eb-a619-5a423efca439,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,2.87,2026-10-19
+EOE,Edge of Eternities,play,The Endstone,mythic,240,2b49c643-2785-54eb-a619-5a423efca439,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,2.57,2026-10-19
+EOE,Edge of Eternities,play,The Eternity Elevator,rare,241,9a13af07-199c-529f-b050-61de76b6d606,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,3.9,2026-10-19
+EOE,Edge of Eternities,play,The Eternity Elevator,rare,241,9a13af07-199c-529f-b050-61de76b6d606,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,2.63,2026-10-19
+EOE,Edge of Eternities,play,The Seriema,rare,35,e254c808-2356-5fc0-8c83-995fd9dc8bc9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,2.12,2026-10-19
+EOE,Edge of Eternities,play,The Seriema,rare,35,e254c808-2356-5fc0-8c83-995fd9dc8bc9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.6,2026-10-19
+EOE,Edge of Eternities,play,Thespian's Stage,rare,44,1d76d333-b4b4-5d77-861b-c93bb20d072d,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,2.42,2026-10-19
+EOE,Edge of Eternities,play,Thespian's Stage,rare,44,1d76d333-b4b4-5d77-861b-c93bb20d072d,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,1.26,2026-10-19
+EOE,Edge of Eternities,play,Thrumming Hivepool,rare,247,6ed5986f-2e4b-521e-8b74-5f97e837056d,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,1.86,2026-10-19
+EOE,Edge of Eternities,play,Thrumming Hivepool,rare,247,6ed5986f-2e4b-521e-8b74-5f97e837056d,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.57,2026-10-19
+EOE,Edge of Eternities,play,Timeline Culler,uncommon,121,4868e681-5a01-5388-b6ce-9a84f857822a,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.5,2026-10-19
+EOE,Edge of Eternities,play,Timeline Culler,uncommon,121,4868e681-5a01-5388-b6ce-9a84f857822a,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.35,2026-10-19
+EOE,Edge of Eternities,play,Tractor Beam,uncommon,82,674c4cbc-41ff-5f3d-a394-b2259107bb2f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Tractor Beam,uncommon,82,674c4cbc-41ff-5f3d-a394-b2259107bb2f,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.13,2026-10-19
+EOE,Edge of Eternities,play,Tragic Trajectory,uncommon,122,42dadd9b-51ff-5313-aad8-9a22b0a294b0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.3,2026-10-19
+EOE,Edge of Eternities,play,Tragic Trajectory,uncommon,122,42dadd9b-51ff-5313-aad8-9a22b0a294b0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.3,2026-10-19
+EOE,Edge of Eternities,play,Umbral Collar Zealot,uncommon,123,f381270a-e9d9-5d28-8170-d3ee911d8175,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,1.89,2026-10-19
+EOE,Edge of Eternities,play,Umbral Collar Zealot,uncommon,123,f381270a-e9d9-5d28-8170-d3ee911d8175,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.4,2026-10-19
+EOE,Edge of Eternities,play,Unravel,uncommon,83,a777f39e-9c78-56bb-ac4b-7fe54fd23846,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.18,2026-10-19
+EOE,Edge of Eternities,play,Unravel,uncommon,83,a777f39e-9c78-56bb-ac4b-7fe54fd23846,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Uthros Psionicist,uncommon,84,545f4ada-5bcd-5e27-b1a5-3805e7945cef,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.33,2026-10-19
+EOE,Edge of Eternities,play,Uthros Psionicist,uncommon,84,545f4ada-5bcd-5e27-b1a5-3805e7945cef,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.22,2026-10-19
+EOE,Edge of Eternities,play,Uthros Scanship,uncommon,85,b25d2cdc-e60f-53cb-941e-37aed7a504d0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.33,2026-10-19
+EOE,Edge of Eternities,play,Uthros Scanship,uncommon,85,b25d2cdc-e60f-53cb-941e-37aed7a504d0,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,"Uthros, Titanic Godcore",mythic,260,cc80c420-515f-5177-8b21-82451ba3a381,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,15.11,2026-10-19
+EOE,Edge of Eternities,play,"Uthros, Titanic Godcore",mythic,260,cc80c420-515f-5177-8b21-82451ba3a381,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,14.32,2026-10-19
+EOE,Edge of Eternities,play,"Uthros, Titanic Godcore",mythic,285,c8fcfe09-c55c-542e-b9ae-4e8188e1dce5,0.0026966386694663,"foil, nonfoil",0.0026946557696231,foil,foil,16.68,2026-10-19
+EOE,Edge of Eternities,play,"Uthros, Titanic Godcore",mythic,285,c8fcfe09-c55c-542e-b9ae-4e8188e1dce5,0.0026966386694663,"foil, nonfoil",0.0026946557696231,normal,normal,15.86,2026-10-19
+EOE,Edge of Eternities,play,Vaultguard Trooper,uncommon,166,47d76bf3-8f11-58de-a09c-c18340e0b474,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Vaultguard Trooper,uncommon,166,47d76bf3-8f11-58de-a09c-c18340e0b474,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Virulent Silencer,uncommon,248,aed78e78-3a37-5327-b32a-b9287363bda2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.34,2026-10-19
+EOE,Edge of Eternities,play,Virulent Silencer,uncommon,248,aed78e78-3a37-5327-b32a-b9287363bda2,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Virus Beetle,common,124,7d50c759-7876-5df9-854f-380f938263ad,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.34,2026-10-19
+EOE,Edge of Eternities,play,Virus Beetle,common,124,7d50c759-7876-5df9-854f-380f938263ad,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.25,2026-10-19
+EOE,Edge of Eternities,play,Voidforged Titan,uncommon,125,27471fc2-6df0-5284-93b4-7ed02b517372,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.21,2026-10-19
+EOE,Edge of Eternities,play,Voidforged Titan,uncommon,125,27471fc2-6df0-5284-93b4-7ed02b517372,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,Vote Out,uncommon,126,7f658377-5c6e-5ed9-9339-c59cff99c7ff,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.28,2026-10-19
+EOE,Edge of Eternities,play,Vote Out,uncommon,126,7f658377-5c6e-5ed9-9339-c59cff99c7ff,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.16,2026-10-19
+EOE,Edge of Eternities,play,Wandering Fumarole,rare,45,776375d6-0626-536e-9beb-884b2753494a,0.0036666333366663,"foil, nonfoil",0.0036655223366552,foil,foil,0.93,2026-10-19
+EOE,Edge of Eternities,play,Wandering Fumarole,rare,45,776375d6-0626-536e-9beb-884b2753494a,0.0036666333366663,"foil, nonfoil",0.0036655223366552,normal,normal,0.44,2026-10-19
+EOE,Edge of Eternities,play,Warmaker Gunship,rare,167,0c31afcd-a5ff-5961-b39e-11788178e05f,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.32,2026-10-19
+EOE,Edge of Eternities,play,Warmaker Gunship,rare,167,0c31afcd-a5ff-5961-b39e-11788178e05f,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.29,2026-10-19
+EOE,Edge of Eternities,play,Warping Wail,mythic,119,db7f024e-09f1-591b-8ac7-adafbcf6c06f,0.0018,"foil, nonfoil",0.0018,foil,foil,12.94,2026-10-19
+EOE,Edge of Eternities,play,Warping Wail,mythic,119,db7f024e-09f1-591b-8ac7-adafbcf6c06f,0.0018,"foil, nonfoil",0.0018,normal,normal,6.72,2026-10-19
+EOE,Edge of Eternities,play,Watery Grave,rare,261,c9a5fa22-5e39-57fe-9a7d-9ed0711b48f9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,10.52,2026-10-19
+EOE,Edge of Eternities,play,Watery Grave,rare,261,c9a5fa22-5e39-57fe-9a7d-9ed0711b48f9,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,9.77,2026-10-19
+EOE,Edge of Eternities,play,Watery Grave,rare,286,c021a014-6953-560d-a4f5-d7854d6d73cb,0.0021932773389327,"foil, nonfoil",0.0021923627637236,foil,foil,14.71,2026-10-19
+EOE,Edge of Eternities,play,Watery Grave,rare,286,c021a014-6953-560d-a4f5-d7854d6d73cb,0.0021932773389327,"foil, nonfoil",0.0021923627637236,normal,normal,13.09,2026-10-19
+EOE,Edge of Eternities,play,Weapons Manufacturing,rare,168,97009d9d-3652-53ce-9180-75da5ad1f9e8,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,2.54,2026-10-19
+EOE,Edge of Eternities,play,Weapons Manufacturing,rare,168,97009d9d-3652-53ce-9180-75da5ad1f9e8,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,1.87,2026-10-19
+EOE,Edge of Eternities,play,Weapons Manufacturing,rare,311,981079a4-1f37-5e52-b386-f0c5693b7ef2,0.0023319664033596,"foil, nonfoil",0.0023309690442392,foil,foil,7.16,2026-10-19
+EOE,Edge of Eternities,play,Weapons Manufacturing,rare,311,981079a4-1f37-5e52-b386-f0c5693b7ef2,0.0023319664033596,"foil, nonfoil",0.0023309690442392,normal,normal,3.54,2026-10-19
+EOE,Edge of Eternities,play,Wedgelight Rammer,uncommon,43,12493836-9381-5476-a32f-c4440be7c982,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,0.25,2026-10-19
+EOE,Edge of Eternities,play,Wedgelight Rammer,uncommon,43,12493836-9381-5476-a32f-c4440be7c982,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,0.26,2026-10-19
+EOE,Edge of Eternities,play,Weftblade Enhancer,common,44,8953fd3f-5f71-519f-b610-b6b05ec8ea4b,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Weftblade Enhancer,common,44,8953fd3f-5f71-519f-b610-b6b05ec8ea4b,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.12,2026-10-19
+EOE,Edge of Eternities,play,Weftstalker Ardent,uncommon,169,4736f337-eb48-586c-9abd-b67488cebfb4,0.0394496800319967,"foil, nonfoil",0.0388506110457703,foil,foil,3.4,2026-10-19
+EOE,Edge of Eternities,play,Weftstalker Ardent,uncommon,169,4736f337-eb48-586c-9abd-b67488cebfb4,0.0394496800319967,"foil, nonfoil",0.0388506110457703,normal,normal,3.47,2026-10-19
+EOE,Edge of Eternities,play,Weftwalking,mythic,86,8436917b-1b53-55a3-bdd4-95a0b428a138,0.0077624450054994,"foil, nonfoil",0.0077576802164157,foil,foil,0.35,2026-10-19
+EOE,Edge of Eternities,play,Weftwalking,mythic,86,8436917b-1b53-55a3-bdd4-95a0b428a138,0.0077624450054994,"foil, nonfoil",0.0077576802164157,normal,normal,0.34,2026-10-19
+EOE,Edge of Eternities,play,Wurmwall Sweeper,common,249,fa5dbbbd-7b0c-5a6e-a2ad-d7526f130120,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.23,2026-10-19
+EOE,Edge of Eternities,play,Wurmwall Sweeper,common,249,fa5dbbbd-7b0c-5a6e-a2ad-d7526f130120,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.2,2026-10-19
+EOE,Edge of Eternities,play,"Xu-Ifit, Osteoharmonist",rare,127,763c8d01-7326-502f-bd2f-29a060cba2db,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.47,2026-10-19
+EOE,Edge of Eternities,play,"Xu-Ifit, Osteoharmonist",rare,127,763c8d01-7326-502f-bd2f-29a060cba2db,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.37,2026-10-19
+EOE,Edge of Eternities,play,"Xu-Ifit, Osteoharmonist",rare,294,258d2aea-5fc0-5fe1-adef-8447f9a93a9d,0.0021249700029996,"foil, nonfoil",0.0021241551634886,foil,foil,2.99,2026-10-19
+EOE,Edge of Eternities,play,"Xu-Ifit, Osteoharmonist",rare,294,258d2aea-5fc0-5fe1-adef-8447f9a93a9d,0.0021249700029996,"foil, nonfoil",0.0021241551634886,normal,normal,1.6,2026-10-19
+EOE,Edge of Eternities,play,Zealous Display,common,45,77b3da6e-c27f-55db-9e9a-ad4732be3d79,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.24,2026-10-19
+EOE,Edge of Eternities,play,Zealous Display,common,45,77b3da6e-c27f-55db-9e9a-ad4732be3d79,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.11,2026-10-19
+EOE,Edge of Eternities,play,Zero Point Ballad,rare,128,f3a5ca8e-e992-5243-b970-bf1de6c1241b,0.0162332266773322,"foil, nonfoil",0.0161934024328679,foil,foil,0.39,2026-10-19
+EOE,Edge of Eternities,play,Zero Point Ballad,rare,128,f3a5ca8e-e992-5243-b970-bf1de6c1241b,0.0162332266773322,"foil, nonfoil",0.0161934024328679,normal,normal,0.28,2026-10-19
+EOE,Edge of Eternities,play,Zookeeper Mechan,common,170,4195cd8a-6a20-5a1f-9c91-73c23cf5af5b,0.0949005185901162,"foil, nonfoil",0.091047643447693,foil,foil,0.29,2026-10-19
+EOE,Edge of Eternities,play,Zookeeper Mechan,common,170,4195cd8a-6a20-5a1f-9c91-73c23cf5af5b,0.0949005185901162,"foil, nonfoil",0.091047643447693,normal,normal,0.25,2026-10-19

@@ -82,6 +82,46 @@ def main():
         set_uuids.update(external_uuids)
 
         print(f"External card UUIDs added: {len(external_uuids):,}")
+    # Include Special Guest cards referenced by this set's Play Booster.
+    import json
+
+    set_json_file = RAW_DIR / f"{set_code}.json"
+    spg_file = RAW_DIR / "SPG.json"
+
+    if set_json_file.exists() and spg_file.exists():
+
+        with set_json_file.open("r", encoding="utf-8") as file:
+            set_data = json.load(file)
+
+        with spg_file.open("r", encoding="utf-8") as file:
+            spg_data = json.load(file)
+
+        # Collect UUIDs referenced by all Play Booster sheets.
+        play_sheets = (
+            set_data.get("booster", {})
+            .get("play", {})
+            .get("sheets", {})
+        )
+
+        booster_uuids = set()
+
+        for sheet in play_sheets.values():
+            booster_uuids.update(sheet.get("cards", {}).keys())
+
+        # Only include SPG cards actually referenced by this booster.
+        spg_lookup = {
+            card["uuid"]: card
+            for card in spg_data.get("cards", [])
+            if card.get("uuid")
+        }
+
+        spg_uuids = booster_uuids.intersection(spg_lookup)
+
+        set_uuids.update(spg_uuids)
+
+        print(
+            f"Special Guest UUIDs added: {len(spg_uuids):,}"
+        )
 
     print(f"Total UUIDs to search: {len(set_uuids):,}")
 
