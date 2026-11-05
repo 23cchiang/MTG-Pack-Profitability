@@ -1,0 +1,743 @@
+set_code,set_name,booster_type,card_name,rarity,collector_number,uuid,expected_copies_per_pack,finish_options,probability_at_least_one,price_finish,cardFinish,price,date
+ECL,Lorwyn Eclipsed,play,"Abigale, Eloquent First-Year",rare,204,ad721ad1-7f55-582f-bd80-ea78c0061cd8,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.53,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Abigale, Eloquent First-Year",rare,204,ad721ad1-7f55-582f-bd80-ea78c0061cd8,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Adept Watershaper,rare,297,06e4eea0-fa46-5780-b9a8-fc5813c34645,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,1.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Adept Watershaper,rare,297,06e4eea0-fa46-5780-b9a8-fc5813c34645,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.69,2026-10-19
+ECL,Lorwyn Eclipsed,play,Adept Watershaper,rare,3,080fde3a-69e5-52c2-8406-42ad178b5b94,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.48,2026-10-19
+ECL,Lorwyn Eclipsed,play,Adept Watershaper,rare,3,080fde3a-69e5-52c2-8406-42ad178b5b94,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Ajani, Outland Chaperone",mythic,284,7fc60289-682e-5a19-ac6e-db68bd30d5c5,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,4.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Ajani, Outland Chaperone",mythic,284,7fc60289-682e-5a19-ac6e-db68bd30d5c5,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,2.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Ajani, Outland Chaperone",mythic,4,28837962-f454-552c-8bd4-14d48db044e9,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,1.72,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Ajani, Outland Chaperone",mythic,4,28837962-f454-552c-8bd4-14d48db044e9,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,1.53,2026-10-19
+ECL,Lorwyn Eclipsed,play,Appeal to Eirdu,common,5,5323af9b-73ad-5eca-9d31-81b7790b6fa8,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Appeal to Eirdu,common,5,5323af9b-73ad-5eca-9d31-81b7790b6fa8,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Aquitect's Defenses,common,44,918580ab-4205-5769-b4f6-e1428a6eea99,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Aquitect's Defenses,common,44,918580ab-4205-5769-b4f6-e1428a6eea99,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Ashling's Command,rare,205,37eaffb7-2cb2-5be4-a76e-0ff67f7b70fb,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.54,2026-10-19
+ECL,Lorwyn Eclipsed,play,Ashling's Command,rare,205,37eaffb7-2cb2-5be4-a76e-0ff67f7b70fb,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Ashling's Command,rare,330,bb657d50-0dbd-54c4-8f96-999878c6ce80,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,1.95,2026-10-19
+ECL,Lorwyn Eclipsed,play,Ashling's Command,rare,330,bb657d50-0dbd-54c4-8f96-999878c6ce80,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,1.03,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Ashling, Rekindled // Ashling, Rimebound",rare,124,ad45caea-e2ab-5cfc-8325-ddbf9bb7a129,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,1.43,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Ashling, Rekindled // Ashling, Rimebound",rare,124,ad45caea-e2ab-5cfc-8325-ddbf9bb7a129,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.51,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Ashling, Rekindled // Ashling, Rimebound",rare,290,01287004-4985-5e94-b732-2629b7e1dca0,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,5.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Ashling, Rekindled // Ashling, Rimebound",rare,290,01287004-4985-5e94-b732-2629b7e1dca0,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,2.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Assert Perfection,common,164,7d869bbd-d2e3-520f-8b34-ea1df32942d9,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Assert Perfection,common,164,7d869bbd-d2e3-520f-8b34-ea1df32942d9,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Auntie's Sentence,common,85,71cb669b-b03b-5c66-9c88-e5a4c746c5df,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Auntie's Sentence,common,85,71cb669b-b03b-5c66-9c88-e5a4c746c5df,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Aurora Awakener,mythic,165,96cfdb37-812c-5190-b549-754b0ed2ea3e,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,1.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Aurora Awakener,mythic,165,96cfdb37-812c-5190-b549-754b0ed2ea3e,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,0.71,2026-10-19
+ECL,Lorwyn Eclipsed,play,Aurora Awakener,mythic,323,f0aa6b8b-25ac-55c4-904b-b05544ccc1c0,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,4.42,2026-10-19
+ECL,Lorwyn Eclipsed,play,Aurora Awakener,mythic,323,f0aa6b8b-25ac-55c4-904b-b05544ccc1c0,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,1.51,2026-10-19
+ECL,Lorwyn Eclipsed,play,Barbed Bloodletter,common,86,bc932434-e9c0-5290-aa96-a04afc9a53a1,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Barbed Bloodletter,common,86,bc932434-e9c0-5290-aa96-a04afc9a53a1,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bark of Doran,uncommon,6,09871877-6360-5eef-ae50-91af2dc5e5bc,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bark of Doran,uncommon,6,09871877-6360-5eef-ae50-91af2dc5e5bc,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bile-Vial Boggart,common,87,231ba9a5-98f1-5a35-a9f5-fd8b5d8e8b52,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bile-Vial Boggart,common,87,231ba9a5-98f1-5a35-a9f5-fd8b5d8e8b52,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bitterbloom Bearer,mythic,310,7c71e58d-30e9-5a76-9aca-3dc1f9cbdfbe,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,31.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bitterbloom Bearer,mythic,310,7c71e58d-30e9-5a76-9aca-3dc1f9cbdfbe,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,19.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bitterbloom Bearer,mythic,88,826ecc32-f430-5737-b2fe-4557cde1bcd2,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,15.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bitterbloom Bearer,mythic,88,826ecc32-f430-5737-b2fe-4557cde1bcd2,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,12.44,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bitterblossom,mythic,133,707684f6-03be-5ba1-b89d-1a147fbbad5e,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,35.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bitterblossom,mythic,133,707684f6-03be-5ba1-b89d-1a147fbbad5e,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,31.44,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blight Rot,common,89,8de0cb3e-8798-5acd-bb16-5f7195e71f7d,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blight Rot,common,89,8de0cb3e-8798-5acd-bb16-5f7195e71f7d,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blighted Blackthorn,common,90,232c3016-479e-5f74-a06b-a90758aa3867,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blighted Blackthorn,common,90,232c3016-479e-5f74-a06b-a90758aa3867,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blood Crypt,rare,262,922d0b19-d575-5db3-85c0-5cac2983f86a,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,10.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blood Crypt,rare,262,922d0b19-d575-5db3-85c0-5cac2983f86a,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,8.9,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blood Crypt // Blood Crypt,rare,349,9cef7b07-a63d-572f-a87c-a7411cbed956,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,19.66,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blood Crypt // Blood Crypt,rare,349,9cef7b07-a63d-572f-a87c-a7411cbed956,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,12.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bloodline Bidding,rare,91,e3a4ba4c-17f8-5d26-a170-2a6a6f8fce7c,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,3.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bloodline Bidding,rare,91,e3a4ba4c-17f8-5d26-a170-2a6a6f8fce7c,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,2.44,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bloom Tender,mythic,166,cc1c0157-8d52-5d1d-8a3e-d4abf1cf0fe3,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,13.91,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bloom Tender,mythic,166,cc1c0157-8d52-5d1d-8a3e-d4abf1cf0fe3,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,13.89,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bloom Tender,mythic,324,455f045c-3e1a-531e-abde-446cf9c75a27,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,17.72,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bloom Tender,mythic,324,455f045c-3e1a-531e-abde-446cf9c75a27,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,13.61,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blossombind,common,45,c9d67ada-f5cd-5652-9b46-c2f4256d72f9,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blossombind,common,45,c9d67ada-f5cd-5652-9b46-c2f4256d72f9,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blossoming Defense,uncommon,167,1ddfb2e7-3a9f-5026-bdb7-5db5842b2244,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Blossoming Defense,uncommon,167,1ddfb2e7-3a9f-5026-bdb7-5db5842b2244,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boggart Cursecrafter,uncommon,206,3953e06b-6dcf-5c49-8ccc-5056da748e67,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boggart Cursecrafter,uncommon,206,3953e06b-6dcf-5c49-8ccc-5056da748e67,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boggart Cursecrafter,uncommon,331,de677990-9761-593c-80a6-86500d17d12b,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.42,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boggart Cursecrafter,uncommon,331,de677990-9761-593c-80a6-86500d17d12b,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boggart Mischief,uncommon,92,8b65fa89-0fff-5da3-aef7-6a91b2a0805d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.45,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boggart Mischief,uncommon,92,8b65fa89-0fff-5da3-aef7-6a91b2a0805d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boggart Prankster,common,93,427cc954-9c8c-5aa3-a24d-8cb2dbf95c29,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boggart Prankster,common,93,427cc954-9c8c-5aa3-a24d-8cb2dbf95c29,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.1,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bogslither's Embrace,common,94,ae116705-c22e-5ab7-aa85-9a1b2406af76,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bogslither's Embrace,common,94,ae116705-c22e-5ab7-aa85-9a1b2406af76,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boldwyr Aggressor,uncommon,125,244a54ed-662e-51db-bea6-fa1546cfb42e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boldwyr Aggressor,uncommon,125,244a54ed-662e-51db-bea6-fa1546cfb42e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boneclub Berserker,common,126,5e27a4c1-401a-58cd-91a9-e04b3b827311,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boneclub Berserker,common,126,5e27a4c1-401a-58cd-91a9-e04b3b827311,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boulder Dash,uncommon,127,774acba3-ad0e-5045-9297-6f60c1ad1cc6,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Boulder Dash,uncommon,127,774acba3-ad0e-5045-9297-6f60c1ad1cc6,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Brambleback Brute,common,128,9e4de534-eb94-5d52-adb5-db66280cd17d,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Brambleback Brute,common,128,9e4de534-eb94-5d52-adb5-db66280cd17d,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bre of Clan Stoutarm,rare,207,bfa23b4b-b3c3-5f1d-9de4-b6c53590c9d7,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.39,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bre of Clan Stoutarm,rare,207,bfa23b4b-b3c3-5f1d-9de4-b6c53590c9d7,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Brigid's Command,rare,208,1a4c0b27-e08d-5827-a389-fdafd16bf969,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Brigid's Command,rare,208,1a4c0b27-e08d-5827-a389-fdafd16bf969,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Brigid's Command,rare,332,e1366341-24d2-5add-84ee-94a3382170d1,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.49,2026-10-19
+ECL,Lorwyn Eclipsed,play,Brigid's Command,rare,332,e1366341-24d2-5add-84ee-94a3382170d1,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Brigid, Clachan's Heart // Brigid, Doun's Mind",rare,285,734a5bbd-6d84-533d-b56f-17b3727bac4e,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,6.91,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Brigid, Clachan's Heart // Brigid, Doun's Mind",rare,285,734a5bbd-6d84-533d-b56f-17b3727bac4e,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,1.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Brigid, Clachan's Heart // Brigid, Doun's Mind",rare,7,9f94e510-ddf2-5228-83af-f7475d1805fb,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.74,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Brigid, Clachan's Heart // Brigid, Doun's Mind",rare,7,9f94e510-ddf2-5228-83af-f7475d1805fb,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.45,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bristlebane Battler,rare,168,1edc2dd1-ad3f-5da0-ae51-d554b2404a59,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bristlebane Battler,rare,168,1edc2dd1-ad3f-5da0-ae51-d554b2404a59,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bristlebane Battler,rare,325,96e6e08e-84c8-5491-90fb-59682d5b418a,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.81,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bristlebane Battler,rare,325,96e6e08e-84c8-5491-90fb-59682d5b418a,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.43,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bristlebane Outrider,uncommon,169,c770d2c2-3980-54be-ae4e-84366d145886,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Bristlebane Outrider,uncommon,169,c770d2c2-3980-54be-ae4e-84366d145886,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Burdened Stoneback,uncommon,8,d89c296d-16f5-5a3c-b3a7-5567f0608f21,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Burdened Stoneback,uncommon,8,d89c296d-16f5-5a3c-b3a7-5567f0608f21,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Burning Curiosity,common,129,e94ee352-f62b-5da9-a8f6-db6915e1f2d4,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Burning Curiosity,common,129,e94ee352-f62b-5da9-a8f6-db6915e1f2d4,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Catharsis,mythic,209,dc80887d-01cd-5775-bdd6-7eefce059f23,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,0.75,2026-10-19
+ECL,Lorwyn Eclipsed,play,Catharsis,mythic,209,dc80887d-01cd-5775-bdd6-7eefce059f23,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Catharsis,mythic,292,fdbc1823-6c66-580a-aef3-aa3a676e0ad9,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,2.03,2026-10-19
+ECL,Lorwyn Eclipsed,play,Catharsis,mythic,292,fdbc1823-6c66-580a-aef3-aa3a676e0ad9,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,1.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Celestial Reunion,mythic,170,94e5dcdb-cba9-5b40-ab93-3de525c936c9,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,1.71,2026-10-19
+ECL,Lorwyn Eclipsed,play,Celestial Reunion,mythic,170,94e5dcdb-cba9-5b40-ab93-3de525c936c9,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,1.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Celestial Reunion,mythic,326,559bf1b6-8dd1-5588-b581-23a987dd600d,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,4.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Celestial Reunion,mythic,326,559bf1b6-8dd1-5588-b581-23a987dd600d,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,2.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champion of the Clachan,rare,9,a05f7650-3351-59ed-a02a-a13569c15483,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champion of the Clachan,rare,9,a05f7650-3351-59ed-a02a-a13569c15483,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champion of the Path,rare,130,4ea341e0-9ebf-5a88-9962-ffe8b347ebf0,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.46,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champion of the Path,rare,130,4ea341e0-9ebf-5a88-9962-ffe8b347ebf0,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.4,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champion of the Weird,rare,95,0404216a-d45f-5aab-9176-ffe447f7f590,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.61,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champion of the Weird,rare,95,0404216a-d45f-5aab-9176-ffe447f7f590,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champions of the Perfect,rare,171,35eec817-7d40-5691-8897-7b6d966f965c,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,1.69,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champions of the Perfect,rare,171,35eec817-7d40-5691-8897-7b6d966f965c,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,1.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champions of the Shoal,rare,46,d9193883-428f-5650-8e73-deded71dde5f,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Champions of the Shoal,rare,46,d9193883-428f-5650-8e73-deded71dde5f,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Changeling Wayfinder,common,1,15099cc8-3047-5551-8916-d3109e5c4756,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Changeling Wayfinder,common,1,15099cc8-3047-5551-8916-d3109e5c4756,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chaos Spewer,common,210,96f26996-c815-54d4-aadc-dd2b555c6424,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chaos Spewer,common,210,96f26996-c815-54d4-aadc-dd2b555c6424,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chitinous Graspling,common,211,92cea3f2-45a0-5c70-a77c-a24c6f8a6670,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chitinous Graspling,common,211,92cea3f2-45a0-5c70-a77c-a24c6f8a6670,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chomping Changeling,uncommon,172,55cf37c9-fa7b-5334-80ac-d21b66a7f792,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,2.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chomping Changeling,uncommon,172,55cf37c9-fa7b-5334-80ac-d21b66a7f792,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.83,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chronicle of Victory,mythic,253,f13fb454-ce85-579c-a4e4-0c548d207b07,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,24.98,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chronicle of Victory,mythic,253,f13fb454-ce85-579c-a4e4-0c548d207b07,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,22.6,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chronicle of Victory,mythic,346,540e6ada-7d0c-5f2d-957d-1b42d7287ab6,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,33.74,2026-10-19
+ECL,Lorwyn Eclipsed,play,Chronicle of Victory,mythic,346,540e6ada-7d0c-5f2d-957d-1b42d7287ab6,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,24.93,2026-10-19
+ECL,Lorwyn Eclipsed,play,Cinder Strike,common,131,c6a96446-7520-52cd-8e10-b258f4922984,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Cinder Strike,common,131,c6a96446-7520-52cd-8e10-b258f4922984,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Clachan Festival,uncommon,10,a5166a3c-7def-5a77-b3d0-2ebbb8e9e077,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Clachan Festival,uncommon,10,a5166a3c-7def-5a77-b3d0-2ebbb8e9e077,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Collective Inferno,rare,132,caa41ea9-523b-54a0-9b49-67312023c68a,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,2.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Collective Inferno,rare,132,caa41ea9-523b-54a0-9b49-67312023c68a,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,1.88,2026-10-19
+ECL,Lorwyn Eclipsed,play,Creakwood Safewright,uncommon,96,f50d7255-3fbe-5aab-b28a-649519e20796,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Creakwood Safewright,uncommon,96,f50d7255-3fbe-5aab-b28a-649519e20796,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Crib Swap,uncommon,11,b2866529-c20f-58cf-98b3-4dc26bc0d11d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Crib Swap,uncommon,11,b2866529-c20f-58cf-98b3-4dc26bc0d11d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Crossroads Watcher,common,173,aa807c21-41ed-5cd3-8e86-8e62184ca2e2,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Crossroads Watcher,common,173,aa807c21-41ed-5cd3-8e86-8e62184ca2e2,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Curious Colossus,mythic,12,f95b03b0-1b4e-542e-8b88-f20e9b9e67ea,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,0.81,2026-10-19
+ECL,Lorwyn Eclipsed,play,Curious Colossus,mythic,12,f95b03b0-1b4e-542e-8b88-f20e9b9e67ea,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,0.76,2026-10-19
+ECL,Lorwyn Eclipsed,play,Curious Colossus,mythic,298,63b7bcc0-462b-5789-9cc0-1f4fb91079d5,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,3.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Curious Colossus,mythic,298,63b7bcc0-462b-5789-9cc0-1f4fb91079d5,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,1.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Darkness Descends,uncommon,97,00270200-48b4-5c72-ab67-a94cd79c5800,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Darkness Descends,uncommon,97,00270200-48b4-5c72-ab67-a94cd79c5800,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawn's Light Archer,common,174,5b9657ad-3a7c-5fdb-acfe-fed5adb4c81c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawn's Light Archer,common,174,5b9657ad-3a7c-5fdb-acfe-fed5adb4c81c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawn-Blessed Pennant,uncommon,254,0c445a8a-0e1c-5340-8005-489ed0143050,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.45,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawn-Blessed Pennant,uncommon,254,0c445a8a-0e1c-5340-8005-489ed0143050,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawnhand Dissident,rare,311,24c6f1d8-c512-5679-99bb-0eff90427d33,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,1.79,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawnhand Dissident,rare,311,24c6f1d8-c512-5679-99bb-0eff90427d33,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.69,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawnhand Dissident,rare,98,fd944a40-34e8-5a0e-8593-d59ff1961c62,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.44,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawnhand Dissident,rare,98,fd944a40-34e8-5a0e-8593-d59ff1961c62,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawnhand Eulogist,common,99,a44cfa65-79f4-5dea-8602-74b0cf5f2419,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dawnhand Eulogist,common,99,a44cfa65-79f4-5dea-8602-74b0cf5f2419,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deceit,mythic,212,92fb05c0-f4fd-59f7-983e-3b041b065792,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,3.44,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deceit,mythic,212,92fb05c0-f4fd-59f7-983e-3b041b065792,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,2.6,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deceit,mythic,293,2b450a12-8702-5903-b3f1-9324aa3479a2,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,8.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deceit,mythic,293,2b450a12-8702-5903-b3f1-9324aa3479a2,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,5.51,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deepchannel Duelist,uncommon,213,cc7a506c-c1f9-52ba-9b9e-0200785e1664,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deepchannel Duelist,uncommon,213,cc7a506c-c1f9-52ba-9b9e-0200785e1664,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deepchannel Duelist,uncommon,333,0cf97ad2-da24-5fd4-bde8-e07ffbdd065b,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deepchannel Duelist,uncommon,333,0cf97ad2-da24-5fd4-bde8-e07ffbdd065b,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deepway Navigator,rare,214,490f5b07-f1e0-5fb9-9fa0-6382ece0bc43,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Deepway Navigator,rare,214,490f5b07-f1e0-5fb9-9fa0-6382ece0bc43,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Devoted Druid,mythic,138,942aacfc-ac12-59be-a7d7-781a2c52e7dd,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,31.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Devoted Druid,mythic,138,942aacfc-ac12-59be-a7d7-781a2c52e7dd,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,14.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Disruptor of Currents,rare,303,d213cd36-4df3-57c3-8e31-dd600cdf7bb6,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.57,2026-10-19
+ECL,Lorwyn Eclipsed,play,Disruptor of Currents,rare,303,d213cd36-4df3-57c3-8e31-dd600cdf7bb6,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Disruptor of Currents,rare,47,b2062dad-5f05-5f0d-af5b-b06ff32e4887,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Disruptor of Currents,rare,47,b2062dad-5f05-5f0d-af5b-b06ff32e4887,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dolmen Gate,mythic,145,58d6f76a-164e-58e6-803b-42f251160dc0,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,29.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dolmen Gate,mythic,145,58d6f76a-164e-58e6-803b-42f251160dc0,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,27.65,2026-10-19
+ECL,Lorwyn Eclipsed,play,Door of Destinies,mythic,146,bae0e177-963f-589f-9155-586178493b96,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,13.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Door of Destinies,mythic,146,bae0e177-963f-589f-9155-586178493b96,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,9.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Doran, Besieged by Time",rare,215,4b334929-c270-5f6f-b956-e914ae01f488,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.69,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Doran, Besieged by Time",rare,215,4b334929-c270-5f6f-b956-e914ae01f488,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.58,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Doran, Besieged by Time",rare,334,3acf38fb-d2ef-519d-bf7a-fac9a7366111,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,3.94,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Doran, Besieged by Time",rare,334,3acf38fb-d2ef-519d-bf7a-fac9a7366111,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,1.54,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dose of Dawnglow,uncommon,100,8aaaa559-864d-5f8a-a0a0-f94d4090c763,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dose of Dawnglow,uncommon,100,8aaaa559-864d-5f8a-a0a0-f94d4090c763,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dream Harvest,rare,216,eb8ab6ca-95a1-541a-a4b0-7bd552651a83,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.4,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dream Harvest,rare,216,eb8ab6ca-95a1-541a-a4b0-7bd552651a83,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dream Seizer,common,101,22942c5e-acff-5fc5-a51f-30adf7b356bf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dream Seizer,common,101,22942c5e-acff-5fc5-a51f-30adf7b356bf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dundoolin Weaver,uncommon,175,9125512d-4666-500b-890e-e20d79bf0435,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Dundoolin Weaver,uncommon,175,9125512d-4666-500b-890e-e20d79bf0435,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Boggart,uncommon,217,ff519715-1e37-5d2f-b7c0-be599ad8c934,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.4,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Boggart,uncommon,217,ff519715-1e37-5d2f-b7c0-be599ad8c934,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Boggart,uncommon,335,2999901c-0af6-5ac4-b593-e101a6d066b0,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Boggart,uncommon,335,2999901c-0af6-5ac4-b593-e101a6d066b0,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Elf,uncommon,218,e2da205b-694f-5fde-b29c-f5fbe76e989b,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Elf,uncommon,218,e2da205b-694f-5fde-b29c-f5fbe76e989b,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Elf,uncommon,336,182a7ed9-c9ae-5186-a23b-5fe2bf45ba44,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Elf,uncommon,336,182a7ed9-c9ae-5186-a23b-5fe2bf45ba44,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Flamekin,uncommon,219,569f4227-4805-5a4b-90e6-25d9b01b2256,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Flamekin,uncommon,219,569f4227-4805-5a4b-90e6-25d9b01b2256,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.1,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Flamekin,uncommon,337,fd1bbb2f-1557-51d5-a367-e6f30c6e3381,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Flamekin,uncommon,337,fd1bbb2f-1557-51d5-a367-e6f30c6e3381,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Kithkin,uncommon,220,baca6f45-d03d-5973-9f40-22974325c670,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Kithkin,uncommon,220,baca6f45-d03d-5973-9f40-22974325c670,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Kithkin,uncommon,338,741b93ed-4f17-57dc-b0c8-9d1c460590b7,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Kithkin,uncommon,338,741b93ed-4f17-57dc-b0c8-9d1c460590b7,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Merrow,uncommon,221,a32c1f7f-0c47-5c1b-8dbb-70cb4a6d45c5,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Merrow,uncommon,221,a32c1f7f-0c47-5c1b-8dbb-70cb4a6d45c5,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Merrow,uncommon,339,80940203-2321-571f-aa8b-1a5b4ddd8f5e,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Merrow,uncommon,339,80940203-2321-571f-aa8b-1a5b4ddd8f5e,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Realms,uncommon,263,ed66642f-5c93-59dd-aa81-44be47c4e76d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.82,2026-10-19
+ECL,Lorwyn Eclipsed,play,Eclipsed Realms,uncommon,263,ed66642f-5c93-59dd-aa81-44be47c4e76d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.42,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",mythic,13,d0ea334b-862a-573c-83d3-173e25785b26,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,3.52,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",mythic,13,d0ea334b-862a-573c-83d3-173e25785b26,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,2.67,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",mythic,286,9cb8ddba-256a-5340-9a80-b38bd7ea6217,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,16.79,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight",mythic,286,9cb8ddba-256a-5340-9a80-b38bd7ea6217,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,5.58,2026-10-19
+ECL,Lorwyn Eclipsed,play,Elder Auntie,common,133,a4df30fd-9cb0-5e59-a90d-049e32e206a3,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Elder Auntie,common,133,a4df30fd-9cb0-5e59-a90d-049e32e206a3,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Emptiness,mythic,222,05740276-d3b9-5ebc-aa85-40e2a5b8c6f5,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,1.62,2026-10-19
+ECL,Lorwyn Eclipsed,play,Emptiness,mythic,222,05740276-d3b9-5ebc-aa85-40e2a5b8c6f5,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,1.64,2026-10-19
+ECL,Lorwyn Eclipsed,play,Emptiness,mythic,294,b95a3675-ca4e-51d6-bbe4-93ec40eea3d2,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,5.43,2026-10-19
+ECL,Lorwyn Eclipsed,play,Emptiness,mythic,294,b95a3675-ca4e-51d6-bbe4-93ec40eea3d2,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,2.91,2026-10-19
+ECL,Lorwyn Eclipsed,play,Encumbered Reejerey,uncommon,14,2a6dfe24-08f0-539e-a297-5ee23d6bafb6,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Encumbered Reejerey,uncommon,14,2a6dfe24-08f0-539e-a297-5ee23d6bafb6,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,End-Blaze Epiphany,rare,134,7027eac9-16a5-5131-bb82-1e912de95c96,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,End-Blaze Epiphany,rare,134,7027eac9-16a5-5131-bb82-1e912de95c96,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Enraged Flamecaster,common,135,f8bdb621-b814-59e7-a58a-5fdfbc1cd0c7,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Enraged Flamecaster,common,135,f8bdb621-b814-59e7-a58a-5fdfbc1cd0c7,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Evershrike's Gift,uncommon,15,28943e2c-9132-5ef7-8ee8-3fdddeb08266,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Evershrike's Gift,uncommon,15,28943e2c-9132-5ef7-8ee8-3fdddeb08266,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Evolving Wilds,common,264,4831e0ec-2cc6-54ad-8ffb-c74a74030971,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Evolving Wilds,common,264,4831e0ec-2cc6-54ad-8ffb-c74a74030971,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Explosive Prodigy,uncommon,136,8b11a7c8-c3de-561b-9aac-8c69d5eece00,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Explosive Prodigy,uncommon,136,8b11a7c8-c3de-561b-9aac-8c69d5eece00,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Faerie Macabre,mythic,134,499ac7e5-c5ba-522d-ab9f-a967287b8e11,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,11.58,2026-10-19
+ECL,Lorwyn Eclipsed,play,Faerie Macabre,mythic,134,499ac7e5-c5ba-522d-ab9f-a967287b8e11,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,8.62,2026-10-19
+ECL,Lorwyn Eclipsed,play,Feed the Flames,common,137,24610a33-191e-5900-af31-9eb441cb9b9b,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Feed the Flames,common,137,24610a33-191e-5900-af31-9eb441cb9b9b,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Feisty Spikeling,common,223,4b714891-15de-59b0-b753-2c05cb1b568a,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Feisty Spikeling,common,223,4b714891-15de-59b0-b753-2c05cb1b568a,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Figure of Fable,rare,224,52e645d3-8d35-55ca-81c6-4287a493ca66,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.4,2026-10-19
+ECL,Lorwyn Eclipsed,play,Figure of Fable,rare,224,52e645d3-8d35-55ca-81c6-4287a493ca66,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Firdoch Core,common,255,3898d481-58d9-5ccb-b4f8-bc942f53f5dc,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,1.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Firdoch Core,common,255,3898d481-58d9-5ccb-b4f8-bc942f53f5dc,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flame-Chain Mauler,common,138,1ee763dd-e3c2-5bc8-bd30-4a55c525a666,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flame-Chain Mauler,common,138,1ee763dd-e3c2-5bc8-bd30-4a55c525a666,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flamebraider,uncommon,139,09d66f99-76a6-56ee-b990-24eb7b9c2f3e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flamebraider,uncommon,139,09d66f99-76a6-56ee-b990-24eb7b9c2f3e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flamekin Gildweaver,common,140,78339afc-0027-5493-8ecb-0ddd922537ea,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flamekin Gildweaver,common,140,78339afc-0027-5493-8ecb-0ddd922537ea,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flaring Cinder,common,225,37877c7e-a38e-5ac1-9f82-04782c92d0a7,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flaring Cinder,common,225,37877c7e-a38e-5ac1-9f82-04782c92d0a7,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.1,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flitterwing Nuisance,rare,304,43c5d24c-5bc7-59a7-bffe-d1e2e39acf88,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,1.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flitterwing Nuisance,rare,304,43c5d24c-5bc7-59a7-bffe-d1e2e39acf88,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.67,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flitterwing Nuisance,rare,48,0c5f76fd-a128-5730-bc60-1f1e569ce6de,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flitterwing Nuisance,rare,48,0c5f76fd-a128-5730-bc60-1f1e569ce6de,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flock Impostor,uncommon,16,337dd76f-97c7-522c-9619-fade09a4da81,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Flock Impostor,uncommon,16,337dd76f-97c7-522c-9619-fade09a4da81,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Foraging Wickermaw,common,256,ba283589-9874-5176-b37c-e09e10de5400,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Foraging Wickermaw,common,256,ba283589-9874-5176-b37c-e09e10de5400,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Forest,common,273,9e977c46-c879-5101-8dc1-1a1e31b8206d,0.0999999999999999,"foil, nonfoil",0.0999999999999999,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Forest,common,273,9e977c46-c879-5101-8dc1-1a1e31b8206d,0.0999999999999999,"foil, nonfoil",0.0999999999999999,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Forest,common,278,e8cfce5f-b0e1-555d-9d4d-72933382e3b7,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.4,2026-10-19
+ECL,Lorwyn Eclipsed,play,Forest,common,278,e8cfce5f-b0e1-555d-9d4d-72933382e3b7,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Forest,common,283,a6ba478d-7e1f-57ee-8b2e-d4b32ecccff1,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Forest,common,283,a6ba478d-7e1f-57ee-8b2e-d4b32ecccff1,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Formidable Speaker,rare,176,d8b39330-ebcb-532b-b4e2-42d616543077,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,9.97,2026-10-19
+ECL,Lorwyn Eclipsed,play,Formidable Speaker,rare,176,d8b39330-ebcb-532b-b4e2-42d616543077,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,8.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gallant Fowlknight,common,17,8aa3854f-b1e9-5d28-88ef-c3a8a9c8c12d,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gallant Fowlknight,common,17,8aa3854f-b1e9-5d28-88ef-c3a8a9c8c12d,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gangly Stompling,common,226,d7c28dd6-f532-5691-9a8f-a88bb99401bf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gangly Stompling,common,226,d7c28dd6-f532-5691-9a8f-a88bb99401bf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gathering Stone,uncommon,257,6a298022-e3dc-5c93-af45-098336246645,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.63,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gathering Stone,uncommon,257,6a298022-e3dc-5c93-af45-098336246645,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,Giantfall,uncommon,141,5f53b0ee-2c3f-55f5-869c-f193f8c4248e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Giantfall,uncommon,141,5f53b0ee-2c3f-55f5-869c-f193f8c4248e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gilt-Leaf's Embrace,common,177,7840b2f1-ee61-5808-aa9a-3e3a847176c9,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gilt-Leaf's Embrace,common,177,7840b2f1-ee61-5808-aa9a-3e3a847176c9,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glamer Gifter,uncommon,49,6774614c-1a51-5515-9a69-e45caccbedbb,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glamer Gifter,uncommon,49,6774614c-1a51-5515-9a69-e45caccbedbb,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glamermite,common,50,8af84752-631c-5492-9bdb-b6d44cf16441,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glamermite,common,50,8af84752-631c-5492-9bdb-b6d44cf16441,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glen Elendra Guardian,rare,305,293ef4b4-4b6a-58ad-bec2-f38c26143671,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,1.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glen Elendra Guardian,rare,305,293ef4b4-4b6a-58ad-bec2-f38c26143671,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.56,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glen Elendra Guardian,rare,51,0d69210a-9492-5abd-942c-e65e6a24dbaa,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glen Elendra Guardian,rare,51,0d69210a-9492-5abd-942c-e65e6a24dbaa,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glen Elendra's Answer,mythic,306,258d1680-5927-5c7e-afec-bc4a0acf04b8,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,3.56,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glen Elendra's Answer,mythic,306,258d1680-5927-5c7e-afec-bc4a0acf04b8,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,2.1,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glen Elendra's Answer,mythic,52,92d435b0-f8c0-5e9a-a360-dc7cd2a2dcee,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,1.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glen Elendra's Answer,mythic,52,92d435b0-f8c0-5e9a-a360-dc7cd2a2dcee,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,1.01,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glister Bairn,uncommon,227,2100534b-9471-5bb9-8007-ce9fd37ef1e9,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Glister Bairn,uncommon,227,2100534b-9471-5bb9-8007-ce9fd37ef1e9,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gloom Ripper,rare,102,e8fb21a2-3ffc-5ccd-ac31-52e4b3684aeb,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gloom Ripper,rare,102,e8fb21a2-3ffc-5ccd-ac31-52e4b3684aeb,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gloom Ripper,rare,312,23e3ea3f-270f-5b74-99e0-d2edb38a7c03,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.63,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gloom Ripper,rare,312,23e3ea3f-270f-5b74-99e0-d2edb38a7c03,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.4,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gnarlbark Elm,uncommon,103,9fad2ae4-77f7-5a29-a812-09d02f1a37a7,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gnarlbark Elm,uncommon,103,9fad2ae4-77f7-5a29-a812-09d02f1a37a7,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goatnap,uncommon,142,d77747ff-bc30-5e08-a1db-44c6b5aaea6f,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goatnap,uncommon,142,d77747ff-bc30-5e08-a1db-44c6b5aaea6f,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goblin Chieftain,mythic,135,c2534f29-df83-54d8-bf9f-294a54343bd9,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,7.7,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goblin Chieftain,mythic,135,c2534f29-df83-54d8-bf9f-294a54343bd9,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,5.99,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goblin Sharpshooter,mythic,136,4fa669a2-540b-5dc5-869a-b690c503e261,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,30.65,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goblin Sharpshooter,mythic,136,4fa669a2-540b-5dc5-869a-b690c503e261,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,23.97,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goldmeadow Nomad,common,18,61cf4612-6bf2-5ece-83a4-74ce1d0b495c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goldmeadow Nomad,common,18,61cf4612-6bf2-5ece-83a4-74ce1d0b495c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goliath Daydreamer,rare,143,7c298f9d-01f2-5f35-9142-3152c7f0a725,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goliath Daydreamer,rare,143,7c298f9d-01f2-5f35-9142-3152c7f0a725,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goliath Daydreamer,rare,316,6e27f1f0-39a8-5771-b866-5d599c89017b,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.6,2026-10-19
+ECL,Lorwyn Eclipsed,play,Goliath Daydreamer,rare,316,6e27f1f0-39a8-5771-b866-5d599c89017b,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gravelgill Scoundrel,common,53,595c3c50-4a99-5f9f-96bd-b04bf8ad96a2,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gravelgill Scoundrel,common,53,595c3c50-4a99-5f9f-96bd-b04bf8ad96a2,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Graveshifter,uncommon,104,9df1a3a5-be4a-59ca-91ed-343df1539642,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Graveshifter,uncommon,104,9df1a3a5-be4a-59ca-91ed-343df1539642,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Great Forest Druid,common,178,f1a4a8a7-5ad8-58d5-94d2-1528534ce6f4,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Great Forest Druid,common,178,f1a4a8a7-5ad8-58d5-94d2-1528534ce6f4,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gristle Glutton,common,144,53723cb2-3b7e-52ec-90b6-f514e3090f9f,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gristle Glutton,common,144,53723cb2-3b7e-52ec-90b6-f514e3090f9f,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Grub's Command,rare,228,49d83e6b-23ef-5ed7-b96b-44d45cf3ad22,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Grub's Command,rare,228,49d83e6b-23ef-5ed7-b96b-44d45cf3ad22,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Grub's Command,rare,340,5db7c47a-6e7d-5904-b07f-9b7c1e6de4ec,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.72,2026-10-19
+ECL,Lorwyn Eclipsed,play,Grub's Command,rare,340,5db7c47a-6e7d-5904-b07f-9b7c1e6de4ec,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.53,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Grub, Storied Matriarch // Grub, Notorious Auntie",rare,105,5eba5ef1-78ed-57ee-8bb6-dacb1e206758,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.43,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Grub, Storied Matriarch // Grub, Notorious Auntie",rare,105,5eba5ef1-78ed-57ee-8bb6-dacb1e206758,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Grub, Storied Matriarch // Grub, Notorious Auntie",rare,289,cd12e512-67a7-5074-ba06-fce833ae8408,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,2.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Grub, Storied Matriarch // Grub, Notorious Auntie",rare,289,cd12e512-67a7-5074-ba06-fce833ae8408,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,1.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gutsplitter Gang,uncommon,106,f5f8d00c-b3c8-521f-ae85-4382a7d4c6a3,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Gutsplitter Gang,uncommon,106,f5f8d00c-b3c8-521f-ae85-4382a7d4c6a3,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hallowed Fountain,rare,265,3205b5e4-6eac-53ed-a2db-e0f036ac7ad2,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,7.59,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hallowed Fountain,rare,265,3205b5e4-6eac-53ed-a2db-e0f036ac7ad2,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,7.4,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hallowed Fountain // Hallowed Fountain,rare,347,6ce975c2-e6a9-5226-804d-3140e01efd6e,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,20.55,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hallowed Fountain // Hallowed Fountain,rare,347,6ce975c2-e6a9-5226-804d-3140e01efd6e,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,11.48,2026-10-19
+ECL,Lorwyn Eclipsed,play,Harmonized Crescendo,rare,54,84b6f9dd-9390-599a-b98d-bcaeaf843184,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,1.64,2026-10-19
+ECL,Lorwyn Eclipsed,play,Harmonized Crescendo,rare,54,84b6f9dd-9390-599a-b98d-bcaeaf843184,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.99,2026-10-19
+ECL,Lorwyn Eclipsed,play,Heat Shimmer,mythic,137,9e42296d-6022-5d1f-b860-a6d281e36a43,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,9.72,2026-10-19
+ECL,Lorwyn Eclipsed,play,Heat Shimmer,mythic,137,9e42296d-6022-5d1f-b860-a6d281e36a43,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,6.8,2026-10-19
+ECL,Lorwyn Eclipsed,play,Heirloom Auntie,common,107,d000e9f5-c450-5c17-9ec5-d22869ebfffe,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Heirloom Auntie,common,107,d000e9f5-c450-5c17-9ec5-d22869ebfffe,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Helix Pinnacle,mythic,139,4ff03b10-e569-59f8-a2e0-4c154311a1c8,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,6.46,2026-10-19
+ECL,Lorwyn Eclipsed,play,Helix Pinnacle,mythic,139,4ff03b10-e569-59f8-a2e0-4c154311a1c8,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,5.94,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hexing Squelcher,rare,145,8117728b-d0dc-5e39-a404-dda80ed22c6e,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,23.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hexing Squelcher,rare,145,8117728b-d0dc-5e39-a404-dda80ed22c6e,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,19.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hexing Squelcher,rare,317,61dab090-99f3-584e-a4b6-05be21c2ca9b,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,59.78,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hexing Squelcher,rare,317,61dab090-99f3-584e-a4b6-05be21c2ca9b,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,29.41,2026-10-19
+ECL,Lorwyn Eclipsed,play,High Perfect Morcant,rare,229,e5230c10-7c68-572e-9bff-8fe46c718a5d,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,1.97,2026-10-19
+ECL,Lorwyn Eclipsed,play,High Perfect Morcant,rare,229,e5230c10-7c68-572e-9bff-8fe46c718a5d,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,1.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hovel Hurler,uncommon,230,e835dea4-81ae-527a-bb78-958738a9641f,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Hovel Hurler,uncommon,230,e835dea4-81ae-527a-bb78-958738a9641f,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.1,2026-10-19
+ECL,Lorwyn Eclipsed,play,Idyllic Tutor,mythic,129,8cbaf0db-0e48-5dea-9c18-82f156994785,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,14.8,2026-10-19
+ECL,Lorwyn Eclipsed,play,Idyllic Tutor,mythic,129,8cbaf0db-0e48-5dea-9c18-82f156994785,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,14.01,2026-10-19
+ECL,Lorwyn Eclipsed,play,Illusion Spinners,uncommon,55,289881f4-c265-5955-96ff-aa6808b17b84,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Illusion Spinners,uncommon,55,289881f4-c265-5955-96ff-aa6808b17b84,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Impolite Entrance,uncommon,146,96ad59fb-4c75-5fa3-badd-04aa0443c115,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.43,2026-10-19
+ECL,Lorwyn Eclipsed,play,Impolite Entrance,uncommon,146,96ad59fb-4c75-5fa3-badd-04aa0443c115,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Iron-Shield Elf,uncommon,108,c9bc0cdd-19ca-598d-85d4-3b4fe1981a7e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Iron-Shield Elf,uncommon,108,c9bc0cdd-19ca-598d-85d4-3b4fe1981a7e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Island,common,270,05fe5d90-daa7-580d-82ad-2a83c67c8206,0.0999999999999999,"foil, nonfoil",0.0999999999999999,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Island,common,270,05fe5d90-daa7-580d-82ad-2a83c67c8206,0.0999999999999999,"foil, nonfoil",0.0999999999999999,normal,normal,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Island,common,275,01ee86cb-345e-5de9-852f-6e1a8e1a93e9,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.46,2026-10-19
+ECL,Lorwyn Eclipsed,play,Island,common,275,01ee86cb-345e-5de9-852f-6e1a8e1a93e9,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Island,common,280,80491b8b-c9d6-5db1-823c-32ee569ef1f2,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.41,2026-10-19
+ECL,Lorwyn Eclipsed,play,Island,common,280,80491b8b-c9d6-5db1-823c-32ee569ef1f2,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Keep Out,common,19,9da4d715-859b-5f1c-88e7-f639451f0733,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Keep Out,common,19,9da4d715-859b-5f1c-88e7-f639451f0733,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinbinding,rare,20,2cba0aa5-3d44-520d-8669-1145edbe0a1a,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinbinding,rare,20,2cba0aa5-3d44-520d-8669-1145edbe0a1a,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinbinding,rare,299,47d5a25a-0d29-52d2-81cb-0c07b4de9472,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.62,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinbinding,rare,299,47d5a25a-0d29-52d2-81cb-0c07b4de9472,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.43,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kindle the Inner Flame,uncommon,147,0e963597-a264-599f-9e92-94af307bfa17,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kindle the Inner Flame,uncommon,147,0e963597-a264-599f-9e92-94af307bfa17,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinsbaile Aspirant,uncommon,21,bc0d9ed0-24fb-5ab5-b711-7da21c7b7e13,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinsbaile Aspirant,uncommon,21,bc0d9ed0-24fb-5ab5-b711-7da21c7b7e13,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinsbaile Cavalier,mythic,130,75d54225-36d5-5d76-91bc-6b9276c21a2c,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,4.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinsbaile Cavalier,mythic,130,75d54225-36d5-5d76-91bc-6b9276c21a2c,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,3.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinscaer Sentry,rare,22,09e1fc48-7c22-568f-9b38-eb0731e99f59,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinscaer Sentry,rare,22,09e1fc48-7c22-568f-9b38-eb0731e99f59,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinscaer Sentry,rare,300,0d02589b-b1d3-5448-b2c4-5ecc3dee46ed,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,1.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kinscaer Sentry,rare,300,0d02589b-b1d3-5448-b2c4-5ecc3dee46ed,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.48,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Kirol, Attentive First-Year",rare,231,19937b10-9368-5111-9b24-d9c8384e9015,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.44,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Kirol, Attentive First-Year",rare,231,19937b10-9368-5111-9b24-d9c8384e9015,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kithkeeper,uncommon,23,34f3e212-53d0-54c2-b235-48ad136b9a49,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kithkeeper,uncommon,23,34f3e212-53d0-54c2-b235-48ad136b9a49,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kulrath Mystic,common,56,3a11e5f9-0894-53b8-9f05-8beddad77acf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kulrath Mystic,common,56,3a11e5f9-0894-53b8-9f05-8beddad77acf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.06,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kulrath Zealot,common,148,f3577d36-73fa-595b-9635-361b07239ce0,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Kulrath Zealot,common,148,f3577d36-73fa-595b-9635-361b07239ce0,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lasting Tarfire,uncommon,149,820f374b-5dbd-5c72-abd9-d5abf1e35086,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lasting Tarfire,uncommon,149,820f374b-5dbd-5c72-abd9-d5abf1e35086,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lavaleaper,rare,150,c0d81aba-fff1-500f-9478-564d0fa87c11,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lavaleaper,rare,150,c0d81aba-fff1-500f-9478-564d0fa87c11,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lavaleaper,rare,318,06fbb0e1-b43f-507e-8fd9-51b5b17c0bd6,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,1.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lavaleaper,rare,318,06fbb0e1-b43f-507e-8fd9-51b5b17c0bd6,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.77,2026-10-19
+ECL,Lorwyn Eclipsed,play,Leaf-Crowned Visionary,mythic,140,29af4c23-cfb5-54a3-a72a-72dd606e37b5,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,9.81,2026-10-19
+ECL,Lorwyn Eclipsed,play,Leaf-Crowned Visionary,mythic,140,29af4c23-cfb5-54a3-a72a-72dd606e37b5,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,8.91,2026-10-19
+ECL,Lorwyn Eclipsed,play,Liminal Hold,common,24,c0ff44d3-597d-585b-8ad7-e23d2104debf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Liminal Hold,common,24,c0ff44d3-597d-585b-8ad7-e23d2104debf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Lluwen, Imperfect Naturalist",rare,232,594530e0-2451-54a3-95f9-405c929f5edf,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.39,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Lluwen, Imperfect Naturalist",rare,232,594530e0-2451-54a3-95f9-405c929f5edf,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Loch Mare,mythic,307,9cce839b-3f1d-5c1f-874e-3d6873c56ca5,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,2.65,2026-10-19
+ECL,Lorwyn Eclipsed,play,Loch Mare,mythic,307,9cce839b-3f1d-5c1f-874e-3d6873c56ca5,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,1.51,2026-10-19
+ECL,Lorwyn Eclipsed,play,Loch Mare,mythic,57,46d85686-2ef0-5a0f-b685-a467209e7f3e,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,0.94,2026-10-19
+ECL,Lorwyn Eclipsed,play,Loch Mare,mythic,57,46d85686-2ef0-5a0f-b685-a467209e7f3e,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,0.43,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lofty Dreams,uncommon,58,7a843b61-34c1-5308-a7cf-736a3ff2b237,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lofty Dreams,uncommon,58,7a843b61-34c1-5308-a7cf-736a3ff2b237,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Luminollusk,uncommon,179,565b4640-2f70-5e27-9d1c-d6c8be9853bb,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Luminollusk,uncommon,179,565b4640-2f70-5e27-9d1c-d6c8be9853bb,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lys Alana Dignitary,uncommon,180,b3f78dae-9874-5b82-bfdb-dc791ff9163e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lys Alana Dignitary,uncommon,180,b3f78dae-9874-5b82-bfdb-dc791ff9163e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lys Alana Informant,common,181,b5b64a0e-68be-562d-8c4d-0a97bcbf0b8c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Lys Alana Informant,common,181,b5b64a0e-68be-562d-8c4d-0a97bcbf0b8c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Manamorphose,mythic,142,7b41794d-5397-5ac5-ad43-51f3e191bbcd,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,13.98,2026-10-19
+ECL,Lorwyn Eclipsed,play,Manamorphose,mythic,142,7b41794d-5397-5ac5-ad43-51f3e191bbcd,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,8.8,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Maralen, Fae Ascendant",rare,233,4399464a-4e8b-5cc2-9a48-30e75adb7dbf,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.57,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Maralen, Fae Ascendant",rare,233,4399464a-4e8b-5cc2-9a48-30e75adb7dbf,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Meanders Guide,uncommon,25,cc27819f-dda3-5837-bab6-7af53352b5e5,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Meanders Guide,uncommon,25,cc27819f-dda3-5837-bab6-7af53352b5e5,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Meek Attack,mythic,151,47634eb2-df6b-5110-8cb7-76e1a6722348,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,0.43,2026-10-19
+ECL,Lorwyn Eclipsed,play,Meek Attack,mythic,151,47634eb2-df6b-5110-8cb7-76e1a6722348,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Meek Attack,mythic,319,3b02de79-8f6d-5839-99cb-5b1dc28e0cdf,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,1.0,2026-10-19
+ECL,Lorwyn Eclipsed,play,Meek Attack,mythic,319,3b02de79-8f6d-5839-99cb-5b1dc28e0cdf,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,0.55,2026-10-19
+ECL,Lorwyn Eclipsed,play,Merrow Skyswimmer,common,234,3232e7ef-98ba-599c-bb64-0795d060726c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Merrow Skyswimmer,common,234,3232e7ef-98ba-599c-bb64-0795d060726c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Midnight Tilling,common,182,8ecc932c-430a-5e48-8eec-92490c6b5f1b,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Midnight Tilling,common,182,8ecc932c-430a-5e48-8eec-92490c6b5f1b,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mirrorform,mythic,308,ddd6a37f-f167-5b9f-b570-c1686aba6b3b,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,5.43,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mirrorform,mythic,308,ddd6a37f-f167-5b9f-b570-c1686aba6b3b,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,2.86,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mirrorform,mythic,59,2fb9cf6c-f9eb-596c-af19-2972b0c668d2,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,2.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mirrorform,mythic,59,2fb9cf6c-f9eb-596c-af19-2972b0c668d2,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,1.88,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mirrormind Crown,rare,258,13223a28-e840-5eb4-a277-da01c47aff7e,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.98,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mirrormind Crown,rare,258,13223a28-e840-5eb4-a277-da01c47aff7e,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.53,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mischievous Sneakling,common,235,73c2fa4f-2e75-5af3-9329-f487b8201e98,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mischievous Sneakling,common,235,73c2fa4f-2e75-5af3-9329-f487b8201e98,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mistbind Clique,mythic,131,20be8eae-dd80-5210-87c4-0e32b1c33879,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,3.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mistbind Clique,mythic,131,20be8eae-dd80-5210-87c4-0e32b1c33879,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,2.99,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mistmeadow Council,common,183,75efed04-bb71-53a2-951a-8b1be7b7bdd8,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mistmeadow Council,common,183,75efed04-bb71-53a2-951a-8b1be7b7bdd8,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.05,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moon-Vigil Adherents,uncommon,184,f34a030b-6f0f-5790-ab81-4be57a0222cf,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moon-Vigil Adherents,uncommon,184,f34a030b-6f0f-5790-ab81-4be57a0222cf,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moonglove Extractor,common,109,9898845b-61d4-5d3e-b80f-303ce210e0ba,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moonglove Extractor,common,109,9898845b-61d4-5d3e-b80f-303ce210e0ba,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moonlit Lamenter,uncommon,26,1aa41404-0e66-577f-9ae4-f1679a0611ee,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moonlit Lamenter,uncommon,26,1aa41404-0e66-577f-9ae4-f1679a0611ee,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moonshadow,mythic,110,37e49af8-1c78-513d-9269-a5acc7ddbef3,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,18.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moonshadow,mythic,110,37e49af8-1c78-513d-9269-a5acc7ddbef3,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,18.95,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moonshadow,mythic,313,e5519b13-d49f-5c51-a477-0b71e1594151,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,24.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Moonshadow,mythic,313,e5519b13-d49f-5c51-a477-0b71e1594151,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,19.62,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morcant's Eyes,uncommon,185,54df5b4a-f303-56d2-a115-8b99989c3ca3,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morcant's Eyes,uncommon,185,54df5b4a-f303-56d2-a115-8b99989c3ca3,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morcant's Loyalist,uncommon,236,14e3ff48-c92c-5f8d-95cc-86414ea0c2ae,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morcant's Loyalist,uncommon,236,14e3ff48-c92c-5f8d-95cc-86414ea0c2ae,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morcant's Loyalist,uncommon,341,20db1036-eaf0-5b65-b9e4-0c441bd00cd4,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.45,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morcant's Loyalist,uncommon,341,20db1036-eaf0-5b65-b9e4-0c441bd00cd4,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morningtide's Light,mythic,27,de4414a6-1b97-5dd4-8c12-5f498b5dcd71,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,2.02,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morningtide's Light,mythic,27,de4414a6-1b97-5dd4-8c12-5f498b5dcd71,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,2.59,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morningtide's Light,mythic,301,8dfe305f-01cc-56e2-a17f-6c56b09f843c,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,4.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Morningtide's Light,mythic,301,8dfe305f-01cc-56e2-a17f-6c56b09f843c,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,2.83,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mornsong Aria,rare,111,16d92352-3dbf-5ca0-ace2-e9b0c9b5bb74,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mornsong Aria,rare,111,16d92352-3dbf-5ca0-ace2-e9b0c9b5bb74,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mountain,common,272,f3cea808-c2bc-5f3d-bd46-4e57bd7e976f,0.0999999999999999,"foil, nonfoil",0.0999999999999999,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mountain,common,272,f3cea808-c2bc-5f3d-bd46-4e57bd7e976f,0.0999999999999999,"foil, nonfoil",0.0999999999999999,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mountain,common,277,778c7700-596c-5cfd-aaeb-8ee58f030b43,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mountain,common,277,778c7700-596c-5cfd-aaeb-8ee58f030b43,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mountain,common,282,fbb2cc8a-8cd7-541d-870d-877b21aff24c,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.49,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mountain,common,282,fbb2cc8a-8cd7-541d-870d-877b21aff24c,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mudbutton Cursetosser,uncommon,112,ec2645ef-11c9-57ab-9803-0b59effb8f25,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mudbutton Cursetosser,uncommon,112,ec2645ef-11c9-57ab-9803-0b59effb8f25,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mutable Explorer,rare,186,e779a52f-4a89-5c6d-b3e0-0183b294ce9a,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,1.95,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mutable Explorer,rare,186,e779a52f-4a89-5c6d-b3e0-0183b294ce9a,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,1.63,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mutable Explorer,rare,327,315e34df-d3c3-5b42-bb33-20ae87d0e010,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,3.83,2026-10-19
+ECL,Lorwyn Eclipsed,play,Mutable Explorer,rare,327,315e34df-d3c3-5b42-bb33-20ae87d0e010,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,1.9,2026-10-19
+ECL,Lorwyn Eclipsed,play,Nameless Inversion,uncommon,113,12f033a3-cb1a-5e54-bca1-61b5d09ab887,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Nameless Inversion,uncommon,113,12f033a3-cb1a-5e54-bca1-61b5d09ab887,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Nightmare Sower,uncommon,114,7933148f-167d-5fe9-824b-ff91ff049c1d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Nightmare Sower,uncommon,114,7933148f-167d-5fe9-824b-ff91ff049c1d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Noggle Robber,uncommon,237,e3a7ae2f-7eae-5d23-853b-7b3fd82adb48,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Noggle Robber,uncommon,237,e3a7ae2f-7eae-5d23-853b-7b3fd82adb48,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Noggle the Mind,uncommon,60,67ebb4bc-e2ff-5c13-b0b6-2e779f468691,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Noggle the Mind,uncommon,60,67ebb4bc-e2ff-5c13-b0b6-2e779f468691,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Oko, Lorwyn Liege // Oko, Shadowmoor Scion",mythic,287,c39b6d00-91de-5b1b-ad99-5fa731a77b84,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,2.7,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Oko, Lorwyn Liege // Oko, Shadowmoor Scion",mythic,287,c39b6d00-91de-5b1b-ad99-5fa731a77b84,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,1.6,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Oko, Lorwyn Liege // Oko, Shadowmoor Scion",mythic,61,397d5234-1213-562e-901a-08dad5042c26,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,1.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Oko, Lorwyn Liege // Oko, Shadowmoor Scion",mythic,61,397d5234-1213-562e-901a-08dad5042c26,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,0.8,2026-10-19
+ECL,Lorwyn Eclipsed,play,Omni-Changeling,uncommon,62,4197d754-0a29-59fa-b531-d6d32a4f18b3,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.44,2026-10-19
+ECL,Lorwyn Eclipsed,play,Omni-Changeling,uncommon,62,4197d754-0a29-59fa-b531-d6d32a4f18b3,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Overgrown Tomb,rare,266,86bae2b6-f9c4-5a7c-a2f8-482431586f99,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,8.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Overgrown Tomb,rare,266,86bae2b6-f9c4-5a7c-a2f8-482431586f99,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,8.09,2026-10-19
+ECL,Lorwyn Eclipsed,play,Overgrown Tomb // Overgrown Tomb,rare,350,5da85f4f-9287-5b96-b015-a6c947adcafd,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,20.72,2026-10-19
+ECL,Lorwyn Eclipsed,play,Overgrown Tomb // Overgrown Tomb,rare,350,5da85f4f-9287-5b96-b015-a6c947adcafd,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,11.44,2026-10-19
+ECL,Lorwyn Eclipsed,play,Painter's Servant,mythic,147,75c77e6f-3257-54e2-83bf-df70dd567e53,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,36.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Painter's Servant,mythic,147,75c77e6f-3257-54e2-83bf-df70dd567e53,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,33.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Perfect Intimidation,uncommon,115,f69e3613-dad7-5eda-855e-4f5fbf55cc29,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Perfect Intimidation,uncommon,115,f69e3613-dad7-5eda-855e-4f5fbf55cc29,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Personify,uncommon,28,3cc682bb-b16e-5c95-9d59-1c18a70064d0,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Personify,uncommon,28,3cc682bb-b16e-5c95-9d59-1c18a70064d0,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Pestered Wellguard,uncommon,63,3989efbe-729f-5407-81a4-e8a05500b1a1,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Pestered Wellguard,uncommon,63,3989efbe-729f-5407-81a4-e8a05500b1a1,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Pitiless Fists,uncommon,187,2d6aef65-f880-5ec0-ac8b-7940cbad1820,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Pitiless Fists,uncommon,187,2d6aef65-f880-5ec0-ac8b-7940cbad1820,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Plains,common,269,4e33dbee-23ac-5940-9b8e-fb39bf4cbbc5,0.0999999999999999,"foil, nonfoil",0.0999999999999999,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Plains,common,269,4e33dbee-23ac-5940-9b8e-fb39bf4cbbc5,0.0999999999999999,"foil, nonfoil",0.0999999999999999,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Plains,common,274,c0c57d94-878b-5366-af96-e562cc0760b5,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Plains,common,274,c0c57d94-878b-5366-af96-e562cc0760b5,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Plains,common,279,71cd53f4-4c4c-5951-b2c0-43dc4dd3f393,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Plains,common,279,71cd53f4-4c4c-5951-b2c0-43dc4dd3f393,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Prideful Feastling,common,238,ee7fbd8c-2f5d-573c-962c-7cb443d6a055,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Prideful Feastling,common,238,ee7fbd8c-2f5d-573c-962c-7cb443d6a055,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Prismabasher,uncommon,188,2d48f21a-636a-5832-b6ca-e157ce6f3bd9,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Prismabasher,uncommon,188,2d48f21a-636a-5832-b6ca-e157ce6f3bd9,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Prismatic Undercurrents,uncommon,189,20f88e7e-3629-56c1-b27a-7135da60814d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Prismatic Undercurrents,uncommon,189,20f88e7e-3629-56c1-b27a-7135da60814d,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Protective Response,uncommon,29,097f61c4-9a2b-5895-9f98-656283b7c799,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Protective Response,uncommon,29,097f61c4-9a2b-5895-9f98-656283b7c799,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Puca's Eye,uncommon,259,30506ceb-a0ba-5a6f-b19c-5f7fab0b2918,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Puca's Eye,uncommon,259,30506ceb-a0ba-5a6f-b19c-5f7fab0b2918,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Pummeler for Hire,uncommon,190,638691d9-b200-59db-aeb3-d3f7a6240d69,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Pummeler for Hire,uncommon,190,638691d9-b200-59db-aeb3-d3f7a6240d69,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Pyrrhic Strike,uncommon,30,9f1e98dc-4eb2-5e36-8c15-e5f794c6ab71,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Pyrrhic Strike,uncommon,30,9f1e98dc-4eb2-5e36-8c15-e5f794c6ab71,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Raiding Schemes,rare,239,b7b53773-802c-5459-ab78-93278d47b356,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Raiding Schemes,rare,239,b7b53773-802c-5459-ab78-93278d47b356,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Reaping Willow,uncommon,240,cf785128-1c57-50ab-bcbe-db1a0c370f58,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Reaping Willow,uncommon,240,cf785128-1c57-50ab-bcbe-db1a0c370f58,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Reckless Ransacking,common,152,55c31b23-046a-5562-9cb7-d32c6f6710ea,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Reckless Ransacking,common,152,55c31b23-046a-5562-9cb7-d32c6f6710ea,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Regal Force,mythic,141,2b60f5da-048a-53ed-8a14-13c879285468,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,5.76,2026-10-19
+ECL,Lorwyn Eclipsed,play,Regal Force,mythic,141,2b60f5da-048a-53ed-8a14-13c879285468,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,4.73,2026-10-19
+ECL,Lorwyn Eclipsed,play,Reluctant Dounguard,common,31,3deb0bd7-cbe9-53a5-89b7-880e0e68ff58,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Reluctant Dounguard,common,31,3deb0bd7-cbe9-53a5-89b7-880e0e68ff58,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.07,2026-10-19
+ECL,Lorwyn Eclipsed,play,Requiting Hex,uncommon,116,9822d5d9-d87a-5add-a3d7-fe5801b78e8a,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,1.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Requiting Hex,uncommon,116,9822d5d9-d87a-5add-a3d7-fe5801b78e8a,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.62,2026-10-19
+ECL,Lorwyn Eclipsed,play,Retched Wretch,uncommon,117,04df6bda-cd71-5b20-9d25-58a72e6deedd,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Retched Wretch,uncommon,117,04df6bda-cd71-5b20-9d25-58a72e6deedd,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Rhys, the Evermore",rare,32,40b91bfc-9e5f-5c4e-b4e4-3bed655ed324,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Rhys, the Evermore",rare,32,40b91bfc-9e5f-5c4e-b4e4-3bed655ed324,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Rime Chill,uncommon,64,280ee1b9-4daa-5dfc-9338-f320340fb232,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Rime Chill,uncommon,64,280ee1b9-4daa-5dfc-9338-f320340fb232,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.1,2026-10-19
+ECL,Lorwyn Eclipsed,play,Rimefire Torque,rare,65,07feeda3-ca86-5d78-8062-8a76c59f4768,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Rimefire Torque,rare,65,07feeda3-ca86-5d78-8062-8a76c59f4768,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Rimekin Recluse,uncommon,66,2d2d43a8-7b5e-5c1f-9d25-37977c078148,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Rimekin Recluse,uncommon,66,2d2d43a8-7b5e-5c1f-9d25-37977c078148,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Risen Reef,mythic,143,df720b1f-2d5b-5aec-99c8-b2b8d9e35d94,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,5.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Risen Reef,mythic,143,df720b1f-2d5b-5aec-99c8-b2b8d9e35d94,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,3.69,2026-10-19
+ECL,Lorwyn Eclipsed,play,Riverguard's Reflexes,common,33,6d0f4bce-20f9-5768-8024-44aab04e2fdf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Riverguard's Reflexes,common,33,6d0f4bce-20f9-5768-8024-44aab04e2fdf,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Rooftop Percher,common,2,fc853199-2e71-5e85-a928-e2cbb09c5e0c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Rooftop Percher,common,2,fc853199-2e71-5e85-a928-e2cbb09c5e0c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.2,2026-10-19
+ECL,Lorwyn Eclipsed,play,Run Away Together,common,67,cc65266a-8361-552b-b6fc-10974fcb6687,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Run Away Together,common,67,cc65266a-8361-552b-b6fc-10974fcb6687,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Safewright Cavalry,common,191,f5df6a01-ee64-50e1-b256-fe1490199191,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Safewright Cavalry,common,191,f5df6a01-ee64-50e1-b256-fe1490199191,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Sanar, Innovative First-Year",rare,241,6b01c4c6-3cc2-5878-9eb6-01ec4eb68db2,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Sanar, Innovative First-Year",rare,241,6b01c4c6-3cc2-5878-9eb6-01ec4eb68db2,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sapling Nursery,rare,192,2a13e9e8-ca6c-55ad-a8f4-be512ab89fea,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,2.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sapling Nursery,rare,192,2a13e9e8-ca6c-55ad-a8f4-be512ab89fea,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,1.94,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sapling Nursery,rare,328,366c4559-e9c3-5266-88be-19b77aa8d642,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,4.72,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sapling Nursery,rare,328,366c4559-e9c3-5266-88be-19b77aa8d642,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,3.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Scarblade Scout,common,118,9f8e6b2b-85e7-5520-81d5-ab1eaed0237c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Scarblade Scout,common,118,9f8e6b2b-85e7-5520-81d5-ab1eaed0237c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Scarblade's Malice,common,119,0a189a3d-bc8a-54ea-8707-e6889463d115,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Scarblade's Malice,common,119,0a189a3d-bc8a-54ea-8707-e6889463d115,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Scuzzback Scrounger,rare,153,cd97f6b4-997b-5c03-b140-f537c008a183,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.97,2026-10-19
+ECL,Lorwyn Eclipsed,play,Scuzzback Scrounger,rare,153,cd97f6b4-997b-5c03-b140-f537c008a183,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.85,2026-10-19
+ECL,Lorwyn Eclipsed,play,Scuzzback Scrounger,rare,320,fc97e463-08c6-5d78-83cb-659aac8a6fb9,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,2.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,Scuzzback Scrounger,rare,320,fc97e463-08c6-5d78-83cb-659aac8a6fb9,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,1.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sear,uncommon,154,cbaed96e-71a1-5361-9677-f76583bd72c7,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sear,uncommon,154,cbaed96e-71a1-5361-9677-f76583bd72c7,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Selfless Safewright,rare,193,33d55dce-944a-575f-970a-04966137e39e,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,1.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Selfless Safewright,rare,193,33d55dce-944a-575f-970a-04966137e39e,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.79,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shadow Urchin,rare,242,324e3db0-a95c-5d56-809b-3e01ba206ecf,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shadow Urchin,rare,242,324e3db0-a95c-5d56-809b-3e01ba206ecf,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shimmercreep,uncommon,120,bd5a451e-fdba-5224-86a2-24fd48d3f5c7,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shimmercreep,uncommon,120,bd5a451e-fdba-5224-86a2-24fd48d3f5c7,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shimmerwilds Growth,uncommon,194,d7001f97-35b2-5f15-95c1-af054ab6c38a,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shimmerwilds Growth,uncommon,194,d7001f97-35b2-5f15-95c1-af054ab6c38a,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shinestriker,uncommon,68,0da5e211-e6d3-5977-b997-8e4537be43ee,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shinestriker,uncommon,68,0da5e211-e6d3-5977-b997-8e4537be43ee,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shore Lurker,common,34,844ac2fe-6b1a-5f46-8a1e-e66d2ccda832,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Shore Lurker,common,34,844ac2fe-6b1a-5f46-8a1e-e66d2ccda832,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Silvergill Mentor,uncommon,69,9a1a8783-3c86-568e-b460-96348870ffea,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Silvergill Mentor,uncommon,69,9a1a8783-3c86-568e-b460-96348870ffea,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Silvergill Peddler,common,70,08cfd88a-d2a5-5d02-a395-22d0075786bd,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Silvergill Peddler,common,70,08cfd88a-d2a5-5d02-a395-22d0075786bd,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sizzling Changeling,uncommon,155,7a106206-7927-544e-a670-2ba1a3cfd333,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sizzling Changeling,uncommon,155,7a106206-7927-544e-a670-2ba1a3cfd333,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.1,2026-10-19
+ECL,Lorwyn Eclipsed,play,Slippery Bogle,mythic,144,5234e72b-8dd8-58f2-badf-eb6af70af211,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,5.45,2026-10-19
+ECL,Lorwyn Eclipsed,play,Slippery Bogle,mythic,144,5234e72b-8dd8-58f2-badf-eb6af70af211,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,4.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Slumbering Walker,rare,302,f872e9b2-bda0-5f50-a566-f19f0ade3056,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Slumbering Walker,rare,302,f872e9b2-bda0-5f50-a566-f19f0ade3056,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Slumbering Walker,rare,35,d720a58d-0bd1-5b63-aa46-c5351fba2da7,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Slumbering Walker,rare,35,d720a58d-0bd1-5b63-aa46-c5351fba2da7,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Soul Immolation,mythic,156,d7d4a9cb-18e1-55e8-ad9e-daf491944c28,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,3.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Soul Immolation,mythic,156,d7d4a9cb-18e1-55e8-ad9e-daf491944c28,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,2.87,2026-10-19
+ECL,Lorwyn Eclipsed,play,Soul Immolation,mythic,321,b2daa916-cc30-5682-8887-56abc160d2f7,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,5.88,2026-10-19
+ECL,Lorwyn Eclipsed,play,Soul Immolation,mythic,321,b2daa916-cc30-5682-8887-56abc160d2f7,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,3.8,2026-10-19
+ECL,Lorwyn Eclipsed,play,Soulbright Seeker,uncommon,157,96c14158-7cd4-57e2-becc-b5becebab5a6,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Soulbright Seeker,uncommon,157,96c14158-7cd4-57e2-becc-b5becebab5a6,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sourbread Auntie,uncommon,158,5e5fec41-a6bd-5706-87a0-14f1ca5ee376,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sourbread Auntie,uncommon,158,5e5fec41-a6bd-5706-87a0-14f1ca5ee376,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spell Snare,uncommon,71,ff692cae-cdb7-5da0-a378-a62c5b211be6,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.63,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spell Snare,uncommon,71,ff692cae-cdb7-5da0-a378-a62c5b211be6,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spinerock Tyrant,mythic,159,e302c082-f9b5-5f9b-99b5-ab8779719efb,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,1.55,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spinerock Tyrant,mythic,159,e302c082-f9b5-5f9b-99b5-ab8779719efb,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,1.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spinerock Tyrant,mythic,322,55c903d5-bb46-55ad-969c-8241e1a6e669,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,3.46,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spinerock Tyrant,mythic,322,55c903d5-bb46-55ad-969c-8241e1a6e669,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,1.69,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spiral into Solitude,common,36,410f9160-e74b-5433-a15b-290d03a53299,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spiral into Solitude,common,36,410f9160-e74b-5433-a15b-290d03a53299,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Springleaf Drum,uncommon,260,d2beeceb-dd12-5678-8a02-b3809cd76c3e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.47,2026-10-19
+ECL,Lorwyn Eclipsed,play,Springleaf Drum,uncommon,260,d2beeceb-dd12-5678-8a02-b3809cd76c3e,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spry and Mighty,rare,195,0b95e0a5-2b41-583b-8d10-2635ede60357,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spry and Mighty,rare,195,0b95e0a5-2b41-583b-8d10-2635ede60357,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spry and Mighty,rare,329,d671d794-16d8-5945-999f-11a5890830d4,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.69,2026-10-19
+ECL,Lorwyn Eclipsed,play,Spry and Mighty,rare,329,d671d794-16d8-5945-999f-11a5890830d4,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.44,2026-10-19
+ECL,Lorwyn Eclipsed,play,Squawkroaster,uncommon,160,e54b6bd6-9593-554d-b3f1-cdbffa2faa71,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Squawkroaster,uncommon,160,e54b6bd6-9593-554d-b3f1-cdbffa2faa71,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.07,2026-10-19
+ECL,Lorwyn Eclipsed,play,Stalactite Dagger,common,261,f2f3547d-699e-5ca5-881b-9f1737153e50,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Stalactite Dagger,common,261,f2f3547d-699e-5ca5-881b-9f1737153e50,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Steam Vents,rare,267,c672ee10-212e-5421-b75a-e3e17f2d1d6a,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,10.9,2026-10-19
+ECL,Lorwyn Eclipsed,play,Steam Vents,rare,267,c672ee10-212e-5421-b75a-e3e17f2d1d6a,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,10.66,2026-10-19
+ECL,Lorwyn Eclipsed,play,Steam Vents // Steam Vents,rare,348,cf6acfcd-6d0a-53e6-a631-a3d769a55201,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,23.54,2026-10-19
+ECL,Lorwyn Eclipsed,play,Steam Vents // Steam Vents,rare,348,cf6acfcd-6d0a-53e6-a631-a3d769a55201,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,12.72,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sting-Slinger,uncommon,161,aad6a72e-7906-524a-870f-c3c85b00eeae,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sting-Slinger,uncommon,161,aad6a72e-7906-524a-870f-c3c85b00eeae,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Stoic Grove-Guide,common,243,615dab24-8112-5c01-9191-5f055df075e2,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Stoic Grove-Guide,common,243,615dab24-8112-5c01-9191-5f055df075e2,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Stratosoarer,common,72,51c2a135-c66f-599c-b271-05b540227010,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Stratosoarer,common,72,51c2a135-c66f-599c-b271-05b540227010,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.07,2026-10-19
+ECL,Lorwyn Eclipsed,play,Summit Sentinel,common,73,4a0cf13a-7fa6-5181-a519-7881bfb811fb,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Summit Sentinel,common,73,4a0cf13a-7fa6-5181-a519-7881bfb811fb,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sun-Dappled Celebrant,common,37,25abe389-76df-502a-82bd-c266fe70ff96,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sun-Dappled Celebrant,common,37,25abe389-76df-502a-82bd-c266fe70ff96,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.09,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sunderflock,rare,309,6ef33b7d-504b-58c6-a1f7-39c8ba1f5d4a,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,3.52,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sunderflock,rare,309,6ef33b7d-504b-58c6-a1f7-39c8ba1f5d4a,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,1.85,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sunderflock,rare,74,67062ccd-fe6f-5f63-bb52-fda06e23605e,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,2.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sunderflock,rare,74,67062ccd-fe6f-5f63-bb52-fda06e23605e,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,2.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Surly Farrier,common,196,e89cab28-9e49-5df3-9617-8b3e3f09fe4c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Surly Farrier,common,196,e89cab28-9e49-5df3-9617-8b3e3f09fe4c,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.06,2026-10-19
+ECL,Lorwyn Eclipsed,play,Swamp,common,271,dcdd9cae-fca8-516e-af6b-06e679ad6b99,0.0999999999999999,"foil, nonfoil",0.0999999999999999,foil,foil,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Swamp,common,271,dcdd9cae-fca8-516e-af6b-06e679ad6b99,0.0999999999999999,"foil, nonfoil",0.0999999999999999,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Swamp,common,276,b06c988a-2e76-5d32-8cdc-40551b4eb2ed,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Swamp,common,276,b06c988a-2e76-5d32-8cdc-40551b4eb2ed,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Swamp,common,281,7d02f7ad-6774-566d-9d8a-3bfca2664756,0.0499999999999999,"foil, nonfoil",0.05,foil,foil,0.4,2026-10-19
+ECL,Lorwyn Eclipsed,play,Swamp,common,281,7d02f7ad-6774-566d-9d8a-3bfca2664756,0.0499999999999999,"foil, nonfoil",0.05,normal,normal,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Swat Away,uncommon,75,79771f9b-1dc5-57a8-bf49-c1e0b47228a2,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Swat Away,uncommon,75,79771f9b-1dc5-57a8-bf49-c1e0b47228a2,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sygg's Command,rare,244,8970d342-12d4-55cb-a92b-b9a5128cedfd,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sygg's Command,rare,244,8970d342-12d4-55cb-a92b-b9a5128cedfd,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sygg's Command,rare,342,3950377c-c72b-5480-aa62-c05d68765754,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.5,2026-10-19
+ECL,Lorwyn Eclipsed,play,Sygg's Command,rare,342,3950377c-c72b-5480-aa62-c05d68765754,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",rare,288,16b0cbcb-0459-5064-b60f-4a72aea3deee,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.86,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",rare,288,16b0cbcb-0459-5064-b60f-4a72aea3deee,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.5,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",rare,76,c282334a-f9e0-5ff9-bfe2-97dc655aeb27,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Sygg, Wanderwine Wisdom // Sygg, Wanderbrine Shield",rare,76,c282334a-f9e0-5ff9-bfe2-97dc655aeb27,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Tam, Mindful First-Year",rare,245,d413a98d-b0dc-572e-aacf-996e68faa8be,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.52,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Tam, Mindful First-Year",rare,245,d413a98d-b0dc-572e-aacf-996e68faa8be,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Tanufel Rimespeaker,uncommon,77,4a71b201-340b-5db9-861c-c3f40631a4d9,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Tanufel Rimespeaker,uncommon,77,4a71b201-340b-5db9-861c-c3f40631a4d9,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Taster of Wares,rare,121,19988376-8825-5964-8bee-6bfbfe3d8cb0,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Taster of Wares,rare,121,19988376-8825-5964-8bee-6bfbfe3d8cb0,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Taster of Wares,rare,314,6fcb566d-d960-55bf-99a7-44386151de7d,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.45,2026-10-19
+ECL,Lorwyn Eclipsed,play,Taster of Wares,rare,314,6fcb566d-d960-55bf-99a7-44386151de7d,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Temple Garden,rare,268,991a9182-dd31-5a54-8dd1-284e33a2baa5,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,6.74,2026-10-19
+ECL,Lorwyn Eclipsed,play,Temple Garden,rare,268,991a9182-dd31-5a54-8dd1-284e33a2baa5,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,6.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Temple Garden // Temple Garden,rare,351,7eefe172-459b-566b-b6a1-5d0f9c8ee321,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,18.0,2026-10-19
+ECL,Lorwyn Eclipsed,play,Temple Garden // Temple Garden,rare,351,7eefe172-459b-566b-b6a1-5d0f9c8ee321,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,10.01,2026-10-19
+ECL,Lorwyn Eclipsed,play,Temporal Cleansing,common,78,5dcad3a6-a8d9-50d3-9fcd-d85701f2dd01,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.21,2026-10-19
+ECL,Lorwyn Eclipsed,play,Temporal Cleansing,common,78,5dcad3a6-a8d9-50d3-9fcd-d85701f2dd01,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Tend the Sprigs,common,197,2bb61390-f8af-5cc1-bd2a-daaaa5575e9b,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.26,2026-10-19
+ECL,Lorwyn Eclipsed,play,Tend the Sprigs,common,197,2bb61390-f8af-5cc1-bd2a-daaaa5575e9b,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thirst for Identity,uncommon,79,fc443f54-4aba-5a6b-a546-9c698e7e8943,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thirst for Identity,uncommon,79,fc443f54-4aba-5a6b-a546-9c698e7e8943,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thoughtweft Charge,uncommon,198,2b22aa6e-e96e-583c-8db0-6a4e42e5a1e4,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.24,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thoughtweft Charge,uncommon,198,2b22aa6e-e96e-583c-8db0-6a4e42e5a1e4,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thoughtweft Imbuer,uncommon,38,371feed0-6b18-57f1-9eb9-f57414822f01,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thoughtweft Imbuer,uncommon,38,371feed0-6b18-57f1-9eb9-f57414822f01,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thoughtweft Lieutenant,uncommon,246,385e78aa-15da-54d4-8122-9ef80eef5f9c,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thoughtweft Lieutenant,uncommon,246,385e78aa-15da-54d4-8122-9ef80eef5f9c,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thoughtweft Lieutenant,uncommon,343,015d51b1-4bba-59dd-8142-3d7d6e6f2c23,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thoughtweft Lieutenant,uncommon,343,015d51b1-4bba-59dd-8142-3d7d6e6f2c23,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thousand-Year Elixir,mythic,148,c3cbfc22-4e6e-56a9-95a3-b514f45e54c6,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,33.93,2026-10-19
+ECL,Lorwyn Eclipsed,play,Thousand-Year Elixir,mythic,148,c3cbfc22-4e6e-56a9-95a3-b514f45e54c6,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,27.05,2026-10-19
+ECL,Lorwyn Eclipsed,play,Timid Shieldbearer,common,39,f52f39c1-f92c-53f2-9bc6-fb2134a5a7f0,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Timid Shieldbearer,common,39,f52f39c1-f92c-53f2-9bc6-fb2134a5a7f0,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.09,2026-10-19
+ECL,Lorwyn Eclipsed,play,Tributary Vaulter,common,40,f65df812-88b7-5f9f-a3ab-d514d4ed79c5,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Tributary Vaulter,common,40,f65df812-88b7-5f9f-a3ab-d514d4ed79c5,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.11,2026-10-19
+ECL,Lorwyn Eclipsed,play,Trystan's Command,rare,247,c733036e-3628-58a1-b10f-fb17e09ef85a,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.39,2026-10-19
+ECL,Lorwyn Eclipsed,play,Trystan's Command,rare,247,c733036e-3628-58a1-b10f-fb17e09ef85a,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Trystan's Command,rare,344,297c16be-4b52-573d-99f0-b20b59c66744,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.92,2026-10-19
+ECL,Lorwyn Eclipsed,play,Trystan's Command,rare,344,297c16be-4b52-573d-99f0-b20b59c66744,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.54,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Trystan, Callous Cultivator // Trystan, Penitent Culler",rare,199,82e950c3-6f1b-5027-8f75-87c38b97bbad,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Trystan, Callous Cultivator // Trystan, Penitent Culler",rare,199,82e950c3-6f1b-5027-8f75-87c38b97bbad,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Trystan, Callous Cultivator // Trystan, Penitent Culler",rare,291,3394660c-4da8-5ab2-82f0-6f7754ecbf8c,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,0.72,2026-10-19
+ECL,Lorwyn Eclipsed,play,"Trystan, Callous Cultivator // Trystan, Penitent Culler",rare,291,3394660c-4da8-5ab2-82f0-6f7754ecbf8c,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,0.33,2026-10-19
+ECL,Lorwyn Eclipsed,play,Tweeze,common,162,c1ed9a8a-ea1b-581b-bc3c-556cbd06d8ce,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Tweeze,common,162,c1ed9a8a-ea1b-581b-bc3c-556cbd06d8ce,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Twilight Diviner,rare,122,c29b11f8-32c6-58d8-8f26-a88fa709d992,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,2.57,2026-10-19
+ECL,Lorwyn Eclipsed,play,Twilight Diviner,rare,122,c29b11f8-32c6-58d8-8f26-a88fa709d992,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,2.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Twilight Diviner,rare,315,fec21163-bb2a-52ca-a38d-8efaa46e2253,0.0024200055263885,"foil, nonfoil",0.0024187161773182,foil,foil,6.01,2026-10-19
+ECL,Lorwyn Eclipsed,play,Twilight Diviner,rare,315,fec21163-bb2a-52ca-a38d-8efaa46e2253,0.0024200055263885,"foil, nonfoil",0.0024187161773182,normal,normal,2.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Twinflame Travelers,uncommon,248,39f4aae2-5165-573d-aa92-00cf967b7a05,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Twinflame Travelers,uncommon,248,39f4aae2-5165-573d-aa92-00cf967b7a05,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Twinflame Travelers,uncommon,345,8af987a7-40e7-5921-b7c4-6583eda142e2,0.0292987012987012,"foil, nonfoil",0.0289957908979954,foil,foil,0.52,2026-10-19
+ECL,Lorwyn Eclipsed,play,Twinflame Travelers,uncommon,345,8af987a7-40e7-5921-b7c4-6583eda142e2,0.0292987012987012,"foil, nonfoil",0.0289957908979954,normal,normal,0.38,2026-10-19
+ECL,Lorwyn Eclipsed,play,Unbury,uncommon,123,d89b8ae4-74f2-515a-b617-8fbbb52a3e55,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.35,2026-10-19
+ECL,Lorwyn Eclipsed,play,Unbury,uncommon,123,d89b8ae4-74f2-515a-b617-8fbbb52a3e55,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Unexpected Assistance,common,80,dfb87f5b-6ea3-5a4e-ba0a-44fcc34854f6,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.31,2026-10-19
+ECL,Lorwyn Eclipsed,play,Unexpected Assistance,common,80,dfb87f5b-6ea3-5a4e-ba0a-44fcc34854f6,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Unforgiving Aim,common,200,0f0bd9b5-3905-51c4-bf54-18e2fd2808a8,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.32,2026-10-19
+ECL,Lorwyn Eclipsed,play,Unforgiving Aim,common,200,0f0bd9b5-3905-51c4-bf54-18e2fd2808a8,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.22,2026-10-19
+ECL,Lorwyn Eclipsed,play,Unwelcome Sprite,uncommon,81,540e4163-7721-5d47-ad41-d0e81a6efb39,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.37,2026-10-19
+ECL,Lorwyn Eclipsed,play,Unwelcome Sprite,uncommon,81,540e4163-7721-5d47-ad41-d0e81a6efb39,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.23,2026-10-19
+ECL,Lorwyn Eclipsed,play,Vibrance,mythic,249,7cb9afe3-c8c1-53da-9805-92823d8b28a1,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,3.39,2026-10-19
+ECL,Lorwyn Eclipsed,play,Vibrance,mythic,249,7cb9afe3-c8c1-53da-9805-92823d8b28a1,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,2.4,2026-10-19
+ECL,Lorwyn Eclipsed,play,Vibrance,mythic,295,6e72fe0f-10e2-5a73-b157-895848343324,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,10.96,2026-10-19
+ECL,Lorwyn Eclipsed,play,Vibrance,mythic,295,6e72fe0f-10e2-5a73-b157-895848343324,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,3.99,2026-10-19
+ECL,Lorwyn Eclipsed,play,Vinebred Brawler,uncommon,201,4c9477fc-71b3-5cf7-98e7-9148e43f5ad7,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Vinebred Brawler,uncommon,201,4c9477fc-71b3-5cf7-98e7-9148e43f5ad7,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.15,2026-10-19
+ECL,Lorwyn Eclipsed,play,Virulent Emissary,uncommon,202,44ca42b3-3239-5ac6-9d2c-f58f102b07e2,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,1.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Virulent Emissary,uncommon,202,44ca42b3-3239-5ac6-9d2c-f58f102b07e2,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.69,2026-10-19
+ECL,Lorwyn Eclipsed,play,Voracious Tome-Skimmer,uncommon,250,23186bf1-db81-5081-a948-f93591ed8e21,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Voracious Tome-Skimmer,uncommon,250,23186bf1-db81-5081-a948-f93591ed8e21,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderbrine Preacher,common,41,292280ef-5eda-54da-89fc-a1b4cbc0b824,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderbrine Preacher,common,41,292280ef-5eda-54da-89fc-a1b4cbc0b824,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderbrine Trapper,uncommon,42,71f2deb8-dabf-5c5f-8683-4eaa9f77c94a,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.3,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderbrine Trapper,uncommon,42,71f2deb8-dabf-5c5f-8683-4eaa9f77c94a,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.17,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderwine Distracter,common,82,746bf7d6-f602-5c56-8eb0-4c8266648181,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderwine Distracter,common,82,746bf7d6-f602-5c56-8eb0-4c8266648181,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.08,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderwine Farewell,uncommon,83,6fe678f0-8530-55bd-94c0-8c6aa0c192f8,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.28,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderwine Farewell,uncommon,83,6fe678f0-8530-55bd-94c0-8c6aa0c192f8,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.13,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderwine Prophets,mythic,132,0a53e37f-e50c-51fc-ae9e-591f31575ed8,0.0009090909090909,"foil, nonfoil",0.0009090909090909,foil,foil,11.19,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wanderwine Prophets,mythic,132,0a53e37f-e50c-51fc-ae9e-591f31575ed8,0.0009090909090909,"foil, nonfoil",0.0009090909090909,normal,normal,11.76,2026-10-19
+ECL,Lorwyn Eclipsed,play,Warren Torchmaster,uncommon,163,2aa87352-0c73-5acb-a119-5acafa2f35a5,0.0360527272727272,"foil, nonfoil",0.0355514435302508,foil,foil,0.29,2026-10-19
+ECL,Lorwyn Eclipsed,play,Warren Torchmaster,uncommon,163,2aa87352-0c73-5acb-a119-5acafa2f35a5,0.0360527272727272,"foil, nonfoil",0.0355514435302508,normal,normal,0.27,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wary Farmer,common,251,804b328e-ab7b-5bc8-a6af-a6937f42599d,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.16,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wary Farmer,common,251,804b328e-ab7b-5bc8-a6af-a6937f42599d,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.1,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wild Unraveling,common,84,76b18c89-52ce-5e74-b1fb-2fc4207b8626,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.25,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wild Unraveling,common,84,76b18c89-52ce-5e74-b1fb-2fc4207b8626,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.14,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wildvine Pummeler,common,203,59e6d950-ffaa-5b97-8a9b-3f7d7d961a1a,0.0958742985409652,"foil, nonfoil",0.0919354558814761,foil,foil,0.18,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wildvine Pummeler,common,203,59e6d950-ffaa-5b97-8a9b-3f7d7d961a1a,0.0958742985409652,"foil, nonfoil",0.0919354558814761,normal,normal,0.12,2026-10-19
+ECL,Lorwyn Eclipsed,play,Winnowing,rare,43,85829118-30f4-54f4-942c-26dbd17ebc6c,0.0160020242914979,"foil, nonfoil",0.015951749882591,foil,foil,0.36,2026-10-19
+ECL,Lorwyn Eclipsed,play,Winnowing,rare,43,85829118-30f4-54f4-942c-26dbd17ebc6c,0.0160020242914979,"foil, nonfoil",0.015951749882591,normal,normal,0.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wistfulness,mythic,252,ce5ef9f8-30b1-5245-b1fe-e9d8f8926e86,0.0074485645933014,"foil, nonfoil",0.0074396026255979,foil,foil,4.58,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wistfulness,mythic,252,ce5ef9f8-30b1-5245-b1fe-e9d8f8926e86,0.0074485645933014,"foil, nonfoil",0.0074396026255979,normal,normal,4.04,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wistfulness,mythic,296,bc9d068a-4b79-5690-be23-418e5a42c260,0.0012100027631942,"foil, nonfoil",0.0012096804016501,foil,foil,17.34,2026-10-19
+ECL,Lorwyn Eclipsed,play,Wistfulness,mythic,296,bc9d068a-4b79-5690-be23-418e5a42c260,0.0012100027631942,"foil, nonfoil",0.0012096804016501,normal,normal,6.84,2026-10-19

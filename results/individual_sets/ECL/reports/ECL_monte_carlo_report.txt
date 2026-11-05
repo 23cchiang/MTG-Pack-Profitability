@@ -1,0 +1,27 @@
+ECL PLAY BOOSTER — MONTE CARLO PROFITABILITY
+==============================================================
+Pack price: $4.84
+Simulations: 200,000
+Random seed: 4212026
+
+BASELINE RESULTS
+Simulated mean: $5.5143
+Simulated median: $3.2700
+Analytical expected value: $5.5149
+Difference: $-0.0005
+
+MODEL ASSUMPTIONS
+- Booster variants are sampled using variant probabilities.
+- Cards are sampled independently within each slot.
+- Foil and foilLand slots use foil prices.
+- Other slots use nonfoil prices.
+- Values represent card market value, not cash proceeds after fees.
+
+SPECIAL GUEST ALL-FOIL SENSITIVITY
+Simulated mean: $5.5706
+Analytical expected value: $5.5711
+- Special Guest cards use foil prices in this hypothetical sensitivity scenario.
+
+OUTPUT FILES
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/ECL/tables/ECL_monte_carlo_summary.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/ECL/tables/ECL_monte_carlo_pack_values.csv

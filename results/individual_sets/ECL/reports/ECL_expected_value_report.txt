@@ -1,0 +1,33 @@
+ECL PLAY BOOSTER — EXPECTED VALUE REPORT
+=======================================================
+Pack price: $4.84
+Calculation status: COMPLETE
+
+Expected value (Special Guest nonfoil assumption): $5.5149
+Expected profit/loss: $0.6749
+Expected ROI: 13.94%
+Expected value if Special Guest were all foil: $5.5711
+
+Special Guest expected frequency: 0.018182 per pack
+Special Guest nonfoil EV contribution: $0.2336
+Special Guest foil EV contribution: $0.2898
+Special Guest cards matched: 20
+
+Probability rows: 4,132
+Priced probability rows: 4,132
+Missing-price rows: 0
+Expected copies in missing-price rows per pack: 0.000000
+
+ASSUMPTIONS
+- Expected copies per pack already includes variant probability.
+- Foil and foilLand slots use foil prices.
+- All other slots use nonfoil prices for the base estimate.
+- Special Guest finish probability is not supplied.
+- All-foil Special Guest is a sensitivity scenario.
+- Missing prices are not treated as zero.
+
+OUTPUT FILES
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/ECL_expected_value_by_card.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/ECL_expected_value_by_slot.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/ECL/tables/ECL_top_value_cards.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/ECL/tables/ECL_special_guest_price_audit.csv
