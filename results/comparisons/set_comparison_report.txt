@@ -1,16 +1,29 @@
 MTG BOOSTER SET PROFITABILITY COMPARISON
-=================================================================
+======================================================================
 
 COMPARISON SETTINGS
------------------------------------
-- Sets: Aetherdrift (DFT) and Final Fantasy (FIN)
+----------------------------------------
+- Sets: All eight selected MTG sets
 - Booster type: Play Boosters
 - Valuation: TCGplayer Market Price
 - Scenarios: Standard baseline only
 - Price declines: 0%, 10%, 20%, and 30%
 - Results are based on the October 19, 2026 market-price snapshot.
+- Eight individual set analyses were consolidated before comparison.
 
-SINGLE-PACK COMPARISON AT CURRENT MARKET PRICES
+PACK PRICES
+----------------------------------------
+DFT - Aetherdrift: $4.99
+FIN - Final Fantasy: $9.34
+EOE - Edge of Eternities: $7.60
+TDM - Tarkir: Dragonstorm: $6.58
+SOS - Secrets of Strixhaven: $4.87
+FRA - Reality Fracture: $5.02
+ECL - Lorwyn Eclipsed: $4.84
+TLA - Avatar: The Last Airbender: $4.87
+
+
+SINGLE-PACK COMPARISON
 -------------------------------------------------------
 
 Aetherdrift (DFT)
@@ -29,9 +42,57 @@ Mean profit/loss: $-0.4090
 Simulated ROI: -4.38%
 Probability of recovering pack cost: 23.20%
 
+Edge of Eternities (EOE)
+Pack cost: $7.60
+Mean simulated pack value: $8.0979
+Median pack value: $4.5500
+Mean profit/loss: $0.4979
+Simulated ROI: 6.55%
+Probability of recovering pack cost: 28.81%
+
+Tarkir: Dragonstorm (TDM)
+Pack cost: $6.58
+Mean simulated pack value: $6.4787
+Median pack value: $3.6800
+Mean profit/loss: $-0.1013
+Simulated ROI: -1.54%
+Probability of recovering pack cost: 20.43%
+
+Secrets of Strixhaven (SOS)
+Pack cost: $4.87
+Mean simulated pack value: $5.2256
+Median pack value: $3.7100
+Mean profit/loss: $0.3556
+Simulated ROI: 7.30%
+Probability of recovering pack cost: 32.92%
+
+Reality Fracture (FRA)
+Pack cost: $5.02
+Mean simulated pack value: $6.3636
+Median pack value: $3.9800
+Mean profit/loss: $1.3436
+Simulated ROI: 26.76%
+Probability of recovering pack cost: 34.74%
+
+Lorwyn Eclipsed (ECL)
+Pack cost: $4.84
+Mean simulated pack value: $5.5143
+Median pack value: $3.2700
+Mean profit/loss: $0.6743
+Simulated ROI: 13.93%
+Probability of recovering pack cost: 26.05%
+
+Avatar: The Last Airbender (TLA)
+Pack cost: $4.87
+Mean simulated pack value: $6.1267
+Median pack value: $3.7000
+Mean profit/loss: $1.2567
+Simulated ROI: 25.81%
+Probability of recovering pack cost: 32.72%
+
 
 MARKET-PRICE SENSITIVITY
-----------------------------------------
+---------------------------------------------
 DFT | Price decline: 0% | Mean value: $5.323 | Mean P/L: $0.333
 DFT | Price decline: 10% | Mean value: $4.790 | Mean P/L: $-0.200
 DFT | Price decline: 20% | Mean value: $4.258 | Mean P/L: $-0.732
@@ -40,10 +101,34 @@ FIN | Price decline: 0% | Mean value: $8.931 | Mean P/L: $-0.409
 FIN | Price decline: 10% | Mean value: $8.038 | Mean P/L: $-1.302
 FIN | Price decline: 20% | Mean value: $7.145 | Mean P/L: $-2.195
 FIN | Price decline: 30% | Mean value: $6.252 | Mean P/L: $-3.088
+EOE | Price decline: 0% | Mean value: $8.098 | Mean P/L: $0.498
+EOE | Price decline: 10% | Mean value: $7.288 | Mean P/L: $-0.312
+EOE | Price decline: 20% | Mean value: $6.478 | Mean P/L: $-1.122
+EOE | Price decline: 30% | Mean value: $5.669 | Mean P/L: $-1.931
+TDM | Price decline: 0% | Mean value: $6.479 | Mean P/L: $-0.101
+TDM | Price decline: 10% | Mean value: $5.831 | Mean P/L: $-0.749
+TDM | Price decline: 20% | Mean value: $5.183 | Mean P/L: $-1.397
+TDM | Price decline: 30% | Mean value: $4.535 | Mean P/L: $-2.045
+SOS | Price decline: 0% | Mean value: $5.226 | Mean P/L: $0.356
+SOS | Price decline: 10% | Mean value: $4.703 | Mean P/L: $-0.167
+SOS | Price decline: 20% | Mean value: $4.181 | Mean P/L: $-0.689
+SOS | Price decline: 30% | Mean value: $3.658 | Mean P/L: $-1.212
+FRA | Price decline: 0% | Mean value: $6.364 | Mean P/L: $1.344
+FRA | Price decline: 10% | Mean value: $5.727 | Mean P/L: $0.707
+FRA | Price decline: 20% | Mean value: $5.091 | Mean P/L: $0.071
+FRA | Price decline: 30% | Mean value: $4.454 | Mean P/L: $-0.566
+ECL | Price decline: 0% | Mean value: $5.514 | Mean P/L: $0.674
+ECL | Price decline: 10% | Mean value: $4.963 | Mean P/L: $0.123
+ECL | Price decline: 20% | Mean value: $4.411 | Mean P/L: $-0.429
+ECL | Price decline: 30% | Mean value: $3.860 | Mean P/L: $-0.980
+TLA | Price decline: 0% | Mean value: $6.127 | Mean P/L: $1.257
+TLA | Price decline: 10% | Mean value: $5.514 | Mean P/L: $0.644
+TLA | Price decline: 20% | Mean value: $4.901 | Mean P/L: $0.031
+TLA | Price decline: 30% | Mean value: $4.289 | Mean P/L: $-0.581
 
 
 MULTI-PACK COMPARISON
-----------------------------------------
+---------------------------------------------
 DFT | 10 packs | Price decline: 0% | Mean P/L: $3.24 | Recovery probability: 45.62%
 DFT | 20 packs | Price decline: 0% | Mean P/L: $6.58 | Recovery probability: 49.06%
 DFT | 36 packs | Price decline: 0% | Mean P/L: $12.03 | Recovery probability: 52.36%
@@ -76,13 +161,110 @@ FIN | 10 packs | Price decline: 30% | Mean P/L: $-30.96 | Recovery probability: 
 FIN | 20 packs | Price decline: 30% | Mean P/L: $-61.65 | Recovery probability: 7.73%
 FIN | 36 packs | Price decline: 30% | Mean P/L: $-111.24 | Recovery probability: 3.57%
 FIN | 100 packs | Price decline: 30% | Mean P/L: $-308.99 | Recovery probability: 0.16%
+EOE | 10 packs | Price decline: 0% | Mean P/L: $4.91 | Recovery probability: 47.23%
+EOE | 20 packs | Price decline: 0% | Mean P/L: $9.79 | Recovery probability: 51.84%
+EOE | 36 packs | Price decline: 0% | Mean P/L: $17.69 | Recovery probability: 55.87%
+EOE | 100 packs | Price decline: 0% | Mean P/L: $50.05 | Recovery probability: 65.84%
+EOE | 10 packs | Price decline: 10% | Mean P/L: $-3.04 | Recovery probability: 35.76%
+EOE | 20 packs | Price decline: 10% | Mean P/L: $-6.29 | Recovery probability: 35.65%
+EOE | 36 packs | Price decline: 10% | Mean P/L: $-11.30 | Recovery probability: 34.73%
+EOE | 100 packs | Price decline: 10% | Mean P/L: $-31.32 | Recovery probability: 33.16%
+EOE | 10 packs | Price decline: 20% | Mean P/L: $-11.28 | Recovery probability: 24.41%
+EOE | 20 packs | Price decline: 20% | Mean P/L: $-22.34 | Recovery probability: 20.85%
+EOE | 36 packs | Price decline: 20% | Mean P/L: $-40.20 | Recovery probability: 18.00%
+EOE | 100 packs | Price decline: 20% | Mean P/L: $-112.53 | Recovery probability: 9.86%
+EOE | 10 packs | Price decline: 30% | Mean P/L: $-19.31 | Recovery probability: 14.67%
+EOE | 20 packs | Price decline: 30% | Mean P/L: $-38.42 | Recovery probability: 10.38%
+EOE | 36 packs | Price decline: 30% | Mean P/L: $-69.58 | Recovery probability: 7.18%
+EOE | 100 packs | Price decline: 30% | Mean P/L: $-192.77 | Recovery probability: 1.35%
+TDM | 10 packs | Price decline: 0% | Mean P/L: $-1.28 | Recovery probability: 36.04%
+TDM | 20 packs | Price decline: 0% | Mean P/L: $-2.23 | Recovery probability: 41.59%
+TDM | 36 packs | Price decline: 0% | Mean P/L: $-3.19 | Recovery probability: 42.73%
+TDM | 100 packs | Price decline: 0% | Mean P/L: $-9.84 | Recovery probability: 43.04%
+TDM | 10 packs | Price decline: 10% | Mean P/L: $-7.55 | Recovery probability: 30.03%
+TDM | 20 packs | Price decline: 10% | Mean P/L: $-15.03 | Recovery probability: 29.37%
+TDM | 36 packs | Price decline: 10% | Mean P/L: $-27.12 | Recovery probability: 26.15%
+TDM | 100 packs | Price decline: 10% | Mean P/L: $-75.36 | Recovery probability: 16.90%
+TDM | 10 packs | Price decline: 20% | Mean P/L: $-14.03 | Recovery probability: 24.19%
+TDM | 20 packs | Price decline: 20% | Mean P/L: $-27.96 | Recovery probability: 17.88%
+TDM | 36 packs | Price decline: 20% | Mean P/L: $-50.53 | Recovery probability: 12.25%
+TDM | 100 packs | Price decline: 20% | Mean P/L: $-139.91 | Recovery probability: 3.44%
+TDM | 10 packs | Price decline: 30% | Mean P/L: $-20.49 | Recovery probability: 14.76%
+TDM | 20 packs | Price decline: 30% | Mean P/L: $-40.88 | Recovery probability: 8.86%
+TDM | 36 packs | Price decline: 30% | Mean P/L: $-73.60 | Recovery probability: 3.99%
+TDM | 100 packs | Price decline: 30% | Mean P/L: $-204.45 | Recovery probability: 0.25%
+SOS | 10 packs | Price decline: 0% | Mean P/L: $3.70 | Recovery probability: 47.02%
+SOS | 20 packs | Price decline: 0% | Mean P/L: $7.06 | Recovery probability: 51.73%
+SOS | 36 packs | Price decline: 0% | Mean P/L: $12.97 | Recovery probability: 58.38%
+SOS | 100 packs | Price decline: 0% | Mean P/L: $35.85 | Recovery probability: 71.77%
+SOS | 10 packs | Price decline: 10% | Mean P/L: $-1.76 | Recovery probability: 30.46%
+SOS | 20 packs | Price decline: 10% | Mean P/L: $-3.24 | Recovery probability: 31.80%
+SOS | 36 packs | Price decline: 10% | Mean P/L: $-6.00 | Recovery probability: 33.72%
+SOS | 100 packs | Price decline: 10% | Mean P/L: $-16.31 | Recovery probability: 33.29%
+SOS | 10 packs | Price decline: 20% | Mean P/L: $-6.94 | Recovery probability: 18.23%
+SOS | 20 packs | Price decline: 20% | Mean P/L: $-13.83 | Recovery probability: 18.36%
+SOS | 36 packs | Price decline: 20% | Mean P/L: $-24.78 | Recovery probability: 16.68%
+SOS | 100 packs | Price decline: 20% | Mean P/L: $-68.99 | Recovery probability: 7.30%
+SOS | 10 packs | Price decline: 30% | Mean P/L: $-12.08 | Recovery probability: 11.23%
+SOS | 20 packs | Price decline: 30% | Mean P/L: $-24.37 | Recovery probability: 9.80%
+SOS | 36 packs | Price decline: 30% | Mean P/L: $-43.59 | Recovery probability: 5.27%
+SOS | 100 packs | Price decline: 30% | Mean P/L: $-121.19 | Recovery probability: 0.48%
+FRA | 10 packs | Price decline: 0% | Mean P/L: $13.39 | Recovery probability: 66.99%
+FRA | 20 packs | Price decline: 0% | Mean P/L: $26.66 | Recovery probability: 78.29%
+FRA | 36 packs | Price decline: 0% | Mean P/L: $48.18 | Recovery probability: 87.67%
+FRA | 100 packs | Price decline: 0% | Mean P/L: $134.13 | Recovery probability: 98.18%
+FRA | 10 packs | Price decline: 10% | Mean P/L: $6.96 | Recovery probability: 53.24%
+FRA | 20 packs | Price decline: 10% | Mean P/L: $13.94 | Recovery probability: 61.69%
+FRA | 36 packs | Price decline: 10% | Mean P/L: $25.39 | Recovery probability: 69.85%
+FRA | 100 packs | Price decline: 10% | Mean P/L: $70.75 | Recovery probability: 85.71%
+FRA | 10 packs | Price decline: 20% | Mean P/L: $0.68 | Recovery probability: 39.03%
+FRA | 20 packs | Price decline: 20% | Mean P/L: $1.58 | Recovery probability: 42.87%
+FRA | 36 packs | Price decline: 20% | Mean P/L: $2.55 | Recovery probability: 46.51%
+FRA | 100 packs | Price decline: 20% | Mean P/L: $6.84 | Recovery probability: 51.14%
+FRA | 10 packs | Price decline: 30% | Mean P/L: $-5.57 | Recovery probability: 25.87%
+FRA | 20 packs | Price decline: 30% | Mean P/L: $-11.31 | Recovery probability: 26.17%
+FRA | 36 packs | Price decline: 30% | Mean P/L: $-20.25 | Recovery probability: 23.49%
+FRA | 100 packs | Price decline: 30% | Mean P/L: $-56.30 | Recovery probability: 14.40%
+ECL | 10 packs | Price decline: 0% | Mean P/L: $6.77 | Recovery probability: 59.44%
+ECL | 20 packs | Price decline: 0% | Mean P/L: $13.25 | Recovery probability: 67.40%
+ECL | 36 packs | Price decline: 0% | Mean P/L: $24.24 | Recovery probability: 75.53%
+ECL | 100 packs | Price decline: 0% | Mean P/L: $67.59 | Recovery probability: 89.48%
+ECL | 10 packs | Price decline: 10% | Mean P/L: $1.26 | Recovery probability: 46.33%
+ECL | 20 packs | Price decline: 10% | Mean P/L: $2.47 | Recovery probability: 49.77%
+ECL | 36 packs | Price decline: 10% | Mean P/L: $4.54 | Recovery probability: 52.68%
+ECL | 100 packs | Price decline: 10% | Mean P/L: $12.78 | Recovery probability: 58.15%
+ECL | 10 packs | Price decline: 20% | Mean P/L: $-4.28 | Recovery probability: 32.63%
+ECL | 20 packs | Price decline: 20% | Mean P/L: $-8.67 | Recovery probability: 29.79%
+ECL | 36 packs | Price decline: 20% | Mean P/L: $-15.34 | Recovery probability: 26.23%
+ECL | 100 packs | Price decline: 20% | Mean P/L: $-42.75 | Recovery probability: 16.53%
+ECL | 10 packs | Price decline: 30% | Mean P/L: $-9.81 | Recovery probability: 19.39%
+ECL | 20 packs | Price decline: 30% | Mean P/L: $-19.59 | Recovery probability: 13.18%
+ECL | 36 packs | Price decline: 30% | Mean P/L: $-35.39 | Recovery probability: 7.31%
+ECL | 100 packs | Price decline: 30% | Mean P/L: $-97.92 | Recovery probability: 1.09%
+TLA | 10 packs | Price decline: 0% | Mean P/L: $12.57 | Recovery probability: 62.47%
+TLA | 20 packs | Price decline: 0% | Mean P/L: $25.16 | Recovery probability: 74.30%
+TLA | 36 packs | Price decline: 0% | Mean P/L: $45.11 | Recovery probability: 84.75%
+TLA | 100 packs | Price decline: 0% | Mean P/L: $126.05 | Recovery probability: 97.06%
+TLA | 10 packs | Price decline: 10% | Mean P/L: $6.59 | Recovery probability: 49.71%
+TLA | 20 packs | Price decline: 10% | Mean P/L: $12.85 | Recovery probability: 59.69%
+TLA | 36 packs | Price decline: 10% | Mean P/L: $23.13 | Recovery probability: 68.08%
+TLA | 100 packs | Price decline: 10% | Mean P/L: $64.33 | Recovery probability: 82.73%
+TLA | 10 packs | Price decline: 20% | Mean P/L: $0.33 | Recovery probability: 38.05%
+TLA | 20 packs | Price decline: 20% | Mean P/L: $0.69 | Recovery probability: 43.91%
+TLA | 36 packs | Price decline: 20% | Mean P/L: $1.09 | Recovery probability: 45.86%
+TLA | 100 packs | Price decline: 20% | Mean P/L: $2.96 | Recovery probability: 48.69%
+TLA | 10 packs | Price decline: 30% | Mean P/L: $-5.64 | Recovery probability: 28.62%
+TLA | 20 packs | Price decline: 30% | Mean P/L: $-11.75 | Recovery probability: 26.64%
+TLA | 36 packs | Price decline: 30% | Mean P/L: $-21.03 | Recovery probability: 23.02%
+TLA | 100 packs | Price decline: 30% | Mean P/L: $-57.71 | Recovery probability: 13.83%
 
 
 INTERPRETATION AND LIMITATIONS
-----------------------------------------
+---------------------------------------------
 - Mean simulated pack value represents an average across simulated openings, not a guaranteed outcome.
-- The standard baseline is used for both sets to maintain a consistent comparison.
-- DFT's optional Special Guest all-foil sensitivity scenario is excluded from this comparison.
+- The standard baseline is used for all sets to maintain a consistent comparison.
+- Optional Special Guest all-foil sensitivity scenarios are excluded from the standard comparison.
+- TLA does not have a Special Guest slot in this analysis.
 - Market prices are estimates and do not guarantee resale proceeds.
 - Selling fees, shipping, and buylist discounts are not deducted.
 - Multi-pack simulations assume independent pack outcomes.
