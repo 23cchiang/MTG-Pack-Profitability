@@ -1,0 +1,33 @@
+FRA PLAY BOOSTER — EXPECTED VALUE REPORT
+=======================================================
+Pack price: $5.02
+Calculation status: COMPLETE
+
+Expected value (Special Guest nonfoil assumption): $6.3651
+Expected profit/loss: $1.3451
+Expected ROI: 26.79%
+Expected value if Special Guest were all foil: $6.5170
+
+Special Guest expected frequency: 0.018182 per pack
+Special Guest nonfoil EV contribution: $0.1569
+Special Guest foil EV contribution: $0.3088
+Special Guest cards matched: 10
+
+Probability rows: 203,456
+Priced probability rows: 203,456
+Missing-price rows: 0
+Expected copies in missing-price rows per pack: 0.000000
+
+ASSUMPTIONS
+- Expected copies per pack already includes variant probability.
+- Foil and foilLand slots use foil prices.
+- All other slots use nonfoil prices for the base estimate.
+- Special Guest finish probability is not supplied.
+- All-foil Special Guest is a sensitivity scenario.
+- Missing prices are not treated as zero.
+
+OUTPUT FILES
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/FRA_expected_value_by_card.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/FRA_expected_value_by_slot.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/FRA/tables/FRA_top_value_cards.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/FRA/tables/FRA_special_guest_price_audit.csv

@@ -1,0 +1,412 @@
+set_code,set_name,booster_type,card_name,rarity,collector_number,uuid,expected_copies_per_pack,finish_options,probability_at_least_one
+FRA,Reality Fracture,play,Academic Ascent,common,2,89ebc864-dc49-58f8-9968-1ca9a94d3766,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Aerid Konstrari,mythic,121,4305192e-f7ba-59c7-a9ca-c89cfe27fa8e,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,Aerid Konstrari,mythic,347,f3e19303-4248-5917-a547-2dfdd0da7af2,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,Afterthought Sentry,common,166,b5758d82-1cd4-50fb-8141-88701d57bbb3,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Ajani Resolute,mythic,195,e6a745ff-2f8f-5607-976a-d7968e2d85b2,0.007672064777327936,"foil, nonfoil",0.006467374114373259
+FRA,Reality Fracture,play,Ajani Resolute,mythic,291,9c5ddbcf-a767-514f-908d-7cbda3be6291,0.0010960092539039907,"foil, nonfoil",0.0009242494758529007
+FRA,Reality Fracture,play,Ajani Unrelenting,mythic,242,a2f7a868-3091-5f50-99f8-25dacdbb20bd,0.007672064777327936,"foil, nonfoil",0.006467374114373259
+FRA,Reality Fracture,play,Ajani Unrelenting,mythic,308,a437c2f8-9802-50f3-9dbd-c1c25289a22d,0.0010960092539039907,"foil, nonfoil",0.0009242494758529007
+FRA,Reality Fracture,play,Ajani's Anguish,rare,367,d48656ad-af53-5f50-be82-8aeb219b7689,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Ajani's Anguish,rare,72,922d4623-a360-5d93-b5bc-82d851a6d9d7,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Apex Witchstalker,common,48,0cd9c9bd-1186-5770-98fc-0ba5e951e020,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Arcane Amphisbaena,common,97,8130b4c1-4279-5304-be99-56e38bf274bb,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Archive Arbiter,uncommon,167,8d7026b9-0ea6-5953-973f-123415bb5577,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,"Arni, Humble Scribe",uncommon,211,cb339139-b0d6-5c2c-80df-c4e9a7b2bef1,0.04506844033159823,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,"Arni, Renowned Champion",uncommon,243,b349fcce-d974-5c8a-980b-2496963a4260,0.04506844033159823,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,Artifist Acumen,common,73,9ef1981d-9dfb-51f0-b12a-abcb224d41ad,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Austere Command,mythic,160,e31e1c99-58ef-5e1f-96a5-8b9d8a2b9797,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,Avatar of Burgeoning Echoes,mythic,122,0a0d52dc-8370-5c43-bb6b-65bb95e3f1e2,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,Avatar of Burgeoning Echoes,mythic,348,713fba2b-b4d4-5140-8d38-ee22b3ffbbc6,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,Awaken the Inferno,common,74,8fa67749-2cdd-547b-9cac-696d235cf52d,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Bestial Incursion,common,98,a6db7fbd-7620-5637-8354-a9ee60c1788a,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Blazing Crescendo,common,75,6ad84379-a59b-5990-92f0-b04266717550,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Blessed Ghoul,common,123,8b995488-96e1-5461-91bf-011e5c1ec2ef,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Bloodline Recollector // Ancestral Craving,mythic,49,58a330cd-683c-5da3-a709-08cff709961b,0.008859649122807017,"foil, nonfoil",0.00885526315789431
+FRA,Reality Fracture,play,Bloombrute,uncommon,124,53492d20-c4ea-50e6-8f11-ffc3d049d266,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Blossom-Blessed Angel // Seed Suture,common,3,4914a571-d335-524b-8611-0c6d2ff51e60,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Break Under Pressure,uncommon,50,fdec34ef-e512-5aea-b360-90c883df82f2,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Budding Insurgent,common,99,f5aa6dc2-3982-568c-9222-79207366e43e,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Campus Crier,common,4,6fff0850-f214-58d0-aced-51137c3ae191,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Carnivorous Cultivator // Enroot,rare,100,c098d781-5ddf-5ebd-9003-f07b6f01e1f4,0.017719298245614034,"foil, nonfoil",0.01770175438596333
+FRA,Reality Fracture,play,Cast Away Doubt,common,51,45d74929-8745-56b8-abb9-ff289e1025e0,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Chandra's Emberling,common,76,68d1155b-31d1-5d74-8a55-f5c6a9498272,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Chandra, Chill of Compliance",mythic,212,9dc88f93-5139-5a2d-b7a5-ccf1c4d73f16,0.007672064777327936,"foil, nonfoil",0.006467374114373259
+FRA,Reality Fracture,play,"Chandra, Chill of Compliance",mythic,297,efa9d7d4-d0a7-50b4-8c47-dea3a8e3349a,0.0010960092539039907,"foil, nonfoil",0.0009242494758529007
+FRA,Reality Fracture,play,"Chandra, Torch of Defiance",mythic,244,773b53b9-92b4-578a-b471-1a77191dc1bd,0.007672064777327936,"foil, nonfoil",0.006467374114373259
+FRA,Reality Fracture,play,"Chandra, Torch of Defiance",mythic,309,fcdd3453-d8c1-53ff-97c4-48deac72362f,0.0010960092539039907,"foil, nonfoil",0.0009242494758529007
+FRA,Reality Fracture,play,Charge the Sanctum,common,125,3e71807a-e43b-5f84-a98f-02d538b09e2b,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Clash of Elements,uncommon,126,543c21b7-7ffd-535c-a94d-6ddcb9f9d03a,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,"Codie, Ravenous Codex",rare,168,81f667b8-8792-5fbd-8942-1d7c7da06875,0.017719298245614034,"foil, nonfoil",0.01770175438596333
+FRA,Reality Fracture,play,Command the Stage,uncommon,77,57689929-e3ce-5050-a721-d26445d56d98,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Compel Brutality,common,101,02f04833-7f03-507c-8b12-187ade8f6d50,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Consider,mythic,164,04ce4aad-7d5c-51e8-96e9-70b180c8762f,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,Consign to Memory,mythic,162,b9c0202b-3931-577c-8a5c-0997a18c7157,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,Countersculpt,uncommon,25,1bfe9b61-694a-5707-bb7a-fa965cf5f739,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Craftwork Crusher,uncommon,127,c4570791-f483-570d-b92a-4f95f3b0b4e9,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Craterclaw Colossus,mythic,327,7c568f18-585a-534c-888d-47cb3b166884,0.0010416666666666667,nonfoil,0.0010416666666663854
+FRA,Reality Fracture,play,Craterclaw Colossus,mythic,78,59bc31a8-9699-5398-af19-0961fcbefc8f,0.00781798245614035,"foil, nonfoil",0.00781414473684161
+FRA,Reality Fracture,play,Cruel Calculations,rare,26,d518c4ab-8e0b-5274-ab27-4fd301c5694e,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Cruel Calculations,rare,336,6ebc3534-78e4-5468-a4ec-dade19a5b0b2,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Cryotheory Adept,common,27,d3aeb158-4f10-5108-a191-b379dc7866cf,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Curse-Marred Demon,rare,328,9f637f3a-060a-5daf-9e0a-1a48ce9aa62d,0.0020833333333333333,nonfoil,0.002083333333333992
+FRA,Reality Fracture,play,Curse-Marred Demon,rare,79,7e2579dd-7c54-5a05-b908-3b98910a95f6,0.0156359649122807,"foil, nonfoil",0.015620614035086522
+FRA,Reality Fracture,play,"Danitha, Spear of Agony",uncommon,227,a9a23307-d9f7-5cd5-8e8b-60a6b0207a4a,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Danitha, Sword of Hope",uncommon,196,8c10943c-b007-504f-94db-2ee97965c744,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Dark Matter Manipulator,rare,340,22d2f4de-316a-5256-a1f2-85f3dd7254a2,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Dark Matter Manipulator,rare,52,14488f89-264a-5731-b25d-2a8f98922aeb,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Darklight Phoenix,mythic,325,aad2e92b-28b4-51b8-83f8-ca07604e7fbe,0.0010416666666666667,nonfoil,0.0010416666666663854
+FRA,Reality Fracture,play,Darklight Phoenix,mythic,53,d6f808c0-4923-5379-859f-00c6d9d5da61,0.00781798245614035,"foil, nonfoil",0.00781414473684161
+FRA,Reality Fracture,play,Dedicated Commons,common,175,5360057c-6b40-5c7c-8e94-bf80e2f18079,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,Denzilore Fatehold,mythic,128,3bc745ea-5093-56c1-b69d-cd01e014f182,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,Denzilore Fatehold,mythic,349,9af6c9cd-56e1-58ef-bcf6-7ef6962c562f,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,Deserted Beach,rare,176,d25b0196-9d5a-5578-8606-5bae37612e53,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Deserted Beach,rare,397,e82ae680-bca4-5554-9a51-3e7834e82591,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Desperate Futurescribe,uncommon,129,c07a578e-3fa1-5524-be0e-6cfa5c68da08,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Diviner of Victory // Unwind History,rare,28,27b3a5bc-4cc9-5f15-adfc-367e346a5830,0.017719298245614034,"foil, nonfoil",0.01770175438596333
+FRA,Reality Fracture,play,Divining Duelist,common,29,225e1d3e-5650-56f9-95ac-9958e871ab3b,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Draconic Visitor,rare,368,34bf042c-f0b0-5188-a882-4c571d7dc5a1,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Draconic Visitor,rare,80,2c84f4d9-596d-5998-8fb4-f46619bb3c41,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Eardrum Rattler,common,81,d3907389-807d-50c9-812b-29f449c3cde3,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Edgar, Ancient Bloodlord",uncommon,270,d293ff8f-d041-52a3-a296-2a46bb4172bc,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Edgar, Moonlit Sovereign",uncommon,257,47167d95-5177-5656-a800-3d7432491b1f,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Emergency Phytomedic // Seed Suture,common,130,a565df81-8831-5df1-961c-40ac891e28bf,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Emrakul, the Exigent Doom",mythic,1,98144bab-0002-58e6-a809-93c937e71d8f,0.008859649122807017,"foil, nonfoil",0.00885526315789431
+FRA,Reality Fracture,play,Enlightened Confidant,mythic,321,3310b7c4-8cc1-5188-8121-aee55dc0f473,0.0010416666666666667,nonfoil,0.0010416666666663854
+FRA,Reality Fracture,play,Enlightened Confidant,mythic,5,be447428-eebd-5747-b3e8-9042bf87a4fd,0.00781798245614035,"foil, nonfoil",0.00781414473684161
+FRA,Reality Fracture,play,Entrust the Spark,rare,131,9cb3160b-a23c-5764-8dce-4d5becc6500b,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Entrust the Spark,rare,350,9a5973b4-d9f9-5de6-8322-a8a19ec52d2d,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Essence Burn,uncommon,369,c26a450c-716c-59a1-9c7f-820b9f442f82,0.01500747994016048,"foil, nonfoil",0.014943615553920542
+FRA,Reality Fracture,play,Essence Burn,uncommon,82,81c2736d-95dc-5d60-8e67-808f5f70c090,0.03001495988032096,"foil, nonfoil",0.02975974045644425
+FRA,Reality Fracture,play,Extended Absence,common,54,adca3dde-9024-5663-a279-5a5541cd75d6,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Extrapolate the Impossible,rare,364,0ab4a464-649b-51b8-9a51-25e51e326290,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Extrapolate the Impossible,rare,55,3993eb5a-6f73-5d15-8cc6-012b34b234a3,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Eye of Jace,uncommon,170,2a18bcbd-9eee-5d4a-9583-faf3a777322a,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Eye of Ugin,mythic,159,02c356f3-2640-5cad-bf64-2f007ed9aa14,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,Face Yourself,rare,370,24adcd21-1f55-5b7a-b47c-38534ccebc26,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Face Yourself,rare,83,d8fea871-95bb-5653-9af6-1244319482e9,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Fatehold Annex,common,177,6eacbf58-e5ad-5cfe-aaed-d593d400bd0c,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,Fatehold Charm,uncommon,132,d69c18c3-0fbb-55dc-9cdd-f77661056fee,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Fatehold Chronologist // Peer Review,common,133,54036ee1-f087-5845-b1e8-5181159c63bf,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Fateshaper Aspirant,common,6,5788c5ca-18cb-537a-8bda-8d857a0f8443,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Fblthp, Impossibly Lost",uncommon,213,730cb785-b824-5af2-a9bd-eb45ff6001bd,0.03943488529014845,"foil, nonfoil",0.033323791751009635
+FRA,Reality Fracture,play,"Fblthp, Impossibly Lost",uncommon,298,fbbe765b-a5bf-5c70-8c22-daf3cf9dc80f,0.005633555041449778,"foil, nonfoil",0.004772967575189191
+FRA,Reality Fracture,play,"Fblthp, Knows the Way",uncommon,258,f75c601e-0590-523d-bfde-4205ffa699fe,0.03943488529014845,"foil, nonfoil",0.033323791751009635
+FRA,Reality Fracture,play,"Fblthp, Knows the Way",uncommon,313,059bce9d-0c5b-567f-9840-af75d3b17d8c,0.005633555041449778,"foil, nonfoil",0.004772967575189191
+FRA,Reality Fracture,play,Ferocity of the Hunt,common,134,d9d76b35-9f60-542e-bd18-a9a08a7347ee,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Flesh Duplicate,mythic,161,900ba070-cace-5cf4-b4ee-d6e7ac8d7668,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,Flickering Hound,rare,359,f71f089a-1d37-5f0c-8810-2a6f05289277,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Flickering Hound,rare,7,4efc727e-f2e4-5c20-931d-c04641cc025a,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Flourishing Grapple,uncommon,102,dc1afc16-186b-5ff5-b5e5-98c720632722,0.03001495988032096,"foil, nonfoil",0.02975974045644425
+FRA,Reality Fracture,play,Flourishing Grapple,uncommon,372,e86c8a34-f73b-5090-a137-41fa46414aee,0.01500747994016048,"foil, nonfoil",0.014943615553920542
+FRA,Reality Fracture,play,Forest,common,289,6825a7e9-8847-5597-b6c1-3d817d10e20a,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Forest,common,290,3e35f795-0896-5909-a931-3a2b5dc17391,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Forest,common,394,516bb3fc-3447-52cf-a680-925fc6ea6e8d,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Forest,common,395,74c931ad-37ef-50f8-8e46-1dc29cf90b23,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Forest,common,396,8f726a95-b2ae-5de5-a62a-0e346a7e050a,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Formidable Commons,common,178,8618cc74-b61e-5f09-aed8-b92dabf8f316,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,Frostbite Pyromental,rare,135,41d3c340-1e46-5c42-8b3f-d8706f0ea0c3,0.0156359649122807,"foil, nonfoil",0.015620614035086522
+FRA,Reality Fracture,play,Frostbite Pyromental,rare,333,6cd14785-0c59-586f-9479-c6cdf317add0,0.0020833333333333333,nonfoil,0.002083333333333992
+FRA,Reality Fracture,play,Fulminous Forte,uncommon,84,147493c0-e766-503b-9410-6e3868cb3c82,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,"Gallia, Tragic Host",uncommon,228,c63b9c6a-21fb-5e68-bef5-b8daaf114a7a,0.04506844033159823,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Gallia, the Merrymaker",uncommon,245,b764a8bb-c56d-5c11-b953-c62d82afc6b9,0.04506844033159823,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Gardenize,rare,103,b20e2ecc-6316-5538-9d30-83349d7c544b,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Gardenize,rare,345,ddd0a724-82bf-5bbb-b55f-c2593b979412,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,"Garruk, Curse Breaker",mythic,259,de3bd2fc-7fcb-586e-b3c3-adf209e966bf,0.007672064777327936,"foil, nonfoil",0.006467374114373259
+FRA,Reality Fracture,play,"Garruk, Curse Breaker",mythic,314,9a355380-a060-5a7b-a1c5-71a54b992763,0.0010960092539039907,"foil, nonfoil",0.0009242494758529007
+FRA,Reality Fracture,play,"Garruk, Veiled Butcher",mythic,229,351165c8-308f-59ea-867a-e7819ab84053,0.007672064777327936,"foil, nonfoil",0.006467374114373259
+FRA,Reality Fracture,play,"Garruk, Veiled Butcher",mythic,303,2304c403-17bb-5ea4-974f-e5ed8150be33,0.0010960092539039907,"foil, nonfoil",0.0009242494758529007
+FRA,Reality Fracture,play,Geist of Saint Thalia,uncommon,214,9e7b4f84-3544-58f9-b5b6-2ea967037ef0,0.03943488529014845,"foil, nonfoil",0.033323791751009746
+FRA,Reality Fracture,play,Geist of Saint Thalia,uncommon,299,bbe4a274-d15e-522b-9450-e201d44bd733,0.005633555041449778,"foil, nonfoil",0.004772967575189191
+FRA,Reality Fracture,play,Generous Revival,uncommon,8,c335321f-2f9e-5c7d-9a66-d3cc2a0c7d96,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Germinate Recruits,rare,334,514567eb-479e-5bf0-91f7-4b5038720c7b,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Germinate Recruits,rare,9,10b27c9d-46f4-5c80-adc6-79f983548f0e,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Ghalta the Immovable,uncommon,197,63fd1910-d1e8-50a8-94af-f5633a88afc1,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Ghalta the Unstoppable,uncommon,260,8641c8d9-eef8-5d64-bffc-f78ac9a3d1cd,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Gideon the Oathless,rare,230,398b9b28-b215-5269-904d-9e6f2e15629e,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,Gideon the Oathless,rare,304,367c2027-fc4a-51a9-8d0f-bdd7cf036b91,0.0021920185078079814,"foil, nonfoil",0.0018483859890093823
+FRA,Reality Fracture,play,Gideon's Memorial,rare,198,9127312c-8ad3-5593-9cdf-a125ce5e97c6,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,Gideon's Memorial,rare,292,3ce51174-b0aa-56aa-96dd-a51e687fdcdf,0.0021920185078079814,"foil, nonfoil",0.0018483859890093823
+FRA,Reality Fracture,play,Graft Surgeon,common,10,276708fe-1609-5355-9895-3c3d23e4e9e3,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Greenhouse Propagator,common,104,199dbfbf-3ae3-50de-82ac-161a31f863f1,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Grim Repriser,uncommon,136,7a80574e-7957-58fb-a42a-7b39fad9a66b,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Guiding Hydra,rare,11,4c9eeaa3-8b11-5d1d-bfd3-0a2224b7f542,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Guiding Hydra,rare,360,b5af2dca-71ba-5bc1-b44e-3c6d3ca51c49,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Hall of Echoes,rare,179,23ccf910-c84a-5649-808d-c4ae9004d42a,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Hall of Echoes,rare,379,1b6121d1-f5c9-50c3-8a0e-644094010b3d,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Hallway Heckler // Vicious Verse,common,85,7e088c99-3a36-568a-b083-f2ed4dc84778,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Hapatra, the Desert Fang",uncommon,271,abceb61b-926a-5dee-9aaf-944d1bdb873b,0.04506844033159822,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,"Hapatra, the Desert Frost",uncommon,215,f2eceeee-5563-51bb-b414-f009d9e46d87,0.04506844033159822,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,Haunted Ridge,rare,180,62d5e2db-fcdb-521d-b749-e9ac2500d8d3,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Haunted Ridge,rare,398,0241c02e-b1ab-58ec-85d9-8dcf2c08eaa8,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Heartstring Puller,common,86,4410030e-4197-555a-9269-bf1f72d35101,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Heartwood Crafter // Soul Tether,uncommon,105,ec89e983-f0e3-59e0-8dd1-4a219e65d7c3,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Hexhaven Battalion,common,12,533dd823-eb91-5007-983b-8ed2d56aff4f,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Hexhaven Dueling Arena,uncommon,181,230bde23-b602-5803-9acc-cbf4df5001d1,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Hexhaven Invigorator,mythic,106,f2d12cd8-6c92-5eef-93ad-b4a0cf69d657,0.00781798245614035,"foil, nonfoil",0.00781414473684161
+FRA,Reality Fracture,play,Hexhaven Invigorator,mythic,330,669d566a-254e-5565-985c-4bfe9404ae54,0.0010416666666666667,nonfoil,0.0010416666666663854
+FRA,Reality Fracture,play,Hungering Puppetbeast,rare,107,84c00d20-47bd-5d35-bad1-b63ee01fc316,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Hungering Puppetbeast,rare,346,49d66ab8-66b5-5573-8d63-416ba0a82b8f,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Hunter's Axe,uncommon,108,fe88923b-f5cc-5c03-8298-0d9aa22f279b,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Icy Reception,common,30,5f8f3f1d-704a-508e-951a-694345dad7f6,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Identity Echo,rare,371,facecd5d-700d-5420-90e2-c23bb8e3a49a,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Identity Echo,rare,87,71f67e89-1b96-5962-ac97-e37128d7c011,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Infinite Coursework,common,31,2f967954-9cf1-5dcc-8792-8007c9652cb6,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Ingris Stingerquill,mythic,137,9ec560a2-79e3-5423-8180-1392d471ee20,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,Ingris Stingerquill,mythic,351,ac2804fe-128c-5d70-9660-5f9f7233d790,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,Innovative Commons,common,182,016a5fb9-02a1-5cc9-8f1b-9971ff233f63,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,Inspired Tethermage,common,109,471b876b-b2dd-5700-9e9b-686701157d3b,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Island,common,283,27036e77-6fa9-51d7-a8e5-866710f3d84a,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Island,common,284,13b01d36-1231-5d0c-a657-a004cdbd35d1,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Island,common,385,28413e3a-9ac9-5e19-a88e-efc1acbbbd95,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Island,common,386,a4cc9d93-2ab7-512e-8f91-5afdbffe24ea,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Island,common,387,38ccd003-b217-5468-95c4-2a5d88dc203d,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Jace's Machinations,rare,32,0db6ef02-5181-51c3-8cd9-5c8cbb25e578,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Jace's Machinations,rare,337,05ae79ad-e9e4-58ed-9ade-d622fbf7a842,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,"Jace, Reality Sculptor",rare,216,d192c652-a50d-5d2c-89ed-307c37728817,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Jace, Reality Sculptor",rare,300,32d18a16-6215-5a46-b966-fdc220d37b33,0.0021920185078079814,"foil, nonfoil",0.0018483859890093823
+FRA,Reality Fracture,play,"Jiang Yanggu, Alone",uncommon,246,31a5fb19-e364-55b5-87ad-a10efea0f1f2,0.04506844033159823,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Jiang Yanggu, Never Alone",uncommon,261,6c35a79a-447b-526b-8f35-12b7d21801fa,0.04506844033159823,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Karn, Argent Defender",rare,279,8ebb48a9-861d-5a51-aae5-d370c26a9d7b,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Karn, Argent Defender",rare,320,4de28b9c-d0bd-5fe4-93bf-07e590aab760,0.0021920185078079814,"foil, nonfoil",0.0018483859890094934
+FRA,Reality Fracture,play,"Karn, Gilded Guardian",rare,272,b7b51707-fb78-52b5-8cd2-507e94cd84eb,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Karn, Gilded Guardian",rare,316,64e46a14-ce0a-56aa-a37d-b05ef27fab72,0.0021920185078079814,"foil, nonfoil",0.0018483859890094934
+FRA,Reality Fracture,play,Keeper of the Quiet Hour,common,171,5ad06393-8600-5648-80d3-c4010899ad56,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Kindred Judgment,rare,13,7e8ffd65-851a-5e5a-83d5-f30c7ef0c235,0.0156359649122807,"foil, nonfoil",0.015620614035086522
+FRA,Reality Fracture,play,Kindred Judgment,rare,322,7be92573-d87f-5794-8667-871c5aad90ed,0.0020833333333333333,nonfoil,0.002083333333333992
+FRA,Reality Fracture,play,Kiora of Fire and Ashes,uncommon,247,461e84e9-d632-5da3-b020-8278cdf307f3,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Kiora of Salt and Sand,uncommon,273,7e09c207-0880-5cfa-9f48-ef8fed5d1da5,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Konstrari Annex,common,183,f32d1fef-2533-5de3-b616-37b8986c6807,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,Konstrari Charm,uncommon,138,f02d8bac-97c4-50f1-8f32-34a811a9932b,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Konstrari Improviser // Soul Tether,common,139,decfda5a-3f2b-555b-b0f1-90cb06b6974d,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Koth of the Homestead,uncommon,199,7dea908b-874c-5817-8cdc-a275ce26007b,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Koth, the Geomancer",uncommon,248,4e7c7821-60d3-55ad-b94e-3f417d92e36b,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Kwia Vigorbloom,mythic,140,66e886f6-8e96-50a1-8261-5f83f277fe2b,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,Kwia Vigorbloom,mythic,352,f07dac90-e335-5cc8-b515-b91541c5a375,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,Last Gasp,common,56,456b67ba-8ceb-5397-b74c-01a07e3054e9,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Lich's Relic,rare,365,56555f74-f58a-54bb-bf04-b8647d8aad54,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Lich's Relic,rare,57,a3996a92-57e2-519b-8b58-54593d858863,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Liliana the Faultless,rare,200,dff533cf-32a6-5d1a-a76a-1fd0332531cd,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,Liliana the Faultless,rare,293,76e8bbe7-8578-5124-bca8-5a3a51ccee3f,0.0021920185078079814,"foil, nonfoil",0.0018483859890093823
+FRA,Reality Fracture,play,Liliana the Repentant,rare,231,05d3214f-b4e7-5770-98bd-f6b0491283b3,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,Liliana the Repentant,rare,305,260d989b-e49a-5af2-8caf-a2c27eaee9e1,0.0021920185078079814,"foil, nonfoil",0.0018483859890093823
+FRA,Reality Fracture,play,Living Library,common,172,60d690eb-3d35-5345-a5c8-7410718bc8be,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Loot, the Anomaly",uncommon,232,abc62fb0-251d-5d63-ac1c-0a3e385e52d6,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Loot, the Nexus",uncommon,262,07761e66-fdf8-59b6-8157-d9a808bea79f,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Loyal Tutor,rare,14,edb74b8b-32d3-5809-924a-3547d276b877,0.017719298245614034,"foil, nonfoil",0.01770175438596333
+FRA,Reality Fracture,play,"Lyra, Archangel of Dawn",rare,201,b7abd2cb-a7b5-5a38-af31-0fa3b7262420,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Lyra, Archangel of Dawn",rare,294,702560c3-317d-5014-83de-ef62626714d5,0.0021920185078079814,"foil, nonfoil",0.0018483859890093823
+FRA,Reality Fracture,play,"Lyra, Tolarian Archangel",rare,217,dd996376-8c56-525d-8204-97b139e9a110,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Lyra, Tolarian Archangel",rare,301,4ed81595-7b3d-577f-83e6-0accbbeea815,0.0021920185078079814,"foil, nonfoil",0.0018483859890093823
+FRA,Reality Fracture,play,"Mabel, Bitter Recluse",uncommon,233,8f40f1fd-e368-5504-badb-9f08f97df817,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Mabel, Valley Hero",uncommon,274,7d4c4fc0-8703-54d9-8418-754343bbec84,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Marwyn, the Clearcutter",uncommon,249,fa3b36ef-479c-5d11-b885-4896d31e6e43,0.03943488529014845,"foil, nonfoil",0.033323791751009635
+FRA,Reality Fracture,play,"Marwyn, the Clearcutter",uncommon,310,4bbd137a-c1e6-54bf-8b8d-10e693b1e79f,0.005633555041449778,"foil, nonfoil",0.004772967575189413
+FRA,Reality Fracture,play,"Marwyn, the Preserver",uncommon,263,c9b7b969-6312-5bc9-877e-2aa3c1471497,0.03943488529014845,"foil, nonfoil",0.033323791751009635
+FRA,Reality Fracture,play,"Marwyn, the Preserver",uncommon,315,34bbab33-92ae-5a30-af65-70a80d528a79,0.005633555041449778,"foil, nonfoil",0.004772967575189413
+FRA,Reality Fracture,play,"Massacre Girl, Most Wanted",uncommon,234,52b9d024-3ec8-5875-a973-8a9dccc4f51b,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Master of Barbs,rare,344,87912098-953a-5725-809d-d03723759448,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Master of Barbs,rare,88,ff5191c9-bedd-52f0-97dd-188b665d7fba,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Medic's Kitesail,common,173,4c87436c-350f-5dd5-b0ff-53809f6a1f75,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Memory Trap,common,15,900ca509-130e-553d-89b3-51bfbe22946a,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Meticulous Commons,common,184,3d47e697-43a8-5cd6-9c44-542ad1eb5862,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,Mind Meanderer,uncommon,141,bcfbd307-55c9-5dc1-8ea5-38b07ed6e67c,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Mind Twist,mythic,166,ba8b8471-8999-5377-a68f-3b881dc362e9,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,Mindseeker Oculus,common,33,c92bf0e8-74b4-56e2-bba4-d7ff551da2e1,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Mountain,common,287,8b27ad29-eef2-5bf4-a6ad-ae9b8a18900e,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Mountain,common,288,a908738f-36c4-5659-a573-80490c537ffb,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Mountain,common,391,6165e8af-8fe4-5123-93a0-19fa809679c7,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Mountain,common,392,560b82c9-9d10-5b89-978f-40b1486a41eb,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Mountain,common,393,25100865-02c7-5d84-8585-6dbbde51c26c,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Multiply by Zero,uncommon,58,28dae009-aa67-5dd2-bb9c-83ebc5792a3a,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Murmuring Volume,common,174,dbd630ea-d197-5e8e-83d1-945f97943cbb,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Necrodominance,mythic,165,999a8fa0-022f-58f5-9be0-85671f75d0fa,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,No Admittance,common,89,c2938b3a-ff3b-5610-b2f7-6d5db263a07e,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Null Summoner,rare,142,2f9a084d-b760-546a-b013-c15e443f6ca7,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Null Summoner,rare,353,3e1bed73-4bca-5e32-a816-97650a425073,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Omnipresence,mythic,110,1c259f4a-ab63-56db-a2c2-8d77affb302d,0.00781798245614035,"foil, nonfoil",0.00781414473684161
+FRA,Reality Fracture,play,Omnipresence,mythic,331,0bdf670e-bb13-5a88-a7c4-1013caa300cc,0.0010416666666666667,nonfoil,0.0010416666666663854
+FRA,Reality Fracture,play,Overgrown Farmland,rare,185,d251db71-b68f-5cf1-b3b4-8f5b2a3ea4b5,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Overgrown Farmland,rare,399,45cc633e-98e2-509b-aed2-9389204da188,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Overwrite the Multiverse,mythic,341,eae51330-614b-5f76-a2db-c1a3128ea332,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,Overwrite the Multiverse,mythic,59,df45efe9-dc2b-52d1-a151-8b53430bfb5f,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,Paradox Shaper // Omit Variables,uncommon,143,ce34e752-1e8b-5917-9f9c-5ef3564e4917,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Perfected Theory,uncommon,34,73f1105a-ac59-5861-8196-eafa9623bf14,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,"Pia, Aether Ascetic",uncommon,264,7e4ee5a6-27c7-55fe-8064-940cb588cb1b,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Pia, Determined Rebuilder",uncommon,250,95c204ff-1c12-5996-9e92-d8655d5cfb59,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Plains,common,281,f96b3145-5dcd-5d0b-a569-043d588802a8,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Plains,common,282,fb1f4fda-5ec6-59fb-b5bf-09469b9abbed,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Plains,common,382,f2b92f7b-b439-5a3e-b1b6-54c06f98168b,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Plains,common,383,03473c33-df86-563b-8995-1cdff56df10b,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Plains,common,384,355e1647-d5f1-5d0e-8b20-647073c41d69,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Plan for All Outcomes,uncommon,35,744e0827-d935-56fc-804e-57f156cc8339,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Pompous Battlemage // Improvised Act,rare,90,73b3cc72-08a8-566e-9e03-6a65eec874c3,0.017719298245614034,"foil, nonfoil",0.01770175438596333
+FRA,Reality Fracture,play,Precise Redaction,uncommon,36,9babcc60-7c0b-5855-9ede-668b2b32e4aa,0.03001495988032096,"foil, nonfoil",0.02975974045644425
+FRA,Reality Fracture,play,Precise Redaction,uncommon,362,b072db8d-d966-5463-8c71-748eec721727,0.01500747994016048,"foil, nonfoil",0.014943615553920542
+FRA,Reality Fracture,play,Predictive Preparations,common,16,c2afea92-925e-5a71-856d-2295530cc6c4,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Primal Witchstalker,uncommon,144,06d9d9e0-1284-5550-a121-0585fa7c8b5b,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Proctor of Potential,rare,145,8030b389-ea4f-5e87-885a-621490427ff2,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Proctor of Potential,rare,354,4ba4d362-ff72-583e-aa77-bd9f7e6ee0c0,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,"Proft, Consulting Detective",uncommon,218,183cdfd5-def6-548e-9a18-0255d3030029,0.04506844033159823,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,"Proft, Sinister Mastermind",uncommon,235,d24830da-1184-52cd-8796-51c82fb7b89d,0.04506844033159823,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,Prophesied End,uncommon,17,0c03a8fd-c39e-5d1a-bb15-3ed9fe193b16,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Protege's Awakening,common,37,58bf8769-4535-57d0-8af9-b2207100028e,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Prudent Fateseer // Peer Review,uncommon,146,4ddd87d1-3632-5c91-bdca-9773db212efc,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Puppet Crafting,rare,111,4aad0abb-6674-5f86-8b0a-327d7743504f,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Puppet Crafting,rare,373,5943421f-6278-5cdc-a6ed-ac3c50e7502f,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Pyre Rhymer // Molten Tide,rare,91,90f45c5c-b891-5e50-8452-927615a33eaf,0.017719298245614034,"foil, nonfoil",0.01770175438596333
+FRA,Reality Fracture,play,Rampart Hunter,common,60,dd5a22cc-015e-52e9-b370-249ca6164978,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Rank Rat,common,61,7df3e7b8-1541-5b1b-a9bd-5cdbc7338245,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Recursive Recruitment,uncommon,147,394c15a7-b662-5d7e-9148-b011d044b686,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Refute Destiny,uncommon,18,626e68c7-d84c-5e45-9948-e3e7fd20e8f7,0.03001495988032096,"foil, nonfoil",0.02975974045644425
+FRA,Reality Fracture,play,Refute Destiny,uncommon,361,a67b4cd0-3a6b-5c05-a6d2-e2d12cf53044,0.01500747994016048,"foil, nonfoil",0.014943615553920542
+FRA,Reality Fracture,play,Repurposed Enforcer,rare,19,c7931025-0944-5f0b-be5f-6fdacf76c0a4,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Repurposed Enforcer,rare,335,34f0e7f3-c5cd-532e-ace1-d2f5a421b765,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,"Rescue Girl, First Responder",uncommon,202,26a711af-ce14-517e-a49b-565a236e66a4,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Restore with Empathy,uncommon,112,dd29b37c-892e-524d-a36c-7e7807ae901e,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Return to the Light Realms,mythic,20,0c4ec3eb-4009-5983-b3c2-64b9900b0b9b,0.00781798245614035,"foil, nonfoil",0.00781414473684161
+FRA,Reality Fracture,play,Return to the Light Realms,mythic,323,83ba1ead-93ab-58ab-9797-ffcda5cdb9d6,0.0010416666666666667,nonfoil,0.0010416666666663854
+FRA,Reality Fracture,play,Rewrite Regrets,uncommon,62,219eafee-7f1c-5f7d-b642-c99c1c20297d,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Rise of the Deathbringer,rare,326,b3ba9e85-4160-5c43-8a00-bca47a892e96,0.0020833333333333333,nonfoil,0.002083333333333992
+FRA,Reality Fracture,play,Rise of the Deathbringer,rare,63,fc9e6511-22ef-5411-9b3f-b008f3cc3f15,0.0156359649122807,"foil, nonfoil",0.015620614035086522
+FRA,Reality Fracture,play,Rockfall Vale,rare,186,cdb09f8f-424d-546d-8713-7209d8422105,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Rockfall Vale,rare,400,e2ab683c-1455-5c25-b6bf-819261ef511f,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Roiling Canopy,rare,187,dd5863c4-4d1b-5028-9416-733dbc23eb1b,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Roiling Canopy,rare,380,b3abdab7-fcd8-594b-a5bf-cfae02e690f2,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Room of Refuge,common,188,1c75933c-d567-5a29-910f-a2a5b29471b5,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Root Maze,mythic,168,12476311-86ef-5824-9c34-a1eea8219544,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,"Ruric Thar, Biomagus",uncommon,219,6432117d-7157-5c0a-b368-7689957f3774,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Ruric Thar, Magecrusher",uncommon,265,122539d4-b739-5d81-9a01-540fcf2e0599,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Saheeli, Consul of Oversight",uncommon,203,c3393157-85ef-50a1-a5e2-4900a005ff0b,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Saheeli, Jewel of Avishkar",uncommon,275,380b3aa7-793e-5a9b-96a3-a147aca9cc6f,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Samut, Hazoret's Champion",rare,251,f4f446bb-e003-5a15-8b6f-d571953221f1,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Samut, Hazoret's Champion",rare,311,09c02562-ed7f-539c-926e-79ae466ffa62,0.0021920185078079814,"foil, nonfoil",0.0018483859890094934
+FRA,Reality Fracture,play,"Samut, Tyrant of Naktamun",rare,220,5114395b-a5ef-5c81-a7ac-13eadbd5ccbd,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Samut, Tyrant of Naktamun",rare,302,10d08dc5-288b-5318-ae8f-c2f02de5d1eb,0.0021920185078079814,"foil, nonfoil",0.0018483859890094934
+FRA,Reality Fracture,play,Sanctum Lurker,rare,342,97cc3a0f-df93-55e8-8d72-512c48525bfc,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Sanctum Lurker,rare,64,21987abd-23c3-5e94-bb4f-eaf8d0e51e8a,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Screeching Soulbreaker,common,65,ad1473d8-3a86-5153-9947-86154e4e49e1,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Seasoned Cryomancer,mythic,324,6c9bde69-b39e-5614-b763-b8548a928f5a,0.0010416666666666667,nonfoil,0.0010416666666663854
+FRA,Reality Fracture,play,Seasoned Cryomancer,mythic,38,12f1c508-238f-5708-ac28-d908eb725978,0.00781798245614035,"foil, nonfoil",0.00781414473684161
+FRA,Reality Fracture,play,Semester Foreseer // Peer Review,common,39,baba608b-77a9-5a49-86cf-d8ae54188df2,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Shatterwing Pegasus,common,21,6fff6355-a5bc-5b37-a837-09d81f6e186c,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Shipwreck Marsh,rare,189,e136a312-e1ca-5683-9bbc-daa7630c9efa,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Shipwreck Marsh,rare,401,6b3b8160-a539-53cd-b204-e4c978a1f177,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Silence the Echo,common,66,fe2b4f0e-d524-54c6-8492-a922a4224a3a,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Simulacrum Shaper,rare,113,5b6cf372-635f-5721-8ca2-5531c33e79dc,0.0156359649122807,"foil, nonfoil",0.015620614035086522
+FRA,Reality Fracture,play,Simulacrum Shaper,rare,332,9659b56b-eeaa-55bd-a426-774f437e2d6c,0.0020833333333333333,nonfoil,0.002083333333333992
+FRA,Reality Fracture,play,Skilled Battlecarver,common,92,c918d208-dec1-5902-b3ee-23faf4a2f868,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Solarium Sentry,rare,148,14d9a480-bdcc-568b-99bd-c85c680d65a6,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Solarium Sentry,rare,376,f466ef98-5754-5b08-b54e-b8b6b583ce86,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Solitary Cell,rare,149,697958b8-37ab-521f-9c30-6ad2a9cb8a4c,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Solitary Cell,rare,355,d838702d-0443-57b6-a450-eb091a597105,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Solve for Disappointment,common,67,ac72ff6b-e156-527d-bc8f-840486987c7f,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Something Worth Saving,common,114,12b4882b-be35-5001-bf9b-4fcf7bb1c724,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Sphinx of False Conclusions,rare,338,6793dd7d-7ab0-5efc-bf73-211511d51ad8,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Sphinx of False Conclusions,rare,40,996936f4-87e4-50da-8497-eab0bb52442c,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Sphinx's Approach,common,41,77a1994e-2c60-5b04-8fd8-b838fb788c33,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Splinter Twin,mythic,167,28d516e8-15e4-51b9-bdc0-3213005006af,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,Stingcaster Mage,mythic,329,8ca75e65-c86e-533f-b3ae-d9c444ecbf2b,0.0010416666666666667,nonfoil,0.0010416666666663854
+FRA,Reality Fracture,play,Stingcaster Mage,mythic,93,a9a309dd-57ac-599b-8091-e3ef5c8b3150,0.00781798245614035,"foil, nonfoil",0.00781414473684161
+FRA,Reality Fracture,play,Stingerquill Annex,common,190,5dec5c93-a7ea-5cab-b7a7-55eb4f062bb2,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,Stingerquill Charm,uncommon,150,62ca249a-aeda-5fd3-ad1b-465ff8784b14,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Stingerquill Voxmancer // Vicious Verse,uncommon,151,dff3bfcc-42d0-57db-916d-ead71210bee2,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Stinging Vitriol,rare,152,924f7846-a2ad-5a1c-abbc-26e89d365c74,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Stinging Vitriol,rare,356,87118b7b-d9db-5a3e-a46d-97bb81ebc088,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Sublime Epiphany,mythic,163,65d40c3f-5f8e-5866-9fbf-cef466727798,0.0018181818181818182,"foil, nonfoil",0.001818181818182163
+FRA,Reality Fracture,play,Sureshot Sower,common,115,6e6854e6-5770-5def-b948-ed77c1fc1e72,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Surgical Precision,common,22,ff4118dd-1440-5318-87a2-eea1847bd370,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Surveillance Phantasm,common,42,50d30712-c569-5297-b186-7864928cbd06,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Swamp,common,285,564965c9-531e-5856-93f5-d34b1644ff6e,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Swamp,common,286,88a26970-012e-5bd4-a650-1ef6f1938379,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Swamp,common,388,4d00de3c-eee0-5672-9505-f790b78c7654,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Swamp,common,389,e4cf0b41-0ac6-5be1-8c55-990cac761a73,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Swamp,common,390,cbd364d4-35ee-5ed3-bbaf-199132d7cff1,0.01818181818181818,"foil, nonfoil",0.018181818181818077
+FRA,Reality Fracture,play,Tam's Resistance,common,153,2f7f7408-9271-5072-8c95-46991133ba99,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Tam, the Possibility",rare,276,f34599b4-c291-5d23-9351-442afe8158a0,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Tam, the Possibility",rare,317,f4b3b18f-543c-5c52-a590-893831f9abe0,0.0021920185078079814,"foil, nonfoil",0.0018483859890093823
+FRA,Reality Fracture,play,Tarmogoyf,mythic,116,4970029b-c243-5426-a49a-7e37663065d6,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,Tarmogoyf,mythic,374,1032fd49-49b7-58cb-82e8-4284b25bc44e,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,Tenured Tethermage,rare,154,e89df33d-b78d-534b-89aa-e334ea6ddea5,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Tenured Tethermage,rare,357,1b67298c-11ef-5536-8896-417518451fd1,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Terminal Criticism,uncommon,366,226c6430-19ec-5da0-acc4-37600b100e07,0.01500747994016048,"foil, nonfoil",0.014943615553920542
+FRA,Reality Fracture,play,Terminal Criticism,uncommon,68,a2d5f6cb-f813-54f8-bfa2-e9f1a4fc3721,0.03001495988032096,"foil, nonfoil",0.02975974045644425
+FRA,Reality Fracture,play,Tether Technician,common,94,42eec1bc-3b81-5172-be97-85866784a83f,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Tethermage's Advantage,common,117,74f9886d-a291-5a3a-bbb5-6e858d67079a,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Tetsuko Umezawa, Fugitive",uncommon,221,5c9c6060-f08d-5aab-b88d-23e9a848571a,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Tetsuko Umezawa, Pursuer",uncommon,252,1e01b7ad-0d6a-5a98-984f-3cabc769732b,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Teyo, Diamondblade Mage",uncommon,236,578da296-4a05-57b2-9a9a-30cc74e10e95,0.03943488529014845,"foil, nonfoil",0.033323791751009635
+FRA,Reality Fracture,play,"Teyo, Diamondblade Mage",uncommon,306,c03a88b2-fd39-525c-ac0e-91b2f94b93d1,0.005633555041449778,"foil, nonfoil",0.004772967575189302
+FRA,Reality Fracture,play,"Teyo, Lightshield Expert",uncommon,204,55b02a39-65b6-5154-8177-e20259edbf49,0.03943488529014845,"foil, nonfoil",0.033323791751009635
+FRA,Reality Fracture,play,"Teyo, Lightshield Expert",uncommon,295,a701caa2-cedb-592e-89d0-f756682c6470,0.005633555041449778,"foil, nonfoil",0.004772967575189302
+FRA,Reality Fracture,play,"Thalia, the Survivor",uncommon,205,638444b4-9493-5b4f-9391-11fef292766e,0.03943488529014845,"foil, nonfoil",0.033323791751009746
+FRA,Reality Fracture,play,"Thalia, the Survivor",uncommon,296,9924d184-bb64-5020-8fb8-25d11703200a,0.005633555041449778,"foil, nonfoil",0.004772967575189191
+FRA,Reality Fracture,play,The Echoverse Fulcrum,mythic,169,9bf68f72-b721-595c-9a33-e10fe19c2bd2,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,The Echoverse Fulcrum,mythic,378,42f9d5d4-0386-5583-a49b-8430c4c2ee47,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,"The Theorist, Jace Beleren",mythic,363,647239f8-c3fe-5173-a34f-f7e9fc9c3d5f,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,"The Theorist, Jace Beleren",mythic,43,49dbbf8b-5a8a-51fe-92c1-633977608b5a,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,Theoretical Necromancer,common,69,df1a1fc7-01d0-5e5f-866e-0763f69f4633,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Theorist's Proxy,rare,339,03a5bc98-35a7-58bb-b502-9863d8a34527,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Theorist's Proxy,rare,44,f908973c-3e98-538c-bd62-4709a2497068,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Theorist's Sanctum,rare,191,2bbf0054-3f03-5dbe-a8d4-41d213eea0ad,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Theorist's Sanctum,rare,381,415e8f10-3979-5d9f-9ea1-54ff405cfd84,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Theorix Annex,common,192,32d2e39c-bf7e-5383-b854-bf45463a01dd,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,Theorix Charm,uncommon,155,3218f7ec-c3ce-5562-ba97-babaa3d62bcb,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Theorix Metamage // Omit Variables,common,156,09e16a0f-2336-51a7-afa6-d9ef959b6f48,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Tinybones, Pocket Nuisance",uncommon,237,5e0e9bf2-5d50-5b12-8b0e-22aaedd682c7,0.04506844033159823,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Titanbones, Towering Heart",uncommon,266,654b5849-80db-57f4-a25d-09424c6aa867,0.04506844033159823,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Tomik, Izzet Sparkmage",uncommon,253,40a1e34a-bfee-5446-9f16-8273d2c2071b,0.04506844033159822,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,"Tomik, Orzhov Lawmage",uncommon,206,eb88ab36-050b-5bac-9988-fce4abc03bf7,0.04506844033159822,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,Transformative Commons,common,193,229a973c-34c4-565e-b226-a6164591290e,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,"Traxos, Academy Guardian",uncommon,222,776795ac-53b6-50a4-b5a1-0d7c41acdfbd,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Traxos, Scourge Eternal",uncommon,280,1651b79f-738c-51b3-a1c3-97c1fe3787dd,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Twinned Vision,common,157,ec0d8e87-c60e-5d65-9630-d91793c228b0,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Twisted Fates,uncommon,158,1b339852-cefa-5468-b8d8-17c6b386acd1,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Uldaros Theorix,mythic,159,696bf037-d2e5-5ab9-bc00-8f894e46ba0f,0.0077521929824561405,"foil, nonfoil",0.0077488349780722166
+FRA,Reality Fracture,play,Uldaros Theorix,mythic,358,9143e2c5-a4ea-5a93-aada-694481282ad0,0.0011074561403508771,"foil, nonfoil",0.0011073876096472368
+FRA,Reality Fracture,play,Undulating Witness,common,45,6ab14bd1-18a7-5d33-a71f-231a3e6ef469,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Unflinching Hortimancer,common,23,6e462b30-3766-5cb5-9476-5e84c84c90cf,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Unsummon,common,46,8b0cf29c-5269-5aa0-ab8c-0bbf97c1384f,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Variable Chaser // Arc of Fortune,rare,47,d85c6964-122b-5cee-b138-89f6848b0dca,0.017719298245614034,"foil, nonfoil",0.01770175438596333
+FRA,Reality Fracture,play,Verdant Kraken,rare,118,f1f039ef-18b5-5c44-aa5e-85f8065e1f92,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Verdant Kraken,rare,375,e5629855-1027-5539-850e-da516a708457,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Vigorbloom Annex,common,194,6836017d-d7c6-5fa0-8346-f633b759843d,0.05454545454545454,"foil, nonfoil",0.05454545454545512
+FRA,Reality Fracture,play,Vigorbloom Charm,uncommon,160,8bc386c5-1e01-575d-a6a4-4278ca958f65,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Vigorbloom Vanguard // Seed Suture,uncommon,161,4573b226-18f6-59f2-b503-0ec128223a95,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Vindictive Triumph,rare,162,fe9cea7d-c0bd-5c33-b9aa-c7aed23a01d9,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,Vindictive Triumph,rare,377,2a4302bf-4977-544b-9ce7-67024843815e,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Vinelasher Adept,common,119,222a1ab4-f3f3-50d8-97ef-cd0f16208b96,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Violent Echoes,uncommon,95,06c070d5-40a3-5c80-88b5-82c6deb6986b,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Void Extrapolator // Omit Variables,common,70,3daae19b-e386-51bc-9223-507ec88d5770,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Vraska's Final Mercy,rare,343,5e383900-4505-535d-8e9f-839f2c090e6e,0.0022149122807017542,"foil, nonfoil",0.002214638157892912
+FRA,Reality Fracture,play,Vraska's Final Mercy,rare,71,42ecc09c-b99f-5694-8256-de9815ceb66f,0.015504385964912281,"foil, nonfoil",0.015490953947367547
+FRA,Reality Fracture,play,"Vraska, Soul of Stone",rare,277,e526b1c4-356d-58a0-a1fb-f2c67d7a51d8,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Vraska, Soul of Stone",rare,318,a7702c6d-9337-5669-ad15-9128a3fb3b66,0.0021920185078079814,"foil, nonfoil",0.0018483859890094934
+FRA,Reality Fracture,play,"Vraska, the Cutting Glare",rare,278,c19def4a-49f1-5769-9619-9d214b79107f,0.015344129554655871,"foil, nonfoil",0.012929213056678712
+FRA,Reality Fracture,play,"Vraska, the Cutting Glare",rare,319,02b52022-21cd-5aa8-b097-9dd7eb8f09ea,0.0021920185078079814,"foil, nonfoil",0.0018483859890094934
+FRA,Reality Fracture,play,Warrior's Blades,uncommon,163,3c62de43-747f-5ce3-afb1-951f6d5ed6a3,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Way of the Cryomancer,uncommon,223,0b80be13-bffb-57fb-9589-7c5a2030c894,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Way of the Deathbringer,uncommon,238,72ecd7bf-3e41-5d08-99d6-ed16dbb45a80,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Way of the Healer,uncommon,207,20eaf312-7d0b-5989-9dfd-abbb009bc47a,0.04506844033159822,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,Way of the Mentor,uncommon,208,9ee0b39c-4b4b-59e0-921c-2b28cda64b7b,0.04506844033159823,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,Way of the Mind Sculptor,uncommon,224,61ca4775-71e3-5259-85ba-b360d2fc94e2,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Way of the Necromancer,uncommon,239,2fe699c8-fb88-5bdd-8409-70f26375b322,0.04506844033159822,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,Way of the Paradox,uncommon,267,ab5c4cd6-c005-5124-9279-99095e3435ce,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Way of the Pyromancer,uncommon,254,caa0cfcf-8dc9-54c1-b05d-b75ef44d2c4b,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Way of the Warlord,uncommon,255,54cd7a90-db4e-555c-ba27-d8c971b650a4,0.04506844033159823,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,Way of the Wildspeaker,uncommon,268,c2c71dc7-5006-569c-a629-09dc9ee3f497,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,Whiplash Wordsmith // Vicious Verse,common,164,4589786d-15e6-59f3-91cb-b9d2ccd46d20,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Winter, Team Player",uncommon,256,4dce38e6-744d-5b3e-a686-1da7b74fccaa,0.03943488529014845,"foil, nonfoil",0.033323791751009635
+FRA,Reality Fracture,play,"Winter, Team Player",uncommon,312,49d7c51f-a699-5e00-aef1-e2af92b239df,0.005633555041449778,"foil, nonfoil",0.004772967575189413
+FRA,Reality Fracture,play,"Winter, Tormented Loner",uncommon,240,759dd6f1-a757-51c5-b532-01725c70020b,0.03943488529014845,"foil, nonfoil",0.033323791751009635
+FRA,Reality Fracture,play,"Winter, Tormented Loner",uncommon,307,b175b7c8-f0c9-50d4-b6b0-0d6fbaea4458,0.005633555041449778,"foil, nonfoil",0.004772967575189413
+FRA,Reality Fracture,play,Woodwork Prodigy // Soul Tether,uncommon,165,9db3a617-6ea0-5b55-9c60-881fb91ad1e0,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,Wrath of the Bloodmane,common,96,e49fca77-62f2-5390-91de-fe9864f2523d,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,Wrecking Gecko,common,120,62560fb5-73b0-585b-b22f-3e56049664c5,0.09450794078666577,"foil, nonfoil",0.09074989623879981
+FRA,Reality Fracture,play,"Yargle, Glutton of Urborg",uncommon,241,5d86b605-2538-5154-b1cc-7876b566d595,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Yargle, Goliath of Otaria",uncommon,225,cde3203a-5271-52a9-9e23-20b4268e5428,0.04506844033159822,"foil, nonfoil",0.03806776556776481
+FRA,Reality Fracture,play,"Yoshimaru, Beloved Companion",uncommon,209,7bf29bd8-605d-5350-bba6-de22be2d9087,0.04506844033159822,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,"Yoshimaru, Scrappy Stray",uncommon,269,5c054da1-0b60-59cf-8ebd-6574a05f9cb7,0.04506844033159822,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,Your Fate Ends Here,uncommon,24,d052548a-0158-59f9-a507-0f551270a955,0.04502243982048144,"foil, nonfoil",0.04444873188921317
+FRA,Reality Fracture,play,"Yuriko, Blade of the Mighty",uncommon,210,96d3c763-7698-5026-bcea-5fd21e8f053d,0.04506844033159822,"foil, nonfoil",0.0380677655677647
+FRA,Reality Fracture,play,"Yuriko, Hope from the Shadows",uncommon,226,f160dbaa-2494-55e9-bca1-67112d3afbb1,0.04506844033159822,"foil, nonfoil",0.0380677655677647
