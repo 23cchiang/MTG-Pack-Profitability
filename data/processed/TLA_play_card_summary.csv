@@ -1,0 +1,420 @@
+set_code,set_name,booster_type,card_name,rarity,collector_number,uuid,expected_copies_per_pack,finish_options,probability_at_least_one
+TLA,Avatar: The Last Airbender,play,Aang's Iceberg,rare,336,841779ff-d662-5a0c-98d2-ac5d99de14b0,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Aang's Iceberg,rare,5,fc51af44-f7c4-51d7-b879-67e08624d36b,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Aang's Journey,common,1,df34b2fd-a1fc-54fb-9250-d72d6fd9b915,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Aang, Swift Savior // Aang and La, Ocean's Fury",rare,204,f8caa4f8-01ac-5ab7-af75-1ee021dc0762,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Aang, Swift Savior // Aang and La, Ocean's Fury",rare,298,fc6cf7cc-c356-58a2-80bd-4bc63cbdb61e,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Aang, Swift Savior // Aang and La, Ocean's Fury",rare,347,2bec2bb0-d2c8-5b5a-8bbd-e46024940cc0,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Aang, at the Crossroads // Aang, Destined Savior",rare,203,52b87eee-7ac7-5351-8cb9-b5e11bcc18a7,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Aang, at the Crossroads // Aang, Destined Savior",rare,304,7e87c66e-ac2e-5327-a3cc-0f3dda305bac,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Aang, at the Crossroads // Aang, Destined Savior",rare,346,e057eb51-7281-5448-b565-13885fbe46a2,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Aang, the Last Airbender",uncommon,4,3e47a0bc-6140-59d9-a39c-525371b34ec5,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Abandon Attachments,common,205,7da35d1a-a633-5464-a965-57028f5d331e,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Abandoned Air Temple,rare,263,9192c3aa-563d-5130-8215-ce58dd7a653c,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Accumulate Wisdom,uncommon,44,ebf22e64-6d98-5bc5-9f41-c35f425b1d1e,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Agent of Treachery,mythic,9,d5be2a24-6263-5acb-8ad7-bdb40f8cf553,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Agna Qel'a,rare,264,a67385cd-4ec1-5e43-ab40-0403a6e2fb3b,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Air Nomad Legacy,uncommon,206,958f8607-198f-5938-bc4e-393e75ccb100,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Airbender Ascension,rare,6,07749abf-369c-5b51-9096-8801b9700e7a,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Airbender's Reversal,uncommon,7,abca9402-7efe-5fe2-a433-2644b75157b6,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Airbending Lesson,common,8,f942bbc8-da13-5983-a60e-5c0f98852d73,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Airship Engine Room,common,265,14e52bfb-7726-587f-9b27-6de73d2b92a4,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Allies at Last,uncommon,164,86891360-793b-501f-8a97-ce279639fb6c,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Appa, Loyal Sky Bison",uncommon,9,5a749cbd-6d91-54a2-b079-cbd77a5e76d7,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Appa, Steadfast Guardian",mythic,10,f7cc6cd3-4108-5342-9b42-afca9bb5d6dd,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,"Appa, Steadfast Guardian",mythic,316,db8de6b6-fea5-547c-a0d5-3e0d17f52459,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,"Avatar Aang // Aang, Master of Elements",mythic,207,60e0dcc0-73dc-5dbb-97e8-9d3456f03dd7,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,"Avatar Aang // Aang, Master of Elements",mythic,308,8506075a-e8e7-55f3-8ee8-3d67c7b3d99a,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Avatar Destiny,rare,165,9e32fb7f-47bc-52f7-91f8-0e008abd560a,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Avatar Destiny,rare,333,b696e5c7-95c2-5307-8278-8d65c52213da,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Avatar Enthusiasts,common,11,c1ef4f81-ba5f-5617-be83-9e3d7df55023,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Avatar's Wrath,rare,12,4ef45228-6163-510a-8a8d-ab6a1a203183,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Azula Always Lies,common,84,e0faae2e-d27b-5eea-ba54-fac256468662,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Azula, Cunning Usurper",rare,208,49388d79-ebd5-5fca-9882-d5ac3a7b4149,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Azula, Cunning Usurper",rare,303,6a4bd3b6-aa9e-5779-adaf-21f4d9267b72,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Azula, On the Hunt",uncommon,85,ad9616e2-2a32-537d-ac00-3cd86f92d71b,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Ba Sing Se,rare,266,519b37a4-1705-5a1e-b181-763b36d43c9a,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Badgermole,common,166,0371ee84-a321-5318-8bf8-c380fb8905c3,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Badgermole Cub,mythic,167,7be44e2c-c3e4-546d-af05-1df626a264c7,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,Badgermole Cub,mythic,326,bc6c7611-7719-5739-a2f1-05fa50120935,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Barrels of Blasting Jelly,common,254,72b8a11b-d238-545a-b2f4-4bdc1f994289,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Beastmaster Ascension,mythic,39,d5764b48-49e7-5ab8-a229-488d486557fa,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Beetle-Headed Merchants,common,86,6eff5dbd-d3fb-518e-b5e1-28bbfae0f2fc,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Beifong's Bounty Hunters,rare,209,2945f6f3-5b4f-57e6-8b89-bce5beaf7015,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Bender's Waterskin,common,255,039b9a3c-dec1-53e4-a4e0-5809b3f06298,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Benevolent River Spirit,uncommon,45,e08bed1e-e47e-55f4-b954-05c6373b6d41,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Bitter Work,uncommon,210,b8262d91-32d7-5e78-8192-7fe8882fc806,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Black Sun's Zenith,mythic,22,c969089d-0d12-56fd-8049-0b7cb797e68b,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Blasphemous Act,mythic,26,23b00317-14c6-541b-9852-a396f7ca67ba,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Bloodchief Ascension,mythic,23,b13a01b8-c3d8-578b-8749-44bac9296f84,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Boar-q-pine,common,124,8a91c01c-308d-5e22-85a0-d7ae90096e1e,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Boiling Rock Prison,common,267,206c5d0d-5047-5488-9b84-eee44da97e27,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Boiling Rock Rioter,rare,87,2a5bd62d-e060-53e5-87e0-8ae2a5dec2fd,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Boomerang Basics,uncommon,46,9aba6e59-8d37-50e9-ad5f-357ccef416c2,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Bribery,mythic,10,78458d5b-732e-5d70-83c2-908783a32e60,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Brought Back,mythic,1,0382e2b8-39f5-59c3-85b2-4838fc86fca4,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Bumi Bash,common,125,e3e6f878-a591-5eb1-a813-98be55e7d52f,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Bumi, King of Three Trials",uncommon,169,eda6a8a7-898b-5663-bdcf-2428f7466f28,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Bumi, Unleashed",mythic,211,0d3cf771-cde0-5587-b82e-a5298403920c,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,"Bumi, Unleashed",mythic,348,dafedf01-13f3-5d19-8ee4-2489bda14ec7,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Buzzard-Wasp Colony,uncommon,88,ec7f7de9-6b1d-5c69-b410-bc50a12e1447,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Callous Inspector,common,89,cf4481e4-c5f6-5c45-a12d-7cb4040a579e,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Canyon Crawler,common,90,d50fb8c4-49b0-5510-9601-6e94b07dd665,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Captain Sisay,mythic,47,d48d3f16-898c-54d1-8fd5-ee99efe37ecc,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Cat-Gator,uncommon,91,db15bacb-7609-5f76-8158-d6c2cb54842a,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Cat-Owl,common,212,a35980d3-98ec-571c-80c6-89f9c4c07558,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Cityscape Leveler,mythic,53,677441e7-3807-5719-8caa-81535d9c7a6f,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Clone,mythic,11,3e7dfb73-00de-5bbb-999f-d70969d477ce,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Clone Legion,mythic,12,0004822c-c181-5564-808d-a6cc48359a1a,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Combustion Man,uncommon,127,936f0cb8-edd1-53e4-ba83-c23a09a1f32a,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Combustion Technique,uncommon,128,f3eeea29-c1e3-5885-9b2f-3c7b4ec61f6b,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Combustion Technique,uncommon,301,0a8d3d8c-8a21-5eae-8097-a2c71848b000,0.028148133964784633,"foil, nonfoil",0.027869443455962428
+TLA,Avatar: The Last Airbender,play,Compassionate Healer,common,13,c0d789d2-b596-55de-829d-d00afa617385,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Corrupt Court Official,common,92,50f37e53-37bb-537a-90cc-44d73efd428f,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Crashing Wave,uncommon,300,b6b42750-7725-5dc4-998b-3b930e780c96,0.028148133964784633,"foil, nonfoil",0.027869443455962428
+TLA,Avatar: The Last Airbender,play,Crashing Wave,uncommon,47,2054f0fd-89f2-575d-8ef1-ea4b065ed323,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Crescent Island Temple,uncommon,129,f74b1955-f6de-5ce1-84cc-23267a4b1799,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Cruel Administrator,uncommon,213,49860d80-ba96-535a-9160-88d40a5f115d,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Cruel Tutor,mythic,24,3bd732d9-d749-5355-a22e-cbb9535a8765,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Cunning Maneuver,common,130,b622b374-5fef-59bc-812f-30f04a82e9ff,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Curious Farm Animals,common,14,3360c8c4-3e31-562a-bcdc-0d6b731eaf92,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Cycle of Renewal,common,170,9dd06d5e-823b-50b1-80d1-e2b89b6a6ab6,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Dai Li Agents,uncommon,214,3c8b4e69-ae3a-54f7-9079-6d3f4ad844eb,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Dai Li Agents,uncommon,306,11132b37-81a6-54c9-bb53-a24d37e39353,0.028148133964784633,"foil, nonfoil",0.027869443455962428
+TLA,Avatar: The Last Airbender,play,Dai Li Indoctrination,common,93,4d2cb3b4-1f3b-5476-9bc5-f2a68d85e146,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Dark Depths,mythic,56,e33c2305-07e4-51b9-9861-4ed61fe0255f,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Day of Black Sun,rare,94,616d937a-fa2f-558b-b068-604da8735243,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Deadly Precision,common,95,687207c6-4c20-5529-a5e7-d9c1d8870525,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Deserter's Disciple,common,131,baf813e4-db62-586f-b96c-541bf20c5b5b,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Destined Confrontation,uncommon,15,1b9088d0-d044-5ff9-afae-a9980464a0fa,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Diaochan, Artful Beauty",mythic,27,e9c6b13c-541c-5c87-856a-ea74c5720fbb,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Diligent Zookeeper,rare,171,3b055a7f-7ce3-5abe-8fed-296dbd6a9f95,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Diligent Zookeeper,rare,327,c3725f4e-9b5e-51dc-829c-1b5065c98875,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Dockside Extortionist,mythic,28,bd8893f2-79bb-5ac6-823b-66aa625333bc,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Dragonfly Swarm,uncommon,215,dae9d4e5-633f-5387-b756-9727bd1fbd6b,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Drannith Magistrate,mythic,2,3777002b-fb32-5767-a3c4-be9dcee87d21,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Earth King's Lieutenant,rare,217,91cc1cda-8775-579e-8db0-d17e1639c07f,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Earth Kingdom General,uncommon,173,fb7beaf4-982e-5421-a72a-bf9dcc35c8ac,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Earth Kingdom Jailer,uncommon,16,7fdbd235-b303-520b-9f9c-7ff6f63314a6,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Earth Kingdom Protectors,uncommon,17,2ef4c407-cc9a-5cc5-ad8b-8fa6be326fdf,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Earth Kingdom Soldier,common,216,d8575081-ffc8-505f-89d3-19b84f550460,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Earth Rumble,uncommon,174,71069dc3-1455-5e61-aa84-7fa4f14136c2,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Earth Rumble Wrestlers,common,218,4e6d8aec-a1c7-55b3-867b-c551e7182c5d,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Earth Village Ruffians,common,219,9d9e3854-a087-5e5f-b20c-ae2571338efe,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Earthbender Ascension,rare,175,88ddc1d0-c859-5251-8e8b-7d2caec47c0b,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Earthbender Ascension,rare,307,bf4a41cc-2675-56ec-a120-9f8e7a1f863a,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Earthbending Lesson,common,176,17b6a9d8-de10-5d62-a513-dd6a19b145f4,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Earthen Ally,rare,177,e908a6aa-ba4b-517a-a670-ed595090893b,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Eladamri's Call,mythic,48,3dc734d6-97b6-5060-b4bf-03a00d464875,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Elemental Bond,mythic,40,58d42a70-debd-5c26-a7b1-be2408db8f84,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Elemental Teachings,rare,178,6601a19f-d2b2-5260-9170-f5f6c0d1291c,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Ember Island Production,uncommon,48,4a95c4c4-1017-57fb-907d-d38969186295,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Empty City Ruse,mythic,3,27287504-e945-5b71-a9ea-b2978b27abc6,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Energybending,uncommon,2,81083b11-1090-544b-b55f-e4e6894d704d,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Enter the Avatar State,uncommon,18,2e804d75-000f-5af7-8dda-26325b72b3e9,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Epic Downfall,uncommon,96,013a24c3-f872-5fe8-9b68-acfa271770d1,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Fabled Passage,mythic,57,828d433d-04df-5b50-9bd9-0a88b4b9c276,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Fancy Footwork,uncommon,19,1edb9325-ce24-5b9c-ab9b-6b30015d94f5,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Fatal Fissure,uncommon,97,11488d70-a0b9-565c-a022-c6ae6b3ca827,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Fated Firepower,mythic,132,cd356960-884d-51a6-a15d-3e8276b97ebc,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,Fated Firepower,mythic,297,769e07e8-43d0-5842-8fe8-074ccca0b2f7,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Fated Firepower,mythic,341,e7303e8c-dc23-5f13-b436-42fa7449b300,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Fervor,mythic,29,0063c122-5c02-5ec6-a71f-fad519db76e1,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Fevered Visions,mythic,49,de6e1c05-e2d6-5171-a8f8-c9dff959f1d3,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Fire Lord Azula,rare,220,34019706-f154-5fc8-a836-5d48e55fcf21,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Fire Lord Azula,rare,313,8e464141-247a-5e86-86d9-8cbba026ffa8,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Fire Lord Azula,rare,334,f0eec108-d001-571b-b38e-4f8bbea95d75,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Fire Lord Zuko,rare,221,a68b337f-4645-5c4c-ba76-aecbb8727d37,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Fire Lord Zuko,rare,315,016137ee-2161-5d33-a660-3fc7a7d604de,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Fire Nation Attacks,uncommon,133,ebfce62b-b5ea-52c6-a129-64568390a3f4,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Fire Nation Attacks,uncommon,299,19a3b155-3db6-5c0c-85de-85c086d24878,0.028148133964784633,"foil, nonfoil",0.027869443455962428
+TLA,Avatar: The Last Airbender,play,Fire Nation Cadets,common,134,101dccf8-884a-5e01-aa1f-8eeb94e2243f,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Fire Nation Engineer,uncommon,99,d7e16847-324d-5d8e-b416-661f025f7393,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Fire Nation Palace,rare,268,dc947e4b-b1c4-51a9-b17e-1d1d61b61861,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Fire Nation Raider,common,135,d22a3184-2916-50b1-9636-b55ea18518ef,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Fire Nation Warship,uncommon,256,36f85221-4d19-53fe-8029-669cf45e400f,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Fire Navy Trebuchet,uncommon,100,4cdbf8a4-fdb0-5d85-afa0-776698a7c8e3,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Fire Sages,uncommon,136,4cae08b9-9b83-5685-b06f-39e0638704fc,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Firebender Ascension,rare,137,f5a7b16e-748d-5855-83ce-8149f22d2682,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Firebender Ascension,rare,312,c11051c9-deea-5bf7-bad6-96af925e5a2b,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Firebending Lesson,common,138,768914cc-69e0-5fc2-9b7a-b90dc66bf9dc,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Firebending Student,rare,139,d3a3dd46-2880-55a7-90dc-882f63a6e562,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Firebending Student,rare,342,77c2777a-a185-53df-b1f8-d7dd00525678,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,First-Time Flyer,common,49,815dd3fa-79e0-5583-943a-54eb9f61a713,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Flexible Waterbender,common,50,714ab7fe-f8d1-5b5f-bf89-f5d59d69f9f1,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Flopsie, Bumi's Buddy",uncommon,179,efb3a1a2-b978-5a1c-b677-4cecc28c9c99,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Foggy Bottom Swamp,common,269,a9c6fea6-bc19-555f-b5c8-5d55b460e3b7,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Foggy Swamp Hunters,common,101,f201fe55-d34a-5a59-ab86-5911f5e1ee03,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Foggy Swamp Spirit Keeper,uncommon,222,243d801b-a395-5c97-bc6c-5ad72f252131,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Foggy Swamp Vinebender,common,180,416e72c7-cebd-57f5-9a0e-f8cd5fd2e2e9,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Foggy Swamp Visions,rare,102,a3436776-9b2c-551f-adaf-cdff46e33b01,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Foggy Swamp Visions,rare,339,1b374144-fd88-5ce4-bdd3-8907dae62eee,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Force of Negation,mythic,13,be00934d-5b15-56a1-a800-3606245f9a0a,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Forecasting Fortune Teller,common,51,78ae5dbe-278f-5935-a89f-b524643410fe,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Forest,common,286,ee5b3863-d52e-5264-b067-855d6f84e826,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Forest,common,291,e2b8f3d6-f222-58f7-81a4-36384972f752,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,Forest,common,296,02d89230-1b8e-5a8b-9b42-6d004ff04772,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,Gather the White Lotus,uncommon,20,cfd66e0c-be0d-5886-b328-e604d2e7d251,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Geyser Leaper,common,52,210e1db8-6579-5e48-ae3b-8a145b4956bc,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Giant Koi,common,53,c14cab51-b68e-5431-b18c-5a7de3e59e69,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Glider Kids,common,21,7575f32d-66dc-52dd-b616-a277b3bae4d9,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Glider Staff,uncommon,22,e8764c21-76fc-58d4-b42f-56b290a1393c,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Gran-Gran,uncommon,54,b5bd5f31-4bae-5f67-8c00-175a332eb77c,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Great Divide Guide,rare,181,2d135290-3f8b-51fa-a4c6-c80bdfae3119,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Great Divide Guide,rare,345,fc9bbeab-627a-5dd3-a994-f659ef68cf50,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Guru Pathik,uncommon,223,c08676c8-4ec5-5d45-8244-03b410a1df6b,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Hakoda, Selfless Commander",rare,23,3cae0412-e269-56b9-a6b9-4cd513e98961,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Hama, the Bloodbender",uncommon,224,c3f668ff-0000-504d-a4d4-c5bbad47c3f4,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Haru, Hidden Talent",uncommon,182,b9b63c30-7858-5947-aa97-d6d2fdfb1311,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Heartbeat of Spring,mythic,42,ca677316-29b8-56a4-acf7-de6fac532d04,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Heartless Act,uncommon,103,d7500517-0cd1-59b4-8b01-885e5dd5cac0,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Hei Bai, Spirit of Balance",uncommon,225,1ce48d2e-4e92-5523-9801-2d9c1e8da706,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Hermitic Herbalist,uncommon,226,1cad62bc-07b5-56bf-b90f-88ed16eb5b99,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Heroic Intervention,mythic,43,a5971e3c-bcce-5b8b-acf9-8fbf980dd185,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Hog-Monkey,common,104,6e180c3d-6f1a-5b51-8116-2d6f4376cffd,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Honest Work,uncommon,55,f56fb5db-eec9-5f34-aa0a-6da805ba4603,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,How to Start a Riot,common,140,e19b2be2-a632-5e2e-8387-39a845ff6e71,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Humble Defector,mythic,30,6bac8a3e-a55c-587d-b9b0-973101ad4286,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Iguana Parrot,common,56,d5d9fa0e-4dc7-5a6a-a54c-c8c5fa55a575,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Imprisoned in the Moon,mythic,14,bb81eca1-966c-5f1e-a75a-072b139b1e48,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Insurrection,mythic,31,ce398bf6-cecb-5e5f-b3c6-8cbf61488d93,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Intruder Alarm,mythic,15,e58c9bfd-3d83-5505-84b8-d9d17d9b58f4,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Invasion Reinforcements,uncommon,24,1222672d-e5f8-5ca5-9a42-787103132456,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Invasion Submersible,uncommon,57,404e3e1b-bbf2-5108-b297-153e032a54f5,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Invasion Tactics,uncommon,183,6c182de5-1b61-50ba-af65-5076681b0ade,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Iroh's Demonstration,uncommon,141,558cc7e3-2a09-55a8-ab06-e6dd38daa5e8,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Iroh, Grand Lotus",rare,227,904c2071-f446-5c7a-a55d-4d8f2b3d0147,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Iroh, Grand Lotus",rare,349,b3dcc13c-1d3c-54d9-9a85-0e9ca6c13a5c,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Iroh, Tea Master",rare,228,36f79026-030f-5af4-94b1-0a7ed1935c09,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Island,common,283,d22a7c25-580d-55d5-97fe-23a6dd5d884a,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Island,common,288,926ac7e1-76f9-5c2f-af5b-51be142f8e8a,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,Island,common,293,a204db24-9ca4-5a74-9f93-33db710a31a7,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,It'll Quench Ya!,common,58,ce957309-289c-5687-a7ae-67d4bca8aa8e,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Jasmine Dragon Tea Shop,rare,270,a68da1ab-8d83-51d8-bec9-dfb95931cde8,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Jeong Jeong's Deserters,common,25,b29fbeb2-15d2-5def-b45a-53437a7c03bc,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Jeong Jeong, the Deserter",uncommon,142,e554b84d-aec4-56ae-b49d-9c50fd6f15b7,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Jet's Brainwashing,uncommon,143,e59c45a8-fa5e-5296-95f3-01ccd781b447,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Jet, Freedom Fighter",uncommon,229,3e7df4d4-b9dc-5c15-9544-410a72ea0b40,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Join the Dance,mythic,50,e5ab7074-e53d-5558-91fb-e6cd0048b0f1,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,"Joo Dee, One of Many",uncommon,105,d2413c0f-ce93-563e-9177-b6100c17dea1,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"June, Bounty Hunter",uncommon,106,4b2ae968-5328-55a4-b81f-f866a94cc211,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Katara, Bending Prodigy",uncommon,59,191b6587-cbc0-5b59-89f0-af0c20f916b6,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Katara, Water Tribe's Hope",rare,231,01c56a0c-d2ed-5af5-be47-29c2f84ede91,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Katara, Water Tribe's Hope",rare,351,9d8f1668-b1e3-59e4-93b7-ce1bf06689a1,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Katara, the Fearless",rare,230,98c89126-c2f2-559e-8f8b-05e97ecff132,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Katara, the Fearless",rare,305,bafc0d1d-4130-5c2d-b10b-29b64cb6daf9,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Katara, the Fearless",rare,350,fe690fda-f907-534a-a428-259cb819e57b,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Knowledge Seeker,uncommon,60,620d6555-26a3-58b1-b604-436dd14a3fe3,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Koh, the Face Stealer",mythic,107,d35856cb-fffc-5fb0-92b3-cd686a4ed307,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,"Koh, the Face Stealer",mythic,322,e29de138-49c8-5252-94e5-dafbfd9df527,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,"Koma, Cosmos Serpent",mythic,51,0ecc51ca-d2f0-5495-9969-fe69c6ea86fd,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Kyoshi Battle Fan,common,257,0b544a38-63f3-51a6-8858-0d62a1374ec3,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Kyoshi Island Plaza,uncommon,184,dc1d4b98-6fd2-5d96-8de8-99de4bea28e1,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Kyoshi Village,common,271,c5784844-c878-5850-8ac3-85b3e6fd370c,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Kyoshi Warriors,common,26,dbdf6674-824b-5c7f-9a02-31c5456c79bd,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Leaves from the Vine,uncommon,185,dbada988-511d-5312-9b2e-efe39b60e0f4,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Lightning Bolt,mythic,32,40c28aec-7f39-5694-a5c3-f5ce1361cf74,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Lightning Strike,common,146,19f845cd-da78-5f5a-a215-41bad95de1d2,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Lita, Mechanical Engineer",mythic,4,61cdd7f0-ed44-59c5-929e-25b40a77c13c,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,"Lo and Li, Twin Tutors",uncommon,108,8e672ed5-2f72-540e-9b89-1480c8619b3c,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Long Feng, Grand Secretariat",uncommon,233,cacdcd97-301d-54af-9a98-f1cff23467ba,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Lost Days,common,62,5bd8e6ab-ff6d-5545-9de6-cf1454f0cc78,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Mai, Jaded Edge",uncommon,147,eb2471a2-4571-57fc-a072-f3805eb311e6,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Mai, Scornful Striker",rare,109,0f15e5c1-0525-5039-9ee1-079f79918f38,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Master Pakku,uncommon,63,75285c54-d3ca-576d-b246-27b65b2d4723,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Master Piandao,uncommon,28,887e2031-7cc8-5c94-86ee-c67bb29fb82b,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Meditation Pools,common,272,c932777f-f928-55ed-8e2f-0765daf7c5c4,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Merchant of Many Hats,common,110,8b8210e3-c635-5042-aa80-e3041dce59ce,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Messenger Hawk,common,234,f7e688a5-0912-59e1-96a3-7d05d4f9051e,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Meteor Sword,uncommon,258,757b3ecb-715d-5d1d-8ce1-2026f3d91012,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Meteorite,mythic,54,41d0809f-39d0-5a42-9fda-326d1001654a,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Mirrorwing Dragon,mythic,33,2a577803-eb75-539f-afb0-62368ab23ac8,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Misty Palms Oasis,common,273,1b12893a-9d23-556a-9fc7-5a323751494b,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,"Momo, Friendly Flier",rare,29,a2ce9a0e-aabb-59f5-b024-43cfbfa6572c,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Momo, Friendly Flier",rare,317,6089e9f3-f12a-52f7-9732-8c7038fcdc36,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Momo, Playful Pet",uncommon,30,c0797dec-11b9-51c1-82e1-e76e95e2b216,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Mongoose Lizard,common,148,0c7333dd-289f-5132-a0e6-440defc2eb6d,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Mountain,common,285,289de300-57a3-5d75-b8b4-bf7bf71e1dba,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Mountain,common,290,3dd27fbe-3dac-5720-8a98-1ec78613f5f9,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,Mountain,common,295,84407adb-031f-587c-9849-d6518fbb7d39,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,Mystic Remora,mythic,16,65fc3cf8-35d2-5e8f-a334-66443a69ecaf,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,North Pole Gates,common,274,e7e4e9a2-11fa-54c9-ab82-1277df61402b,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,North Pole Patrol,uncommon,65,aa454f52-a6c4-55b7-8a3e-623b6c17293a,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Northern Air Temple,uncommon,111,2f9c975c-d4b6-5b3b-a551-026efb82f6a0,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Noxious Gearhulk,mythic,25,7f9f2bea-7d55-5375-8fd5-aac54658b1a7,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Obsessive Pursuit,rare,112,8a4d0ce5-4ce0-5d1a-aefa-8dff0c65f3b6,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Obsessive Pursuit,rare,340,214a1038-ebe3-50e6-9632-02a827dcf917,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Octopus Form,common,66,fddcdfe5-2013-59d6-a4c4-8e2ac1daf86b,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Omashu City,common,275,dfba6258-2a02-5b1c-bebe-38ee5772b500,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Origin of Metalbending,common,187,7c0c6c83-973b-5085-8c35-29e73257996f,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Ostrich-Horse,common,188,911b1250-6802-5513-a6d5-83433e47ddc6,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Otter-Penguin,common,67,b4375b91-4eed-54c5-8a5f-e3a86b88f42e,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Ozai's Cruelty,uncommon,113,c4b101d4-d5c9-513d-8ea2-65058ee52170,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Ozai, the Phoenix King",mythic,235,fb1ab33e-860d-55a5-8b12-bba48d47bbbc,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,"Ozai, the Phoenix King",mythic,311,53f78467-68dc-5a28-a5cf-5047e8abe2e1,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,"Ozai, the Phoenix King",mythic,335,919c5c5e-8a6f-5466-bc1a-478e1d44c9b3,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Path to Redemption,common,31,b69e7a9b-c3cd-5a75-81a6-25d0f913d8c2,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Phoenix Fleet Airship,mythic,114,b0e2397f-cfff-53bd-96c2-589310b8dd42,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,Phoenix Fleet Airship,mythic,323,79bd2168-0bd3-5c61-b03d-289d3f690581,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Pillar Launch,common,189,a5dd8ed8-7cd3-526b-879d-4b434a1af81c,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Pirate Peddlers,common,115,3605fea0-57a4-51e2-b5db-00c0cd59d2f6,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Plains,common,282,f046cead-5455-59be-ba7a-84771579fd1a,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Plains,common,287,94259875-8097-58d3-9543-bf6468d5d5b0,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,Plains,common,292,b2d82ec0-bda2-5a2c-919f-b9e3f5881915,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,Planetarium of Wan Shi Tong,mythic,259,51654f1b-1859-5e27-93d0-f18b7bae3109,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,Platypus-Bear,common,236,76d70ede-6a05-580a-9f12-5aec082b5fab,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Pretending Poxbearers,common,237,37f35666-52fe-5099-819e-64bc6553b36e,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Price of Freedom,uncommon,149,086f3893-c1d1-5bfa-97ca-31a9926cf112,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Professor Zei, Anthropologist",uncommon,238,0d694d88-d0f9-5ddd-aa7f-1d4e1f585ae5,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Prosperity,mythic,17,9d894d77-cf07-537b-bd50-e290f1118ba8,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Rabaroo Troop,common,32,78e56493-209f-5836-943c-505b10ca3835,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Ran and Shaw,rare,150,56c5c8e4-bfd4-5cf6-b3ca-f32109558628,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Ran and Shaw,rare,325,65c19faa-c83f-5e1d-b505-bada06750c74,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Raucous Audience,common,190,9936adbf-a9b0-5eb1-b369-f4c1ff315653,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Raven Eagle,rare,116,95043de2-888d-504c-98ca-9136649bb3f1,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Raven Eagle,rare,324,4eb4d93b-0650-57a5-b981-5401a28c4ca4,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Razor Rings,common,33,b81b7b7a-ab94-5fc4-98c4-fc914a70dec2,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Realm of Koh,rare,276,70c25307-ecf0-5870-94a6-a01621aa3a0e,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Rebellious Captives,common,191,f7cea9c2-da9c-56cc-8ef8-94ac9211526b,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Redirect Lightning,rare,151,8543299b-82f7-53c7-b2e7-9a4403476d68,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Redirect Lightning,rare,343,db7629a7-1963-500b-8b56-0cc209ae13b8,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Release to Memory,mythic,5,ab5b2167-ef86-5c08-82c3-ae68cc1f4bd7,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Rending Volley,mythic,34,008df4ab-ad4d-561c-ad2e-67c0da40fd98,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Return of the Wildspeaker,mythic,44,22f4f507-5f03-5145-b52a-d3fff5b20a52,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Rhys the Redeemed,mythic,52,89e6de7e-e47f-5273-81ed-87f145b83005,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Rites of Flourishing,mythic,45,cea77dae-e216-5f2d-8941-6bf41fb7f0d5,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Rockalanche,uncommon,192,4a7964de-2966-5bea-a260-999bbebb90e8,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Rocky Rebuke,common,193,8583c986-d0cb-5a4c-8ba1-ccb203743e83,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Rough Rhino Cavalry,common,152,080c2416-ae8d-528f-8dac-94a2fdadd149,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Rowdy Snowballers,common,68,9a2af7e0-8912-50f2-a4f2-e74bb332f0cf,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Ruinous Waterbending,uncommon,118,b22a2bb7-c409-5e6f-aaf3-3ca137d34e69,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Rumble Arena,common,277,faea691e-3ed1-5246-a360-c54ea98e641f,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Saber-Tooth Moose-Lion,common,194,8c9b85a0-6eb2-5ecb-9acc-c7d6aa0b4a2a,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Sakashima of a Thousand Faces,mythic,18,924eb4f8-4b02-5ade-bafa-853cb5af0dde,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Sandbender Scavengers,rare,239,c2ea4b39-5753-5c22-9b09-64970e305a42,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Sandbenders' Storm,common,34,2e3dad63-5928-5a64-b26f-1bae28c22cf3,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Scout's Warning,mythic,6,bba52d35-d391-572b-ac03-4c44c411cb30,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Searing Blood,mythic,35,3abf5e92-ffd5-5992-aaf3-ae041e0f1482,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Secret Tunnel,rare,278,075af7e1-cf8a-5da5-9c69-a1c984b23edd,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Secret of Bloodbending,mythic,337,40ffabac-9ae7-5200-99c8-51af4057d685,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Secret of Bloodbending,mythic,69,1fdf2ebb-c62f-5299-b07c-8a20a7728b35,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,Seismic Sense,uncommon,195,4055d3be-a450-50db-bf8d-474ecad37d7d,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Serpent of the Pass,uncommon,70,651fcc1f-b127-57e4-a2c2-76ef2af32c3e,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Serpent's Pass,common,279,56ef997d-9e8b-5448-9791-487a1f541e2b,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Shared Roots,uncommon,196,98a0ed59-595a-5811-94a8-af091125cd24,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Shattering Spree,mythic,36,02119a0a-da59-51ee-a4d8-7ed44f6d8feb,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Sokka's Haiku,uncommon,71,4063d9e7-72d2-5750-aeab-b75b3743cd39,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Sokka, Bold Boomeranger",rare,240,73310509-b53c-5478-9ddf-9638154f1102,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Sokka, Lateral Strategist",uncommon,241,8ad4de0e-e377-58a5-9951-04dc8c1720b8,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Sokka, Tenacious Tactician",rare,242,d207d552-0efe-5371-b830-8ac61831d2ef,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Sokka, Tenacious Tactician",rare,352,5af02e53-ff82-5c41-b797-1cba2734e417,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Sold Out,common,119,beece50e-75b8-5c60-acdb-ad76db66d921,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Solstice Revelations,uncommon,153,9f1f24f8-aa46-556d-9190-b1d33452c897,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,South Pole Voyager,rare,35,3db733ea-9d27-505a-8a92-fdc95e35e4f2,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Southern Air Temple,uncommon,36,890ad090-cccc-5c74-ab2e-331b64d0ab5e,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Sozin's Comet,mythic,154,84f91893-52ed-584b-b877-4eca43d56389,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,Sozin's Comet,mythic,309,92f23baa-e669-5e30-84fd-56b6d2a8dc04,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Sozin's Comet,mythic,332,370889e5-8040-5fb7-aec2-5ee8f1ee451b,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Sparring Dummy,uncommon,197,a717c587-656f-5fc9-a1b8-3640c0a6493a,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Spirit Water Revival,rare,73,91dd2819-2556-5f44-8c7f-b844566670aa,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Standstill,mythic,19,03eee5e5-8887-5fee-94bf-97a7fc232c6e,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,"Suki, Courageous Rescuer",rare,37,a532fcc0-c7b6-54d1-82ae-b7efc4cceb69,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Suki, Kyoshi Warrior",uncommon,243,418e70d5-32d4-5ce9-8dda-b12783003292,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Sun Warriors,uncommon,244,b3e6727d-5ba1-5327-a42f-f1fd3e0dc2d0,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Sun-Blessed Peak,common,280,0fad31dd-db7a-5252-a475-c8a80d10f560,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Sunbaked Canyon,mythic,58,d58dc3f9-982c-59b2-a2cf-a49b9bbcd3f7,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Sundial of the Infinite,mythic,55,73b7aa1e-3c7a-5726-974b-e275fb249635,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Swamp,common,284,0b804258-3cd7-5548-acc5-b077a5b7fd32,0.05,"foil, nonfoil",0.04999999999999993
+TLA,Avatar: The Last Airbender,play,Swamp,common,289,dbfb3e94-9a17-5451-a464-b87848c2527e,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,Swamp,common,294,cdd6a0bf-891a-5ebe-834e-0bfb31096431,0.025,"foil, nonfoil",0.025000000000000022
+TLA,Avatar: The Last Airbender,play,Swampsnare Trap,common,120,8ffcc49b-a543-5bfa-8c17-e5db4f4913f1,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Tarnished Citadel,mythic,59,8ad0f1c8-2e98-5ab6-8e93-efc04ade0b05,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Taunting Challenge,mythic,46,4b8e277e-5a7a-5c9a-8e6a-b2c399f68d31,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Team Avatar,uncommon,38,1425e196-7850-557d-9ca8-02faef851926,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Teferi's Protection,mythic,7,19c65235-7dbf-571e-8b7c-c4c9c80013da,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,"Teo, Spirited Glider",uncommon,74,db0eae1d-de1a-5f5b-879e-2e97f91ef017,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"The Boulder, Ready to Rumble",uncommon,168,7ef33efa-b120-5a46-8007-8a213bba9b26,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,The Cave of Two Lovers,uncommon,126,b32b3f23-76c9-565e-8520-a8335dfb5fd3,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,The Earth King,rare,172,e1a99ed3-5d6f-55ca-8501-06c0c21690f9,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,The Earth King,rare,344,3defb38b-8a7e-5021-9a6f-f98d5454cdf8,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,The Fire Nation Drill,rare,321,b62a04cc-acf1-534c-aeb3-fac8fab62ea3,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,The Fire Nation Drill,rare,98,10275615-0113-5dad-a043-4c44d44c97b8,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,The Great Henge,mythic,41,47da7a05-ca72-59bf-b1b1-ac0bf42076c2,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,The Last Agni Kai,rare,144,ae525935-7e40-599e-883a-b74dc6f3d3c4,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,The Last Agni Kai,rare,314,9b90b797-4962-5bef-8f69-670dbcabe9d8,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,The Legend of Kuruk // Avatar Kuruk,mythic,355,5e2425ac-2780-5f44-9c56-8c3ca6ecb851,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,The Legend of Kuruk // Avatar Kuruk,mythic,61,a02fd27e-e8f1-573a-a082-439a5597024f,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,The Legend of Kyoshi // Avatar Kyoshi,mythic,186,4f107cf0-11c9-576c-9c2e-0dddfd4c51d9,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,The Legend of Kyoshi // Avatar Kyoshi,mythic,358,c743ef29-dd16-52c4-b4ef-70d96d7765aa,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,The Legend of Roku // Avatar Roku,mythic,145,57327dc4-f787-5599-bf8b-1b699465cf83,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,The Legend of Roku // Avatar Roku,mythic,357,c9881c0e-523b-52a3-ad9f-4a0afe80f842,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,The Legend of Yangchen // Avatar Yangchen,mythic,27,196d3d60-e284-5d4d-b45b-e50892ff1feb,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,The Legend of Yangchen // Avatar Yangchen,mythic,354,4cf797e8-9629-50af-ad15-9da306a29ffc,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,The Lion-Turtle,rare,232,02fe4019-ae2e-53fc-b011-46dec318bde8,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,The Lion-Turtle,rare,328,b8589f92-4019-5687-8b9d-63c990994ecd,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"The Mechanist, Aerial Artisan",rare,64,2b685910-02ad-563a-b1fb-51df684aae26,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,The Rise of Sozin // Fire Lord Sozin,mythic,117,c093d624-930a-5af5-b86d-d90a61c66b38,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,The Rise of Sozin // Fire Lord Sozin,mythic,356,f7cbb329-211e-5738-b0c7-c1520c561cd3,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,The Spirit Oasis,uncommon,72,f19d41e2-1459-5638-9fcc-95bde9dae7e0,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,The Unagi of Kyoshi Island,rare,319,aa1d0202-da2a-53b3-8f81-96bba9a5730d,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,The Unagi of Kyoshi Island,rare,77,6ad9d472-21ea-50c5-9713-f616c33379ef,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,The Walls of Ba Sing Se,mythic,261,41294dd8-6c0d-5657-9ecb-c7e94e0bc479,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,The Walls of Ba Sing Se,mythic,329,73d9d232-d325-5dac-99e2-704c30baf3c9,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Three Dreams,mythic,8,1d074ec8-2c8c-545f-aa89-e1048798dd5b,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Tiger-Dillo,uncommon,155,a9260bf1-f251-59f3-9330-0344d69d840a,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Tiger-Seal,rare,318,bf509c48-3c65-57a0-aa28-698af539ae7f,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Tiger-Seal,rare,75,cd02671d-9ddf-5f71-9f9c-5395cc20a559,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Tolls of War,uncommon,245,f46829e9-1083-5b42-b787-c9043de6a09b,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Toph, Hardheaded Teacher",rare,246,1e7f20cb-d4f0-54d0-a9f2-fe6263014b2d,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Toph, the Blind Bandit",uncommon,198,58ec2e64-efea-5941-86c7-8f73468bf0b2,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Toph, the First Metalbender",rare,247,19c1139e-9cef-5418-8f7d-22c46e899b43,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Toph, the First Metalbender",rare,353,c7d1282a-43e8-597d-ac65-4412d6a3c645,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Training Grounds,mythic,20,c6ea5364-0671-5b35-825a-b7817fc2637b,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Treetop Freedom Fighters,common,156,e6c60ad7-59c3-5050-a7e8-85269abb6010,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Treetop Village,mythic,60,db5a1280-d6ed-51ab-aaa6-d16331820ad4,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,True Ancestry,uncommon,199,7b10601a-d9f1-5788-a8ca-e6d309ad6912,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Trusty Boomerang,uncommon,260,df5b225f-18bc-57e1-a8c2-27b7279ced35,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Tundra Tank,uncommon,121,7be12d1b-b2de-5164-bb45-97e2bb51829e,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Turtle-Duck,common,200,58e63f24-2aa7-5f75-9555-8249ebe26886,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Twin Blades,uncommon,157,82dfb7ba-3aba-543a-827e-c5bf09a5ab92,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Ty Lee, Artful Acrobat",uncommon,158,f7da64c7-6434-5c9b-9854-e0a0fe1dda22,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Ty Lee, Chi Blocker",rare,76,92b53cb1-4f19-52ce-ac34-6191d3108b05,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Uncle Iroh,uncommon,248,aed55f90-39b9-53dd-ab03-5005fb8bba1a,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,United Front,mythic,331,352300e5-fd58-5178-bd2d-cdac54fd51c0,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,United Front,mythic,39,05a3588f-8eea-55dd-82be-b951e46a0442,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,Unlucky Cabbage Merchant,uncommon,201,29f100d0-621a-5804-93a2-e799bf603167,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Valakut, the Molten Pinnacle",mythic,61,adb57c25-6d92-552f-a2dc-5a5646b83b83,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Vengeful Villagers,uncommon,40,f247a69a-c5f4-512e-84bc-e1e2cf364c39,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Vindictive Warden,common,249,a9dc0b5d-7a78-564a-84f6-32f011096d57,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Visions of Beyond,mythic,21,07416f84-ff29-5765-a31e-bceee327ac27,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Volcanic Torrent,mythic,37,793aa4c6-9685-5b7b-8290-a57acb133624,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Walltop Sentries,common,202,0176c95a-ed88-5b6c-96ee-b8172d6c70aa,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Wan Shi Tong, Librarian",mythic,320,86e2944d-0bfb-530f-93c4-bf2ab93cbb57,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,"Wan Shi Tong, Librarian",mythic,78,4b71e29f-628f-5539-8171-f314d2c34154,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,Wandering Musicians,common,250,51cc9284-f318-5412-9d74-8e8012e44ff9,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,War Balloon,uncommon,159,7d28bc7b-078b-5be9-bac2-f71b8ffc0d82,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Warstorm Surge,mythic,38,01911b75-f914-5c73-9c44-50dacaeaaf97,0.000630517023959647,"foil, nonfoil",0.0006305170239596647
+TLA,Avatar: The Last Airbender,play,Wartime Protestors,rare,160,b04430ec-efcf-5717-8598-051d8af6d1d6,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Water Tribe Captain,common,41,400341f8-cbf5-558a-84ba-a2aead8d0fcf,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Water Tribe Rallier,uncommon,42,3d0bcd9b-3ccf-5c93-a90f-ddf556fc581a,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Waterbender Ascension,rare,310,a9177899-ac28-527a-a961-213869ecf6bf,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,Waterbender Ascension,rare,79,e8510d92-c3e5-5cb7-a0b9-4aadfcdcd93e,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Waterbending Lesson,common,80,0bd4fb84-2fa3-52fc-9db2-c539c21d1d10,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,Waterbending Scroll,uncommon,81,ab57df7b-4771-55fa-b6aa-771e4e2744d9,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Watery Grasp,common,82,779918b4-dc87-597d-98c7-ec7d9c54fabe,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,White Lotus Hideout,uncommon,281,1afc0384-c472-58ce-84c7-7ae8fbb2c9ba,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,White Lotus Reinforcements,uncommon,251,b1d0c005-3d34-5294-b7aa-95647fcc182f,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,White Lotus Tile,mythic,262,65e42380-9e52-590f-8b41-b84dd656df5f,0.008558840808138703,"foil, nonfoil",0.008545203877039942
+TLA,Avatar: The Last Airbender,play,White Lotus Tile,mythic,330,51a219f0-fd2d-5ab0-8810-d58e8e5602d8,0.001092624791069928,"foil, nonfoil",0.001092363647458905
+TLA,Avatar: The Last Airbender,play,Wolfbat,uncommon,122,a8ff7c78-aec3-5f66-b787-cafee81cfe5c,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Yip Yip!,common,43,f99cc254-6135-562a-89ba-ee7d6aa334f0,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Yue, the Moon Spirit",rare,338,42db94a1-d189-5303-b19b-5ea79fb4b7d0,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Yue, the Moon Spirit",rare,83,3ffc422e-e1a7-5ccf-bcb6-39ca1e7c1ee2,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Yuyan Archers,common,161,ff12eb1c-6e28-5448-aeae-1b015b34714e,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Zhao, Ruthless Admiral",uncommon,252,43e1dc7b-5d28-5604-9998-1959b09c48f1,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,"Zhao, the Moon Slayer",rare,162,3660c2d0-ce55-5fa5-bb6a-456f7fc3cb48,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,Zuko's Conviction,uncommon,123,42175074-111f-5af2-9bc0-65d8949dec25,0.036398555954946184,"foil, nonfoil",0.03588342086173024
+TLA,Avatar: The Last Airbender,play,Zuko's Exile,common,3,e07eea37-a298-5905-826f-8b8ae8d23663,0.0931377818164846,"foil, nonfoil",0.0894371519638345
+TLA,Avatar: The Last Airbender,play,"Zuko, Conflicted",rare,253,82f55a34-b7da-5b4c-96f4-550b0ab56660,0.017117681616277407,"foil, nonfoil",0.017063154535039482
+TLA,Avatar: The Last Airbender,play,"Zuko, Conflicted",rare,302,da331b08-9e72-51af-b844-3c259d05cb84,0.002185249582139856,"foil, nonfoil",0.0021842050730234153
+TLA,Avatar: The Last Airbender,play,"Zuko, Exiled Prince",uncommon,163,31ab91f3-c2cd-576a-81fe-e2a89c6a8cba,0.036398555954946184,"foil, nonfoil",0.03588342086173024

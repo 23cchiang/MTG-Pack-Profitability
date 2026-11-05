@@ -1,0 +1,33 @@
+TLA PLAY BOOSTER — EXPECTED VALUE REPORT
+=======================================================
+Pack price: $4.87
+Calculation status: COMPLETE
+
+Expected value (Special Guest nonfoil assumption): $6.1028
+Expected profit/loss: $1.2328
+Expected ROI: 25.31%
+Expected value if Special Guest were all foil: $6.1028
+
+Special Guest expected frequency: 0.000000 per pack
+Special Guest nonfoil EV contribution: $0.0000
+Special Guest foil EV contribution: $0.0000
+Special Guest cards matched: 0
+
+Probability rows: 4,218
+Priced probability rows: 4,218
+Missing-price rows: 0
+Expected copies in missing-price rows per pack: 0.000000
+
+ASSUMPTIONS
+- Expected copies per pack already includes variant probability.
+- Foil and foilLand slots use foil prices.
+- All other slots use nonfoil prices for the base estimate.
+- Special Guest finish probability is not supplied.
+- All-foil Special Guest is a sensitivity scenario.
+- Missing prices are not treated as zero.
+
+OUTPUT FILES
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/TLA_expected_value_by_card.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/data/processed/TLA_expected_value_by_slot.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/TLA/tables/TLA_top_value_cards.csv
+- /Users/chloechiang/Documents/MTG-Pack-Profitability/results/individual_sets/TLA/tables/TLA_special_guest_price_audit.csv
