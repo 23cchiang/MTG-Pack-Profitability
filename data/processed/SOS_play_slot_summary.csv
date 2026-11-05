@@ -1,0 +1,10 @@
+slot_name,expected_cards_per_pack
+common,5.9818181818181815
+foil,1.0
+foilLand,0.19999999999999998
+mysticalArchive,1.0
+nonFoilLand,0.7999999999999999
+rareMythic,0.9999999999999999
+specialGuest,0.018181818181818184
+uncommon,3.0000000000000004
+wildcard,1.0

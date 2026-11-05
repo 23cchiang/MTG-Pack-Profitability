@@ -1,0 +1,43 @@
+metric,value,scenario
+packs_simulated,200000.0,Baseline
+mean_pack_value_usd,5.2256266,Baseline
+median_pack_value_usd,3.71,Baseline
+standard_deviation_usd,5.475877664041938,Baseline
+mean_profit_loss_usd,0.35562659999999996,Baseline
+mean_roi_percent,7.302394250513346,Baseline
+probability_value_at_least_pack_price_percent,32.9245,Baseline
+probability_profit_positive_percent,32.844,Baseline
+probability_value_at_least_4.99_usd_percent,31.295,Baseline
+probability_value_at_least_10.00_usd_percent,8.509500000000001,Baseline
+probability_value_at_least_20.00_usd_percent,1.359,Baseline
+probability_value_at_least_50.00_usd_percent,0.4285,Baseline
+probability_value_at_least_100.00_usd_percent,0.0005,Baseline
+value_percentile_5_usd,2.48,Baseline
+value_percentile_10_usd,2.6,Baseline
+value_percentile_25_usd,2.9000000000000004,Baseline
+value_percentile_50_usd,3.71,Baseline
+value_percentile_75_usd,5.4799999999999995,Baseline
+value_percentile_90_usd,8.840000000000002,Baseline
+value_percentile_95_usd,12.030000000000001,Baseline
+value_percentile_99_usd,26.550800000000745,Baseline
+packs_simulated,200000.0,Special Guest all-foil sensitivity
+mean_pack_value_usd,5.2848071999999995,Special Guest all-foil sensitivity
+median_pack_value_usd,3.71,Special Guest all-foil sensitivity
+standard_deviation_usd,5.632251319330733,Special Guest all-foil sensitivity
+mean_profit_loss_usd,0.41480719999999993,Special Guest all-foil sensitivity
+mean_roi_percent,8.51760164271047,Special Guest all-foil sensitivity
+probability_value_at_least_pack_price_percent,32.9455,Special Guest all-foil sensitivity
+probability_profit_positive_percent,32.867000000000004,Special Guest all-foil sensitivity
+probability_value_at_least_4.99_usd_percent,31.319000000000003,Special Guest all-foil sensitivity
+probability_value_at_least_10.00_usd_percent,8.711,Special Guest all-foil sensitivity
+probability_value_at_least_20.00_usd_percent,1.4595,Special Guest all-foil sensitivity
+probability_value_at_least_50.00_usd_percent,0.43299999999999994,Special Guest all-foil sensitivity
+probability_value_at_least_100.00_usd_percent,0.0005,Special Guest all-foil sensitivity
+value_percentile_5_usd,2.48,Special Guest all-foil sensitivity
+value_percentile_10_usd,2.6,Special Guest all-foil sensitivity
+value_percentile_25_usd,2.9000000000000004,Special Guest all-foil sensitivity
+value_percentile_50_usd,3.71,Special Guest all-foil sensitivity
+value_percentile_75_usd,5.489999999999999,Special Guest all-foil sensitivity
+value_percentile_90_usd,9.0,Special Guest all-foil sensitivity
+value_percentile_95_usd,12.3,Special Guest all-foil sensitivity
+value_percentile_99_usd,28.21020000000019,Special Guest all-foil sensitivity
